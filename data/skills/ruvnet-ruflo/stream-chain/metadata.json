@@ -1,0 +1,17 @@
+{
+  "skillId": "stream-chain",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "stream-chain",
+    "name": "stream-chain",
+    "installs": 1000,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Stream Chain"
+  }
+}

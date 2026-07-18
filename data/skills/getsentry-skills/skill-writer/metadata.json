@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-writer",
+  "source": "getsentry/skills",
+  "owner": "getsentry",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/skills",
+    "skillId": "skill-writer",
+    "name": "skill-writer",
+    "installs": 1413,
+    "owner": "getsentry",
+    "repo": "skills",
+    "githubUrl": "https://github.com/getsentry/skills",
+    "displayName": "Skill Writer"
+  }
+}

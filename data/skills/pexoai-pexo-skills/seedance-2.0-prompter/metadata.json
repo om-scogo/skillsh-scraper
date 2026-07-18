@@ -1,0 +1,17 @@
+{
+  "skillId": "seedance-2.0-prompter",
+  "source": "pexoai/pexo-skills",
+  "owner": "pexoai",
+  "repo": "pexo-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pexoai/pexo-skills",
+    "skillId": "seedance-2.0-prompter",
+    "name": "seedance-2.0-prompter",
+    "installs": 1145,
+    "owner": "pexoai",
+    "repo": "pexo-skills",
+    "githubUrl": "https://github.com/pexoai/pexo-skills",
+    "displayName": "Seedance 2.0 Prompter"
+  }
+}

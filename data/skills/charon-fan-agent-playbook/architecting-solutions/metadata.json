@@ -1,0 +1,17 @@
+{
+  "skillId": "architecting-solutions",
+  "source": "charon-fan/agent-playbook",
+  "owner": "charon-fan",
+  "repo": "agent-playbook",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "charon-fan/agent-playbook",
+    "skillId": "architecting-solutions",
+    "name": "architecting-solutions",
+    "installs": 790,
+    "owner": "charon-fan",
+    "repo": "agent-playbook",
+    "githubUrl": "https://github.com/charon-fan/agent-playbook",
+    "displayName": "Architecting Solutions"
+  }
+}

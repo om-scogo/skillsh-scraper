@@ -1,0 +1,17 @@
+{
+  "skillId": "academic-pipeline",
+  "source": "imbad0202/academic-research-skills",
+  "owner": "imbad0202",
+  "repo": "academic-research-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "imbad0202/academic-research-skills",
+    "skillId": "academic-pipeline",
+    "name": "academic-pipeline",
+    "installs": 4317,
+    "owner": "imbad0202",
+    "repo": "academic-research-skills",
+    "githubUrl": "https://github.com/imbad0202/academic-research-skills",
+    "displayName": "Academic Pipeline"
+  }
+}

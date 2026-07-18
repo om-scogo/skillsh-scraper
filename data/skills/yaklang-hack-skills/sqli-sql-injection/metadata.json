@@ -1,0 +1,17 @@
+{
+  "skillId": "sqli-sql-injection",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "sqli-sql-injection",
+    "name": "sqli-sql-injection",
+    "installs": 2116,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Sqli Sql Injection"
+  }
+}

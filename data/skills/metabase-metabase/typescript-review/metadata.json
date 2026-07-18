@@ -1,0 +1,17 @@
+{
+  "skillId": "typescript-review",
+  "source": "metabase/metabase",
+  "owner": "metabase",
+  "repo": "metabase",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "metabase/metabase",
+    "skillId": "typescript-review",
+    "name": "typescript-review",
+    "installs": 1414,
+    "owner": "metabase",
+    "repo": "metabase",
+    "githubUrl": "https://github.com/metabase/metabase",
+    "displayName": "Typescript Review"
+  }
+}

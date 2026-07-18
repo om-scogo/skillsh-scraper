@@ -1,0 +1,17 @@
+{
+  "skillId": "apple-notes",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "apple-notes",
+    "name": "apple-notes",
+    "installs": 3151,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Apple Notes"
+  }
+}

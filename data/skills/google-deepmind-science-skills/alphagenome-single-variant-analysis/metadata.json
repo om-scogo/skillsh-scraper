@@ -1,0 +1,17 @@
+{
+  "skillId": "alphagenome-single-variant-analysis",
+  "source": "google-deepmind/science-skills",
+  "owner": "google-deepmind",
+  "repo": "science-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-deepmind/science-skills",
+    "skillId": "alphagenome-single-variant-analysis",
+    "name": "alphagenome-single-variant-analysis",
+    "installs": 961,
+    "owner": "google-deepmind",
+    "repo": "science-skills",
+    "githubUrl": "https://github.com/google-deepmind/science-skills",
+    "displayName": "Alphagenome Single Variant Analysis"
+  }
+}

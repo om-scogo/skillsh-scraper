@@ -1,0 +1,17 @@
+{
+  "skillId": "ux-copy",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "ux-copy",
+    "name": "ux-copy",
+    "installs": 2804,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Ux Copy"
+  }
+}

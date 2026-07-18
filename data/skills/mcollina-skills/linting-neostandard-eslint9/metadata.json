@@ -1,0 +1,17 @@
+{
+  "skillId": "linting-neostandard-eslint9",
+  "source": "mcollina/skills",
+  "owner": "mcollina",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mcollina/skills",
+    "skillId": "linting-neostandard-eslint9",
+    "name": "linting-neostandard-eslint9",
+    "installs": 821,
+    "owner": "mcollina",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mcollina/skills",
+    "displayName": "Linting Neostandard Eslint9"
+  }
+}

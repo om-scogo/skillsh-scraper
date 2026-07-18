@@ -1,0 +1,17 @@
+{
+  "skillId": "automation-workflows",
+  "source": "jk-0001/skills",
+  "owner": "jk-0001",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jk-0001/skills",
+    "skillId": "automation-workflows",
+    "name": "automation-workflows",
+    "installs": 951,
+    "owner": "jk-0001",
+    "repo": "skills",
+    "githubUrl": "https://github.com/jk-0001/skills",
+    "displayName": "Automation Workflows"
+  }
+}

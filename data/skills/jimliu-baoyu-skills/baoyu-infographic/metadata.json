@@ -1,0 +1,17 @@
+{
+  "skillId": "baoyu-infographic",
+  "source": "jimliu/baoyu-skills",
+  "owner": "jimliu",
+  "repo": "baoyu-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jimliu/baoyu-skills",
+    "skillId": "baoyu-infographic",
+    "name": "baoyu-infographic",
+    "installs": 28856,
+    "owner": "jimliu",
+    "repo": "baoyu-skills",
+    "githubUrl": "https://github.com/jimliu/baoyu-skills",
+    "displayName": "Baoyu Infographic"
+  }
+}

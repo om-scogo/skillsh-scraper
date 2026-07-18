@@ -1,0 +1,17 @@
+{
+  "skillId": "express-typescript",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "express-typescript",
+    "name": "express-typescript",
+    "installs": 1000,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Express Typescript"
+  }
+}

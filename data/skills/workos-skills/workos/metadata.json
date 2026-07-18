@@ -1,0 +1,17 @@
+{
+  "skillId": "workos",
+  "source": "workos/skills",
+  "owner": "workos",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "workos/skills",
+    "skillId": "workos",
+    "name": "workos",
+    "installs": 1110,
+    "owner": "workos",
+    "repo": "skills",
+    "githubUrl": "https://github.com/workos/skills",
+    "displayName": "Workos"
+  }
+}

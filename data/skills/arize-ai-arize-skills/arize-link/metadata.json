@@ -1,0 +1,17 @@
+{
+  "skillId": "arize-link",
+  "source": "arize-ai/arize-skills",
+  "owner": "arize-ai",
+  "repo": "arize-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "arize-ai/arize-skills",
+    "skillId": "arize-link",
+    "name": "arize-link",
+    "installs": 1730,
+    "owner": "arize-ai",
+    "repo": "arize-skills",
+    "githubUrl": "https://github.com/arize-ai/arize-skills",
+    "displayName": "Arize Link"
+  }
+}

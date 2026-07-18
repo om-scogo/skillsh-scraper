@@ -1,0 +1,17 @@
+{
+  "skillId": "langchain-dependencies",
+  "source": "langchain-ai/langchain-skills",
+  "owner": "langchain-ai",
+  "repo": "langchain-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langchain-ai/langchain-skills",
+    "skillId": "langchain-dependencies",
+    "name": "langchain-dependencies",
+    "installs": 10083,
+    "owner": "langchain-ai",
+    "repo": "langchain-skills",
+    "githubUrl": "https://github.com/langchain-ai/langchain-skills",
+    "displayName": "Langchain Dependencies"
+  }
+}

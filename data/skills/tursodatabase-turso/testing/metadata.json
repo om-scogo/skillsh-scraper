@@ -1,0 +1,17 @@
+{
+  "skillId": "testing",
+  "source": "tursodatabase/turso",
+  "owner": "tursodatabase",
+  "repo": "turso",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tursodatabase/turso",
+    "skillId": "testing",
+    "name": "testing",
+    "installs": 879,
+    "owner": "tursodatabase",
+    "repo": "turso",
+    "githubUrl": "https://github.com/tursodatabase/turso",
+    "displayName": "Testing"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-train-mask-auto-encoder",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-train-mask-auto-encoder",
+    "name": "tao-train-mask-auto-encoder",
+    "installs": 1279,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Train Mask Auto Encoder"
+  }
+}

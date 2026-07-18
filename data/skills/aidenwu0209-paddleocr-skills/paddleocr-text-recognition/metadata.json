@@ -1,0 +1,17 @@
+{
+  "skillId": "paddleocr-text-recognition",
+  "source": "aidenwu0209/paddleocr-skills",
+  "owner": "aidenwu0209",
+  "repo": "paddleocr-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aidenwu0209/paddleocr-skills",
+    "skillId": "paddleocr-text-recognition",
+    "name": "paddleocr-text-recognition",
+    "installs": 3782,
+    "owner": "aidenwu0209",
+    "repo": "paddleocr-skills",
+    "githubUrl": "https://github.com/aidenwu0209/paddleocr-skills",
+    "displayName": "Paddleocr Text Recognition"
+  }
+}

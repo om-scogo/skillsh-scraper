@@ -1,0 +1,17 @@
+{
+  "skillId": "auth0-react",
+  "source": "auth0/agent-skills",
+  "owner": "auth0",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "auth0/agent-skills",
+    "skillId": "auth0-react",
+    "name": "auth0-react",
+    "installs": 1468,
+    "owner": "auth0",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/auth0/agent-skills",
+    "displayName": "Auth0 React"
+  }
+}

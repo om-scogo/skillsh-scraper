@@ -1,0 +1,17 @@
+{
+  "skillId": "compose-recomposition-performance",
+  "source": "chrisbanes/skills",
+  "owner": "chrisbanes",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chrisbanes/skills",
+    "skillId": "compose-recomposition-performance",
+    "name": "compose-recomposition-performance",
+    "installs": 842,
+    "owner": "chrisbanes",
+    "repo": "skills",
+    "githubUrl": "https://github.com/chrisbanes/skills",
+    "displayName": "Compose Recomposition Performance"
+  }
+}

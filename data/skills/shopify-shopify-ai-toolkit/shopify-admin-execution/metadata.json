@@ -1,0 +1,17 @@
+{
+  "skillId": "shopify-admin-execution",
+  "source": "shopify/shopify-ai-toolkit",
+  "owner": "shopify",
+  "repo": "shopify-ai-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shopify/shopify-ai-toolkit",
+    "skillId": "shopify-admin-execution",
+    "name": "shopify-admin-execution",
+    "installs": 1850,
+    "owner": "shopify",
+    "repo": "shopify-ai-toolkit",
+    "githubUrl": "https://github.com/shopify/shopify-ai-toolkit",
+    "displayName": "Shopify Admin Execution"
+  }
+}

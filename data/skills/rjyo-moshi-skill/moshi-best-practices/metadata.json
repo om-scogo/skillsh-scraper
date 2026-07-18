@@ -1,0 +1,17 @@
+{
+  "skillId": "moshi-best-practices",
+  "source": "rjyo/moshi-skill",
+  "owner": "rjyo",
+  "repo": "moshi-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rjyo/moshi-skill",
+    "skillId": "moshi-best-practices",
+    "name": "moshi-best-practices",
+    "installs": 1836,
+    "owner": "rjyo",
+    "repo": "moshi-skill",
+    "githubUrl": "https://github.com/rjyo/moshi-skill",
+    "displayName": "Moshi Best Practices"
+  }
+}

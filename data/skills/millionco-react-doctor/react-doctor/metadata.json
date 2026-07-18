@@ -1,0 +1,17 @@
+{
+  "skillId": "react-doctor",
+  "source": "millionco/react-doctor",
+  "owner": "millionco",
+  "repo": "react-doctor",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "millionco/react-doctor",
+    "skillId": "react-doctor",
+    "name": "react-doctor",
+    "installs": 11076,
+    "owner": "millionco",
+    "repo": "react-doctor",
+    "githubUrl": "https://github.com/millionco/react-doctor",
+    "displayName": "React Doctor"
+  }
+}

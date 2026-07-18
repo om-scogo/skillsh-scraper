@@ -1,0 +1,17 @@
+{
+  "skillId": "cloud-sql-basics",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "cloud-sql-basics",
+    "name": "cloud-sql-basics",
+    "installs": 7559,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Cloud Sql Basics"
+  }
+}

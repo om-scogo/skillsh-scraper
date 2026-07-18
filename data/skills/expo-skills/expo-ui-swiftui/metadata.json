@@ -1,0 +1,17 @@
+{
+  "skillId": "expo-ui-swiftui",
+  "source": "expo/skills",
+  "owner": "expo",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "expo/skills",
+    "skillId": "expo-ui-swiftui",
+    "name": "expo ui swiftui",
+    "installs": 12853,
+    "owner": "expo",
+    "repo": "skills",
+    "githubUrl": "https://github.com/expo/skills",
+    "displayName": "Expo Ui Swiftui"
+  }
+}

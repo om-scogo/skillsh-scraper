@@ -1,0 +1,17 @@
+{
+  "skillId": "openviking",
+  "source": "volcengine/openviking",
+  "owner": "volcengine",
+  "repo": "openviking",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "volcengine/openviking",
+    "skillId": "openviking",
+    "name": "openviking",
+    "installs": 899,
+    "owner": "volcengine",
+    "repo": "openviking",
+    "githubUrl": "https://github.com/volcengine/openviking",
+    "displayName": "Openviking"
+  }
+}

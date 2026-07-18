@@ -1,0 +1,17 @@
+{
+  "skillId": "wx-cli",
+  "source": "jackwener/wx-cli",
+  "owner": "jackwener",
+  "repo": "wx-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jackwener/wx-cli",
+    "skillId": "wx-cli",
+    "name": "wx-cli",
+    "installs": 2135,
+    "owner": "jackwener",
+    "repo": "wx-cli",
+    "githubUrl": "https://github.com/jackwener/wx-cli",
+    "displayName": "Wx Cli"
+  }
+}

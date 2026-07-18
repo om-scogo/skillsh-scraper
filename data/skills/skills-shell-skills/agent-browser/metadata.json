@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-browser",
+  "source": "skills-shell/skills",
+  "owner": "skills-shell",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "skills-shell/skills",
+    "skillId": "agent-browser",
+    "name": "agent-browser",
+    "installs": 10,
+    "owner": "skills-shell",
+    "repo": "skills",
+    "githubUrl": "https://github.com/skills-shell/skills",
+    "displayName": "Agent Browser"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "tanstack-start-best-practices",
+  "source": "deckardger/tanstack-agent-skills",
+  "owner": "deckardger",
+  "repo": "tanstack-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "deckardger/tanstack-agent-skills",
+    "skillId": "tanstack-start-best-practices",
+    "name": "tanstack-start-best-practices",
+    "installs": 7822,
+    "owner": "deckardger",
+    "repo": "tanstack-agent-skills",
+    "githubUrl": "https://github.com/deckardger/tanstack-agent-skills",
+    "displayName": "Tanstack Start Best Practices"
+  }
+}

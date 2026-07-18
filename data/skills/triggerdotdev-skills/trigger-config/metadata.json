@@ -1,0 +1,17 @@
+{
+  "skillId": "trigger-config",
+  "source": "triggerdotdev/skills",
+  "owner": "triggerdotdev",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "triggerdotdev/skills",
+    "skillId": "trigger-config",
+    "name": "trigger-config",
+    "installs": 2149,
+    "owner": "triggerdotdev",
+    "repo": "skills",
+    "githubUrl": "https://github.com/triggerdotdev/skills",
+    "displayName": "Trigger Config"
+  }
+}

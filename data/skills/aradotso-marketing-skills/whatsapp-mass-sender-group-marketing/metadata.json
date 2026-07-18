@@ -1,0 +1,17 @@
+{
+  "skillId": "whatsapp-mass-sender-group-marketing",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "whatsapp-mass-sender-group-marketing",
+    "name": "whatsapp-mass-sender-group-marketing",
+    "installs": 751,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Whatsapp Mass Sender Group Marketing"
+  }
+}

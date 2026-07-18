@@ -1,0 +1,17 @@
+{
+  "skillId": "cx-incident-management",
+  "source": "coralogix/cx-cli",
+  "owner": "coralogix",
+  "repo": "cx-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coralogix/cx-cli",
+    "skillId": "cx-incident-management",
+    "name": "cx-incident-management",
+    "installs": 792,
+    "owner": "coralogix",
+    "repo": "cx-cli",
+    "githubUrl": "https://github.com/coralogix/cx-cli",
+    "displayName": "Cx Incident Management"
+  }
+}

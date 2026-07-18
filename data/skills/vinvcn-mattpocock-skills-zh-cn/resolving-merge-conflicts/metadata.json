@@ -1,0 +1,17 @@
+{
+  "skillId": "resolving-merge-conflicts",
+  "source": "vinvcn/mattpocock-skills-zh-cn",
+  "owner": "vinvcn",
+  "repo": "mattpocock-skills-zh-cn",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vinvcn/mattpocock-skills-zh-cn",
+    "skillId": "resolving-merge-conflicts",
+    "name": "resolving-merge-conflicts",
+    "installs": 767,
+    "owner": "vinvcn",
+    "repo": "mattpocock-skills-zh-cn",
+    "githubUrl": "https://github.com/vinvcn/mattpocock-skills-zh-cn",
+    "displayName": "Resolving Merge Conflicts"
+  }
+}

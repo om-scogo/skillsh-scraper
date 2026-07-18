@@ -1,0 +1,17 @@
+{
+  "skillId": "flows-external-app-submit",
+  "source": "cognitedata/builder-skills",
+  "owner": "cognitedata",
+  "repo": "builder-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cognitedata/builder-skills",
+    "skillId": "flows-external-app-submit",
+    "name": "flows-external-app-submit",
+    "installs": 1076,
+    "owner": "cognitedata",
+    "repo": "builder-skills",
+    "githubUrl": "https://github.com/cognitedata/builder-skills",
+    "displayName": "Flows External App Submit"
+  }
+}

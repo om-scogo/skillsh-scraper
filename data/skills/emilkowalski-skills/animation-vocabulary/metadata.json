@@ -1,0 +1,17 @@
+{
+  "skillId": "animation-vocabulary",
+  "source": "emilkowalski/skills",
+  "owner": "emilkowalski",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "emilkowalski/skills",
+    "skillId": "animation-vocabulary",
+    "name": "animation-vocabulary",
+    "installs": 29285,
+    "owner": "emilkowalski",
+    "repo": "skills",
+    "githubUrl": "https://github.com/emilkowalski/skills",
+    "displayName": "Animation Vocabulary"
+  }
+}

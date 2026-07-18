@@ -1,0 +1,17 @@
+{
+  "skillId": "risk-management-specialist",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "risk-management-specialist",
+    "name": "risk-management-specialist",
+    "installs": 812,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Risk Management Specialist"
+  }
+}

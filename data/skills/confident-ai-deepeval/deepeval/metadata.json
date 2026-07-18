@@ -1,0 +1,17 @@
+{
+  "skillId": "deepeval",
+  "source": "confident-ai/deepeval",
+  "owner": "confident-ai",
+  "repo": "deepeval",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "confident-ai/deepeval",
+    "skillId": "deepeval",
+    "name": "deepeval",
+    "installs": 1276,
+    "owner": "confident-ai",
+    "repo": "deepeval",
+    "githubUrl": "https://github.com/confident-ai/deepeval",
+    "displayName": "Deepeval"
+  }
+}

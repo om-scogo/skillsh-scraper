@@ -1,0 +1,17 @@
+{
+  "skillId": "video-processing-editing",
+  "source": "erichowens/some_claude_skills",
+  "owner": "erichowens",
+  "repo": "some_claude_skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "erichowens/some_claude_skills",
+    "skillId": "video-processing-editing",
+    "name": "video-processing-editing",
+    "installs": 938,
+    "owner": "erichowens",
+    "repo": "some_claude_skills",
+    "githubUrl": "https://github.com/erichowens/some_claude_skills",
+    "displayName": "Video Processing Editing"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "compose-expert",
+  "source": "vitorpamplona/amethyst",
+  "owner": "vitorpamplona",
+  "repo": "amethyst",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vitorpamplona/amethyst",
+    "skillId": "compose-expert",
+    "name": "compose-expert",
+    "installs": 916,
+    "owner": "vitorpamplona",
+    "repo": "amethyst",
+    "githubUrl": "https://github.com/vitorpamplona/amethyst",
+    "displayName": "Compose Expert"
+  }
+}

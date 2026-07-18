@@ -1,0 +1,17 @@
+{
+  "skillId": "arize-compliance-audit",
+  "source": "arize-ai/arize-skills",
+  "owner": "arize-ai",
+  "repo": "arize-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "arize-ai/arize-skills",
+    "skillId": "arize-compliance-audit",
+    "name": "arize-compliance-audit",
+    "installs": 1349,
+    "owner": "arize-ai",
+    "repo": "arize-skills",
+    "githubUrl": "https://github.com/arize-ai/arize-skills",
+    "displayName": "Arize Compliance Audit"
+  }
+}

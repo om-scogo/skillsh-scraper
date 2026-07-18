@@ -1,0 +1,17 @@
+{
+  "skillId": "nblm",
+  "source": "magicseek/nblm",
+  "owner": "magicseek",
+  "repo": "nblm",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "magicseek/nblm",
+    "skillId": "nblm",
+    "name": "nblm",
+    "installs": 6314,
+    "owner": "magicseek",
+    "repo": "nblm",
+    "githubUrl": "https://github.com/magicseek/nblm",
+    "displayName": "Nblm"
+  }
+}

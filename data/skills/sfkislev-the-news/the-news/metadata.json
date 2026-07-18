@@ -1,0 +1,17 @@
+{
+  "skillId": "the-news",
+  "source": "sfkislev/the-news",
+  "owner": "sfkislev",
+  "repo": "the-news",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sfkislev/the-news",
+    "skillId": "the-news",
+    "name": "the-news",
+    "installs": 17011,
+    "owner": "sfkislev",
+    "repo": "the-news",
+    "githubUrl": "https://github.com/sfkislev/the-news",
+    "displayName": "The News"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "repomix-explorer",
+  "source": "yamadashy/repomix",
+  "owner": "yamadashy",
+  "repo": "repomix",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yamadashy/repomix",
+    "skillId": "repomix-explorer",
+    "name": "repomix-explorer",
+    "installs": 1276,
+    "owner": "yamadashy",
+    "repo": "repomix",
+    "githubUrl": "https://github.com/yamadashy/repomix",
+    "displayName": "Repomix Explorer"
+  }
+}

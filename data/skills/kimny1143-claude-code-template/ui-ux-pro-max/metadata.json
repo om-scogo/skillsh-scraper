@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-ux-pro-max",
+  "source": "kimny1143/claude-code-template",
+  "owner": "kimny1143",
+  "repo": "claude-code-template",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kimny1143/claude-code-template",
+    "skillId": "ui-ux-pro-max",
+    "name": "ui-ux-pro-max",
+    "installs": 4717,
+    "owner": "kimny1143",
+    "repo": "claude-code-template",
+    "githubUrl": "https://github.com/kimny1143/claude-code-template",
+    "displayName": "Ui Ux Pro Max"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "chrome-devtools",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "chrome-devtools",
+    "name": "chrome-devtools",
+    "installs": 13497,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Chrome Devtools"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "review-and-refactor",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "review-and-refactor",
+    "name": "review-and-refactor",
+    "installs": 10691,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Review And Refactor"
+  }
+}

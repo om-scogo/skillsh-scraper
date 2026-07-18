@@ -1,0 +1,17 @@
+{
+  "skillId": "recoup-platform-api-access",
+  "source": "recoupable/skills",
+  "owner": "recoupable",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "recoupable/skills",
+    "skillId": "recoup-platform-api-access",
+    "name": "recoup-platform-api-access",
+    "installs": 1046,
+    "owner": "recoupable",
+    "repo": "skills",
+    "githubUrl": "https://github.com/recoupable/skills",
+    "displayName": "Recoup Platform Api Access"
+  }
+}

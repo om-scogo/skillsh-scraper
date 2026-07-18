@@ -1,0 +1,17 @@
+{
+  "skillId": "receiving-code-review",
+  "source": "obra/superpowers",
+  "owner": "obra",
+  "repo": "superpowers",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/superpowers",
+    "skillId": "receiving-code-review",
+    "name": "receiving-code-review",
+    "installs": 140340,
+    "owner": "obra",
+    "repo": "superpowers",
+    "githubUrl": "https://github.com/obra/superpowers",
+    "displayName": "Receiving Code Review"
+  }
+}

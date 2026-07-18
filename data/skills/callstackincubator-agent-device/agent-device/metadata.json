@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-device",
+  "source": "callstackincubator/agent-device",
+  "owner": "callstackincubator",
+  "repo": "agent-device",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "callstackincubator/agent-device",
+    "skillId": "agent-device",
+    "name": "agent-device",
+    "installs": 7809,
+    "owner": "callstackincubator",
+    "repo": "agent-device",
+    "githubUrl": "https://github.com/callstackincubator/agent-device",
+    "displayName": "Agent Device"
+  }
+}

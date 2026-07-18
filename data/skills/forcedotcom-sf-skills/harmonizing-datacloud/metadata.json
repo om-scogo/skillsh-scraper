@@ -1,0 +1,17 @@
+{
+  "skillId": "harmonizing-datacloud",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "harmonizing-datacloud",
+    "name": "harmonizing-datacloud",
+    "installs": 1998,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Harmonizing Datacloud"
+  }
+}

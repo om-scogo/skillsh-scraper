@@ -1,0 +1,17 @@
+{
+  "skillId": "meeting-minutes",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "meeting-minutes",
+    "name": "meeting-minutes",
+    "installs": 9498,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Meeting Minutes"
+  }
+}

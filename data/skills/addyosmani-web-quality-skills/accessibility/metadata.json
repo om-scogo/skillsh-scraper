@@ -1,0 +1,17 @@
+{
+  "skillId": "accessibility",
+  "source": "addyosmani/web-quality-skills",
+  "owner": "addyosmani",
+  "repo": "web-quality-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/web-quality-skills",
+    "skillId": "accessibility",
+    "name": "accessibility",
+    "installs": 36822,
+    "owner": "addyosmani",
+    "repo": "web-quality-skills",
+    "githubUrl": "https://github.com/addyosmani/web-quality-skills",
+    "displayName": "Accessibility"
+  }
+}

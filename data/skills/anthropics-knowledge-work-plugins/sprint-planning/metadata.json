@@ -1,0 +1,17 @@
+{
+  "skillId": "sprint-planning",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "sprint-planning",
+    "name": "sprint-planning",
+    "installs": 2103,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Sprint Planning"
+  }
+}

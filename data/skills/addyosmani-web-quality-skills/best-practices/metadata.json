@@ -1,0 +1,17 @@
+{
+  "skillId": "best-practices",
+  "source": "addyosmani/web-quality-skills",
+  "owner": "addyosmani",
+  "repo": "web-quality-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/web-quality-skills",
+    "skillId": "best-practices",
+    "name": "best-practices",
+    "installs": 14887,
+    "owner": "addyosmani",
+    "repo": "web-quality-skills",
+    "githubUrl": "https://github.com/addyosmani/web-quality-skills",
+    "displayName": "Best Practices"
+  }
+}

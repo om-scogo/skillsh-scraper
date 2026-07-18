@@ -1,0 +1,17 @@
+{
+  "skillId": "trump-perspective",
+  "source": "alchaincyf/trump-skill",
+  "owner": "alchaincyf",
+  "repo": "trump-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/trump-skill",
+    "skillId": "trump-perspective",
+    "name": "trump-perspective",
+    "installs": 1598,
+    "owner": "alchaincyf",
+    "repo": "trump-skill",
+    "githubUrl": "https://github.com/alchaincyf/trump-skill",
+    "displayName": "Trump Perspective"
+  }
+}

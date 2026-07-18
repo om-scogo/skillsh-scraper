@@ -1,0 +1,17 @@
+{
+  "skillId": "comfyui-workflow-builder",
+  "source": "mckruz/comfyui-expert",
+  "owner": "mckruz",
+  "repo": "comfyui-expert",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mckruz/comfyui-expert",
+    "skillId": "comfyui-workflow-builder",
+    "name": "comfyui-workflow-builder",
+    "installs": 1357,
+    "owner": "mckruz",
+    "repo": "comfyui-expert",
+    "githubUrl": "https://github.com/mckruz/comfyui-expert",
+    "displayName": "Comfyui Workflow Builder"
+  }
+}

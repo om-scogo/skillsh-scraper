@@ -1,0 +1,17 @@
+{
+  "skillId": "entra-app-registration",
+  "source": "microsoft/azure-skills",
+  "owner": "microsoft",
+  "repo": "azure-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/azure-skills",
+    "skillId": "entra-app-registration",
+    "name": "entra-app-registration",
+    "installs": 455102,
+    "owner": "microsoft",
+    "repo": "azure-skills",
+    "githubUrl": "https://github.com/microsoft/azure-skills",
+    "displayName": "Entra App Registration"
+  }
+}

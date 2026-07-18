@@ -1,0 +1,17 @@
+{
+  "skillId": "pua-trae",
+  "source": "tanweai/pua",
+  "owner": "tanweai",
+  "repo": "pua",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tanweai/pua",
+    "skillId": "pua-trae",
+    "name": "pua-trae",
+    "installs": 784,
+    "owner": "tanweai",
+    "repo": "pua",
+    "githubUrl": "https://github.com/tanweai/pua",
+    "displayName": "Pua Trae"
+  }
+}

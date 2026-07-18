@@ -1,0 +1,17 @@
+{
+  "skillId": "binance-agentic-wallet",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "binance-agentic-wallet",
+    "name": "binance-agentic-wallet",
+    "installs": 2424,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Binance Agentic Wallet"
+  }
+}

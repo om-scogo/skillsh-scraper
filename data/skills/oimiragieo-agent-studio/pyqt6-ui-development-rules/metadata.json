@@ -1,0 +1,17 @@
+{
+  "skillId": "pyqt6-ui-development-rules",
+  "source": "oimiragieo/agent-studio",
+  "owner": "oimiragieo",
+  "repo": "agent-studio",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "oimiragieo/agent-studio",
+    "skillId": "pyqt6-ui-development-rules",
+    "name": "pyqt6-ui-development-rules",
+    "installs": 859,
+    "owner": "oimiragieo",
+    "repo": "agent-studio",
+    "githubUrl": "https://github.com/oimiragieo/agent-studio",
+    "displayName": "Pyqt6 Ui Development Rules"
+  }
+}

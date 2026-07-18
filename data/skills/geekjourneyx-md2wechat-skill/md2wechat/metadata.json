@@ -1,0 +1,17 @@
+{
+  "skillId": "md2wechat",
+  "source": "geekjourneyx/md2wechat-skill",
+  "owner": "geekjourneyx",
+  "repo": "md2wechat-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "geekjourneyx/md2wechat-skill",
+    "skillId": "md2wechat",
+    "name": "md2wechat",
+    "installs": 2244,
+    "owner": "geekjourneyx",
+    "repo": "md2wechat-skill",
+    "githubUrl": "https://github.com/geekjourneyx/md2wechat-skill",
+    "displayName": "Md2wechat"
+  }
+}

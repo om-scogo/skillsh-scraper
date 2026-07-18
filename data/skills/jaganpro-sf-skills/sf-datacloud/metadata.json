@@ -1,0 +1,17 @@
+{
+  "skillId": "sf-datacloud",
+  "source": "jaganpro/sf-skills",
+  "owner": "jaganpro",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jaganpro/sf-skills",
+    "skillId": "sf-datacloud",
+    "name": "sf-datacloud",
+    "installs": 933,
+    "owner": "jaganpro",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/jaganpro/sf-skills",
+    "displayName": "Sf Datacloud"
+  }
+}

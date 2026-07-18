@@ -1,0 +1,17 @@
+{
+  "skillId": "cybersecurity-analyst",
+  "source": "rysweet/amplihack",
+  "owner": "rysweet",
+  "repo": "amplihack",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rysweet/amplihack",
+    "skillId": "cybersecurity-analyst",
+    "name": "cybersecurity-analyst",
+    "installs": 1167,
+    "owner": "rysweet",
+    "repo": "amplihack",
+    "githubUrl": "https://github.com/rysweet/amplihack",
+    "displayName": "Cybersecurity Analyst"
+  }
+}

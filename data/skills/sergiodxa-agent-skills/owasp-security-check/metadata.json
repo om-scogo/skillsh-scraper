@@ -1,0 +1,17 @@
+{
+  "skillId": "owasp-security-check",
+  "source": "sergiodxa/agent-skills",
+  "owner": "sergiodxa",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sergiodxa/agent-skills",
+    "skillId": "owasp-security-check",
+    "name": "owasp-security-check",
+    "installs": 1213,
+    "owner": "sergiodxa",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/sergiodxa/agent-skills",
+    "displayName": "Owasp Security Check"
+  }
+}

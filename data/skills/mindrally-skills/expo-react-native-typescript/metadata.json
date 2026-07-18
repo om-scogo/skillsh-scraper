@@ -1,0 +1,17 @@
+{
+  "skillId": "expo-react-native-typescript",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "expo-react-native-typescript",
+    "name": "expo-react-native-typescript",
+    "installs": 1645,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Expo React Native Typescript"
+  }
+}

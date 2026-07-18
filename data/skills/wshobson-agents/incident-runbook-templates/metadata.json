@@ -1,0 +1,17 @@
+{
+  "skillId": "incident-runbook-templates",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "incident-runbook-templates",
+    "name": "incident-runbook-templates",
+    "installs": 8171,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Incident Runbook Templates"
+  }
+}

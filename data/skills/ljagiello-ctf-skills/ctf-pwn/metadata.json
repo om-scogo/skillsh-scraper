@@ -1,0 +1,17 @@
+{
+  "skillId": "ctf-pwn",
+  "source": "ljagiello/ctf-skills",
+  "owner": "ljagiello",
+  "repo": "ctf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ljagiello/ctf-skills",
+    "skillId": "ctf-pwn",
+    "name": "ctf-pwn",
+    "installs": 5931,
+    "owner": "ljagiello",
+    "repo": "ctf-skills",
+    "githubUrl": "https://github.com/ljagiello/ctf-skills",
+    "displayName": "Ctf Pwn"
+  }
+}

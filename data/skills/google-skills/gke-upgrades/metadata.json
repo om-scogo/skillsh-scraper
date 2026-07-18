@@ -1,0 +1,17 @@
+{
+  "skillId": "gke-upgrades",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "gke-upgrades",
+    "name": "gke-upgrades",
+    "installs": 1138,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Gke Upgrades"
+  }
+}

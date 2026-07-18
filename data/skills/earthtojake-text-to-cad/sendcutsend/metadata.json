@@ -1,0 +1,17 @@
+{
+  "skillId": "sendcutsend",
+  "source": "earthtojake/text-to-cad",
+  "owner": "earthtojake",
+  "repo": "text-to-cad",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "earthtojake/text-to-cad",
+    "skillId": "sendcutsend",
+    "name": "sendcutsend",
+    "installs": 4169,
+    "owner": "earthtojake",
+    "repo": "text-to-cad",
+    "githubUrl": "https://github.com/earthtojake/text-to-cad",
+    "displayName": "Sendcutsend"
+  }
+}

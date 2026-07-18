@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-skills",
+  "source": "obra/superpowers",
+  "owner": "obra",
+  "repo": "superpowers",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/superpowers",
+    "skillId": "writing-skills",
+    "name": "writing-skills",
+    "installs": 139150,
+    "owner": "obra",
+    "repo": "superpowers",
+    "githubUrl": "https://github.com/obra/superpowers",
+    "displayName": "Writing Skills"
+  }
+}

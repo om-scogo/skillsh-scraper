@@ -1,0 +1,17 @@
+{
+  "skillId": "gh-cli",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "gh-cli",
+    "name": "gh-cli",
+    "installs": 21737,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Gh Cli"
+  }
+}

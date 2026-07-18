@@ -1,0 +1,17 @@
+{
+  "skillId": "prompt-videos",
+  "source": "replicate/skills",
+  "owner": "replicate",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "replicate/skills",
+    "skillId": "prompt-videos",
+    "name": "prompt-videos",
+    "installs": 1105,
+    "owner": "replicate",
+    "repo": "skills",
+    "githubUrl": "https://github.com/replicate/skills",
+    "displayName": "Prompt Videos"
+  }
+}

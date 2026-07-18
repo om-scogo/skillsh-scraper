@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-train-action-recognition",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-train-action-recognition",
+    "name": "tao-train-action-recognition",
+    "installs": 1279,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Train Action Recognition"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "godot-ui",
+  "source": "zate/cc-godot",
+  "owner": "zate",
+  "repo": "cc-godot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zate/cc-godot",
+    "skillId": "godot-ui",
+    "name": "godot-ui",
+    "installs": 1990,
+    "owner": "zate",
+    "repo": "cc-godot",
+    "githubUrl": "https://github.com/zate/cc-godot",
+    "displayName": "Godot Ui"
+  }
+}

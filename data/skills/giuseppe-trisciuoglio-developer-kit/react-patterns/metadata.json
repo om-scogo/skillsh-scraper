@@ -1,0 +1,17 @@
+{
+  "skillId": "react-patterns",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "react-patterns",
+    "name": "react-patterns",
+    "installs": 2492,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "React Patterns"
+  }
+}

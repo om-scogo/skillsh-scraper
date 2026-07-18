@@ -1,0 +1,17 @@
+{
+  "skillId": "heygen-translate",
+  "source": "heygen-com/skills",
+  "owner": "heygen-com",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/skills",
+    "skillId": "heygen-translate",
+    "name": "heygen-translate",
+    "installs": 840,
+    "owner": "heygen-com",
+    "repo": "skills",
+    "githubUrl": "https://github.com/heygen-com/skills",
+    "displayName": "Heygen Translate"
+  }
+}

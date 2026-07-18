@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-avatar-video",
+  "source": "101-skills/skills",
+  "owner": "101-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "101-skills/skills",
+    "skillId": "ai-avatar-video",
+    "name": "ai-avatar-video",
+    "installs": 175095,
+    "owner": "101-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/101-skills/skills",
+    "displayName": "Ai Avatar Video"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "code-maturity-assessor",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "code-maturity-assessor",
+    "name": "code-maturity-assessor",
+    "installs": 5108,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Code Maturity Assessor"
+  }
+}

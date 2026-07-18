@@ -1,0 +1,17 @@
+{
+  "skillId": "portfolio-case-study-writer",
+  "source": "paramchoudhary/resumeskills",
+  "owner": "paramchoudhary",
+  "repo": "resumeskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paramchoudhary/resumeskills",
+    "skillId": "portfolio-case-study-writer",
+    "name": "portfolio case study writer",
+    "installs": 1678,
+    "owner": "paramchoudhary",
+    "repo": "resumeskills",
+    "githubUrl": "https://github.com/paramchoudhary/resumeskills",
+    "displayName": "Portfolio Case Study Writer"
+  }
+}

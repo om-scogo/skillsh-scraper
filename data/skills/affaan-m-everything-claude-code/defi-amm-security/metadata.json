@@ -1,0 +1,17 @@
+{
+  "skillId": "defi-amm-security",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "defi-amm-security",
+    "name": "defi-amm-security",
+    "installs": 3505,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Defi Amm Security"
+  }
+}

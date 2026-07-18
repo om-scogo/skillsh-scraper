@@ -1,0 +1,17 @@
+{
+  "skillId": "pagespeed-insights",
+  "source": "enderpuentes/ai-agent-skills",
+  "owner": "enderpuentes",
+  "repo": "ai-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "enderpuentes/ai-agent-skills",
+    "skillId": "pagespeed-insights",
+    "name": "pagespeed-insights",
+    "installs": 842,
+    "owner": "enderpuentes",
+    "repo": "ai-agent-skills",
+    "githubUrl": "https://github.com/enderpuentes/ai-agent-skills",
+    "displayName": "Pagespeed Insights"
+  }
+}

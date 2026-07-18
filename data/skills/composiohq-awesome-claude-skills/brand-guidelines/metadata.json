@@ -1,0 +1,17 @@
+{
+  "skillId": "brand-guidelines",
+  "source": "composiohq/awesome-claude-skills",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "composiohq/awesome-claude-skills",
+    "skillId": "brand-guidelines",
+    "name": "brand-guidelines",
+    "installs": 3059,
+    "owner": "composiohq",
+    "repo": "awesome-claude-skills",
+    "githubUrl": "https://github.com/composiohq/awesome-claude-skills",
+    "displayName": "Brand Guidelines"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "category-positioning",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "category-positioning",
+    "name": "category-positioning",
+    "installs": 789,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "Category Positioning"
+  }
+}

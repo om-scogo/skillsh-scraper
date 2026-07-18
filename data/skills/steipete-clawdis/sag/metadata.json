@@ -1,0 +1,17 @@
+{
+  "skillId": "sag",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "sag",
+    "name": "sag",
+    "installs": 2671,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Sag"
+  }
+}

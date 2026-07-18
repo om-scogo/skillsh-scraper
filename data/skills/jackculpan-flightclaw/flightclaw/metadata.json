@@ -1,0 +1,17 @@
+{
+  "skillId": "flightclaw",
+  "source": "jackculpan/flightclaw",
+  "owner": "jackculpan",
+  "repo": "flightclaw",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jackculpan/flightclaw",
+    "skillId": "flightclaw",
+    "name": "flightclaw",
+    "installs": 1012,
+    "owner": "jackculpan",
+    "repo": "flightclaw",
+    "githubUrl": "https://github.com/jackculpan/flightclaw",
+    "displayName": "Flightclaw"
+  }
+}

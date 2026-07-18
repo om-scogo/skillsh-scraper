@@ -1,0 +1,17 @@
+{
+  "skillId": "vercel-react-best-practices",
+  "source": "am-will/codex-skills",
+  "owner": "am-will",
+  "repo": "codex-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "am-will/codex-skills",
+    "skillId": "vercel-react-best-practices",
+    "name": "vercel-react-best-practices",
+    "installs": 1157,
+    "owner": "am-will",
+    "repo": "codex-skills",
+    "githubUrl": "https://github.com/am-will/codex-skills",
+    "displayName": "Vercel React Best Practices"
+  }
+}

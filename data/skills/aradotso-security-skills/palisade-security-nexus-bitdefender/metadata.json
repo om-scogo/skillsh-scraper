@@ -1,0 +1,17 @@
+{
+  "skillId": "palisade-security-nexus-bitdefender",
+  "source": "aradotso/security-skills",
+  "owner": "aradotso",
+  "repo": "security-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/security-skills",
+    "skillId": "palisade-security-nexus-bitdefender",
+    "name": "palisade-security-nexus-bitdefender",
+    "installs": 944,
+    "owner": "aradotso",
+    "repo": "security-skills",
+    "githubUrl": "https://github.com/aradotso/security-skills",
+    "displayName": "Palisade Security Nexus Bitdefender"
+  }
+}

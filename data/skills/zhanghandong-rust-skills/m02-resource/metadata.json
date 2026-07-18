@@ -1,0 +1,17 @@
+{
+  "skillId": "m02-resource",
+  "source": "zhanghandong/rust-skills",
+  "owner": "zhanghandong",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zhanghandong/rust-skills",
+    "skillId": "m02-resource",
+    "name": "m02-resource",
+    "installs": 784,
+    "owner": "zhanghandong",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/zhanghandong/rust-skills",
+    "displayName": "M02 Resource"
+  }
+}

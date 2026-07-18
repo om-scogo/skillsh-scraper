@@ -1,0 +1,17 @@
+{
+  "skillId": "journal-entry",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "journal-entry",
+    "name": "journal-entry",
+    "installs": 1889,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Journal Entry"
+  }
+}

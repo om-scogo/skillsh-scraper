@@ -1,0 +1,17 @@
+{
+  "skillId": "designing-beautiful-websites",
+  "source": "tristanmanchester/agent-skills",
+  "owner": "tristanmanchester",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tristanmanchester/agent-skills",
+    "skillId": "designing-beautiful-websites",
+    "name": "designing-beautiful-websites",
+    "installs": 2001,
+    "owner": "tristanmanchester",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/tristanmanchester/agent-skills",
+    "displayName": "Designing Beautiful Websites"
+  }
+}

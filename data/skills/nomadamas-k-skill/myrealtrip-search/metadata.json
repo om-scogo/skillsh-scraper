@@ -1,0 +1,17 @@
+{
+  "skillId": "myrealtrip-search",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "myrealtrip-search",
+    "name": "myrealtrip-search",
+    "installs": 1425,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Myrealtrip Search"
+  }
+}

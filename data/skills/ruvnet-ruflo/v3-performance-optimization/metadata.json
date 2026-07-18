@@ -1,0 +1,17 @@
+{
+  "skillId": "v3-performance-optimization",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "v3-performance-optimization",
+    "name": "v3 performance optimization",
+    "installs": 967,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "V3 Performance Optimization"
+  }
+}

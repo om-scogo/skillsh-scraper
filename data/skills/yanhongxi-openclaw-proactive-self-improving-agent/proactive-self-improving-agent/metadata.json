@@ -1,0 +1,17 @@
+{
+  "skillId": "proactive-self-improving-agent",
+  "source": "yanhongxi-openclaw/proactive-self-improving-agent",
+  "owner": "yanhongxi-openclaw",
+  "repo": "proactive-self-improving-agent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yanhongxi-openclaw/proactive-self-improving-agent",
+    "skillId": "proactive-self-improving-agent",
+    "name": "proactive-self-improving-agent",
+    "installs": 2587,
+    "owner": "yanhongxi-openclaw",
+    "repo": "proactive-self-improving-agent",
+    "githubUrl": "https://github.com/yanhongxi-openclaw/proactive-self-improving-agent",
+    "displayName": "Proactive Self Improving Agent"
+  }
+}

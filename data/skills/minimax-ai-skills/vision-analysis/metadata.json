@@ -1,0 +1,17 @@
+{
+  "skillId": "vision-analysis",
+  "source": "minimax-ai/skills",
+  "owner": "minimax-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "minimax-ai/skills",
+    "skillId": "vision-analysis",
+    "name": "vision-analysis",
+    "installs": 2287,
+    "owner": "minimax-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/minimax-ai/skills",
+    "displayName": "Vision Analysis"
+  }
+}

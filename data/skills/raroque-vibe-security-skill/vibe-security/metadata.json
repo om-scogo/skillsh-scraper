@@ -1,0 +1,17 @@
+{
+  "skillId": "vibe-security",
+  "source": "raroque/vibe-security-skill",
+  "owner": "raroque",
+  "repo": "vibe-security-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "raroque/vibe-security-skill",
+    "skillId": "vibe-security",
+    "name": "vibe-security",
+    "installs": 2235,
+    "owner": "raroque",
+    "repo": "vibe-security-skill",
+    "githubUrl": "https://github.com/raroque/vibe-security-skill",
+    "displayName": "Vibe Security"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "paperclip-dev-workspace-run-verify-fix",
+  "source": "getpaperclipai/paperclip",
+  "owner": "getpaperclipai",
+  "repo": "paperclip",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getpaperclipai/paperclip",
+    "skillId": "paperclip-dev-workspace-run-verify-fix",
+    "name": "paperclip-dev-workspace-run-verify-fix",
+    "installs": 1427,
+    "owner": "getpaperclipai",
+    "repo": "paperclip",
+    "githubUrl": "https://github.com/getpaperclipai/paperclip",
+    "displayName": "Paperclip Dev Workspace Run Verify Fix"
+  }
+}

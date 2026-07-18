@@ -1,0 +1,17 @@
+{
+  "skillId": "core",
+  "source": "vercel-labs/json-render",
+  "owner": "vercel-labs",
+  "repo": "json-render",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/json-render",
+    "skillId": "core",
+    "name": "core",
+    "installs": 3266,
+    "owner": "vercel-labs",
+    "repo": "json-render",
+    "githubUrl": "https://github.com/vercel-labs/json-render",
+    "displayName": "Core"
+  }
+}

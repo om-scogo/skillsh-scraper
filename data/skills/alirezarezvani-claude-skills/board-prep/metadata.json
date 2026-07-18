@@ -1,0 +1,17 @@
+{
+  "skillId": "board-prep",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "board-prep",
+    "name": "board-prep",
+    "installs": 1423,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Board Prep"
+  }
+}

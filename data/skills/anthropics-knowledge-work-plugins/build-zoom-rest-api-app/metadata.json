@@ -1,0 +1,17 @@
+{
+  "skillId": "build-zoom-rest-api-app",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "build-zoom-rest-api-app",
+    "name": "build-zoom-rest-api-app",
+    "installs": 1324,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Build Zoom Rest Api App"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "startup-metrics-framework",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "startup-metrics-framework",
+    "name": "startup-metrics-framework",
+    "installs": 8431,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Startup Metrics Framework"
+  }
+}

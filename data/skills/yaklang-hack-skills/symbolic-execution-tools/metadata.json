@@ -1,0 +1,17 @@
+{
+  "skillId": "symbolic-execution-tools",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "symbolic-execution-tools",
+    "name": "symbolic-execution-tools",
+    "installs": 1923,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Symbolic Execution Tools"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "vitess",
+  "source": "planetscale/database-skills",
+  "owner": "planetscale",
+  "repo": "database-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "planetscale/database-skills",
+    "skillId": "vitess",
+    "name": "vitess",
+    "installs": 1149,
+    "owner": "planetscale",
+    "repo": "database-skills",
+    "githubUrl": "https://github.com/planetscale/database-skills",
+    "displayName": "Vitess"
+  }
+}

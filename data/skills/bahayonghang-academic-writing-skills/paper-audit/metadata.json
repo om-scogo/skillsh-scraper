@@ -1,0 +1,17 @@
+{
+  "skillId": "paper-audit",
+  "source": "bahayonghang/academic-writing-skills",
+  "owner": "bahayonghang",
+  "repo": "academic-writing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bahayonghang/academic-writing-skills",
+    "skillId": "paper-audit",
+    "name": "paper-audit",
+    "installs": 2095,
+    "owner": "bahayonghang",
+    "repo": "academic-writing-skills",
+    "githubUrl": "https://github.com/bahayonghang/academic-writing-skills",
+    "displayName": "Paper Audit"
+  }
+}

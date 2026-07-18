@@ -1,0 +1,17 @@
+{
+  "skillId": "ppt-master",
+  "source": "hugohe3/ppt-master",
+  "owner": "hugohe3",
+  "repo": "ppt-master",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hugohe3/ppt-master",
+    "skillId": "ppt-master",
+    "name": "ppt-master",
+    "installs": 9246,
+    "owner": "hugohe3",
+    "repo": "ppt-master",
+    "githubUrl": "https://github.com/hugohe3/ppt-master",
+    "displayName": "Ppt Master"
+  }
+}

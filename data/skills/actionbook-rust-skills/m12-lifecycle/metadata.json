@@ -1,0 +1,17 @@
+{
+  "skillId": "m12-lifecycle",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "m12-lifecycle",
+    "name": "m12-lifecycle",
+    "installs": 1348,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "M12 Lifecycle"
+  }
+}

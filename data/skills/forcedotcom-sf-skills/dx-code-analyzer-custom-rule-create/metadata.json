@@ -1,0 +1,17 @@
+{
+  "skillId": "dx-code-analyzer-custom-rule-create",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "dx-code-analyzer-custom-rule-create",
+    "name": "dx-code-analyzer-custom-rule-create",
+    "installs": 894,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Dx Code Analyzer Custom Rule Create"
+  }
+}

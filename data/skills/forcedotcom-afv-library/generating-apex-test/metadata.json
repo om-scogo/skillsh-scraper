@@ -1,0 +1,17 @@
+{
+  "skillId": "generating-apex-test",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "generating-apex-test",
+    "name": "generating-apex-test",
+    "installs": 1591,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Generating Apex Test"
+  }
+}

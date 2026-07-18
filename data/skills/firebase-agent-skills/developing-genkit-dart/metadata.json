@@ -1,0 +1,17 @@
+{
+  "skillId": "developing-genkit-dart",
+  "source": "firebase/agent-skills",
+  "owner": "firebase",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firebase/agent-skills",
+    "skillId": "developing-genkit-dart",
+    "name": "developing-genkit-dart",
+    "installs": 61908,
+    "owner": "firebase",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/firebase/agent-skills",
+    "displayName": "Developing Genkit Dart"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "lark-openapi-explorer",
+  "source": "larksuite/cli",
+  "owner": "larksuite",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "larksuite/cli",
+    "skillId": "lark-openapi-explorer",
+    "name": "lark-openapi-explorer",
+    "installs": 360296,
+    "owner": "larksuite",
+    "repo": "cli",
+    "githubUrl": "https://github.com/larksuite/cli",
+    "displayName": "Lark Openapi Explorer"
+  }
+}

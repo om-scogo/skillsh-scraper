@@ -1,0 +1,17 @@
+{
+  "skillId": "avoid-ai-writing",
+  "source": "conorbronsdon/avoid-ai-writing",
+  "owner": "conorbronsdon",
+  "repo": "avoid-ai-writing",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "conorbronsdon/avoid-ai-writing",
+    "skillId": "avoid-ai-writing",
+    "name": "avoid-ai-writing",
+    "installs": 972,
+    "owner": "conorbronsdon",
+    "repo": "avoid-ai-writing",
+    "githubUrl": "https://github.com/conorbronsdon/avoid-ai-writing",
+    "displayName": "Avoid Ai Writing"
+  }
+}

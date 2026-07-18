@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-workflow",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-workflow",
+    "name": "agent-workflow",
+    "installs": 1271,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Workflow"
+  }
+}

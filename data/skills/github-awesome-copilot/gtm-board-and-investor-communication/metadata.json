@@ -1,0 +1,17 @@
+{
+  "skillId": "gtm-board-and-investor-communication",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "gtm-board-and-investor-communication",
+    "name": "gtm-board-and-investor-communication",
+    "installs": 1486,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Gtm Board And Investor Communication"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "traffic-analysis-pcap",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "traffic-analysis-pcap",
+    "name": "traffic-analysis-pcap",
+    "installs": 1982,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Traffic Analysis Pcap"
+  }
+}

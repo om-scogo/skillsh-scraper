@@ -1,0 +1,17 @@
+{
+  "skillId": "ralplan",
+  "source": "yeachan-heo/oh-my-claudecode",
+  "owner": "yeachan-heo",
+  "repo": "oh-my-claudecode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yeachan-heo/oh-my-claudecode",
+    "skillId": "ralplan",
+    "name": "ralplan",
+    "installs": 807,
+    "owner": "yeachan-heo",
+    "repo": "oh-my-claudecode",
+    "githubUrl": "https://github.com/yeachan-heo/oh-my-claudecode",
+    "displayName": "Ralplan"
+  }
+}

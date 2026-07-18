@@ -1,0 +1,17 @@
+{
+  "skillId": "machine-learning-engineer",
+  "source": "404kidwiz/claude-supercode-skills",
+  "owner": "404kidwiz",
+  "repo": "claude-supercode-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "404kidwiz/claude-supercode-skills",
+    "skillId": "machine-learning-engineer",
+    "name": "machine-learning-engineer",
+    "installs": 791,
+    "owner": "404kidwiz",
+    "repo": "claude-supercode-skills",
+    "githubUrl": "https://github.com/404kidwiz/claude-supercode-skills",
+    "displayName": "Machine Learning Engineer"
+  }
+}

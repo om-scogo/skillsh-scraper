@@ -1,0 +1,17 @@
+{
+  "skillId": "soultrace",
+  "source": "soultrace-ai/soultrace-skill",
+  "owner": "soultrace-ai",
+  "repo": "soultrace-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "soultrace-ai/soultrace-skill",
+    "skillId": "soultrace",
+    "name": "soultrace",
+    "installs": 12,
+    "owner": "soultrace-ai",
+    "repo": "soultrace-skill",
+    "githubUrl": "https://github.com/soultrace-ai/soultrace-skill",
+    "displayName": "Soultrace"
+  }
+}

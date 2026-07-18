@@ -1,0 +1,17 @@
+{
+  "skillId": "parallel-cli-setup",
+  "source": "parallel-web/parallel-agent-skills",
+  "owner": "parallel-web",
+  "repo": "parallel-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "parallel-web/parallel-agent-skills",
+    "skillId": "parallel-cli-setup",
+    "name": "parallel-cli-setup",
+    "installs": 2619,
+    "owner": "parallel-web",
+    "repo": "parallel-agent-skills",
+    "githubUrl": "https://github.com/parallel-web/parallel-agent-skills",
+    "displayName": "Parallel Cli Setup"
+  }
+}

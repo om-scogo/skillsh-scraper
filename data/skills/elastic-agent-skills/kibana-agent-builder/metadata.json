@@ -1,0 +1,17 @@
+{
+  "skillId": "kibana-agent-builder",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "kibana-agent-builder",
+    "name": "kibana-agent-builder",
+    "installs": 1873,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Kibana Agent Builder"
+  }
+}

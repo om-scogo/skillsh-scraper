@@ -1,0 +1,17 @@
+{
+  "skillId": "gitnexus-exploring",
+  "source": "abhigyanpatwari/gitnexus",
+  "owner": "abhigyanpatwari",
+  "repo": "gitnexus",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "abhigyanpatwari/gitnexus",
+    "skillId": "gitnexus-exploring",
+    "name": "gitnexus-exploring",
+    "installs": 1289,
+    "owner": "abhigyanpatwari",
+    "repo": "gitnexus",
+    "githubUrl": "https://github.com/abhigyanpatwari/gitnexus",
+    "displayName": "Gitnexus Exploring"
+  }
+}

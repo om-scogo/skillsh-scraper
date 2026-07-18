@@ -1,0 +1,17 @@
+{
+  "skillId": "power-apps-code-app-scaffold",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "power-apps-code-app-scaffold",
+    "name": "power-apps-code-app-scaffold",
+    "installs": 8610,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Power Apps Code App Scaffold"
+  }
+}

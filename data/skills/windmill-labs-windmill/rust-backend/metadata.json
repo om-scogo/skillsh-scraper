@@ -1,0 +1,17 @@
+{
+  "skillId": "rust-backend",
+  "source": "windmill-labs/windmill",
+  "owner": "windmill-labs",
+  "repo": "windmill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "windmill-labs/windmill",
+    "skillId": "rust-backend",
+    "name": "rust-backend",
+    "installs": 765,
+    "owner": "windmill-labs",
+    "repo": "windmill",
+    "githubUrl": "https://github.com/windmill-labs/windmill",
+    "displayName": "Rust Backend"
+  }
+}

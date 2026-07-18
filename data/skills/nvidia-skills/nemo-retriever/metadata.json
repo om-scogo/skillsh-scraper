@@ -1,0 +1,17 @@
+{
+  "skillId": "nemo-retriever",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemo-retriever",
+    "name": "nemo-retriever",
+    "installs": 1659,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemo Retriever"
+  }
+}

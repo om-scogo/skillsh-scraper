@@ -1,0 +1,17 @@
+{
+  "skillId": "react-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "react-patterns",
+    "name": "react-patterns",
+    "installs": 1121,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "React Patterns"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "terraform-engineer",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "terraform-engineer",
+    "name": "terraform-engineer",
+    "installs": 3848,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Terraform Engineer"
+  }
+}

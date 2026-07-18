@@ -1,0 +1,17 @@
+{
+  "skillId": "web-reader",
+  "source": "answerzhao/agent-skills",
+  "owner": "answerzhao",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "answerzhao/agent-skills",
+    "skillId": "web-reader",
+    "name": "web-reader",
+    "installs": 1715,
+    "owner": "answerzhao",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/answerzhao/agent-skills",
+    "displayName": "Web Reader"
+  }
+}

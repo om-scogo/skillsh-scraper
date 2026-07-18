@@ -1,0 +1,17 @@
+{
+  "skillId": "bencium-code-conventions",
+  "source": "bencium/bencium-marketplace",
+  "owner": "bencium",
+  "repo": "bencium-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bencium/bencium-marketplace",
+    "skillId": "bencium-code-conventions",
+    "name": "bencium-code-conventions",
+    "installs": 1592,
+    "owner": "bencium",
+    "repo": "bencium-marketplace",
+    "githubUrl": "https://github.com/bencium/bencium-marketplace",
+    "displayName": "Bencium Code Conventions"
+  }
+}

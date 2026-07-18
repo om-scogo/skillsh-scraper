@@ -1,0 +1,17 @@
+{
+  "skillId": "security-alert-triage",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "security-alert-triage",
+    "name": "security-alert-triage",
+    "installs": 1767,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Security Alert Triage"
+  }
+}

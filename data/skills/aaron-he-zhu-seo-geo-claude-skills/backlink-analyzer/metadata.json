@@ -1,0 +1,17 @@
+{
+  "skillId": "backlink-analyzer",
+  "source": "aaron-he-zhu/seo-geo-claude-skills",
+  "owner": "aaron-he-zhu",
+  "repo": "seo-geo-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aaron-he-zhu/seo-geo-claude-skills",
+    "skillId": "backlink-analyzer",
+    "name": "backlink-analyzer",
+    "installs": 26074,
+    "owner": "aaron-he-zhu",
+    "repo": "seo-geo-claude-skills",
+    "githubUrl": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+    "displayName": "Backlink Analyzer"
+  }
+}

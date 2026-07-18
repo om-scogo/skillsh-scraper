@@ -1,0 +1,17 @@
+{
+  "skillId": "implementing-ui-bundle-file-upload",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "implementing-ui-bundle-file-upload",
+    "name": "implementing-ui-bundle-file-upload",
+    "installs": 2100,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Implementing Ui Bundle File Upload"
+  }
+}

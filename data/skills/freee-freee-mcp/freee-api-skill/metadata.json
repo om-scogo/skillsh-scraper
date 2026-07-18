@@ -1,0 +1,17 @@
+{
+  "skillId": "freee-api-skill",
+  "source": "freee/freee-mcp",
+  "owner": "freee",
+  "repo": "freee-mcp",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freee/freee-mcp",
+    "skillId": "freee-api-skill",
+    "name": "freee-api-skill",
+    "installs": 2260,
+    "owner": "freee",
+    "repo": "freee-mcp",
+    "githubUrl": "https://github.com/freee/freee-mcp",
+    "displayName": "Freee Api Skill"
+  }
+}

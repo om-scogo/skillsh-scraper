@@ -1,0 +1,17 @@
+{
+  "skillId": "flags",
+  "source": "facebook/react",
+  "owner": "facebook",
+  "repo": "react",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "facebook/react",
+    "skillId": "flags",
+    "name": "flags",
+    "installs": 947,
+    "owner": "facebook",
+    "repo": "react",
+    "githubUrl": "https://github.com/facebook/react",
+    "displayName": "Flags"
+  }
+}

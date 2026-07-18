@@ -1,0 +1,17 @@
+{
+  "skillId": "onchain-pay-open-api",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "onchain-pay-open-api",
+    "name": "onchain-pay-open-api",
+    "installs": 3515,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Onchain Pay Open Api"
+  }
+}

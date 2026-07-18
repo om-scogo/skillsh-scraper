@@ -1,0 +1,17 @@
+{
+  "skillId": "create-an-asset",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "create-an-asset",
+    "name": "create-an-asset",
+    "installs": 2087,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Create An Asset"
+  }
+}

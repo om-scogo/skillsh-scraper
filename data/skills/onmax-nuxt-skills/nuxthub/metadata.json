@@ -1,0 +1,17 @@
+{
+  "skillId": "nuxthub",
+  "source": "onmax/nuxt-skills",
+  "owner": "onmax",
+  "repo": "nuxt-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "onmax/nuxt-skills",
+    "skillId": "nuxthub",
+    "name": "nuxthub",
+    "installs": 1540,
+    "owner": "onmax",
+    "repo": "nuxt-skills",
+    "githubUrl": "https://github.com/onmax/nuxt-skills",
+    "displayName": "Nuxthub"
+  }
+}

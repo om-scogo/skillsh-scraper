@@ -1,0 +1,17 @@
+{
+  "skillId": "sf-industry-commoncore-omniscript",
+  "source": "jaganpro/sf-skills",
+  "owner": "jaganpro",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jaganpro/sf-skills",
+    "skillId": "sf-industry-commoncore-omniscript",
+    "name": "sf-industry-commoncore-omniscript",
+    "installs": 929,
+    "owner": "jaganpro",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/jaganpro/sf-skills",
+    "displayName": "Sf Industry Commoncore Omniscript"
+  }
+}

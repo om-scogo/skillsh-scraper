@@ -1,0 +1,17 @@
+{
+  "skillId": "voice-isolator",
+  "source": "elevenlabs/skills",
+  "owner": "elevenlabs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elevenlabs/skills",
+    "skillId": "voice-isolator",
+    "name": "voice-isolator",
+    "installs": 1947,
+    "owner": "elevenlabs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/elevenlabs/skills",
+    "displayName": "Voice Isolator"
+  }
+}

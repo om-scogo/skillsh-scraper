@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-nextjs-patterns",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-nextjs-patterns",
+    "name": "clerk-nextjs-patterns",
+    "installs": 25489,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk Nextjs Patterns"
+  }
+}

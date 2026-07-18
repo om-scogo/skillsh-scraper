@@ -1,0 +1,17 @@
+{
+  "skillId": "multi-stage-dockerfile",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "multi-stage-dockerfile",
+    "name": "multi-stage-dockerfile",
+    "installs": 17995,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Multi Stage Dockerfile"
+  }
+}

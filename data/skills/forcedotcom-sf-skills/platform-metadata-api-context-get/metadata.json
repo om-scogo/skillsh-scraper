@@ -1,0 +1,17 @@
+{
+  "skillId": "platform-metadata-api-context-get",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "platform-metadata-api-context-get",
+    "name": "platform-metadata-api-context-get",
+    "installs": 1527,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Platform Metadata Api Context Get"
+  }
+}

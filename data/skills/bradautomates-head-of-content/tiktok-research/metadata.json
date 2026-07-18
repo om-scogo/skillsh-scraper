@@ -1,0 +1,17 @@
+{
+  "skillId": "tiktok-research",
+  "source": "bradautomates/head-of-content",
+  "owner": "bradautomates",
+  "repo": "head-of-content",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bradautomates/head-of-content",
+    "skillId": "tiktok-research",
+    "name": "tiktok-research",
+    "installs": 990,
+    "owner": "bradautomates",
+    "repo": "head-of-content",
+    "githubUrl": "https://github.com/bradautomates/head-of-content",
+    "displayName": "Tiktok Research"
+  }
+}

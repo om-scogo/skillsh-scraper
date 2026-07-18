@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-browser",
+  "source": "halt-catch-fire/skills",
+  "owner": "halt-catch-fire",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "halt-catch-fire/skills",
+    "skillId": "agent-browser",
+    "name": "agent-browser",
+    "installs": 11,
+    "owner": "halt-catch-fire",
+    "repo": "skills",
+    "githubUrl": "https://github.com/halt-catch-fire/skills",
+    "displayName": "Agent Browser"
+  }
+}

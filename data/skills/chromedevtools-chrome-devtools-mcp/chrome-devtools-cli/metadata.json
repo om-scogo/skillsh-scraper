@@ -1,0 +1,17 @@
+{
+  "skillId": "chrome-devtools-cli",
+  "source": "chromedevtools/chrome-devtools-mcp",
+  "owner": "chromedevtools",
+  "repo": "chrome-devtools-mcp",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chromedevtools/chrome-devtools-mcp",
+    "skillId": "chrome-devtools-cli",
+    "name": "chrome-devtools-cli",
+    "installs": 1994,
+    "owner": "chromedevtools",
+    "repo": "chrome-devtools-mcp",
+    "githubUrl": "https://github.com/chromedevtools/chrome-devtools-mcp",
+    "displayName": "Chrome Devtools Cli"
+  }
+}

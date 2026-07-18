@@ -1,0 +1,17 @@
+{
+  "skillId": "code-simplifier",
+  "source": "getsentry/skills",
+  "owner": "getsentry",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/skills",
+    "skillId": "code-simplifier",
+    "name": "code-simplifier",
+    "installs": 6481,
+    "owner": "getsentry",
+    "repo": "skills",
+    "githubUrl": "https://github.com/getsentry/skills",
+    "displayName": "Code Simplifier"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "translate-book",
+  "source": "deusyu/translate-book",
+  "owner": "deusyu",
+  "repo": "translate-book",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "deusyu/translate-book",
+    "skillId": "translate-book",
+    "name": "translate-book",
+    "installs": 925,
+    "owner": "deusyu",
+    "repo": "translate-book",
+    "githubUrl": "https://github.com/deusyu/translate-book",
+    "displayName": "Translate Book"
+  }
+}

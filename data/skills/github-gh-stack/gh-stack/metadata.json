@@ -1,0 +1,17 @@
+{
+  "skillId": "gh-stack",
+  "source": "github/gh-stack",
+  "owner": "github",
+  "repo": "gh-stack",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/gh-stack",
+    "skillId": "gh-stack",
+    "name": "gh-stack",
+    "installs": 2620,
+    "owner": "github",
+    "repo": "gh-stack",
+    "githubUrl": "https://github.com/github/gh-stack",
+    "displayName": "Gh Stack"
+  }
+}

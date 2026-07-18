@@ -1,0 +1,17 @@
+{
+  "skillId": "freepik-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "freepik-downloader",
+    "name": "freepik-downloader",
+    "installs": 961,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Freepik Downloader"
+  }
+}

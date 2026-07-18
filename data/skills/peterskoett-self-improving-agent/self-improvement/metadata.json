@@ -1,0 +1,17 @@
+{
+  "skillId": "self-improvement",
+  "source": "peterskoett/self-improving-agent",
+  "owner": "peterskoett",
+  "repo": "self-improving-agent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "peterskoett/self-improving-agent",
+    "skillId": "self-improvement",
+    "name": "self-improvement",
+    "installs": 1175,
+    "owner": "peterskoett",
+    "repo": "self-improving-agent",
+    "githubUrl": "https://github.com/peterskoett/self-improving-agent",
+    "displayName": "Self Improvement"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "html",
+  "source": "plannotator/effective-html",
+  "owner": "plannotator",
+  "repo": "effective-html",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "plannotator/effective-html",
+    "skillId": "html",
+    "name": "html",
+    "installs": 1380,
+    "owner": "plannotator",
+    "repo": "effective-html",
+    "githubUrl": "https://github.com/plannotator/effective-html",
+    "displayName": "Html"
+  }
+}

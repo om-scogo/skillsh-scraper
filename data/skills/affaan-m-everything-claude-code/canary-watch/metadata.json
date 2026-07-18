@@ -1,0 +1,17 @@
+{
+  "skillId": "canary-watch",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "canary-watch",
+    "name": "canary-watch",
+    "installs": 3908,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Canary Watch"
+  }
+}

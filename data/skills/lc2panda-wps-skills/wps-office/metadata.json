@@ -1,0 +1,17 @@
+{
+  "skillId": "wps-office",
+  "source": "lc2panda/wps-skills",
+  "owner": "lc2panda",
+  "repo": "wps-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lc2panda/wps-skills",
+    "skillId": "wps-office",
+    "name": "wps-office",
+    "installs": 1842,
+    "owner": "lc2panda",
+    "repo": "wps-skills",
+    "githubUrl": "https://github.com/lc2panda/wps-skills",
+    "displayName": "Wps Office"
+  }
+}

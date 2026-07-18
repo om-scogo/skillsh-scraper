@@ -1,0 +1,17 @@
+{
+  "skillId": "insforge-integrations",
+  "source": "insforge/agent-skills",
+  "owner": "insforge",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "insforge/agent-skills",
+    "skillId": "insforge-integrations",
+    "name": "insforge-integrations",
+    "installs": 15602,
+    "owner": "insforge",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/insforge/agent-skills",
+    "displayName": "Insforge Integrations"
+  }
+}

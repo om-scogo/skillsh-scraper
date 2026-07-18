@@ -1,0 +1,17 @@
+{
+  "skillId": "acquisition-channel-advisor",
+  "source": "deanpeters/product-manager-skills",
+  "owner": "deanpeters",
+  "repo": "product-manager-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "deanpeters/product-manager-skills",
+    "skillId": "acquisition-channel-advisor",
+    "name": "acquisition-channel-advisor",
+    "installs": 1495,
+    "owner": "deanpeters",
+    "repo": "product-manager-skills",
+    "githubUrl": "https://github.com/deanpeters/product-manager-skills",
+    "displayName": "Acquisition Channel Advisor"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "humanizer-zh-tw",
+  "source": "kevintsai1202/humanizer-zh-tw",
+  "owner": "kevintsai1202",
+  "repo": "humanizer-zh-tw",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kevintsai1202/humanizer-zh-tw",
+    "skillId": "humanizer-zh-tw",
+    "name": "humanizer-zh-tw",
+    "installs": 740,
+    "owner": "kevintsai1202",
+    "repo": "humanizer-zh-tw",
+    "githubUrl": "https://github.com/kevintsai1202/humanizer-zh-tw",
+    "displayName": "Humanizer Zh Tw"
+  }
+}

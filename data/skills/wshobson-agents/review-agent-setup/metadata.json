@@ -1,0 +1,17 @@
+{
+  "skillId": "review-agent-setup",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "review-agent-setup",
+    "name": "review-agent-setup",
+    "installs": 2634,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Review Agent Setup"
+  }
+}

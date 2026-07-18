@@ -1,0 +1,17 @@
+{
+  "skillId": "xcodebuildmcp",
+  "source": "cameroncooke/xcodebuildmcp",
+  "owner": "cameroncooke",
+  "repo": "xcodebuildmcp",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cameroncooke/xcodebuildmcp",
+    "skillId": "xcodebuildmcp",
+    "name": "xcodebuildmcp",
+    "installs": 742,
+    "owner": "cameroncooke",
+    "repo": "xcodebuildmcp",
+    "githubUrl": "https://github.com/cameroncooke/xcodebuildmcp",
+    "displayName": "Xcodebuildmcp"
+  }
+}

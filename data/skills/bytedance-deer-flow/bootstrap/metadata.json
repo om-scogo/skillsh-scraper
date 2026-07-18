@@ -1,0 +1,17 @@
+{
+  "skillId": "bootstrap",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "bootstrap",
+    "name": "bootstrap",
+    "installs": 903,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Bootstrap"
+  }
+}

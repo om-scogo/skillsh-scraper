@@ -1,0 +1,17 @@
+{
+  "skillId": "spring-boot-openapi-documentation",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "spring-boot-openapi-documentation",
+    "name": "spring-boot-openapi-documentation",
+    "installs": 1720,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Spring Boot Openapi Documentation"
+  }
+}

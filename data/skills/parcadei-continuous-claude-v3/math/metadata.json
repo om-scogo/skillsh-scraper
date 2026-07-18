@@ -1,0 +1,17 @@
+{
+  "skillId": "math",
+  "source": "parcadei/continuous-claude-v3",
+  "owner": "parcadei",
+  "repo": "continuous-claude-v3",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "parcadei/continuous-claude-v3",
+    "skillId": "math",
+    "name": "math",
+    "installs": 778,
+    "owner": "parcadei",
+    "repo": "continuous-claude-v3",
+    "githubUrl": "https://github.com/parcadei/continuous-claude-v3",
+    "displayName": "Math"
+  }
+}

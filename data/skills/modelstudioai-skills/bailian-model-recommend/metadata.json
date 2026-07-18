@@ -1,0 +1,17 @@
+{
+  "skillId": "bailian-model-recommend",
+  "source": "modelstudioai/skills",
+  "owner": "modelstudioai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "modelstudioai/skills",
+    "skillId": "bailian-model-recommend",
+    "name": "bailian-model-recommend",
+    "installs": 754,
+    "owner": "modelstudioai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/modelstudioai/skills",
+    "displayName": "Bailian Model Recommend"
+  }
+}

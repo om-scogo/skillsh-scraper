@@ -1,0 +1,17 @@
+{
+  "skillId": "go-style-core",
+  "source": "cxuu/golang-skills",
+  "owner": "cxuu",
+  "repo": "golang-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cxuu/golang-skills",
+    "skillId": "go-style-core",
+    "name": "go-style-core",
+    "installs": 818,
+    "owner": "cxuu",
+    "repo": "golang-skills",
+    "githubUrl": "https://github.com/cxuu/golang-skills",
+    "displayName": "Go Style Core"
+  }
+}

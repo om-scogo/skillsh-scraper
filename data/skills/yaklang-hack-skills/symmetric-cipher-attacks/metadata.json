@@ -1,0 +1,17 @@
+{
+  "skillId": "symmetric-cipher-attacks",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "symmetric-cipher-attacks",
+    "name": "symmetric-cipher-attacks",
+    "installs": 1891,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Symmetric Cipher Attacks"
+  }
+}

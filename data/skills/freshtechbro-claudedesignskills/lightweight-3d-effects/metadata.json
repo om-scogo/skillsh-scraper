@@ -1,0 +1,17 @@
+{
+  "skillId": "lightweight-3d-effects",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "lightweight-3d-effects",
+    "name": "lightweight-3d-effects",
+    "installs": 1312,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Lightweight 3d Effects"
+  }
+}

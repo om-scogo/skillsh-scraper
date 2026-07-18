@@ -1,0 +1,17 @@
+{
+  "skillId": "next-dev-loop",
+  "source": "vercel/next.js",
+  "owner": "vercel",
+  "repo": "next.js",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/next.js",
+    "skillId": "next-dev-loop",
+    "name": "next-dev-loop",
+    "installs": 2768,
+    "owner": "vercel",
+    "repo": "next.js",
+    "githubUrl": "https://github.com/vercel/next.js",
+    "displayName": "Next Dev Loop"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "casely",
+  "source": "johnwayneeee/casely-qa-skill",
+  "owner": "johnwayneeee",
+  "repo": "casely-qa-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "johnwayneeee/casely-qa-skill",
+    "skillId": "casely",
+    "name": "casely",
+    "installs": 819,
+    "owner": "johnwayneeee",
+    "repo": "casely-qa-skill",
+    "githubUrl": "https://github.com/johnwayneeee/casely-qa-skill",
+    "displayName": "Casely"
+  }
+}

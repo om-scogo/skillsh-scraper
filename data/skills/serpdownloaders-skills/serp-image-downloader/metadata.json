@@ -1,0 +1,17 @@
+{
+  "skillId": "serp-image-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "serp-image-downloader",
+    "name": "serp-image-downloader",
+    "installs": 1127,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Serp Image Downloader"
+  }
+}

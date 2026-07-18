@@ -1,0 +1,17 @@
+{
+  "skillId": "web-search-plus",
+  "source": "robbyczgw-cla/web-search-plus",
+  "owner": "robbyczgw-cla",
+  "repo": "web-search-plus",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "robbyczgw-cla/web-search-plus",
+    "skillId": "web-search-plus",
+    "name": "web-search-plus",
+    "installs": 1235,
+    "owner": "robbyczgw-cla",
+    "repo": "web-search-plus",
+    "githubUrl": "https://github.com/robbyczgw-cla/web-search-plus",
+    "displayName": "Web Search Plus"
+  }
+}

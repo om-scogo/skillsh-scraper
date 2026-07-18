@@ -1,0 +1,17 @@
+{
+  "skillId": "idea-generation",
+  "source": "lingzhi227/agent-research-skills",
+  "owner": "lingzhi227",
+  "repo": "agent-research-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lingzhi227/agent-research-skills",
+    "skillId": "idea-generation",
+    "name": "idea-generation",
+    "installs": 1232,
+    "owner": "lingzhi227",
+    "repo": "agent-research-skills",
+    "githubUrl": "https://github.com/lingzhi227/agent-research-skills",
+    "displayName": "Idea Generation"
+  }
+}

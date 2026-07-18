@@ -1,0 +1,17 @@
+{
+  "skillId": "linear",
+  "source": "lobehub/lobe-chat",
+  "owner": "lobehub",
+  "repo": "lobe-chat",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobe-chat",
+    "skillId": "linear",
+    "name": "linear",
+    "installs": 1311,
+    "owner": "lobehub",
+    "repo": "lobe-chat",
+    "githubUrl": "https://github.com/lobehub/lobe-chat",
+    "displayName": "Linear"
+  }
+}

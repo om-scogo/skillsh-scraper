@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwind",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "tailwind",
+    "name": "tailwind",
+    "installs": 71126,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Tailwind"
+  }
+}

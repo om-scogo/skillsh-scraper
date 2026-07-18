@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-code-marketing-skills",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "claude-code-marketing-skills",
+    "name": "claude-code-marketing-skills",
+    "installs": 829,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Claude Code Marketing Skills"
+  }
+}

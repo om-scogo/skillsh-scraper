@@ -1,0 +1,17 @@
+{
+  "skillId": "surprise-me",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "surprise-me",
+    "name": "surprise-me",
+    "installs": 1663,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Surprise Me"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "okx-dex-signal",
+  "source": "okx/onchainos-skills",
+  "owner": "okx",
+  "repo": "onchainos-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "okx/onchainos-skills",
+    "skillId": "okx-dex-signal",
+    "name": "okx-dex-signal",
+    "installs": 7738,
+    "owner": "okx",
+    "repo": "onchainos-skills",
+    "githubUrl": "https://github.com/okx/onchainos-skills",
+    "displayName": "Okx Dex Signal"
+  }
+}

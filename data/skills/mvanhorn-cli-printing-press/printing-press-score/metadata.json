@@ -1,0 +1,17 @@
+{
+  "skillId": "printing-press-score",
+  "source": "mvanhorn/cli-printing-press",
+  "owner": "mvanhorn",
+  "repo": "cli-printing-press",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mvanhorn/cli-printing-press",
+    "skillId": "printing-press-score",
+    "name": "printing-press-score",
+    "installs": 4378,
+    "owner": "mvanhorn",
+    "repo": "cli-printing-press",
+    "githubUrl": "https://github.com/mvanhorn/cli-printing-press",
+    "displayName": "Printing Press Score"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "systematic-debugging",
+  "source": "jnmetacode/superpowers-zh",
+  "owner": "jnmetacode",
+  "repo": "superpowers-zh",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jnmetacode/superpowers-zh",
+    "skillId": "systematic-debugging",
+    "name": "systematic-debugging",
+    "installs": 861,
+    "owner": "jnmetacode",
+    "repo": "superpowers-zh",
+    "githubUrl": "https://github.com/jnmetacode/superpowers-zh",
+    "displayName": "Systematic Debugging"
+  }
+}

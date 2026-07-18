@@ -1,0 +1,17 @@
+{
+  "skillId": "developing-genkit-python",
+  "source": "firebase/agent-skills",
+  "owner": "firebase",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firebase/agent-skills",
+    "skillId": "developing-genkit-python",
+    "name": "developing-genkit-python",
+    "installs": 33467,
+    "owner": "firebase",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/firebase/agent-skills",
+    "displayName": "Developing Genkit Python"
+  }
+}

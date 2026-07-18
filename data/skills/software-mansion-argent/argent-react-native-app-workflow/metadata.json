@@ -1,0 +1,17 @@
+{
+  "skillId": "argent-react-native-app-workflow",
+  "source": "software-mansion/argent",
+  "owner": "software-mansion",
+  "repo": "argent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "software-mansion/argent",
+    "skillId": "argent-react-native-app-workflow",
+    "name": "argent-react-native-app-workflow",
+    "installs": 6823,
+    "owner": "software-mansion",
+    "repo": "argent",
+    "githubUrl": "https://github.com/software-mansion/argent",
+    "displayName": "Argent React Native App Workflow"
+  }
+}

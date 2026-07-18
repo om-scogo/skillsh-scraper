@@ -1,0 +1,17 @@
+{
+  "skillId": "what-the",
+  "source": "thedotmack/claude-mem",
+  "owner": "thedotmack",
+  "repo": "claude-mem",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thedotmack/claude-mem",
+    "skillId": "what-the",
+    "name": "what-the",
+    "installs": 897,
+    "owner": "thedotmack",
+    "repo": "claude-mem",
+    "githubUrl": "https://github.com/thedotmack/claude-mem",
+    "displayName": "What The"
+  }
+}

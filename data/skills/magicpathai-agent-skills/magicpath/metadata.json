@@ -1,0 +1,17 @@
+{
+  "skillId": "magicpath",
+  "source": "magicpathai/agent-skills",
+  "owner": "magicpathai",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "magicpathai/agent-skills",
+    "skillId": "magicpath",
+    "name": "magicpath",
+    "installs": 5038,
+    "owner": "magicpathai",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/magicpathai/agent-skills",
+    "displayName": "Magicpath"
+  }
+}

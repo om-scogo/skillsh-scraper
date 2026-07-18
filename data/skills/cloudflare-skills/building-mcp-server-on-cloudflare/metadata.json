@@ -1,0 +1,17 @@
+{
+  "skillId": "building-mcp-server-on-cloudflare",
+  "source": "cloudflare/skills",
+  "owner": "cloudflare",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudflare/skills",
+    "skillId": "building-mcp-server-on-cloudflare",
+    "name": "building-mcp-server-on-cloudflare",
+    "installs": 3543,
+    "owner": "cloudflare",
+    "repo": "skills",
+    "githubUrl": "https://github.com/cloudflare/skills",
+    "displayName": "Building Mcp Server On Cloudflare"
+  }
+}

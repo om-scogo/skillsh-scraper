@@ -1,0 +1,17 @@
+{
+  "skillId": "baoyu-diagram",
+  "source": "jimliu/baoyu-skills",
+  "owner": "jimliu",
+  "repo": "baoyu-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jimliu/baoyu-skills",
+    "skillId": "baoyu-diagram",
+    "name": "baoyu-diagram",
+    "installs": 11746,
+    "owner": "jimliu",
+    "repo": "baoyu-skills",
+    "githubUrl": "https://github.com/jimliu/baoyu-skills",
+    "displayName": "Baoyu Diagram"
+  }
+}

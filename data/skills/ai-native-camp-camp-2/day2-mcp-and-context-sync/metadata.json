@@ -1,0 +1,17 @@
+{
+  "skillId": "day2-mcp-and-context-sync",
+  "source": "ai-native-camp/camp-2",
+  "owner": "ai-native-camp",
+  "repo": "camp-2",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ai-native-camp/camp-2",
+    "skillId": "day2-mcp-and-context-sync",
+    "name": "day2-mcp-and-context-sync",
+    "installs": 1385,
+    "owner": "ai-native-camp",
+    "repo": "camp-2",
+    "githubUrl": "https://github.com/ai-native-camp/camp-2",
+    "displayName": "Day2 Mcp And Context Sync"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "taste-design",
+  "source": "google-labs-code/stitch-skills",
+  "owner": "google-labs-code",
+  "repo": "stitch-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-labs-code/stitch-skills",
+    "skillId": "taste-design",
+    "name": "taste-design",
+    "installs": 14015,
+    "owner": "google-labs-code",
+    "repo": "stitch-skills",
+    "githubUrl": "https://github.com/google-labs-code/stitch-skills",
+    "displayName": "Taste Design"
+  }
+}

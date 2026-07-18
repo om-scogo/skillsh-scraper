@@ -1,0 +1,17 @@
+{
+  "skillId": "day5-fetch-and-digest",
+  "source": "ai-native-camp/camp-1",
+  "owner": "ai-native-camp",
+  "repo": "camp-1",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ai-native-camp/camp-1",
+    "skillId": "day5-fetch-and-digest",
+    "name": "day5-fetch-and-digest",
+    "installs": 1359,
+    "owner": "ai-native-camp",
+    "repo": "camp-1",
+    "githubUrl": "https://github.com/ai-native-camp/camp-1",
+    "displayName": "Day5 Fetch And Digest"
+  }
+}

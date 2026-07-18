@@ -1,0 +1,17 @@
+{
+  "skillId": "binance-tokenized-securities-info",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "binance-tokenized-securities-info",
+    "name": "binance-tokenized-securities-info",
+    "installs": 3402,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Binance Tokenized Securities Info"
+  }
+}

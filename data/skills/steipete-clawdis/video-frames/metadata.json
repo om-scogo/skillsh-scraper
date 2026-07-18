@@ -1,0 +1,17 @@
+{
+  "skillId": "video-frames",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "video-frames",
+    "name": "video-frames",
+    "installs": 3132,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Video Frames"
+  }
+}

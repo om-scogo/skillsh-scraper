@@ -1,0 +1,17 @@
+{
+  "skillId": "dependency-upgrade",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "dependency-upgrade",
+    "name": "dependency-upgrade",
+    "installs": 8390,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Dependency Upgrade"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "interface-design",
+  "source": "dammyjay93/interface-design",
+  "owner": "dammyjay93",
+  "repo": "interface-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dammyjay93/interface-design",
+    "skillId": "interface-design",
+    "name": "interface-design",
+    "installs": 20486,
+    "owner": "dammyjay93",
+    "repo": "interface-design",
+    "githubUrl": "https://github.com/dammyjay93/interface-design",
+    "displayName": "Interface Design"
+  }
+}

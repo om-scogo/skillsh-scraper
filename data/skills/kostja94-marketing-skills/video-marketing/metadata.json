@@ -1,0 +1,17 @@
+{
+  "skillId": "video-marketing",
+  "source": "kostja94/marketing-skills",
+  "owner": "kostja94",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kostja94/marketing-skills",
+    "skillId": "video-marketing",
+    "name": "video-marketing",
+    "installs": 2073,
+    "owner": "kostja94",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/kostja94/marketing-skills",
+    "displayName": "Video Marketing"
+  }
+}

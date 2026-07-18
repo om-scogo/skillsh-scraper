@@ -1,0 +1,17 @@
+{
+  "skillId": "notion-meeting-intelligence",
+  "source": "openai/skills",
+  "owner": "openai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openai/skills",
+    "skillId": "notion-meeting-intelligence",
+    "name": "notion-meeting-intelligence",
+    "installs": 1814,
+    "owner": "openai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/openai/skills",
+    "displayName": "Notion Meeting Intelligence"
+  }
+}

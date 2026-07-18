@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-chrome-extension-patterns",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-chrome-extension-patterns",
+    "name": "clerk-chrome-extension-patterns",
+    "installs": 7057,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk Chrome Extension Patterns"
+  }
+}

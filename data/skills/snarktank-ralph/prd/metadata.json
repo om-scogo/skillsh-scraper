@@ -1,0 +1,17 @@
+{
+  "skillId": "prd",
+  "source": "snarktank/ralph",
+  "owner": "snarktank",
+  "repo": "ralph",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "snarktank/ralph",
+    "skillId": "prd",
+    "name": "prd",
+    "installs": 1237,
+    "owner": "snarktank",
+    "repo": "ralph",
+    "githubUrl": "https://github.com/snarktank/ralph",
+    "displayName": "Prd"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "aframe-webxr",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "aframe-webxr",
+    "name": "aframe-webxr",
+    "installs": 1209,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Aframe Webxr"
+  }
+}

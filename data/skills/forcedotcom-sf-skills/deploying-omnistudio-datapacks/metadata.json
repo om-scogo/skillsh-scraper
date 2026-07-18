@@ -1,0 +1,17 @@
+{
+  "skillId": "deploying-omnistudio-datapacks",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "deploying-omnistudio-datapacks",
+    "name": "deploying-omnistudio-datapacks",
+    "installs": 1931,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Deploying Omnistudio Datapacks"
+  }
+}

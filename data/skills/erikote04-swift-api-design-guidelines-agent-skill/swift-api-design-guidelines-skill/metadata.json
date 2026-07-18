@@ -1,0 +1,17 @@
+{
+  "skillId": "swift-api-design-guidelines-skill",
+  "source": "erikote04/swift-api-design-guidelines-agent-skill",
+  "owner": "erikote04",
+  "repo": "swift-api-design-guidelines-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "erikote04/swift-api-design-guidelines-agent-skill",
+    "skillId": "swift-api-design-guidelines-skill",
+    "name": "swift-api-design-guidelines-skill",
+    "installs": 838,
+    "owner": "erikote04",
+    "repo": "swift-api-design-guidelines-agent-skill",
+    "githubUrl": "https://github.com/erikote04/swift-api-design-guidelines-agent-skill",
+    "displayName": "Swift Api Design Guidelines Skill"
+  }
+}

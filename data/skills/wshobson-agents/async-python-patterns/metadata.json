@@ -1,0 +1,17 @@
+{
+  "skillId": "async-python-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "async-python-patterns",
+    "name": "async-python-patterns",
+    "installs": 13309,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Async Python Patterns"
+  }
+}

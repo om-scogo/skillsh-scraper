@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-authoring",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "skill-authoring",
+    "name": "skill-authoring",
+    "installs": 919,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Skill Authoring"
+  }
+}

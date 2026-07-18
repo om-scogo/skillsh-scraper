@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-instruct",
+  "source": "firecrawl/cli",
+  "owner": "firecrawl",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/cli",
+    "skillId": "firecrawl-instruct",
+    "name": "firecrawl-instruct",
+    "installs": 3276,
+    "owner": "firecrawl",
+    "repo": "cli",
+    "githubUrl": "https://github.com/firecrawl/cli",
+    "displayName": "Firecrawl Instruct"
+  }
+}

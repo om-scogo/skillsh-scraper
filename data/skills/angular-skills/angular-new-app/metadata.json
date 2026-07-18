@@ -1,0 +1,17 @@
+{
+  "skillId": "angular-new-app",
+  "source": "angular/skills",
+  "owner": "angular",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "angular/skills",
+    "skillId": "angular-new-app",
+    "name": "angular-new-app",
+    "installs": 9019,
+    "owner": "angular",
+    "repo": "skills",
+    "githubUrl": "https://github.com/angular/skills",
+    "displayName": "Angular New App"
+  }
+}

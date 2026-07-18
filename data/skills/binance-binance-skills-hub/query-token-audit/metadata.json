@@ -1,0 +1,17 @@
+{
+  "skillId": "query-token-audit",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "query-token-audit",
+    "name": "query-token-audit",
+    "installs": 5457,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Query Token Audit"
+  }
+}

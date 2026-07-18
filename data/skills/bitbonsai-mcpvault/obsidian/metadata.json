@@ -1,0 +1,17 @@
+{
+  "skillId": "obsidian",
+  "source": "bitbonsai/mcpvault",
+  "owner": "bitbonsai",
+  "repo": "mcpvault",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bitbonsai/mcpvault",
+    "skillId": "obsidian",
+    "name": "obsidian",
+    "installs": 1153,
+    "owner": "bitbonsai",
+    "repo": "mcpvault",
+    "githubUrl": "https://github.com/bitbonsai/mcpvault",
+    "displayName": "Obsidian"
+  }
+}

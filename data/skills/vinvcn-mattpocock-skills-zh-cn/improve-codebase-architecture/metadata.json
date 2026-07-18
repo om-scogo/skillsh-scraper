@@ -1,0 +1,17 @@
+{
+  "skillId": "improve-codebase-architecture",
+  "source": "vinvcn/mattpocock-skills-zh-cn",
+  "owner": "vinvcn",
+  "repo": "mattpocock-skills-zh-cn",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vinvcn/mattpocock-skills-zh-cn",
+    "skillId": "improve-codebase-architecture",
+    "name": "improve-codebase-architecture",
+    "installs": 2507,
+    "owner": "vinvcn",
+    "repo": "mattpocock-skills-zh-cn",
+    "githubUrl": "https://github.com/vinvcn/mattpocock-skills-zh-cn",
+    "displayName": "Improve Codebase Architecture"
+  }
+}

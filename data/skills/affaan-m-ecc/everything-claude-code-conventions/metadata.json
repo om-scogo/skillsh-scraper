@@ -1,0 +1,17 @@
+{
+  "skillId": "everything-claude-code-conventions",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "everything-claude-code-conventions",
+    "name": "everything-claude-code-conventions",
+    "installs": 1100,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Everything Claude Code Conventions"
+  }
+}

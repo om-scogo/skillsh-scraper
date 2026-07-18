@@ -1,0 +1,17 @@
+{
+  "skillId": "mcp-create-adaptive-cards",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "mcp-create-adaptive-cards",
+    "name": "mcp-create-adaptive-cards",
+    "installs": 8621,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Mcp Create Adaptive Cards"
+  }
+}

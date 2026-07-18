@@ -1,0 +1,17 @@
+{
+  "skillId": "ctx-stats",
+  "source": "mksglu/context-mode",
+  "owner": "mksglu",
+  "repo": "context-mode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mksglu/context-mode",
+    "skillId": "ctx-stats",
+    "name": "ctx-stats",
+    "installs": 757,
+    "owner": "mksglu",
+    "repo": "context-mode",
+    "githubUrl": "https://github.com/mksglu/context-mode",
+    "displayName": "Ctx Stats"
+  }
+}

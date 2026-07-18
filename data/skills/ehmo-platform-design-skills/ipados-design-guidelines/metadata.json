@@ -1,0 +1,17 @@
+{
+  "skillId": "ipados-design-guidelines",
+  "source": "ehmo/platform-design-skills",
+  "owner": "ehmo",
+  "repo": "platform-design-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ehmo/platform-design-skills",
+    "skillId": "ipados-design-guidelines",
+    "name": "ipados-design-guidelines",
+    "installs": 763,
+    "owner": "ehmo",
+    "repo": "platform-design-skills",
+    "githubUrl": "https://github.com/ehmo/platform-design-skills",
+    "displayName": "Ipados Design Guidelines"
+  }
+}

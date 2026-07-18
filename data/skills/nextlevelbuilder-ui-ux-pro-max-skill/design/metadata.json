@@ -1,0 +1,17 @@
+{
+  "skillId": "design",
+  "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+  "owner": "nextlevelbuilder",
+  "repo": "ui-ux-pro-max-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "skillId": "design",
+    "name": "design",
+    "installs": 7993,
+    "owner": "nextlevelbuilder",
+    "repo": "ui-ux-pro-max-skill",
+    "githubUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "displayName": "Design"
+  }
+}

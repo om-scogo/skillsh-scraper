@@ -1,0 +1,17 @@
+{
+  "skillId": "remotion-render",
+  "source": "101-skills/skills",
+  "owner": "101-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "101-skills/skills",
+    "skillId": "remotion-render",
+    "name": "remotion-render",
+    "installs": 175079,
+    "owner": "101-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/101-skills/skills",
+    "displayName": "Remotion Render"
+  }
+}

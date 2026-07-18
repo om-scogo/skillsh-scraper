@@ -1,0 +1,17 @@
+{
+  "skillId": "gpt-image-2",
+  "source": "gargantuax/openskills",
+  "owner": "gargantuax",
+  "repo": "openskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gargantuax/openskills",
+    "skillId": "gpt-image-2",
+    "name": "gpt-image-2",
+    "installs": 16672,
+    "owner": "gargantuax",
+    "repo": "openskills",
+    "githubUrl": "https://github.com/gargantuax/openskills",
+    "displayName": "Gpt Image 2"
+  }
+}

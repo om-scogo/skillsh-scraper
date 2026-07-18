@@ -1,0 +1,17 @@
+{
+  "skillId": "fireworks-tech-graph",
+  "source": "yizhiyanhua-ai/fireworks-tech-graph",
+  "owner": "yizhiyanhua-ai",
+  "repo": "fireworks-tech-graph",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yizhiyanhua-ai/fireworks-tech-graph",
+    "skillId": "fireworks-tech-graph",
+    "name": "fireworks-tech-graph",
+    "installs": 13568,
+    "owner": "yizhiyanhua-ai",
+    "repo": "fireworks-tech-graph",
+    "githubUrl": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph",
+    "displayName": "Fireworks Tech Graph"
+  }
+}

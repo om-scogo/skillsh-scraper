@@ -1,0 +1,17 @@
+{
+  "skillId": "rivetkit-client-react",
+  "source": "rivet-dev/skills",
+  "owner": "rivet-dev",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rivet-dev/skills",
+    "skillId": "rivetkit-client-react",
+    "name": "rivetkit-client-react",
+    "installs": 6844,
+    "owner": "rivet-dev",
+    "repo": "skills",
+    "githubUrl": "https://github.com/rivet-dev/skills",
+    "displayName": "Rivetkit Client React"
+  }
+}

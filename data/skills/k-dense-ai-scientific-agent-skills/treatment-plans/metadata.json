@@ -1,0 +1,17 @@
+{
+  "skillId": "treatment-plans",
+  "source": "k-dense-ai/scientific-agent-skills",
+  "owner": "k-dense-ai",
+  "repo": "scientific-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "k-dense-ai/scientific-agent-skills",
+    "skillId": "treatment-plans",
+    "name": "treatment-plans",
+    "installs": 765,
+    "owner": "k-dense-ai",
+    "repo": "scientific-agent-skills",
+    "githubUrl": "https://github.com/k-dense-ai/scientific-agent-skills",
+    "displayName": "Treatment Plans"
+  }
+}

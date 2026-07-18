@@ -1,0 +1,17 @@
+{
+  "skillId": "cli-hub-meta-skill",
+  "source": "hkuds/cli-anything",
+  "owner": "hkuds",
+  "repo": "cli-anything",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hkuds/cli-anything",
+    "skillId": "cli-hub-meta-skill",
+    "name": "cli-hub-meta-skill",
+    "installs": 2387,
+    "owner": "hkuds",
+    "repo": "cli-anything",
+    "githubUrl": "https://github.com/hkuds/cli-anything",
+    "displayName": "Cli Hub Meta Skill"
+  }
+}

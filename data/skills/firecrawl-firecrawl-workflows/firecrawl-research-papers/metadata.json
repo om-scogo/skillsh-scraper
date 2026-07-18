@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-research-papers",
+  "source": "firecrawl/firecrawl-workflows",
+  "owner": "firecrawl",
+  "repo": "firecrawl-workflows",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/firecrawl-workflows",
+    "skillId": "firecrawl-research-papers",
+    "name": "firecrawl-research-papers",
+    "installs": 29979,
+    "owner": "firecrawl",
+    "repo": "firecrawl-workflows",
+    "githubUrl": "https://github.com/firecrawl/firecrawl-workflows",
+    "displayName": "Firecrawl Research Papers"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "accounting",
+  "source": "whawkinsiv/claude-code-skills",
+  "owner": "whawkinsiv",
+  "repo": "claude-code-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "whawkinsiv/claude-code-skills",
+    "skillId": "accounting",
+    "name": "accounting",
+    "installs": 755,
+    "owner": "whawkinsiv",
+    "repo": "claude-code-skills",
+    "githubUrl": "https://github.com/whawkinsiv/claude-code-skills",
+    "displayName": "Accounting"
+  }
+}

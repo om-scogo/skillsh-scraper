@@ -1,0 +1,17 @@
+{
+  "skillId": "accessibility",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "accessibility",
+    "name": "accessibility",
+    "installs": 3649,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Accessibility"
+  }
+}

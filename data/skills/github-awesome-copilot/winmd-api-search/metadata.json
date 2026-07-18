@@ -1,0 +1,17 @@
+{
+  "skillId": "winmd-api-search",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "winmd-api-search",
+    "name": "winmd-api-search",
+    "installs": 5612,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Winmd Api Search"
+  }
+}

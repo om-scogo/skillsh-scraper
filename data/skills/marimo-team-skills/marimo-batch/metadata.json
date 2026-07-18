@@ -1,0 +1,17 @@
+{
+  "skillId": "marimo-batch",
+  "source": "marimo-team/skills",
+  "owner": "marimo-team",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "marimo-team/skills",
+    "skillId": "marimo-batch",
+    "name": "marimo-batch",
+    "installs": 2506,
+    "owner": "marimo-team",
+    "repo": "skills",
+    "githubUrl": "https://github.com/marimo-team/skills",
+    "displayName": "Marimo Batch"
+  }
+}

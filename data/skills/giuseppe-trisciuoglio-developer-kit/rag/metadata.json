@@ -1,0 +1,17 @@
+{
+  "skillId": "rag",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "rag",
+    "name": "rag",
+    "installs": 1507,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Rag"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "companion-clis",
+  "source": "runpod/skills",
+  "owner": "runpod",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "runpod/skills",
+    "skillId": "companion-clis",
+    "name": "companion-clis",
+    "installs": 924,
+    "owner": "runpod",
+    "repo": "skills",
+    "githubUrl": "https://github.com/runpod/skills",
+    "displayName": "Companion Clis"
+  }
+}

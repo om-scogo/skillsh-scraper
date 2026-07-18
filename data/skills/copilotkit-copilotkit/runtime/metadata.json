@@ -1,0 +1,17 @@
+{
+  "skillId": "runtime",
+  "source": "copilotkit/copilotkit",
+  "owner": "copilotkit",
+  "repo": "copilotkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "copilotkit/copilotkit",
+    "skillId": "runtime",
+    "name": "runtime",
+    "installs": 1371,
+    "owner": "copilotkit",
+    "repo": "copilotkit",
+    "githubUrl": "https://github.com/copilotkit/copilotkit",
+    "displayName": "Runtime"
+  }
+}

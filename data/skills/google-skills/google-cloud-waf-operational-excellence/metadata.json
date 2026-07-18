@@ -1,0 +1,17 @@
+{
+  "skillId": "google-cloud-waf-operational-excellence",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "google-cloud-waf-operational-excellence",
+    "name": "google-cloud-waf-operational-excellence",
+    "installs": 3422,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Google Cloud Waf Operational Excellence"
+  }
+}

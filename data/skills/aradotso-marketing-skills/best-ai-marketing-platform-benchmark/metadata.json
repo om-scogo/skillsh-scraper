@@ -1,0 +1,17 @@
+{
+  "skillId": "best-ai-marketing-platform-benchmark",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "best-ai-marketing-platform-benchmark",
+    "name": "best-ai-marketing-platform-benchmark",
+    "installs": 840,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Best Ai Marketing Platform Benchmark"
+  }
+}

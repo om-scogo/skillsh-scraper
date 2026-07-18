@@ -1,0 +1,17 @@
+{
+  "skillId": "code-review-pro",
+  "source": "onewave-ai/claude-skills",
+  "owner": "onewave-ai",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "onewave-ai/claude-skills",
+    "skillId": "code-review-pro",
+    "name": "code-review-pro",
+    "installs": 2379,
+    "owner": "onewave-ai",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/onewave-ai/claude-skills",
+    "displayName": "Code Review Pro"
+  }
+}

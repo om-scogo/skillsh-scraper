@@ -1,0 +1,17 @@
+{
+  "skillId": "screen-reader-testing",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "screen-reader-testing",
+    "name": "screen-reader-testing",
+    "installs": 8045,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Screen Reader Testing"
+  }
+}

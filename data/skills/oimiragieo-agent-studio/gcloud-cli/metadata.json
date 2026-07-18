@@ -1,0 +1,17 @@
+{
+  "skillId": "gcloud-cli",
+  "source": "oimiragieo/agent-studio",
+  "owner": "oimiragieo",
+  "repo": "agent-studio",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "oimiragieo/agent-studio",
+    "skillId": "gcloud-cli",
+    "name": "gcloud-cli",
+    "installs": 1000,
+    "owner": "oimiragieo",
+    "repo": "agent-studio",
+    "githubUrl": "https://github.com/oimiragieo/agent-studio",
+    "displayName": "Gcloud Cli"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "api-design-principles",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "api-design-principles",
+    "name": "api-design-principles",
+    "installs": 24693,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Api Design Principles"
+  }
+}

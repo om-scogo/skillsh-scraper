@@ -1,0 +1,17 @@
+{
+  "skillId": "sanity-best-practices",
+  "source": "sanity-io/agent-toolkit",
+  "owner": "sanity-io",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sanity-io/agent-toolkit",
+    "skillId": "sanity-best-practices",
+    "name": "sanity-best-practices",
+    "installs": 13072,
+    "owner": "sanity-io",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/sanity-io/agent-toolkit",
+    "displayName": "Sanity Best Practices"
+  }
+}

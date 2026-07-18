@@ -1,0 +1,17 @@
+{
+  "skillId": "upstash-redis-js",
+  "source": "upstash/skills",
+  "owner": "upstash",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "upstash/skills",
+    "skillId": "upstash-redis-js",
+    "name": "upstash-redis-js",
+    "installs": 1120,
+    "owner": "upstash",
+    "repo": "skills",
+    "githubUrl": "https://github.com/upstash/skills",
+    "displayName": "Upstash Redis Js"
+  }
+}

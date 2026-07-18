@@ -1,0 +1,17 @@
+{
+  "skillId": "context7",
+  "source": "netresearch/context7-skill",
+  "owner": "netresearch",
+  "repo": "context7-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "netresearch/context7-skill",
+    "skillId": "context7",
+    "name": "context7",
+    "installs": 777,
+    "owner": "netresearch",
+    "repo": "context7-skill",
+    "githubUrl": "https://github.com/netresearch/context7-skill",
+    "displayName": "Context7"
+  }
+}

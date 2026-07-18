@@ -1,0 +1,17 @@
+{
+  "skillId": "prd-writer",
+  "source": "pmprompt/claude-plugin-product-management",
+  "owner": "pmprompt",
+  "repo": "claude-plugin-product-management",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pmprompt/claude-plugin-product-management",
+    "skillId": "prd-writer",
+    "name": "prd-writer",
+    "installs": 785,
+    "owner": "pmprompt",
+    "repo": "claude-plugin-product-management",
+    "githubUrl": "https://github.com/pmprompt/claude-plugin-product-management",
+    "displayName": "Prd Writer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "bkt",
+  "source": "avivsinai/bitbucket-cli",
+  "owner": "avivsinai",
+  "repo": "bitbucket-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "avivsinai/bitbucket-cli",
+    "skillId": "bkt",
+    "name": "bkt",
+    "installs": 1212,
+    "owner": "avivsinai",
+    "repo": "bitbucket-cli",
+    "githubUrl": "https://github.com/avivsinai/bitbucket-cli",
+    "displayName": "Bkt"
+  }
+}

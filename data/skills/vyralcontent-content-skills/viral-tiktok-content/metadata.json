@@ -1,0 +1,17 @@
+{
+  "skillId": "viral-tiktok-content",
+  "source": "vyralcontent/content-skills",
+  "owner": "vyralcontent",
+  "repo": "content-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vyralcontent/content-skills",
+    "skillId": "viral-tiktok-content",
+    "name": "viral-tiktok-content",
+    "installs": 11,
+    "owner": "vyralcontent",
+    "repo": "content-skills",
+    "githubUrl": "https://github.com/vyralcontent/content-skills",
+    "displayName": "Viral Tiktok Content"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "facebook-video-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "facebook-video-downloader",
+    "name": "facebook-video-downloader",
+    "installs": 971,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Facebook Video Downloader"
+  }
+}

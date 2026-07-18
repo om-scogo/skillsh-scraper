@@ -1,0 +1,17 @@
+{
+  "skillId": "your-skill-name",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "your-skill-name",
+    "name": "your-skill-name",
+    "installs": 1327,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Your Skill Name"
+  }
+}

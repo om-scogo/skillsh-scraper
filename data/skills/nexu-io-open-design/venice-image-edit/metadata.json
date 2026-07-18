@@ -1,0 +1,17 @@
+{
+  "skillId": "venice-image-edit",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "venice-image-edit",
+    "name": "venice-image-edit",
+    "installs": 1577,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Venice Image Edit"
+  }
+}

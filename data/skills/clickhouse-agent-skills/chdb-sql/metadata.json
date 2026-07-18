@@ -1,0 +1,17 @@
+{
+  "skillId": "chdb-sql",
+  "source": "clickhouse/agent-skills",
+  "owner": "clickhouse",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clickhouse/agent-skills",
+    "skillId": "chdb-sql",
+    "name": "chdb-sql",
+    "installs": 3157,
+    "owner": "clickhouse",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/clickhouse/agent-skills",
+    "displayName": "Chdb Sql"
+  }
+}

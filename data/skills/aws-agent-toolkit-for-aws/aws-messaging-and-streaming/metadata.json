@@ -1,0 +1,17 @@
+{
+  "skillId": "aws-messaging-and-streaming",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "aws-messaging-and-streaming",
+    "name": "aws-messaging-and-streaming",
+    "installs": 2405,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Aws Messaging And Streaming"
+  }
+}

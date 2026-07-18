@@ -1,0 +1,17 @@
+{
+  "skillId": "huggingface-gradio",
+  "source": "huggingface/skills",
+  "owner": "huggingface",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "huggingface/skills",
+    "skillId": "huggingface-gradio",
+    "name": "huggingface-gradio",
+    "installs": 1489,
+    "owner": "huggingface",
+    "repo": "skills",
+    "githubUrl": "https://github.com/huggingface/skills",
+    "displayName": "Huggingface Gradio"
+  }
+}

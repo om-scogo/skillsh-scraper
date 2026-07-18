@@ -1,0 +1,17 @@
+{
+  "skillId": "promptfoo-evaluation",
+  "source": "daymade/claude-code-skills",
+  "owner": "daymade",
+  "repo": "claude-code-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "daymade/claude-code-skills",
+    "skillId": "promptfoo-evaluation",
+    "name": "promptfoo-evaluation",
+    "installs": 819,
+    "owner": "daymade",
+    "repo": "claude-code-skills",
+    "githubUrl": "https://github.com/daymade/claude-code-skills",
+    "displayName": "Promptfoo Evaluation"
+  }
+}

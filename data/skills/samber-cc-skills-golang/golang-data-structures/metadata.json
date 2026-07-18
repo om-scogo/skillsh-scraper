@@ -1,0 +1,17 @@
+{
+  "skillId": "golang-data-structures",
+  "source": "samber/cc-skills-golang",
+  "owner": "samber",
+  "repo": "cc-skills-golang",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills-golang",
+    "skillId": "golang-data-structures",
+    "name": "golang-data-structures",
+    "installs": 33424,
+    "owner": "samber",
+    "repo": "cc-skills-golang",
+    "githubUrl": "https://github.com/samber/cc-skills-golang",
+    "displayName": "Golang Data Structures"
+  }
+}

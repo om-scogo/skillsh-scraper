@@ -1,0 +1,17 @@
+{
+  "skillId": "open-websearch",
+  "source": "aas-ee/open-websearch",
+  "owner": "aas-ee",
+  "repo": "open-websearch",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aas-ee/open-websearch",
+    "skillId": "open-websearch",
+    "name": "open-websearch",
+    "installs": 1171,
+    "owner": "aas-ee",
+    "repo": "open-websearch",
+    "githubUrl": "https://github.com/aas-ee/open-websearch",
+    "displayName": "Open Websearch"
+  }
+}

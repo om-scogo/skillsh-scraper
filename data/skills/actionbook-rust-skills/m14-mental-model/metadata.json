@@ -1,0 +1,17 @@
+{
+  "skillId": "m14-mental-model",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "m14-mental-model",
+    "name": "m14-mental-model",
+    "installs": 1351,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "M14 Mental Model"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gpt-image",
+  "source": "101-skills/skills",
+  "owner": "101-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "101-skills/skills",
+    "skillId": "gpt-image",
+    "name": "gpt-image",
+    "installs": 2160,
+    "owner": "101-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/101-skills/skills",
+    "displayName": "Gpt Image"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "iam-recommendations-fetcher",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "iam-recommendations-fetcher",
+    "name": "iam-recommendations-fetcher",
+    "installs": 1165,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Iam Recommendations Fetcher"
+  }
+}

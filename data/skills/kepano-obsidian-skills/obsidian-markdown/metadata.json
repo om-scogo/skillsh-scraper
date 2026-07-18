@@ -1,0 +1,17 @@
+{
+  "skillId": "obsidian-markdown",
+  "source": "kepano/obsidian-skills",
+  "owner": "kepano",
+  "repo": "obsidian-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kepano/obsidian-skills",
+    "skillId": "obsidian-markdown",
+    "name": "obsidian-markdown",
+    "installs": 59101,
+    "owner": "kepano",
+    "repo": "obsidian-skills",
+    "githubUrl": "https://github.com/kepano/obsidian-skills",
+    "displayName": "Obsidian Markdown"
+  }
+}

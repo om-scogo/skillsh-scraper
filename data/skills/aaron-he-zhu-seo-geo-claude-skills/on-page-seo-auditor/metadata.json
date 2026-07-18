@@ -1,0 +1,17 @@
+{
+  "skillId": "on-page-seo-auditor",
+  "source": "aaron-he-zhu/seo-geo-claude-skills",
+  "owner": "aaron-he-zhu",
+  "repo": "seo-geo-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aaron-he-zhu/seo-geo-claude-skills",
+    "skillId": "on-page-seo-auditor",
+    "name": "on-page-seo-auditor",
+    "installs": 5395,
+    "owner": "aaron-he-zhu",
+    "repo": "seo-geo-claude-skills",
+    "githubUrl": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+    "displayName": "On Page Seo Auditor"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "apple-mail",
+  "source": "rbouschery/marketplace",
+  "owner": "rbouschery",
+  "repo": "marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rbouschery/marketplace",
+    "skillId": "apple-mail",
+    "name": "apple-mail",
+    "installs": 1114,
+    "owner": "rbouschery",
+    "repo": "marketplace",
+    "githubUrl": "https://github.com/rbouschery/marketplace",
+    "displayName": "Apple Mail"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gsap-framer-scroll-animation",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "gsap-framer-scroll-animation",
+    "name": "gsap-framer-scroll-animation",
+    "installs": 2264,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Gsap Framer Scroll Animation"
+  }
+}

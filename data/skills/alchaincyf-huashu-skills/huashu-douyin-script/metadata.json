@@ -1,0 +1,17 @@
+{
+  "skillId": "huashu-douyin-script",
+  "source": "alchaincyf/huashu-skills",
+  "owner": "alchaincyf",
+  "repo": "huashu-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/huashu-skills",
+    "skillId": "huashu-douyin-script",
+    "name": "huashu-douyin-script",
+    "installs": 812,
+    "owner": "alchaincyf",
+    "repo": "huashu-skills",
+    "githubUrl": "https://github.com/alchaincyf/huashu-skills",
+    "displayName": "Huashu Douyin Script"
+  }
+}

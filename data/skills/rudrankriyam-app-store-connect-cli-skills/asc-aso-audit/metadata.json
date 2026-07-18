@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-aso-audit",
+  "source": "rudrankriyam/app-store-connect-cli-skills",
+  "owner": "rudrankriyam",
+  "repo": "app-store-connect-cli-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rudrankriyam/app-store-connect-cli-skills",
+    "skillId": "asc-aso-audit",
+    "name": "asc-aso-audit",
+    "installs": 1363,
+    "owner": "rudrankriyam",
+    "repo": "app-store-connect-cli-skills",
+    "githubUrl": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+    "displayName": "Asc Aso Audit"
+  }
+}

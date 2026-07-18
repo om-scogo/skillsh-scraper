@@ -1,0 +1,17 @@
+{
+  "skillId": "code-review-expert",
+  "source": "sanyuan0704/sanyuan-skills",
+  "owner": "sanyuan0704",
+  "repo": "sanyuan-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sanyuan0704/sanyuan-skills",
+    "skillId": "code-review-expert",
+    "name": "code-review-expert",
+    "installs": 3491,
+    "owner": "sanyuan0704",
+    "repo": "sanyuan-skills",
+    "githubUrl": "https://github.com/sanyuan0704/sanyuan-skills",
+    "displayName": "Code Review Expert"
+  }
+}

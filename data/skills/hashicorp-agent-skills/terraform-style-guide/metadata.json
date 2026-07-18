@@ -1,0 +1,17 @@
+{
+  "skillId": "terraform-style-guide",
+  "source": "hashicorp/agent-skills",
+  "owner": "hashicorp",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hashicorp/agent-skills",
+    "skillId": "terraform-style-guide",
+    "name": "terraform-style-guide",
+    "installs": 7898,
+    "owner": "hashicorp",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/hashicorp/agent-skills",
+    "displayName": "Terraform Style Guide"
+  }
+}

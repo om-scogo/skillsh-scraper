@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-run-deft-aoi",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-run-deft-aoi",
+    "name": "tao-run-deft-aoi",
+    "installs": 1281,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Run Deft Aoi"
+  }
+}

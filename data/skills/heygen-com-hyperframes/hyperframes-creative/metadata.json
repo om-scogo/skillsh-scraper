@@ -1,0 +1,17 @@
+{
+  "skillId": "hyperframes-creative",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "hyperframes-creative",
+    "name": "hyperframes-creative",
+    "installs": 123789,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Hyperframes Creative"
+  }
+}

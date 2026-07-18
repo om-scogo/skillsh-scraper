@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-email-cli",
+  "source": "zaddy6/agent-email-skill",
+  "owner": "zaddy6",
+  "repo": "agent-email-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zaddy6/agent-email-skill",
+    "skillId": "agent-email-cli",
+    "name": "agent-email-cli",
+    "installs": 2066,
+    "owner": "zaddy6",
+    "repo": "agent-email-skill",
+    "githubUrl": "https://github.com/zaddy6/agent-email-skill",
+    "displayName": "Agent Email Cli"
+  }
+}

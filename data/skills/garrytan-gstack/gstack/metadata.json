@@ -1,0 +1,17 @@
+{
+  "skillId": "gstack",
+  "source": "garrytan/gstack",
+  "owner": "garrytan",
+  "repo": "gstack",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "garrytan/gstack",
+    "skillId": "gstack",
+    "name": "gstack",
+    "installs": 18809,
+    "owner": "garrytan",
+    "repo": "gstack",
+    "githubUrl": "https://github.com/garrytan/gstack",
+    "displayName": "Gstack"
+  }
+}

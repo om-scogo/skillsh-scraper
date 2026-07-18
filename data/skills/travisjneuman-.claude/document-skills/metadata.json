@@ -1,0 +1,17 @@
+{
+  "skillId": "document-skills",
+  "source": "travisjneuman/.claude",
+  "owner": "travisjneuman",
+  "repo": ".claude",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "travisjneuman/.claude",
+    "skillId": "document-skills",
+    "name": "document-skills",
+    "installs": 3012,
+    "owner": "travisjneuman",
+    "repo": ".claude",
+    "githubUrl": "https://github.com/travisjneuman/.claude",
+    "displayName": "Document Skills"
+  }
+}

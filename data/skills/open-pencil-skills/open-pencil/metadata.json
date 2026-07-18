@@ -1,0 +1,17 @@
+{
+  "skillId": "open-pencil",
+  "source": "open-pencil/skills",
+  "owner": "open-pencil",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "open-pencil/skills",
+    "skillId": "open-pencil",
+    "name": "open-pencil",
+    "installs": 1364,
+    "owner": "open-pencil",
+    "repo": "skills",
+    "githubUrl": "https://github.com/open-pencil/skills",
+    "displayName": "Open Pencil"
+  }
+}

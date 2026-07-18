@@ -1,0 +1,17 @@
+{
+  "skillId": "paseo-committee",
+  "source": "getpaseo/paseo",
+  "owner": "getpaseo",
+  "repo": "paseo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getpaseo/paseo",
+    "skillId": "paseo-committee",
+    "name": "paseo-committee",
+    "installs": 1866,
+    "owner": "getpaseo",
+    "repo": "paseo",
+    "githubUrl": "https://github.com/getpaseo/paseo",
+    "displayName": "Paseo Committee"
+  }
+}

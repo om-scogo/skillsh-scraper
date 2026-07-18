@@ -1,0 +1,17 @@
+{
+  "skillId": "12-principles-of-animation",
+  "source": "raphaelsalaja/skill",
+  "owner": "raphaelsalaja",
+  "repo": "skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "raphaelsalaja/skill",
+    "skillId": "12-principles-of-animation",
+    "name": "12-principles-of-animation",
+    "installs": 954,
+    "owner": "raphaelsalaja",
+    "repo": "skill",
+    "githubUrl": "https://github.com/raphaelsalaja/skill",
+    "displayName": "12 Principles Of Animation"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "performance-analyzer-sms",
+  "source": "blacktwist/social-media-skills",
+  "owner": "blacktwist",
+  "repo": "social-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "blacktwist/social-media-skills",
+    "skillId": "performance-analyzer-sms",
+    "name": "performance-analyzer-sms",
+    "installs": 900,
+    "owner": "blacktwist",
+    "repo": "social-media-skills",
+    "githubUrl": "https://github.com/blacktwist/social-media-skills",
+    "displayName": "Performance Analyzer Sms"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "dotnet-design-pattern-review",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "dotnet-design-pattern-review",
+    "name": "dotnet-design-pattern-review",
+    "installs": 10667,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Dotnet Design Pattern Review"
+  }
+}

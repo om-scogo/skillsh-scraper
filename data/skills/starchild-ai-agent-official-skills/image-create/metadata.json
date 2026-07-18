@@ -1,0 +1,17 @@
+{
+  "skillId": "image-create",
+  "source": "starchild-ai-agent/official-skills",
+  "owner": "starchild-ai-agent",
+  "repo": "official-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "starchild-ai-agent/official-skills",
+    "skillId": "image-create",
+    "name": "image-create",
+    "installs": 1874,
+    "owner": "starchild-ai-agent",
+    "repo": "official-skills",
+    "githubUrl": "https://github.com/starchild-ai-agent/official-skills",
+    "displayName": "Image Create"
+  }
+}

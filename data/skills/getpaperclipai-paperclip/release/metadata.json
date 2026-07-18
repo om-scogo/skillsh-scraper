@@ -1,0 +1,17 @@
+{
+  "skillId": "release",
+  "source": "getpaperclipai/paperclip",
+  "owner": "getpaperclipai",
+  "repo": "paperclip",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getpaperclipai/paperclip",
+    "skillId": "release",
+    "name": "release",
+    "installs": 1427,
+    "owner": "getpaperclipai",
+    "repo": "paperclip",
+    "githubUrl": "https://github.com/getpaperclipai/paperclip",
+    "displayName": "Release"
+  }
+}

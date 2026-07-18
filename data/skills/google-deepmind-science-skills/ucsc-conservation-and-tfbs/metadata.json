@@ -1,0 +1,17 @@
+{
+  "skillId": "ucsc-conservation-and-tfbs",
+  "source": "google-deepmind/science-skills",
+  "owner": "google-deepmind",
+  "repo": "science-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-deepmind/science-skills",
+    "skillId": "ucsc-conservation-and-tfbs",
+    "name": "ucsc-conservation-and-tfbs",
+    "installs": 944,
+    "owner": "google-deepmind",
+    "repo": "science-skills",
+    "githubUrl": "https://github.com/google-deepmind/science-skills",
+    "displayName": "Ucsc Conservation And Tfbs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "shipping-and-launch",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "shipping-and-launch",
+    "name": "shipping-and-launch",
+    "installs": 10892,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Shipping And Launch"
+  }
+}

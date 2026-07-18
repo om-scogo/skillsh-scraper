@@ -1,0 +1,17 @@
+{
+  "skillId": "rust-async-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "rust-async-patterns",
+    "name": "rust-async-patterns",
+    "installs": 15773,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Rust Async Patterns"
+  }
+}

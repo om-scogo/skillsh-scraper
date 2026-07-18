@@ -1,0 +1,17 @@
+{
+  "skillId": "figma-code-connect",
+  "source": "figma/mcp-server-guide",
+  "owner": "figma",
+  "repo": "mcp-server-guide",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "figma/mcp-server-guide",
+    "skillId": "figma-code-connect",
+    "name": "figma-code-connect",
+    "installs": 2070,
+    "owner": "figma",
+    "repo": "mcp-server-guide",
+    "githubUrl": "https://github.com/figma/mcp-server-guide",
+    "displayName": "Figma Code Connect"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "lark-vc",
+  "source": "larksuite/cli",
+  "owner": "larksuite",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "larksuite/cli",
+    "skillId": "lark-vc",
+    "name": "lark-vc",
+    "installs": 361591,
+    "owner": "larksuite",
+    "repo": "cli",
+    "githubUrl": "https://github.com/larksuite/cli",
+    "displayName": "Lark Vc"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "day6-prd-submit",
+  "source": "ai-native-camp/camp-1",
+  "owner": "ai-native-camp",
+  "repo": "camp-1",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ai-native-camp/camp-1",
+    "skillId": "day6-prd-submit",
+    "name": "day6-prd-submit",
+    "installs": 1284,
+    "owner": "ai-native-camp",
+    "repo": "camp-1",
+    "githubUrl": "https://github.com/ai-native-camp/camp-1",
+    "displayName": "Day6 Prd Submit"
+  }
+}

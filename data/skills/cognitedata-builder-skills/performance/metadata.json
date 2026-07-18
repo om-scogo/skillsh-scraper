@@ -1,0 +1,17 @@
+{
+  "skillId": "performance",
+  "source": "cognitedata/builder-skills",
+  "owner": "cognitedata",
+  "repo": "builder-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cognitedata/builder-skills",
+    "skillId": "performance",
+    "name": "performance",
+    "installs": 1858,
+    "owner": "cognitedata",
+    "repo": "builder-skills",
+    "githubUrl": "https://github.com/cognitedata/builder-skills",
+    "displayName": "Performance"
+  }
+}

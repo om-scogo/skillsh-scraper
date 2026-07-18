@@ -1,0 +1,17 @@
+{
+  "skillId": "scan-new-specs",
+  "source": "warpdotdev/common-skills",
+  "owner": "warpdotdev",
+  "repo": "common-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "warpdotdev/common-skills",
+    "skillId": "scan-new-specs",
+    "name": "scan-new-specs",
+    "installs": 4129,
+    "owner": "warpdotdev",
+    "repo": "common-skills",
+    "githubUrl": "https://github.com/warpdotdev/common-skills",
+    "displayName": "Scan New Specs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "docs-write",
+  "source": "metabase/metabase",
+  "owner": "metabase",
+  "repo": "metabase",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "metabase/metabase",
+    "skillId": "docs-write",
+    "name": "docs-write",
+    "installs": 1306,
+    "owner": "metabase",
+    "repo": "metabase",
+    "githubUrl": "https://github.com/metabase/metabase",
+    "displayName": "Docs Write"
+  }
+}

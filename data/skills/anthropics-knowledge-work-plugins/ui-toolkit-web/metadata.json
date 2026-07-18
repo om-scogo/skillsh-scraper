@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-toolkit/web",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "ui-toolkit/web",
+    "name": "ui-toolkit/web",
+    "installs": 1180,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Ui Toolkit/web"
+  }
+}

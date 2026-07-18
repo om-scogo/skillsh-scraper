@@ -1,0 +1,17 @@
+{
+  "skillId": "cloudflare-email-service",
+  "source": "cloudflare/skills",
+  "owner": "cloudflare",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudflare/skills",
+    "skillId": "cloudflare-email-service",
+    "name": "cloudflare-email-service",
+    "installs": 16824,
+    "owner": "cloudflare",
+    "repo": "skills",
+    "githubUrl": "https://github.com/cloudflare/skills",
+    "displayName": "Cloudflare Email Service"
+  }
+}

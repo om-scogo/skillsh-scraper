@@ -1,0 +1,17 @@
+{
+  "skillId": "vitest-midscene-e2e",
+  "source": "web-infra-dev/midscene-skills",
+  "owner": "web-infra-dev",
+  "repo": "midscene-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "web-infra-dev/midscene-skills",
+    "skillId": "vitest-midscene-e2e",
+    "name": "vitest-midscene-e2e",
+    "installs": 1519,
+    "owner": "web-infra-dev",
+    "repo": "midscene-skills",
+    "githubUrl": "https://github.com/web-infra-dev/midscene-skills",
+    "displayName": "Vitest Midscene E2e"
+  }
+}

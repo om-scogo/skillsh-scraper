@@ -1,0 +1,17 @@
+{
+  "skillId": "code-connect-components",
+  "source": "figma/mcp-server-guide",
+  "owner": "figma",
+  "repo": "mcp-server-guide",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "figma/mcp-server-guide",
+    "skillId": "code-connect-components",
+    "name": "code-connect-components",
+    "installs": 903,
+    "owner": "figma",
+    "repo": "mcp-server-guide",
+    "githubUrl": "https://github.com/figma/mcp-server-guide",
+    "displayName": "Code Connect Components"
+  }
+}

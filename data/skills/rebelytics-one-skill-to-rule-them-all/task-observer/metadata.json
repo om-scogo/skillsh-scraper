@@ -1,0 +1,17 @@
+{
+  "skillId": "task-observer",
+  "source": "rebelytics/one-skill-to-rule-them-all",
+  "owner": "rebelytics",
+  "repo": "one-skill-to-rule-them-all",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rebelytics/one-skill-to-rule-them-all",
+    "skillId": "task-observer",
+    "name": "task-observer",
+    "installs": 1431,
+    "owner": "rebelytics",
+    "repo": "one-skill-to-rule-them-all",
+    "githubUrl": "https://github.com/rebelytics/one-skill-to-rule-them-all",
+    "displayName": "Task Observer"
+  }
+}

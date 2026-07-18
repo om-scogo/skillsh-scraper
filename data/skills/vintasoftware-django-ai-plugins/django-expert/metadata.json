@@ -1,0 +1,17 @@
+{
+  "skillId": "django-expert",
+  "source": "vintasoftware/django-ai-plugins",
+  "owner": "vintasoftware",
+  "repo": "django-ai-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vintasoftware/django-ai-plugins",
+    "skillId": "django-expert",
+    "name": "django-expert",
+    "installs": 4508,
+    "owner": "vintasoftware",
+    "repo": "django-ai-plugins",
+    "githubUrl": "https://github.com/vintasoftware/django-ai-plugins",
+    "displayName": "Django Expert"
+  }
+}

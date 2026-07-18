@@ -1,0 +1,17 @@
+{
+  "skillId": "omnistudio-datamapper-generate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "omnistudio-datamapper-generate",
+    "name": "omnistudio-datamapper-generate",
+    "installs": 1260,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Omnistudio Datamapper Generate"
+  }
+}

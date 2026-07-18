@@ -1,0 +1,17 @@
+{
+  "skillId": "context7",
+  "source": "intellectronica/agent-skills",
+  "owner": "intellectronica",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "intellectronica/agent-skills",
+    "skillId": "context7",
+    "name": "context7",
+    "installs": 8858,
+    "owner": "intellectronica",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/intellectronica/agent-skills",
+    "displayName": "Context7"
+  }
+}

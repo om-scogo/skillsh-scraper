@@ -1,0 +1,17 @@
+{
+  "skillId": "pr-prep",
+  "source": "boshu2/agentops",
+  "owner": "boshu2",
+  "repo": "agentops",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "boshu2/agentops",
+    "skillId": "pr-prep",
+    "name": "pr-prep",
+    "installs": 1121,
+    "owner": "boshu2",
+    "repo": "agentops",
+    "githubUrl": "https://github.com/boshu2/agentops",
+    "displayName": "Pr Prep"
+  }
+}

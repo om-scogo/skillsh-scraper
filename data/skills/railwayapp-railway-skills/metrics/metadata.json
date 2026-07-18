@@ -1,0 +1,17 @@
+{
+  "skillId": "metrics",
+  "source": "railwayapp/railway-skills",
+  "owner": "railwayapp",
+  "repo": "railway-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "railwayapp/railway-skills",
+    "skillId": "metrics",
+    "name": "metrics",
+    "installs": 818,
+    "owner": "railwayapp",
+    "repo": "railway-skills",
+    "githubUrl": "https://github.com/railwayapp/railway-skills",
+    "displayName": "Metrics"
+  }
+}

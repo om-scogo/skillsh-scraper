@@ -1,0 +1,17 @@
+{
+  "skillId": "terraform-skill",
+  "source": "antonbabenko/terraform-skill",
+  "owner": "antonbabenko",
+  "repo": "terraform-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antonbabenko/terraform-skill",
+    "skillId": "terraform-skill",
+    "name": "terraform-skill",
+    "installs": 3693,
+    "owner": "antonbabenko",
+    "repo": "terraform-skill",
+    "githubUrl": "https://github.com/antonbabenko/terraform-skill",
+    "displayName": "Terraform Skill"
+  }
+}

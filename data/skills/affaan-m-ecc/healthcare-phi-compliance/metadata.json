@@ -1,0 +1,17 @@
+{
+  "skillId": "healthcare-phi-compliance",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "healthcare-phi-compliance",
+    "name": "healthcare-phi-compliance",
+    "installs": 1101,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Healthcare Phi Compliance"
+  }
+}

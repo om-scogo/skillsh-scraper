@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-development",
+  "source": "anthropics/claude-code",
+  "owner": "anthropics",
+  "repo": "claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/claude-code",
+    "skillId": "skill-development",
+    "name": "skill development",
+    "installs": 15372,
+    "owner": "anthropics",
+    "repo": "claude-code",
+    "githubUrl": "https://github.com/anthropics/claude-code",
+    "displayName": "Skill Development"
+  }
+}

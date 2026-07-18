@@ -1,0 +1,17 @@
+{
+  "skillId": "dbskill-upgrade",
+  "source": "dontbesilent2025/dbskill",
+  "owner": "dontbesilent2025",
+  "repo": "dbskill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dontbesilent2025/dbskill",
+    "skillId": "dbskill-upgrade",
+    "name": "dbskill-upgrade",
+    "installs": 1744,
+    "owner": "dontbesilent2025",
+    "repo": "dbskill",
+    "githubUrl": "https://github.com/dontbesilent2025/dbskill",
+    "displayName": "Dbskill Upgrade"
+  }
+}

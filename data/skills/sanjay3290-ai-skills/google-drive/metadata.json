@@ -1,0 +1,17 @@
+{
+  "skillId": "google-drive",
+  "source": "sanjay3290/ai-skills",
+  "owner": "sanjay3290",
+  "repo": "ai-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sanjay3290/ai-skills",
+    "skillId": "google-drive",
+    "name": "google-drive",
+    "installs": 744,
+    "owner": "sanjay3290",
+    "repo": "ai-skills",
+    "githubUrl": "https://github.com/sanjay3290/ai-skills",
+    "displayName": "Google Drive"
+  }
+}

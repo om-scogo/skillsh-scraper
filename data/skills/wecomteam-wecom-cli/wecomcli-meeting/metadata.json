@@ -1,0 +1,17 @@
+{
+  "skillId": "wecomcli-meeting",
+  "source": "wecomteam/wecom-cli",
+  "owner": "wecomteam",
+  "repo": "wecom-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wecomteam/wecom-cli",
+    "skillId": "wecomcli-meeting",
+    "name": "wecomcli-meeting",
+    "installs": 14225,
+    "owner": "wecomteam",
+    "repo": "wecom-cli",
+    "githubUrl": "https://github.com/wecomteam/wecom-cli",
+    "displayName": "Wecomcli Meeting"
+  }
+}

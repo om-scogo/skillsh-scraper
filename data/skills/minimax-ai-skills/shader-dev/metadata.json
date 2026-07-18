@@ -1,0 +1,17 @@
+{
+  "skillId": "shader-dev",
+  "source": "minimax-ai/skills",
+  "owner": "minimax-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "minimax-ai/skills",
+    "skillId": "shader-dev",
+    "name": "shader-dev",
+    "installs": 1895,
+    "owner": "minimax-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/minimax-ai/skills",
+    "displayName": "Shader Dev"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "prediction-market-risk-review",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "prediction-market-risk-review",
+    "name": "prediction-market-risk-review",
+    "installs": 1001,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Prediction Market Risk Review"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "kibana-vega",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "kibana-vega",
+    "name": "kibana-vega",
+    "installs": 1854,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Kibana Vega"
+  }
+}

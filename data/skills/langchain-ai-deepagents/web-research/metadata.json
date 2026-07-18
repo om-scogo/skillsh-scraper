@@ -1,0 +1,17 @@
+{
+  "skillId": "web-research",
+  "source": "langchain-ai/deepagents",
+  "owner": "langchain-ai",
+  "repo": "deepagents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langchain-ai/deepagents",
+    "skillId": "web-research",
+    "name": "web-research",
+    "installs": 3400,
+    "owner": "langchain-ai",
+    "repo": "deepagents",
+    "githubUrl": "https://github.com/langchain-ai/deepagents",
+    "displayName": "Web Research"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "drawio",
+  "source": "api/git",
+  "owner": "api",
+  "repo": "git",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "api/git",
+    "skillId": "drawio",
+    "name": "drawio",
+    "installs": 872,
+    "owner": "api",
+    "repo": "git",
+    "githubUrl": "https://github.com/api/git",
+    "displayName": "Drawio"
+  }
+}

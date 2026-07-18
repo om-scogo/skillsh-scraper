@@ -1,0 +1,17 @@
+{
+  "skillId": "spankbang-video-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "spankbang-video-downloader",
+    "name": "spankbang-video-downloader",
+    "installs": 961,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Spankbang Video Downloader"
+  }
+}

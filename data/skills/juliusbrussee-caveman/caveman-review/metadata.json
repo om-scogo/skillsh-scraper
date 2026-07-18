@@ -1,0 +1,17 @@
+{
+  "skillId": "caveman-review",
+  "source": "juliusbrussee/caveman",
+  "owner": "juliusbrussee",
+  "repo": "caveman",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juliusbrussee/caveman",
+    "skillId": "caveman-review",
+    "name": "caveman-review",
+    "installs": 242921,
+    "owner": "juliusbrussee",
+    "repo": "caveman",
+    "githubUrl": "https://github.com/juliusbrussee/caveman",
+    "displayName": "Caveman Review"
+  }
+}

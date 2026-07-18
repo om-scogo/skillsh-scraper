@@ -1,0 +1,17 @@
+{
+  "skillId": "minimax-pdf",
+  "source": "minimax-ai/skills",
+  "owner": "minimax-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "minimax-ai/skills",
+    "skillId": "minimax-pdf",
+    "name": "minimax-pdf",
+    "installs": 3315,
+    "owner": "minimax-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/minimax-ai/skills",
+    "displayName": "Minimax Pdf"
+  }
+}

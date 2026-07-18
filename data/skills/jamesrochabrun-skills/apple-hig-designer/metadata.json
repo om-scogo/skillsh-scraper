@@ -1,0 +1,17 @@
+{
+  "skillId": "apple-hig-designer",
+  "source": "jamesrochabrun/skills",
+  "owner": "jamesrochabrun",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jamesrochabrun/skills",
+    "skillId": "apple-hig-designer",
+    "name": "apple-hig-designer",
+    "installs": 899,
+    "owner": "jamesrochabrun",
+    "repo": "skills",
+    "githubUrl": "https://github.com/jamesrochabrun/skills",
+    "displayName": "Apple Hig Designer"
+  }
+}

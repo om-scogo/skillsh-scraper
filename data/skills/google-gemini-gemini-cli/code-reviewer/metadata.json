@@ -1,0 +1,17 @@
+{
+  "skillId": "code-reviewer",
+  "source": "google-gemini/gemini-cli",
+  "owner": "google-gemini",
+  "repo": "gemini-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-gemini/gemini-cli",
+    "skillId": "code-reviewer",
+    "name": "code-reviewer",
+    "installs": 8328,
+    "owner": "google-gemini",
+    "repo": "gemini-cli",
+    "githubUrl": "https://github.com/google-gemini/gemini-cli",
+    "displayName": "Code Reviewer"
+  }
+}

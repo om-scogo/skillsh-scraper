@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-sync-contacts-to-sheet",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-sync-contacts-to-sheet",
+    "name": "recipe-sync-contacts-to-sheet",
+    "installs": 22793,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Sync Contacts To Sheet"
+  }
+}

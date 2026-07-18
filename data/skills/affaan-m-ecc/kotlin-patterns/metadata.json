@@ -1,0 +1,17 @@
+{
+  "skillId": "kotlin-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "kotlin-patterns",
+    "name": "kotlin-patterns",
+    "installs": 1129,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Kotlin Patterns"
+  }
+}

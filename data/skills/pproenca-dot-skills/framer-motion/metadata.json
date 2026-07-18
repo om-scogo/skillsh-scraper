@@ -1,0 +1,17 @@
+{
+  "skillId": "framer-motion",
+  "source": "pproenca/dot-skills",
+  "owner": "pproenca",
+  "repo": "dot-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pproenca/dot-skills",
+    "skillId": "framer-motion",
+    "name": "framer-motion",
+    "installs": 878,
+    "owner": "pproenca",
+    "repo": "dot-skills",
+    "githubUrl": "https://github.com/pproenca/dot-skills",
+    "displayName": "Framer Motion"
+  }
+}

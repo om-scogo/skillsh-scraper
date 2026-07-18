@@ -1,0 +1,17 @@
+{
+  "skillId": "create-skill",
+  "source": "siviter-xyz/dot-agent",
+  "owner": "siviter-xyz",
+  "repo": "dot-agent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "siviter-xyz/dot-agent",
+    "skillId": "create-skill",
+    "name": "create-skill",
+    "installs": 2699,
+    "owner": "siviter-xyz",
+    "repo": "dot-agent",
+    "githubUrl": "https://github.com/siviter-xyz/dot-agent",
+    "displayName": "Create Skill"
+  }
+}

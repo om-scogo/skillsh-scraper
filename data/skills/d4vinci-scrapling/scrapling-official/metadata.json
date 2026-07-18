@@ -1,0 +1,17 @@
+{
+  "skillId": "scrapling-official",
+  "source": "d4vinci/scrapling",
+  "owner": "d4vinci",
+  "repo": "scrapling",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "d4vinci/scrapling",
+    "skillId": "scrapling-official",
+    "name": "scrapling-official",
+    "installs": 2595,
+    "owner": "d4vinci",
+    "repo": "scrapling",
+    "githubUrl": "https://github.com/d4vinci/scrapling",
+    "displayName": "Scrapling Official"
+  }
+}

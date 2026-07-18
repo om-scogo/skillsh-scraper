@@ -1,0 +1,17 @@
+{
+  "skillId": "plan",
+  "source": "launchdarkly/agent-skills",
+  "owner": "launchdarkly",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "launchdarkly/agent-skills",
+    "skillId": "plan",
+    "name": "plan",
+    "installs": 2086,
+    "owner": "launchdarkly",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/launchdarkly/agent-skills",
+    "displayName": "Plan"
+  }
+}

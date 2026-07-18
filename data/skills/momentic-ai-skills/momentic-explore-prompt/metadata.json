@@ -1,0 +1,17 @@
+{
+  "skillId": "momentic-explore-prompt",
+  "source": "momentic-ai/skills",
+  "owner": "momentic-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "momentic-ai/skills",
+    "skillId": "momentic-explore-prompt",
+    "name": "momentic-explore-prompt",
+    "installs": 991,
+    "owner": "momentic-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/momentic-ai/skills",
+    "displayName": "Momentic Explore Prompt"
+  }
+}

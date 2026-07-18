@@ -1,0 +1,17 @@
+{
+  "skillId": "korean-middle-korean",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "korean-middle-korean",
+    "name": "korean-middle-korean",
+    "installs": 1065,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Korean Middle Korean"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "identify-assumptions-new",
+  "source": "phuryn/pm-skills",
+  "owner": "phuryn",
+  "repo": "pm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "phuryn/pm-skills",
+    "skillId": "identify-assumptions-new",
+    "name": "identify-assumptions-new",
+    "installs": 1697,
+    "owner": "phuryn",
+    "repo": "pm-skills",
+    "githubUrl": "https://github.com/phuryn/pm-skills",
+    "displayName": "Identify Assumptions New"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "msw-ui-system",
+  "source": "msw-git/msw-ai-coding-plugins-official",
+  "owner": "msw-git",
+  "repo": "msw-ai-coding-plugins-official",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "msw-git/msw-ai-coding-plugins-official",
+    "skillId": "msw-ui-system",
+    "name": "msw-ui-system",
+    "installs": 3111,
+    "owner": "msw-git",
+    "repo": "msw-ai-coding-plugins-official",
+    "githubUrl": "https://github.com/msw-git/msw-ai-coding-plugins-official",
+    "displayName": "Msw Ui System"
+  }
+}

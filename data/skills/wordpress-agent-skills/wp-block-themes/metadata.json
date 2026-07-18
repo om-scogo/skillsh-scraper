@@ -1,0 +1,17 @@
+{
+  "skillId": "wp-block-themes",
+  "source": "wordpress/agent-skills",
+  "owner": "wordpress",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wordpress/agent-skills",
+    "skillId": "wp-block-themes",
+    "name": "wp-block-themes",
+    "installs": 3137,
+    "owner": "wordpress",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/wordpress/agent-skills",
+    "displayName": "Wp Block Themes"
+  }
+}

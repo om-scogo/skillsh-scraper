@@ -1,0 +1,17 @@
+{
+  "skillId": "dpm-finder",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "dpm-finder",
+    "name": "dpm-finder",
+    "installs": 1508,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Dpm Finder"
+  }
+}

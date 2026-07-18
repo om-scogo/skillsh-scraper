@@ -1,0 +1,17 @@
+{
+  "skillId": "golang-stay-updated",
+  "source": "samber/cc-skills-golang",
+  "owner": "samber",
+  "repo": "cc-skills-golang",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills-golang",
+    "skillId": "golang-stay-updated",
+    "name": "golang-stay-updated",
+    "installs": 32669,
+    "owner": "samber",
+    "repo": "cc-skills-golang",
+    "githubUrl": "https://github.com/samber/cc-skills-golang",
+    "displayName": "Golang Stay Updated"
+  }
+}

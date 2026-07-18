@@ -1,0 +1,17 @@
+{
+  "skillId": "docx",
+  "source": "anthropics/skills",
+  "owner": "anthropics",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/skills",
+    "skillId": "docx",
+    "name": "docx",
+    "installs": 152315,
+    "owner": "anthropics",
+    "repo": "skills",
+    "githubUrl": "https://github.com/anthropics/skills",
+    "displayName": "Docx"
+  }
+}

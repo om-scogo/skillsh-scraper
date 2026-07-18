@@ -1,0 +1,17 @@
+{
+  "skillId": "nestjs-best-practices",
+  "source": "kadajett/agent-nestjs-skills",
+  "owner": "kadajett",
+  "repo": "agent-nestjs-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kadajett/agent-nestjs-skills",
+    "skillId": "nestjs-best-practices",
+    "name": "nestjs-best-practices",
+    "installs": 22193,
+    "owner": "kadajett",
+    "repo": "agent-nestjs-skills",
+    "githubUrl": "https://github.com/kadajett/agent-nestjs-skills",
+    "displayName": "Nestjs Best Practices"
+  }
+}

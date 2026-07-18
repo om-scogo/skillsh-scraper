@@ -1,0 +1,17 @@
+{
+  "skillId": "music-to-video",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "music-to-video",
+    "name": "music-to-video",
+    "installs": 86973,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Music To Video"
+  }
+}

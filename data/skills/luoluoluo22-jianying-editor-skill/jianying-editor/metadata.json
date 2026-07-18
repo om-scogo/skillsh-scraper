@@ -1,0 +1,17 @@
+{
+  "skillId": "jianying-editor",
+  "source": "luoluoluo22/jianying-editor-skill",
+  "owner": "luoluoluo22",
+  "repo": "jianying-editor-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "luoluoluo22/jianying-editor-skill",
+    "skillId": "jianying-editor",
+    "name": "jianying-editor",
+    "installs": 1287,
+    "owner": "luoluoluo22",
+    "repo": "jianying-editor-skill",
+    "githubUrl": "https://github.com/luoluoluo22/jianying-editor-skill",
+    "displayName": "Jianying Editor"
+  }
+}

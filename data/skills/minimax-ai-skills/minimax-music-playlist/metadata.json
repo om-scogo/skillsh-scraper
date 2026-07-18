@@ -1,0 +1,17 @@
+{
+  "skillId": "minimax-music-playlist",
+  "source": "minimax-ai/skills",
+  "owner": "minimax-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "minimax-ai/skills",
+    "skillId": "minimax-music-playlist",
+    "name": "minimax-music-playlist",
+    "installs": 1086,
+    "owner": "minimax-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/minimax-ai/skills",
+    "displayName": "Minimax Music Playlist"
+  }
+}

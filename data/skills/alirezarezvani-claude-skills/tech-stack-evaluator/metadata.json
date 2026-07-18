@@ -1,0 +1,17 @@
+{
+  "skillId": "tech-stack-evaluator",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "tech-stack-evaluator",
+    "name": "tech-stack-evaluator",
+    "installs": 854,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Tech Stack Evaluator"
+  }
+}

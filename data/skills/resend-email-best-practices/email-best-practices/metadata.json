@@ -1,0 +1,17 @@
+{
+  "skillId": "email-best-practices",
+  "source": "resend/email-best-practices",
+  "owner": "resend",
+  "repo": "email-best-practices",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "resend/email-best-practices",
+    "skillId": "email-best-practices",
+    "name": "email-best-practices",
+    "installs": 6844,
+    "owner": "resend",
+    "repo": "email-best-practices",
+    "githubUrl": "https://github.com/resend/email-best-practices",
+    "displayName": "Email Best Practices"
+  }
+}

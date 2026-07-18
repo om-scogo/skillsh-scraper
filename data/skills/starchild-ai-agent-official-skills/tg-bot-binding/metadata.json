@@ -1,0 +1,17 @@
+{
+  "skillId": "tg-bot-binding",
+  "source": "starchild-ai-agent/official-skills",
+  "owner": "starchild-ai-agent",
+  "repo": "official-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "starchild-ai-agent/official-skills",
+    "skillId": "tg-bot-binding",
+    "name": "tg-bot-binding",
+    "installs": 1926,
+    "owner": "starchild-ai-agent",
+    "repo": "official-skills",
+    "githubUrl": "https://github.com/starchild-ai-agent/official-skills",
+    "displayName": "Tg Bot Binding"
+  }
+}

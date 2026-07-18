@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-pr-manager",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-pr-manager",
+    "name": "agent-pr-manager",
+    "installs": 993,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Pr Manager"
+  }
+}

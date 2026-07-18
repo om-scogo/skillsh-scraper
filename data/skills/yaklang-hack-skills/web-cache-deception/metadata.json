@@ -1,0 +1,17 @@
+{
+  "skillId": "web-cache-deception",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "web-cache-deception",
+    "name": "web-cache-deception",
+    "installs": 1939,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Web Cache Deception"
+  }
+}

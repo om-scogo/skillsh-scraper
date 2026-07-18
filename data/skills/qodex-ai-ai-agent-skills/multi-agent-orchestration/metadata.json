@@ -1,0 +1,17 @@
+{
+  "skillId": "multi-agent-orchestration",
+  "source": "qodex-ai/ai-agent-skills",
+  "owner": "qodex-ai",
+  "repo": "ai-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qodex-ai/ai-agent-skills",
+    "skillId": "multi-agent-orchestration",
+    "name": "multi-agent-orchestration",
+    "installs": 1904,
+    "owner": "qodex-ai",
+    "repo": "ai-agent-skills",
+    "githubUrl": "https://github.com/qodex-ai/ai-agent-skills",
+    "displayName": "Multi Agent Orchestration"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "write-feature-docs",
+  "source": "warpdotdev/common-skills",
+  "owner": "warpdotdev",
+  "repo": "common-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "warpdotdev/common-skills",
+    "skillId": "write-feature-docs",
+    "name": "write-feature-docs",
+    "installs": 4129,
+    "owner": "warpdotdev",
+    "repo": "common-skills",
+    "githubUrl": "https://github.com/warpdotdev/common-skills",
+    "displayName": "Write Feature Docs"
+  }
+}

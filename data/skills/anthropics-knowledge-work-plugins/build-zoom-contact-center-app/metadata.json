@@ -1,0 +1,17 @@
+{
+  "skillId": "build-zoom-contact-center-app",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "build-zoom-contact-center-app",
+    "name": "build-zoom-contact-center-app",
+    "installs": 1293,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Build Zoom Contact Center App"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "http-parameter-pollution",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "http-parameter-pollution",
+    "name": "http-parameter-pollution",
+    "installs": 1955,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Http Parameter Pollution"
+  }
+}

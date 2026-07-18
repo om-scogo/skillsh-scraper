@@ -1,0 +1,17 @@
+{
+  "skillId": "flowstudio-power-automate-monitoring",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "flowstudio-power-automate-monitoring",
+    "name": "flowstudio-power-automate-monitoring",
+    "installs": 756,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Flowstudio Power Automate Monitoring"
+  }
+}

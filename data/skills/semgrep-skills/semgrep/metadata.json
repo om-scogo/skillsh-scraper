@@ -1,0 +1,17 @@
+{
+  "skillId": "semgrep",
+  "source": "semgrep/skills",
+  "owner": "semgrep",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "semgrep/skills",
+    "skillId": "semgrep",
+    "name": "semgrep",
+    "installs": 958,
+    "owner": "semgrep",
+    "repo": "skills",
+    "githubUrl": "https://github.com/semgrep/skills",
+    "displayName": "Semgrep"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "mcp-integration",
+  "source": "anthropics/claude-plugins-official",
+  "owner": "anthropics",
+  "repo": "claude-plugins-official",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/claude-plugins-official",
+    "skillId": "mcp-integration",
+    "name": "mcp-integration",
+    "installs": 3962,
+    "owner": "anthropics",
+    "repo": "claude-plugins-official",
+    "githubUrl": "https://github.com/anthropics/claude-plugins-official",
+    "displayName": "Mcp Integration"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "blog-multilingual",
+  "source": "agricidaniel/claude-blog",
+  "owner": "agricidaniel",
+  "repo": "claude-blog",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-blog",
+    "skillId": "blog-multilingual",
+    "name": "blog-multilingual",
+    "installs": 951,
+    "owner": "agricidaniel",
+    "repo": "claude-blog",
+    "githubUrl": "https://github.com/agricidaniel/claude-blog",
+    "displayName": "Blog Multilingual"
+  }
+}

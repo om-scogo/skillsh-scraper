@@ -1,0 +1,17 @@
+{
+  "skillId": "billing-automation",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "billing-automation",
+    "name": "billing-automation",
+    "installs": 8608,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Billing Automation"
+  }
+}

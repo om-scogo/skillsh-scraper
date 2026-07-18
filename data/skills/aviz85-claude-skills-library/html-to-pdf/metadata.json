@@ -1,0 +1,17 @@
+{
+  "skillId": "html-to-pdf",
+  "source": "aviz85/claude-skills-library",
+  "owner": "aviz85",
+  "repo": "claude-skills-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aviz85/claude-skills-library",
+    "skillId": "html-to-pdf",
+    "name": "html-to-pdf",
+    "installs": 1099,
+    "owner": "aviz85",
+    "repo": "claude-skills-library",
+    "githubUrl": "https://github.com/aviz85/claude-skills-library",
+    "displayName": "Html To Pdf"
+  }
+}

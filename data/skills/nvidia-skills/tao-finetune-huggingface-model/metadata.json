@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-finetune-huggingface-model",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-finetune-huggingface-model",
+    "name": "tao-finetune-huggingface-model",
+    "installs": 1309,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Finetune Huggingface Model"
+  }
+}

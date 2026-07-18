@@ -1,0 +1,17 @@
+{
+  "skillId": "on-call-handoff-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "on-call-handoff-patterns",
+    "name": "on-call-handoff-patterns",
+    "installs": 7799,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "On Call Handoff Patterns"
+  }
+}

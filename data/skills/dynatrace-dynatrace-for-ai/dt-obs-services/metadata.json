@@ -1,0 +1,17 @@
+{
+  "skillId": "dt-obs-services",
+  "source": "dynatrace/dynatrace-for-ai",
+  "owner": "dynatrace",
+  "repo": "dynatrace-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dynatrace/dynatrace-for-ai",
+    "skillId": "dt-obs-services",
+    "name": "dt-obs-services",
+    "installs": 1269,
+    "owner": "dynatrace",
+    "repo": "dynatrace-for-ai",
+    "githubUrl": "https://github.com/dynatrace/dynatrace-for-ai",
+    "displayName": "Dt Obs Services"
+  }
+}

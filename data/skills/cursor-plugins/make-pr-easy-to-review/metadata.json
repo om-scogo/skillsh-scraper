@@ -1,0 +1,17 @@
+{
+  "skillId": "make-pr-easy-to-review",
+  "source": "cursor/plugins",
+  "owner": "cursor",
+  "repo": "plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cursor/plugins",
+    "skillId": "make-pr-easy-to-review",
+    "name": "make-pr-easy-to-review",
+    "installs": 931,
+    "owner": "cursor",
+    "repo": "plugins",
+    "githubUrl": "https://github.com/cursor/plugins",
+    "displayName": "Make Pr Easy To Review"
+  }
+}

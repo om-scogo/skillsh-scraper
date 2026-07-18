@@ -1,0 +1,17 @@
+{
+  "skillId": "commit-work",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "commit-work",
+    "name": "commit-work",
+    "installs": 3887,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Commit Work"
+  }
+}

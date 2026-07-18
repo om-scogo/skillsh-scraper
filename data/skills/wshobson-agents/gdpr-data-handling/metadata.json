@@ -1,0 +1,17 @@
+{
+  "skillId": "gdpr-data-handling",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "gdpr-data-handling",
+    "name": "gdpr-data-handling",
+    "installs": 11790,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Gdpr Data Handling"
+  }
+}

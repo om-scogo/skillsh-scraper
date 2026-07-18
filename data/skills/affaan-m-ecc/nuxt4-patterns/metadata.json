@@ -1,0 +1,17 @@
+{
+  "skillId": "nuxt4-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "nuxt4-patterns",
+    "name": "nuxt4-patterns",
+    "installs": 1106,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Nuxt4 Patterns"
+  }
+}

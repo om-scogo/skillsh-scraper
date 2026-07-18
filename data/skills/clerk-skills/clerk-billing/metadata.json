@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-billing",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-billing",
+    "name": "clerk-billing",
+    "installs": 7630,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk Billing"
+  }
+}

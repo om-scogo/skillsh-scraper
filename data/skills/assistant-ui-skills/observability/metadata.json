@@ -1,0 +1,17 @@
+{
+  "skillId": "observability",
+  "source": "assistant-ui/skills",
+  "owner": "assistant-ui",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "assistant-ui/skills",
+    "skillId": "observability",
+    "name": "observability",
+    "installs": 1429,
+    "owner": "assistant-ui",
+    "repo": "skills",
+    "githubUrl": "https://github.com/assistant-ui/skills",
+    "displayName": "Observability"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "remotion-video",
+  "source": "wshuyi/remotion-video-skill",
+  "owner": "wshuyi",
+  "repo": "remotion-video-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshuyi/remotion-video-skill",
+    "skillId": "remotion-video",
+    "name": "remotion-video",
+    "installs": 909,
+    "owner": "wshuyi",
+    "repo": "remotion-video-skill",
+    "githubUrl": "https://github.com/wshuyi/remotion-video-skill",
+    "displayName": "Remotion Video"
+  }
+}

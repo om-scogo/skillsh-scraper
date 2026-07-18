@@ -1,0 +1,17 @@
+{
+  "skillId": "chinese-novelist",
+  "source": "penglonghuang/chinese-novelist-skill",
+  "owner": "penglonghuang",
+  "repo": "chinese-novelist-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "penglonghuang/chinese-novelist-skill",
+    "skillId": "chinese-novelist",
+    "name": "chinese-novelist",
+    "installs": 4731,
+    "owner": "penglonghuang",
+    "repo": "chinese-novelist-skill",
+    "githubUrl": "https://github.com/penglonghuang/chinese-novelist-skill",
+    "displayName": "Chinese Novelist"
+  }
+}

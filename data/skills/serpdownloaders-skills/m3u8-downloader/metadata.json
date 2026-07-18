@@ -1,0 +1,17 @@
+{
+  "skillId": "m3u8-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "m3u8-downloader",
+    "name": "m3u8-downloader",
+    "installs": 964,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "M3u8 Downloader"
+  }
+}

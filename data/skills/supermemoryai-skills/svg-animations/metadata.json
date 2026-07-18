@@ -1,0 +1,17 @@
+{
+  "skillId": "svg-animations",
+  "source": "supermemoryai/skills",
+  "owner": "supermemoryai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "supermemoryai/skills",
+    "skillId": "svg-animations",
+    "name": "svg-animations",
+    "installs": 1414,
+    "owner": "supermemoryai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/supermemoryai/skills",
+    "displayName": "Svg Animations"
+  }
+}

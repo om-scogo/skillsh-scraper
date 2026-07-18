@@ -1,0 +1,17 @@
+{
+  "skillId": "frame-light-leak-cinema",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "frame-light-leak-cinema",
+    "name": "frame-light-leak-cinema",
+    "installs": 1465,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Frame Light Leak Cinema"
+  }
+}

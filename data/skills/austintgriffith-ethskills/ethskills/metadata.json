@@ -1,0 +1,17 @@
+{
+  "skillId": "ethskills",
+  "source": "austintgriffith/ethskills",
+  "owner": "austintgriffith",
+  "repo": "ethskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "austintgriffith/ethskills",
+    "skillId": "ethskills",
+    "name": "ethskills",
+    "installs": 1924,
+    "owner": "austintgriffith",
+    "repo": "ethskills",
+    "githubUrl": "https://github.com/austintgriffith/ethskills",
+    "displayName": "Ethskills"
+  }
+}

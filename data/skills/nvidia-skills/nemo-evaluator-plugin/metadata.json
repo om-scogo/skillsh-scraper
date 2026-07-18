@@ -1,0 +1,17 @@
+{
+  "skillId": "nemo-evaluator-plugin",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemo-evaluator-plugin",
+    "name": "nemo-evaluator-plugin",
+    "installs": 1527,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemo Evaluator Plugin"
+  }
+}

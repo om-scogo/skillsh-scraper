@@ -1,0 +1,17 @@
+{
+  "skillId": "sector-analyst",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "sector-analyst",
+    "name": "sector-analyst",
+    "installs": 946,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Sector Analyst"
+  }
+}

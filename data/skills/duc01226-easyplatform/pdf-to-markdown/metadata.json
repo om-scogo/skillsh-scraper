@@ -1,0 +1,17 @@
+{
+  "skillId": "pdf-to-markdown",
+  "source": "duc01226/easyplatform",
+  "owner": "duc01226",
+  "repo": "easyplatform",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "duc01226/easyplatform",
+    "skillId": "pdf-to-markdown",
+    "name": "pdf-to-markdown",
+    "installs": 862,
+    "owner": "duc01226",
+    "repo": "easyplatform",
+    "githubUrl": "https://github.com/duc01226/easyplatform",
+    "displayName": "Pdf To Markdown"
+  }
+}

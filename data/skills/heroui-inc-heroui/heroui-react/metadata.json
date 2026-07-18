@@ -1,0 +1,17 @@
+{
+  "skillId": "heroui-react",
+  "source": "heroui-inc/heroui",
+  "owner": "heroui-inc",
+  "repo": "heroui",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heroui-inc/heroui",
+    "skillId": "heroui-react",
+    "name": "heroui-react",
+    "installs": 8235,
+    "owner": "heroui-inc",
+    "repo": "heroui",
+    "githubUrl": "https://github.com/heroui-inc/heroui",
+    "displayName": "Heroui React"
+  }
+}

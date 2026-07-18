@@ -1,0 +1,17 @@
+{
+  "skillId": "karpathy-coder",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "karpathy-coder",
+    "name": "karpathy-coder",
+    "installs": 945,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Karpathy Coder"
+  }
+}

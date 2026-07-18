@@ -1,0 +1,17 @@
+{
+  "skillId": "notebooklm",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "notebooklm",
+    "name": "notebooklm",
+    "installs": 1337,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Notebooklm"
+  }
+}

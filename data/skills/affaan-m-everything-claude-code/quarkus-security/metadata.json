@@ -1,0 +1,17 @@
+{
+  "skillId": "quarkus-security",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "quarkus-security",
+    "name": "quarkus-security",
+    "installs": 1651,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Quarkus Security"
+  }
+}

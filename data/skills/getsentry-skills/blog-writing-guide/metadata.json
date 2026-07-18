@@ -1,0 +1,17 @@
+{
+  "skillId": "blog-writing-guide",
+  "source": "getsentry/skills",
+  "owner": "getsentry",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/skills",
+    "skillId": "blog-writing-guide",
+    "name": "blog-writing-guide",
+    "installs": 1886,
+    "owner": "getsentry",
+    "repo": "skills",
+    "githubUrl": "https://github.com/getsentry/skills",
+    "displayName": "Blog Writing Guide"
+  }
+}

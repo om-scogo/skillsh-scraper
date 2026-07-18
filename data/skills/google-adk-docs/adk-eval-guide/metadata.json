@@ -1,0 +1,17 @@
+{
+  "skillId": "adk-eval-guide",
+  "source": "google/adk-docs",
+  "owner": "google",
+  "repo": "adk-docs",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/adk-docs",
+    "skillId": "adk-eval-guide",
+    "name": "adk-eval-guide",
+    "installs": 2664,
+    "owner": "google",
+    "repo": "adk-docs",
+    "githubUrl": "https://github.com/google/adk-docs",
+    "displayName": "Adk Eval Guide"
+  }
+}

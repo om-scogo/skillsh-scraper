@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-design",
+  "source": "vercel-labs/agent-eval",
+  "owner": "vercel-labs",
+  "repo": "agent-eval",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/agent-eval",
+    "skillId": "frontend-design",
+    "name": "frontend-design",
+    "installs": 911,
+    "owner": "vercel-labs",
+    "repo": "agent-eval",
+    "githubUrl": "https://github.com/vercel-labs/agent-eval",
+    "displayName": "Frontend Design"
+  }
+}

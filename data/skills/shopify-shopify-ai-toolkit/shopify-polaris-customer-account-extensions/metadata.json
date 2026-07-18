@@ -1,0 +1,17 @@
+{
+  "skillId": "shopify-polaris-customer-account-extensions",
+  "source": "shopify/shopify-ai-toolkit",
+  "owner": "shopify",
+  "repo": "shopify-ai-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shopify/shopify-ai-toolkit",
+    "skillId": "shopify-polaris-customer-account-extensions",
+    "name": "shopify-polaris-customer-account-extensions",
+    "installs": 6173,
+    "owner": "shopify",
+    "repo": "shopify-ai-toolkit",
+    "githubUrl": "https://github.com/shopify/shopify-ai-toolkit",
+    "displayName": "Shopify Polaris Customer Account Extensions"
+  }
+}

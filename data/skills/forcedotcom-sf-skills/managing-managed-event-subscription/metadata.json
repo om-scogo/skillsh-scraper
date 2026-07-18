@@ -1,0 +1,17 @@
+{
+  "skillId": "managing-managed-event-subscription",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "managing-managed-event-subscription",
+    "name": "managing-managed-event-subscription",
+    "installs": 827,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Managing Managed Event Subscription"
+  }
+}

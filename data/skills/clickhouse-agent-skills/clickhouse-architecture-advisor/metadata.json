@@ -1,0 +1,17 @@
+{
+  "skillId": "clickhouse-architecture-advisor",
+  "source": "clickhouse/agent-skills",
+  "owner": "clickhouse",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clickhouse/agent-skills",
+    "skillId": "clickhouse-architecture-advisor",
+    "name": "clickhouse-architecture-advisor",
+    "installs": 3629,
+    "owner": "clickhouse",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/clickhouse/agent-skills",
+    "displayName": "Clickhouse Architecture Advisor"
+  }
+}

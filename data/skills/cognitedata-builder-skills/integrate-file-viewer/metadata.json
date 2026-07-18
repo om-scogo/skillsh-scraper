@@ -1,0 +1,17 @@
+{
+  "skillId": "integrate-file-viewer",
+  "source": "cognitedata/builder-skills",
+  "owner": "cognitedata",
+  "repo": "builder-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cognitedata/builder-skills",
+    "skillId": "integrate-file-viewer",
+    "name": "integrate-file-viewer",
+    "installs": 1869,
+    "owner": "cognitedata",
+    "repo": "builder-skills",
+    "githubUrl": "https://github.com/cognitedata/builder-skills",
+    "displayName": "Integrate File Viewer"
+  }
+}

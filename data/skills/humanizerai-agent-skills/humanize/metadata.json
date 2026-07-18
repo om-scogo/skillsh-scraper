@@ -1,0 +1,17 @@
+{
+  "skillId": "humanize",
+  "source": "humanizerai/agent-skills",
+  "owner": "humanizerai",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "humanizerai/agent-skills",
+    "skillId": "humanize",
+    "name": "humanize",
+    "installs": 3095,
+    "owner": "humanizerai",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/humanizerai/agent-skills",
+    "displayName": "Humanize"
+  }
+}

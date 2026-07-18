@@ -1,0 +1,17 @@
+{
+  "skillId": "wecomcli-smartsheet",
+  "source": "wecomteam/wecom-cli",
+  "owner": "wecomteam",
+  "repo": "wecom-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wecomteam/wecom-cli",
+    "skillId": "wecomcli-smartsheet",
+    "name": "wecomcli-smartsheet",
+    "installs": 9604,
+    "owner": "wecomteam",
+    "repo": "wecom-cli",
+    "githubUrl": "https://github.com/wecomteam/wecom-cli",
+    "displayName": "Wecomcli Smartsheet"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "open-images-for-free-use",
+  "source": "peter-duffy95/open-images-for-free-use-skill",
+  "owner": "peter-duffy95",
+  "repo": "open-images-for-free-use-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "peter-duffy95/open-images-for-free-use-skill",
+    "skillId": "open-images-for-free-use",
+    "name": "open-images-for-free-use",
+    "installs": 1348,
+    "owner": "peter-duffy95",
+    "repo": "open-images-for-free-use-skill",
+    "githubUrl": "https://github.com/peter-duffy95/open-images-for-free-use-skill",
+    "displayName": "Open Images For Free Use"
+  }
+}

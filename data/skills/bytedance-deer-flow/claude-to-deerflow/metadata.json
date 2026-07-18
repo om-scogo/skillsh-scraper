@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-to-deerflow",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "claude-to-deerflow",
+    "name": "claude-to-deerflow",
+    "installs": 3127,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Claude To Deerflow"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "memory-safety-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "memory-safety-patterns",
+    "name": "memory-safety-patterns",
+    "installs": 9010,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Memory Safety Patterns"
+  }
+}

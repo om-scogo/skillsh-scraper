@@ -1,0 +1,17 @@
+{
+  "skillId": "minimax-docx",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "minimax-docx",
+    "name": "minimax-docx",
+    "installs": 1592,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Minimax Docx"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "wecomcli-get-msg",
+  "source": "wecomteam/wecom-cli",
+  "owner": "wecomteam",
+  "repo": "wecom-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wecomteam/wecom-cli",
+    "skillId": "wecomcli-get-msg",
+    "name": "wecomcli-get-msg",
+    "installs": 2439,
+    "owner": "wecomteam",
+    "repo": "wecom-cli",
+    "githubUrl": "https://github.com/wecomteam/wecom-cli",
+    "displayName": "Wecomcli Get Msg"
+  }
+}

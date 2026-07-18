@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-tester",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-tester",
+    "name": "agent-tester",
+    "installs": 1012,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Tester"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "block-inventory",
+  "source": "adobe/skills",
+  "owner": "adobe",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adobe/skills",
+    "skillId": "block-inventory",
+    "name": "block-inventory",
+    "installs": 935,
+    "owner": "adobe",
+    "repo": "skills",
+    "githubUrl": "https://github.com/adobe/skills",
+    "displayName": "Block Inventory"
+  }
+}

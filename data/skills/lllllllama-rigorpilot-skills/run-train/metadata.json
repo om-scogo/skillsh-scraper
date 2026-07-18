@@ -1,0 +1,17 @@
+{
+  "skillId": "run-train",
+  "source": "lllllllama/rigorpilot-skills",
+  "owner": "lllllllama",
+  "repo": "rigorpilot-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lllllllama/rigorpilot-skills",
+    "skillId": "run-train",
+    "name": "run-train",
+    "installs": 136015,
+    "owner": "lllllllama",
+    "repo": "rigorpilot-skills",
+    "githubUrl": "https://github.com/lllllllama/rigorpilot-skills",
+    "displayName": "Run Train"
+  }
+}

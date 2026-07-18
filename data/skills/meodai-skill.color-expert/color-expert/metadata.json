@@ -1,0 +1,17 @@
+{
+  "skillId": "color-expert",
+  "source": "meodai/skill.color-expert",
+  "owner": "meodai",
+  "repo": "skill.color-expert",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "meodai/skill.color-expert",
+    "skillId": "color-expert",
+    "name": "color-expert",
+    "installs": 1358,
+    "owner": "meodai",
+    "repo": "skill.color-expert",
+    "githubUrl": "https://github.com/meodai/skill.color-expert",
+    "displayName": "Color Expert"
+  }
+}

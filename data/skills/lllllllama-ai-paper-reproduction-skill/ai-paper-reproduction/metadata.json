@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-paper-reproduction",
+  "source": "lllllllama/ai-paper-reproduction-skill",
+  "owner": "lllllllama",
+  "repo": "ai-paper-reproduction-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lllllllama/ai-paper-reproduction-skill",
+    "skillId": "ai-paper-reproduction",
+    "name": "ai-paper-reproduction",
+    "installs": 9105,
+    "owner": "lllllllama",
+    "repo": "ai-paper-reproduction-skill",
+    "githubUrl": "https://github.com/lllllllama/ai-paper-reproduction-skill",
+    "displayName": "Ai Paper Reproduction"
+  }
+}

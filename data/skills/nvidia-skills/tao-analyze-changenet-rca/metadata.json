@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-analyze-changenet-rca",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-analyze-changenet-rca",
+    "name": "tao-analyze-changenet-rca",
+    "installs": 1285,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Analyze Changenet Rca"
+  }
+}

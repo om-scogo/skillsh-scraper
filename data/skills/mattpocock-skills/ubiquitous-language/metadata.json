@@ -1,0 +1,17 @@
+{
+  "skillId": "ubiquitous-language",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "ubiquitous-language",
+    "name": "ubiquitous-language",
+    "installs": 140354,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Ubiquitous Language"
+  }
+}

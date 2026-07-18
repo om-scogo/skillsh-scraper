@@ -1,0 +1,17 @@
+{
+  "skillId": "react-testing-library",
+  "source": "itechmeat/llm-code",
+  "owner": "itechmeat",
+  "repo": "llm-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "itechmeat/llm-code",
+    "skillId": "react-testing-library",
+    "name": "react-testing-library",
+    "installs": 1148,
+    "owner": "itechmeat",
+    "repo": "llm-code",
+    "githubUrl": "https://github.com/itechmeat/llm-code",
+    "displayName": "React Testing Library"
+  }
+}

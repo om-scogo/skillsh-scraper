@@ -1,0 +1,17 @@
+{
+  "skillId": "lbo-model",
+  "source": "anthropics/financial-services-plugins",
+  "owner": "anthropics",
+  "repo": "financial-services-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/financial-services-plugins",
+    "skillId": "lbo-model",
+    "name": "lbo-model",
+    "installs": 878,
+    "owner": "anthropics",
+    "repo": "financial-services-plugins",
+    "githubUrl": "https://github.com/anthropics/financial-services-plugins",
+    "displayName": "Lbo Model"
+  }
+}

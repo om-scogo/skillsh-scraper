@@ -1,0 +1,17 @@
+{
+  "skillId": "embedded-captions",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "embedded-captions",
+    "name": "embedded-captions",
+    "installs": 99843,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Embedded Captions"
+  }
+}

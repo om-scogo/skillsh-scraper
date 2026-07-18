@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-design",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "frontend-design",
+    "name": "frontend-design",
+    "installs": 2647,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Frontend Design"
+  }
+}

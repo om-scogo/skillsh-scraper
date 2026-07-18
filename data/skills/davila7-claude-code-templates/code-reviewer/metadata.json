@@ -1,0 +1,17 @@
+{
+  "skillId": "code-reviewer",
+  "source": "davila7/claude-code-templates",
+  "owner": "davila7",
+  "repo": "claude-code-templates",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "davila7/claude-code-templates",
+    "skillId": "code-reviewer",
+    "name": "code-reviewer",
+    "installs": 826,
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "githubUrl": "https://github.com/davila7/claude-code-templates",
+    "displayName": "Code Reviewer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "happyhorse-1-0",
+  "source": "runcomfy-com/skills",
+  "owner": "runcomfy-com",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "runcomfy-com/skills",
+    "skillId": "happyhorse-1-0",
+    "name": "happyhorse-1-0",
+    "installs": 12,
+    "owner": "runcomfy-com",
+    "repo": "skills",
+    "githubUrl": "https://github.com/runcomfy-com/skills",
+    "displayName": "Happyhorse 1 0"
+  }
+}

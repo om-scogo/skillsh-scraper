@@ -1,0 +1,17 @@
+{
+  "skillId": "find-models",
+  "source": "replicate/skills",
+  "owner": "replicate",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "replicate/skills",
+    "skillId": "find-models",
+    "name": "find-models",
+    "installs": 1097,
+    "owner": "replicate",
+    "repo": "skills",
+    "githubUrl": "https://github.com/replicate/skills",
+    "displayName": "Find Models"
+  }
+}

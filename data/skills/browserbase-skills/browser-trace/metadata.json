@@ -1,0 +1,17 @@
+{
+  "skillId": "browser-trace",
+  "source": "browserbase/skills",
+  "owner": "browserbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "browserbase/skills",
+    "skillId": "browser-trace",
+    "name": "browser-trace",
+    "installs": 2541,
+    "owner": "browserbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/browserbase/skills",
+    "displayName": "Browser Trace"
+  }
+}

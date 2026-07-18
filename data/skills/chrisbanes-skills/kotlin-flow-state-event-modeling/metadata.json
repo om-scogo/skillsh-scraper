@@ -1,0 +1,17 @@
+{
+  "skillId": "kotlin-flow-state-event-modeling",
+  "source": "chrisbanes/skills",
+  "owner": "chrisbanes",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chrisbanes/skills",
+    "skillId": "kotlin-flow-state-event-modeling",
+    "name": "kotlin-flow-state-event-modeling",
+    "installs": 815,
+    "owner": "chrisbanes",
+    "repo": "skills",
+    "githubUrl": "https://github.com/chrisbanes/skills",
+    "displayName": "Kotlin Flow State Event Modeling"
+  }
+}

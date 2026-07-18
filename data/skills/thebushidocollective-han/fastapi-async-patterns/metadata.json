@@ -1,0 +1,17 @@
+{
+  "skillId": "fastapi-async-patterns",
+  "source": "thebushidocollective/han",
+  "owner": "thebushidocollective",
+  "repo": "han",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thebushidocollective/han",
+    "skillId": "fastapi-async-patterns",
+    "name": "fastapi-async-patterns",
+    "installs": 902,
+    "owner": "thebushidocollective",
+    "repo": "han",
+    "githubUrl": "https://github.com/thebushidocollective/han",
+    "displayName": "Fastapi Async Patterns"
+  }
+}

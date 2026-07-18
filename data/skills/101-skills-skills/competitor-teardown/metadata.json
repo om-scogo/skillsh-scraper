@@ -1,0 +1,17 @@
+{
+  "skillId": "competitor-teardown",
+  "source": "101-skills/skills",
+  "owner": "101-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "101-skills/skills",
+    "skillId": "competitor-teardown",
+    "name": "competitor-teardown",
+    "installs": 11009,
+    "owner": "101-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/101-skills/skills",
+    "displayName": "Competitor Teardown"
+  }
+}

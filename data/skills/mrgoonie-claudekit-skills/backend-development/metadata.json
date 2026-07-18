@@ -1,0 +1,17 @@
+{
+  "skillId": "backend-development",
+  "source": "mrgoonie/claudekit-skills",
+  "owner": "mrgoonie",
+  "repo": "claudekit-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mrgoonie/claudekit-skills",
+    "skillId": "backend-development",
+    "name": "backend-development",
+    "installs": 1812,
+    "owner": "mrgoonie",
+    "repo": "claudekit-skills",
+    "githubUrl": "https://github.com/mrgoonie/claudekit-skills",
+    "displayName": "Backend Development"
+  }
+}

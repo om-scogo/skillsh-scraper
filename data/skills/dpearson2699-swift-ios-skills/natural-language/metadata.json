@@ -1,0 +1,17 @@
+{
+  "skillId": "natural-language",
+  "source": "dpearson2699/swift-ios-skills",
+  "owner": "dpearson2699",
+  "repo": "swift-ios-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dpearson2699/swift-ios-skills",
+    "skillId": "natural-language",
+    "name": "natural-language",
+    "installs": 2418,
+    "owner": "dpearson2699",
+    "repo": "swift-ios-skills",
+    "githubUrl": "https://github.com/dpearson2699/swift-ios-skills",
+    "displayName": "Natural Language"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "animate-text",
+  "source": "pixel-point/animate-text",
+  "owner": "pixel-point",
+  "repo": "animate-text",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pixel-point/animate-text",
+    "skillId": "animate-text",
+    "name": "animate-text",
+    "installs": 1638,
+    "owner": "pixel-point",
+    "repo": "animate-text",
+    "githubUrl": "https://github.com/pixel-point/animate-text",
+    "displayName": "Animate Text"
+  }
+}

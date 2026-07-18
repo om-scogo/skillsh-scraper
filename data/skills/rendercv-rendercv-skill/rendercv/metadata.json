@@ -1,0 +1,17 @@
+{
+  "skillId": "rendercv",
+  "source": "rendercv/rendercv-skill",
+  "owner": "rendercv",
+  "repo": "rendercv-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rendercv/rendercv-skill",
+    "skillId": "rendercv",
+    "name": "rendercv",
+    "installs": 1239,
+    "owner": "rendercv",
+    "repo": "rendercv-skill",
+    "githubUrl": "https://github.com/rendercv/rendercv-skill",
+    "displayName": "Rendercv"
+  }
+}

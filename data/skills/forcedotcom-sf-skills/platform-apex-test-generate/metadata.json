@@ -1,0 +1,17 @@
+{
+  "skillId": "platform-apex-test-generate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "platform-apex-test-generate",
+    "name": "platform-apex-test-generate",
+    "installs": 1650,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Platform Apex Test Generate"
+  }
+}

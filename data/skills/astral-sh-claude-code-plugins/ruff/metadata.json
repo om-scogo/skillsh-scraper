@@ -1,0 +1,17 @@
+{
+  "skillId": "ruff",
+  "source": "astral-sh/claude-code-plugins",
+  "owner": "astral-sh",
+  "repo": "claude-code-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astral-sh/claude-code-plugins",
+    "skillId": "ruff",
+    "name": "ruff",
+    "installs": 790,
+    "owner": "astral-sh",
+    "repo": "claude-code-plugins",
+    "githubUrl": "https://github.com/astral-sh/claude-code-plugins",
+    "displayName": "Ruff"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "what-did-i-get-done",
+  "source": "cursor/plugins",
+  "owner": "cursor",
+  "repo": "plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cursor/plugins",
+    "skillId": "what-did-i-get-done",
+    "name": "what-did-i-get-done",
+    "installs": 905,
+    "owner": "cursor",
+    "repo": "plugins",
+    "githubUrl": "https://github.com/cursor/plugins",
+    "displayName": "What Did I Get Done"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "business-growth-skills",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "business-growth-skills",
+    "name": "business-growth-skills",
+    "installs": 2064,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Business Growth Skills"
+  }
+}

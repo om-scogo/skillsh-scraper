@@ -1,0 +1,17 @@
+{
+  "skillId": "m05-type-driven",
+  "source": "zhanghandong/rust-skills",
+  "owner": "zhanghandong",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zhanghandong/rust-skills",
+    "skillId": "m05-type-driven",
+    "name": "m05-type-driven",
+    "installs": 789,
+    "owner": "zhanghandong",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/zhanghandong/rust-skills",
+    "displayName": "M05 Type Driven"
+  }
+}

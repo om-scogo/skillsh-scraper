@@ -1,0 +1,17 @@
+{
+  "skillId": "wecomcli-create-meeting",
+  "source": "wecomteam/wecom-cli",
+  "owner": "wecomteam",
+  "repo": "wecom-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wecomteam/wecom-cli",
+    "skillId": "wecomcli-create-meeting",
+    "name": "wecomcli-create-meeting",
+    "installs": 2434,
+    "owner": "wecomteam",
+    "repo": "wecom-cli",
+    "githubUrl": "https://github.com/wecomteam/wecom-cli",
+    "displayName": "Wecomcli Create Meeting"
+  }
+}

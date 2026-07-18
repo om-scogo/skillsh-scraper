@@ -1,0 +1,17 @@
+{
+  "skillId": "nutrient-document-processing",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "nutrient-document-processing",
+    "name": "nutrient-document-processing",
+    "installs": 5507,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Nutrient Document Processing"
+  }
+}

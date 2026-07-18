@@ -1,0 +1,17 @@
+{
+  "skillId": "database",
+  "source": "railwayapp/railway-skills",
+  "owner": "railwayapp",
+  "repo": "railway-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "railwayapp/railway-skills",
+    "skillId": "database",
+    "name": "database",
+    "installs": 898,
+    "owner": "railwayapp",
+    "repo": "railway-skills",
+    "githubUrl": "https://github.com/railwayapp/railway-skills",
+    "displayName": "Database"
+  }
+}

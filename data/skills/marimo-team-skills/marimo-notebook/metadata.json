@@ -1,0 +1,17 @@
+{
+  "skillId": "marimo-notebook",
+  "source": "marimo-team/skills",
+  "owner": "marimo-team",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "marimo-team/skills",
+    "skillId": "marimo-notebook",
+    "name": "marimo-notebook",
+    "installs": 3995,
+    "owner": "marimo-team",
+    "repo": "skills",
+    "githubUrl": "https://github.com/marimo-team/skills",
+    "displayName": "Marimo Notebook"
+  }
+}

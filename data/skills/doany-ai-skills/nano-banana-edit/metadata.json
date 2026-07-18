@@ -1,0 +1,17 @@
+{
+  "skillId": "nano-banana-edit",
+  "source": "doany-ai/skills",
+  "owner": "doany-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "doany-ai/skills",
+    "skillId": "nano-banana-edit",
+    "name": "nano-banana-edit",
+    "installs": 12,
+    "owner": "doany-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/doany-ai/skills",
+    "displayName": "Nano Banana Edit"
+  }
+}

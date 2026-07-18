@@ -1,0 +1,17 @@
+{
+  "skillId": "vip-loan",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "vip-loan",
+    "name": "vip-loan",
+    "installs": 1036,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Vip Loan"
+  }
+}

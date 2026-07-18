@@ -1,0 +1,17 @@
+{
+  "skillId": "zimage-generation",
+  "source": "toolsai/free-zimage-skills",
+  "owner": "toolsai",
+  "repo": "free-zimage-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "toolsai/free-zimage-skills",
+    "skillId": "zimage-generation",
+    "name": "zimage-generation",
+    "installs": 802,
+    "owner": "toolsai",
+    "repo": "free-zimage-skills",
+    "githubUrl": "https://github.com/toolsai/free-zimage-skills",
+    "displayName": "Zimage Generation"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "cuopt-user-rules",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "cuopt-user-rules",
+    "name": "cuopt-user-rules",
+    "installs": 1379,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Cuopt User Rules"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "story-long-write",
+  "source": "worldwonderer/oh-story-claudecode",
+  "owner": "worldwonderer",
+  "repo": "oh-story-claudecode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "worldwonderer/oh-story-claudecode",
+    "skillId": "story-long-write",
+    "name": "story-long-write",
+    "installs": 8566,
+    "owner": "worldwonderer",
+    "repo": "oh-story-claudecode",
+    "githubUrl": "https://github.com/worldwonderer/oh-story-claudecode",
+    "displayName": "Story Long Write"
+  }
+}

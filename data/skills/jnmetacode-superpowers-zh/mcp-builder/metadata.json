@@ -1,0 +1,17 @@
+{
+  "skillId": "mcp-builder",
+  "source": "jnmetacode/superpowers-zh",
+  "owner": "jnmetacode",
+  "repo": "superpowers-zh",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jnmetacode/superpowers-zh",
+    "skillId": "mcp-builder",
+    "name": "mcp-builder",
+    "installs": 756,
+    "owner": "jnmetacode",
+    "repo": "superpowers-zh",
+    "githubUrl": "https://github.com/jnmetacode/superpowers-zh",
+    "displayName": "Mcp Builder"
+  }
+}

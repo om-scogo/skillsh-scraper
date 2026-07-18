@@ -1,0 +1,17 @@
+{
+  "skillId": "browser-act-skill-forge",
+  "source": "browser-act/skills",
+  "owner": "browser-act",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "browser-act/skills",
+    "skillId": "browser-act-skill-forge",
+    "name": "browser-act-skill-forge",
+    "installs": 77382,
+    "owner": "browser-act",
+    "repo": "skills",
+    "githubUrl": "https://github.com/browser-act/skills",
+    "displayName": "Browser Act Skill Forge"
+  }
+}

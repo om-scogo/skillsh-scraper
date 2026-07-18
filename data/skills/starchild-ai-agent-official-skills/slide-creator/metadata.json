@@ -1,0 +1,17 @@
+{
+  "skillId": "slide-creator",
+  "source": "starchild-ai-agent/official-skills",
+  "owner": "starchild-ai-agent",
+  "repo": "official-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "starchild-ai-agent/official-skills",
+    "skillId": "slide-creator",
+    "name": "slide-creator",
+    "installs": 3826,
+    "owner": "starchild-ai-agent",
+    "repo": "official-skills",
+    "githubUrl": "https://github.com/starchild-ai-agent/official-skills",
+    "displayName": "Slide Creator"
+  }
+}

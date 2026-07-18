@@ -1,0 +1,17 @@
+{
+  "skillId": "swift-concurrency-pro",
+  "source": "twostraws/swift-concurrency-agent-skill",
+  "owner": "twostraws",
+  "repo": "swift-concurrency-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "twostraws/swift-concurrency-agent-skill",
+    "skillId": "swift-concurrency-pro",
+    "name": "swift-concurrency-pro",
+    "installs": 7527,
+    "owner": "twostraws",
+    "repo": "swift-concurrency-agent-skill",
+    "githubUrl": "https://github.com/twostraws/swift-concurrency-agent-skill",
+    "displayName": "Swift Concurrency Pro"
+  }
+}

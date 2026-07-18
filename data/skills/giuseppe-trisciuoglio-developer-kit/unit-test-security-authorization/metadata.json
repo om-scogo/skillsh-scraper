@@ -1,0 +1,17 @@
+{
+  "skillId": "unit-test-security-authorization",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "unit-test-security-authorization",
+    "name": "unit-test-security-authorization",
+    "installs": 1561,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Unit Test Security Authorization"
+  }
+}

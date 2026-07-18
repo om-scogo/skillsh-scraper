@@ -1,0 +1,17 @@
+{
+  "skillId": "migrate-nativewind-to-uniwind",
+  "source": "uni-stack/uniwind",
+  "owner": "uni-stack",
+  "repo": "uniwind",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "uni-stack/uniwind",
+    "skillId": "migrate-nativewind-to-uniwind",
+    "name": "migrate-nativewind-to-uniwind",
+    "installs": 1593,
+    "owner": "uni-stack",
+    "repo": "uniwind",
+    "githubUrl": "https://github.com/uni-stack/uniwind",
+    "displayName": "Migrate Nativewind To Uniwind"
+  }
+}

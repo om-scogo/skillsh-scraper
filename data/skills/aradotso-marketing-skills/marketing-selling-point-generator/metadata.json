@@ -1,0 +1,17 @@
+{
+  "skillId": "marketing-selling-point-generator",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "marketing-selling-point-generator",
+    "name": "marketing-selling-point-generator",
+    "installs": 816,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Marketing Selling Point Generator"
+  }
+}

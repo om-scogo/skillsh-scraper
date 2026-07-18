@@ -1,0 +1,17 @@
+{
+  "skillId": "swift-concurrency",
+  "source": "avdlee/swift-concurrency-agent-skill",
+  "owner": "avdlee",
+  "repo": "swift-concurrency-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "avdlee/swift-concurrency-agent-skill",
+    "skillId": "swift-concurrency",
+    "name": "swift-concurrency",
+    "installs": 13639,
+    "owner": "avdlee",
+    "repo": "swift-concurrency-agent-skill",
+    "githubUrl": "https://github.com/avdlee/swift-concurrency-agent-skill",
+    "displayName": "Swift Concurrency"
+  }
+}

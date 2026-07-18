@@ -1,0 +1,17 @@
+{
+  "skillId": "citation-verification",
+  "source": "galaxy-dawn/claude-scholar",
+  "owner": "galaxy-dawn",
+  "repo": "claude-scholar",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "galaxy-dawn/claude-scholar",
+    "skillId": "citation-verification",
+    "name": "citation-verification",
+    "installs": 930,
+    "owner": "galaxy-dawn",
+    "repo": "claude-scholar",
+    "githubUrl": "https://github.com/galaxy-dawn/claude-scholar",
+    "displayName": "Citation Verification"
+  }
+}

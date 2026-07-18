@@ -1,0 +1,17 @@
+{
+  "skillId": "tanstack-devtools",
+  "source": "tanstack-skills/tanstack-skills",
+  "owner": "tanstack-skills",
+  "repo": "tanstack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tanstack-skills/tanstack-skills",
+    "skillId": "tanstack-devtools",
+    "name": "tanstack-devtools",
+    "installs": 1192,
+    "owner": "tanstack-skills",
+    "repo": "tanstack-skills",
+    "githubUrl": "https://github.com/tanstack-skills/tanstack-skills",
+    "displayName": "Tanstack Devtools"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "mysql-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "mysql-patterns",
+    "name": "mysql-patterns",
+    "installs": 1140,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Mysql Patterns"
+  }
+}

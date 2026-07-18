@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-crash-triage",
+  "source": "rudrankriyam/asc-skills",
+  "owner": "rudrankriyam",
+  "repo": "asc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rudrankriyam/asc-skills",
+    "skillId": "asc-crash-triage",
+    "name": "asc-crash-triage",
+    "installs": 1105,
+    "owner": "rudrankriyam",
+    "repo": "asc-skills",
+    "githubUrl": "https://github.com/rudrankriyam/asc-skills",
+    "displayName": "Asc Crash Triage"
+  }
+}

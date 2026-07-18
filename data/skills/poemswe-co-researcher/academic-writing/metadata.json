@@ -1,0 +1,17 @@
+{
+  "skillId": "academic-writing",
+  "source": "poemswe/co-researcher",
+  "owner": "poemswe",
+  "repo": "co-researcher",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "poemswe/co-researcher",
+    "skillId": "academic-writing",
+    "name": "academic-writing",
+    "installs": 845,
+    "owner": "poemswe",
+    "repo": "co-researcher",
+    "githubUrl": "https://github.com/poemswe/co-researcher",
+    "displayName": "Academic Writing"
+  }
+}

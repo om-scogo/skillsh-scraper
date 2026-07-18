@@ -1,0 +1,17 @@
+{
+  "skillId": "video-download",
+  "source": "heygen-com/skills",
+  "owner": "heygen-com",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/skills",
+    "skillId": "video-download",
+    "name": "video-download",
+    "installs": 932,
+    "owner": "heygen-com",
+    "repo": "skills",
+    "githubUrl": "https://github.com/heygen-com/skills",
+    "displayName": "Video Download"
+  }
+}

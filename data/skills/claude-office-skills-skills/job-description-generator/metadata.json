@@ -1,0 +1,17 @@
+{
+  "skillId": "job-description-generator",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "job-description-generator",
+    "name": "job description generator",
+    "installs": 3381,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Job Description Generator"
+  }
+}

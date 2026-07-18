@@ -1,0 +1,17 @@
+{
+  "skillId": "code-documentation",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "code-documentation",
+    "name": "code-documentation",
+    "installs": 1173,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Code Documentation"
+  }
+}

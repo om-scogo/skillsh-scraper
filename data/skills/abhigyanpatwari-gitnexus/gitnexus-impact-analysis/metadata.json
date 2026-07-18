@@ -1,0 +1,17 @@
+{
+  "skillId": "gitnexus-impact-analysis",
+  "source": "abhigyanpatwari/gitnexus",
+  "owner": "abhigyanpatwari",
+  "repo": "gitnexus",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "abhigyanpatwari/gitnexus",
+    "skillId": "gitnexus-impact-analysis",
+    "name": "gitnexus-impact-analysis",
+    "installs": 1351,
+    "owner": "abhigyanpatwari",
+    "repo": "gitnexus",
+    "githubUrl": "https://github.com/abhigyanpatwari/gitnexus",
+    "displayName": "Gitnexus Impact Analysis"
+  }
+}

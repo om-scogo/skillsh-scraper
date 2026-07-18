@@ -1,0 +1,17 @@
+{
+  "skillId": "typescript-react-reviewer",
+  "source": "dotneet/claude-code-marketplace",
+  "owner": "dotneet",
+  "repo": "claude-code-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dotneet/claude-code-marketplace",
+    "skillId": "typescript-react-reviewer",
+    "name": "typescript-react-reviewer",
+    "installs": 7811,
+    "owner": "dotneet",
+    "repo": "claude-code-marketplace",
+    "githubUrl": "https://github.com/dotneet/claude-code-marketplace",
+    "displayName": "Typescript React Reviewer"
+  }
+}

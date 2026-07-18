@@ -1,0 +1,17 @@
+{
+  "skillId": "ast-grep",
+  "source": "ast-grep/agent-skill",
+  "owner": "ast-grep",
+  "repo": "agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ast-grep/agent-skill",
+    "skillId": "ast-grep",
+    "name": "ast-grep",
+    "installs": 12204,
+    "owner": "ast-grep",
+    "repo": "agent-skill",
+    "githubUrl": "https://github.com/ast-grep/agent-skill",
+    "displayName": "Ast Grep"
+  }
+}

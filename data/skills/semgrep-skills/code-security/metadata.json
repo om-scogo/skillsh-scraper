@@ -1,0 +1,17 @@
+{
+  "skillId": "code-security",
+  "source": "semgrep/skills",
+  "owner": "semgrep",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "semgrep/skills",
+    "skillId": "code-security",
+    "name": "code-security",
+    "installs": 1234,
+    "owner": "semgrep",
+    "repo": "skills",
+    "githubUrl": "https://github.com/semgrep/skills",
+    "displayName": "Code Security"
+  }
+}

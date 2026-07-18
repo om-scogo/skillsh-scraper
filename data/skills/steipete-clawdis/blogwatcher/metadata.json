@@ -1,0 +1,17 @@
+{
+  "skillId": "blogwatcher",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "blogwatcher",
+    "name": "blogwatcher",
+    "installs": 2821,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Blogwatcher"
+  }
+}

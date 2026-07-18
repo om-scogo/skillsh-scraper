@@ -1,0 +1,17 @@
+{
+  "skillId": "video-podcast-maker",
+  "source": "agents365-ai/365-skills",
+  "owner": "agents365-ai",
+  "repo": "365-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agents365-ai/365-skills",
+    "skillId": "video-podcast-maker",
+    "name": "video-podcast-maker",
+    "installs": 1398,
+    "owner": "agents365-ai",
+    "repo": "365-skills",
+    "githubUrl": "https://github.com/agents365-ai/365-skills",
+    "displayName": "Video Podcast Maker"
+  }
+}

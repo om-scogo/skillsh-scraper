@@ -1,0 +1,17 @@
+{
+  "skillId": "golang-how-to",
+  "source": "samber/cc-skills-golang",
+  "owner": "samber",
+  "repo": "cc-skills-golang",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills-golang",
+    "skillId": "golang-how-to",
+    "name": "golang-how-to",
+    "installs": 29826,
+    "owner": "samber",
+    "repo": "cc-skills-golang",
+    "githubUrl": "https://github.com/samber/cc-skills-golang",
+    "displayName": "Golang How To"
+  }
+}

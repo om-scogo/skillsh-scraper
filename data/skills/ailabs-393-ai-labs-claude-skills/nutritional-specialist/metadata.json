@@ -1,0 +1,17 @@
+{
+  "skillId": "nutritional-specialist",
+  "source": "ailabs-393/ai-labs-claude-skills",
+  "owner": "ailabs-393",
+  "repo": "ai-labs-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ailabs-393/ai-labs-claude-skills",
+    "skillId": "nutritional-specialist",
+    "name": "nutritional-specialist",
+    "installs": 1555,
+    "owner": "ailabs-393",
+    "repo": "ai-labs-claude-skills",
+    "githubUrl": "https://github.com/ailabs-393/ai-labs-claude-skills",
+    "displayName": "Nutritional Specialist"
+  }
+}

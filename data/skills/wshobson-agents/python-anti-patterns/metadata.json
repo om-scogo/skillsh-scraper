@@ -1,0 +1,17 @@
+{
+  "skillId": "python-anti-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "python-anti-patterns",
+    "name": "python-anti-patterns",
+    "installs": 9554,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Python Anti Patterns"
+  }
+}

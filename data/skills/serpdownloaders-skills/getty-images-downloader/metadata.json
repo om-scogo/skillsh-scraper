@@ -1,0 +1,17 @@
+{
+  "skillId": "getty-images-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "getty-images-downloader",
+    "name": "getty-images-downloader",
+    "installs": 974,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Getty Images Downloader"
+  }
+}

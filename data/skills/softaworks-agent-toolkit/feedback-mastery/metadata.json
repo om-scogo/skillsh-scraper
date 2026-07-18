@@ -1,0 +1,17 @@
+{
+  "skillId": "feedback-mastery",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "feedback-mastery",
+    "name": "feedback-mastery",
+    "installs": 3756,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Feedback Mastery"
+  }
+}

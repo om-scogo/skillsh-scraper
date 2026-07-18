@@ -1,0 +1,17 @@
+{
+  "skillId": "devtools",
+  "source": "vercel-labs/json-render",
+  "owner": "vercel-labs",
+  "repo": "json-render",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/json-render",
+    "skillId": "devtools",
+    "name": "devtools",
+    "installs": 1744,
+    "owner": "vercel-labs",
+    "repo": "json-render",
+    "githubUrl": "https://github.com/vercel-labs/json-render",
+    "displayName": "Devtools"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "brainstorm",
+  "source": "boshu2/agentops",
+  "owner": "boshu2",
+  "repo": "agentops",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "boshu2/agentops",
+    "skillId": "brainstorm",
+    "name": "brainstorm",
+    "installs": 828,
+    "owner": "boshu2",
+    "repo": "agentops",
+    "githubUrl": "https://github.com/boshu2/agentops",
+    "displayName": "Brainstorm"
+  }
+}

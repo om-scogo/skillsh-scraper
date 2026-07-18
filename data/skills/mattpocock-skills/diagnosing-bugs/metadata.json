@@ -1,0 +1,17 @@
+{
+  "skillId": "diagnosing-bugs",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "diagnosing-bugs",
+    "name": "diagnosing-bugs",
+    "installs": 177773,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Diagnosing Bugs"
+  }
+}

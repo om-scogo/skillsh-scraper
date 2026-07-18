@@ -1,0 +1,17 @@
+{
+  "skillId": "pr-review",
+  "source": "pytorch/pytorch",
+  "owner": "pytorch",
+  "repo": "pytorch",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pytorch/pytorch",
+    "skillId": "pr-review",
+    "name": "pr-review",
+    "installs": 1986,
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "githubUrl": "https://github.com/pytorch/pytorch",
+    "displayName": "Pr Review"
+  }
+}

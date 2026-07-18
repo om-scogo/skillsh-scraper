@@ -1,0 +1,17 @@
+{
+  "skillId": "tear-sheet",
+  "source": "anthropics/financial-services-plugins",
+  "owner": "anthropics",
+  "repo": "financial-services-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/financial-services-plugins",
+    "skillId": "tear-sheet",
+    "name": "tear-sheet",
+    "installs": 831,
+    "owner": "anthropics",
+    "repo": "financial-services-plugins",
+    "githubUrl": "https://github.com/anthropics/financial-services-plugins",
+    "displayName": "Tear Sheet"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "swift-testing-expert",
+  "source": "avdlee/swift-testing-agent-skill",
+  "owner": "avdlee",
+  "repo": "swift-testing-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "avdlee/swift-testing-agent-skill",
+    "skillId": "swift-testing-expert",
+    "name": "swift-testing-expert",
+    "installs": 3860,
+    "owner": "avdlee",
+    "repo": "swift-testing-agent-skill",
+    "githubUrl": "https://github.com/avdlee/swift-testing-agent-skill",
+    "displayName": "Swift Testing Expert"
+  }
+}

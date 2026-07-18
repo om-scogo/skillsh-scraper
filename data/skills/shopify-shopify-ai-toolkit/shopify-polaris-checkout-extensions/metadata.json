@@ -1,0 +1,17 @@
+{
+  "skillId": "shopify-polaris-checkout-extensions",
+  "source": "shopify/shopify-ai-toolkit",
+  "owner": "shopify",
+  "repo": "shopify-ai-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shopify/shopify-ai-toolkit",
+    "skillId": "shopify-polaris-checkout-extensions",
+    "name": "shopify-polaris-checkout-extensions",
+    "installs": 6237,
+    "owner": "shopify",
+    "repo": "shopify-ai-toolkit",
+    "githubUrl": "https://github.com/shopify/shopify-ai-toolkit",
+    "displayName": "Shopify Polaris Checkout Extensions"
+  }
+}

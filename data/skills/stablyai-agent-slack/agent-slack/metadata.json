@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-slack",
+  "source": "stablyai/agent-slack",
+  "owner": "stablyai",
+  "repo": "agent-slack",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "stablyai/agent-slack",
+    "skillId": "agent-slack",
+    "name": "agent-slack",
+    "installs": 2413,
+    "owner": "stablyai",
+    "repo": "agent-slack",
+    "githubUrl": "https://github.com/stablyai/agent-slack",
+    "displayName": "Agent Slack"
+  }
+}

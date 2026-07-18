@@ -1,0 +1,17 @@
+{
+  "skillId": "opentui",
+  "source": "msmps/opentui-skill",
+  "owner": "msmps",
+  "repo": "opentui-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "msmps/opentui-skill",
+    "skillId": "opentui",
+    "name": "opentui",
+    "installs": 51439,
+    "owner": "msmps",
+    "repo": "opentui-skill",
+    "githubUrl": "https://github.com/msmps/opentui-skill",
+    "displayName": "Opentui"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "financial-operations-expert",
+  "source": "shipshitdev/library",
+  "owner": "shipshitdev",
+  "repo": "library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shipshitdev/library",
+    "skillId": "financial-operations-expert",
+    "name": "financial-operations-expert",
+    "installs": 1714,
+    "owner": "shipshitdev",
+    "repo": "library",
+    "githubUrl": "https://github.com/shipshitdev/library",
+    "displayName": "Financial Operations Expert"
+  }
+}

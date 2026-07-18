@@ -1,0 +1,17 @@
+{
+  "skillId": "dangling-markup-injection",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "dangling-markup-injection",
+    "name": "dangling-markup-injection",
+    "installs": 1913,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Dangling Markup Injection"
+  }
+}

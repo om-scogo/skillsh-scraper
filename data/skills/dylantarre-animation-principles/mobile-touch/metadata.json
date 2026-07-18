@@ -1,0 +1,17 @@
+{
+  "skillId": "mobile-touch",
+  "source": "dylantarre/animation-principles",
+  "owner": "dylantarre",
+  "repo": "animation-principles",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dylantarre/animation-principles",
+    "skillId": "mobile-touch",
+    "name": "mobile-touch",
+    "installs": 2022,
+    "owner": "dylantarre",
+    "repo": "animation-principles",
+    "githubUrl": "https://github.com/dylantarre/animation-principles",
+    "displayName": "Mobile Touch"
+  }
+}

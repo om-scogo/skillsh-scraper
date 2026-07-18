@@ -1,0 +1,17 @@
+{
+  "skillId": "paseo-handoff",
+  "source": "getpaseo/paseo",
+  "owner": "getpaseo",
+  "repo": "paseo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getpaseo/paseo",
+    "skillId": "paseo-handoff",
+    "name": "paseo-handoff",
+    "installs": 1911,
+    "owner": "getpaseo",
+    "repo": "paseo",
+    "githubUrl": "https://github.com/getpaseo/paseo",
+    "displayName": "Paseo Handoff"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "event-prospecting",
+  "source": "browserbase/skills",
+  "owner": "browserbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "browserbase/skills",
+    "skillId": "event-prospecting",
+    "name": "event-prospecting",
+    "installs": 1698,
+    "owner": "browserbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/browserbase/skills",
+    "displayName": "Event Prospecting"
+  }
+}

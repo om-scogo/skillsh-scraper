@@ -1,0 +1,17 @@
+{
+  "skillId": "signed-audit-trails-recipe",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "signed-audit-trails-recipe",
+    "name": "signed-audit-trails-recipe",
+    "installs": 3201,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Signed Audit Trails Recipe"
+  }
+}

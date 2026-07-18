@@ -1,0 +1,17 @@
+{
+  "skillId": "huashu-nuwa",
+  "source": "alchaincyf/nuwa-skill",
+  "owner": "alchaincyf",
+  "repo": "nuwa-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/nuwa-skill",
+    "skillId": "huashu-nuwa",
+    "name": "huashu-nuwa",
+    "installs": 23567,
+    "owner": "alchaincyf",
+    "repo": "nuwa-skill",
+    "githubUrl": "https://github.com/alchaincyf/nuwa-skill",
+    "displayName": "Huashu Nuwa"
+  }
+}

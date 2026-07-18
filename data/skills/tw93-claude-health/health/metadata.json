@@ -1,0 +1,17 @@
+{
+  "skillId": "health",
+  "source": "tw93/claude-health",
+  "owner": "tw93",
+  "repo": "claude-health",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tw93/claude-health",
+    "skillId": "health",
+    "name": "health",
+    "installs": 2672,
+    "owner": "tw93",
+    "repo": "claude-health",
+    "githubUrl": "https://github.com/tw93/claude-health",
+    "displayName": "Health"
+  }
+}

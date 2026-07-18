@@ -1,0 +1,17 @@
+{
+  "skillId": "react-performance-optimization",
+  "source": "nickcrew/claude-ctx-plugin",
+  "owner": "nickcrew",
+  "repo": "claude-ctx-plugin",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nickcrew/claude-ctx-plugin",
+    "skillId": "react-performance-optimization",
+    "name": "react-performance-optimization",
+    "installs": 1707,
+    "owner": "nickcrew",
+    "repo": "claude-ctx-plugin",
+    "githubUrl": "https://github.com/nickcrew/claude-ctx-plugin",
+    "displayName": "React Performance Optimization"
+  }
+}

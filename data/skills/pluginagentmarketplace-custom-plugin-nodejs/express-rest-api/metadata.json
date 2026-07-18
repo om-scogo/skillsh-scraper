@@ -1,0 +1,17 @@
+{
+  "skillId": "express-rest-api",
+  "source": "pluginagentmarketplace/custom-plugin-nodejs",
+  "owner": "pluginagentmarketplace",
+  "repo": "custom-plugin-nodejs",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pluginagentmarketplace/custom-plugin-nodejs",
+    "skillId": "express-rest-api",
+    "name": "express-rest-api",
+    "installs": 818,
+    "owner": "pluginagentmarketplace",
+    "repo": "custom-plugin-nodejs",
+    "githubUrl": "https://github.com/pluginagentmarketplace/custom-plugin-nodejs",
+    "displayName": "Express Rest Api"
+  }
+}

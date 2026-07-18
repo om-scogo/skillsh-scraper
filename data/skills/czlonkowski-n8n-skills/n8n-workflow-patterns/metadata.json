@@ -1,0 +1,17 @@
+{
+  "skillId": "n8n-workflow-patterns",
+  "source": "czlonkowski/n8n-skills",
+  "owner": "czlonkowski",
+  "repo": "n8n-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "czlonkowski/n8n-skills",
+    "skillId": "n8n-workflow-patterns",
+    "name": "n8n-workflow-patterns",
+    "installs": 8683,
+    "owner": "czlonkowski",
+    "repo": "n8n-skills",
+    "githubUrl": "https://github.com/czlonkowski/n8n-skills",
+    "displayName": "N8n Workflow Patterns"
+  }
+}

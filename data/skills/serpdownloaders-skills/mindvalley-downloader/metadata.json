@@ -1,0 +1,17 @@
+{
+  "skillId": "mindvalley-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "mindvalley-downloader",
+    "name": "mindvalley-downloader",
+    "installs": 962,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Mindvalley Downloader"
+  }
+}

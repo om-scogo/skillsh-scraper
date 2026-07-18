@@ -1,0 +1,17 @@
+{
+  "skillId": "parallel-debugging",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "parallel-debugging",
+    "name": "parallel-debugging",
+    "installs": 7353,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Parallel Debugging"
+  }
+}

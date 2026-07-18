@@ -1,0 +1,17 @@
+{
+  "skillId": "github",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "github",
+    "name": "github",
+    "installs": 2871,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Github"
+  }
+}

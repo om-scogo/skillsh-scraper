@@ -1,0 +1,17 @@
+{
+  "skillId": "cargo-orchestration",
+  "source": "getcargohq/cargo-skills",
+  "owner": "getcargohq",
+  "repo": "cargo-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getcargohq/cargo-skills",
+    "skillId": "cargo-orchestration",
+    "name": "cargo-orchestration",
+    "installs": 1799,
+    "owner": "getcargohq",
+    "repo": "cargo-skills",
+    "githubUrl": "https://github.com/getcargohq/cargo-skills",
+    "displayName": "Cargo Orchestration"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "novel-writer-workflow-guide",
+  "source": "wordflowlab/novel-writer-skills",
+  "owner": "wordflowlab",
+  "repo": "novel-writer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wordflowlab/novel-writer-skills",
+    "skillId": "novel-writer-workflow-guide",
+    "name": "novel-writer-workflow-guide",
+    "installs": 1731,
+    "owner": "wordflowlab",
+    "repo": "novel-writer-skills",
+    "githubUrl": "https://github.com/wordflowlab/novel-writer-skills",
+    "displayName": "Novel Writer Workflow Guide"
+  }
+}

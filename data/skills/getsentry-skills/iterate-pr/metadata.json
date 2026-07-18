@@ -1,0 +1,17 @@
+{
+  "skillId": "iterate-pr",
+  "source": "getsentry/skills",
+  "owner": "getsentry",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/skills",
+    "skillId": "iterate-pr",
+    "name": "iterate-pr",
+    "installs": 3143,
+    "owner": "getsentry",
+    "repo": "skills",
+    "githubUrl": "https://github.com/getsentry/skills",
+    "displayName": "Iterate Pr"
+  }
+}

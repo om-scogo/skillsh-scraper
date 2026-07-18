@@ -1,0 +1,17 @@
+{
+  "skillId": "cargo-workspace-management",
+  "source": "getcargohq/cargo-skills",
+  "owner": "getcargohq",
+  "repo": "cargo-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getcargohq/cargo-skills",
+    "skillId": "cargo-workspace-management",
+    "name": "cargo-workspace-management",
+    "installs": 1808,
+    "owner": "getcargohq",
+    "repo": "cargo-skills",
+    "githubUrl": "https://github.com/getcargohq/cargo-skills",
+    "displayName": "Cargo Workspace Management"
+  }
+}

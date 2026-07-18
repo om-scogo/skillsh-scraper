@@ -1,0 +1,17 @@
+{
+  "skillId": "react-dev",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "react-dev",
+    "name": "react-dev",
+    "installs": 3756,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "React Dev"
+  }
+}

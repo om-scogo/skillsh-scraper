@@ -1,0 +1,17 @@
+{
+  "skillId": "xyq-nest-skill",
+  "source": "pippit-dev/pippit-skills",
+  "owner": "pippit-dev",
+  "repo": "pippit-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pippit-dev/pippit-skills",
+    "skillId": "xyq-nest-skill",
+    "name": "xyq-nest-skill",
+    "installs": 2830,
+    "owner": "pippit-dev",
+    "repo": "pippit-skills",
+    "githubUrl": "https://github.com/pippit-dev/pippit-skills",
+    "displayName": "Xyq Nest Skill"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "seo-optimizer",
+  "source": "ailabs-393/ai-labs-claude-skills",
+  "owner": "ailabs-393",
+  "repo": "ai-labs-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ailabs-393/ai-labs-claude-skills",
+    "skillId": "seo-optimizer",
+    "name": "seo-optimizer",
+    "installs": 1174,
+    "owner": "ailabs-393",
+    "repo": "ai-labs-claude-skills",
+    "githubUrl": "https://github.com/ailabs-393/ai-labs-claude-skills",
+    "displayName": "Seo Optimizer"
+  }
+}

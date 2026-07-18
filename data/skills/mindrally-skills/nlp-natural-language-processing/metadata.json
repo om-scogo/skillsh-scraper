@@ -1,0 +1,17 @@
+{
+  "skillId": "nlp-natural-language-processing",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "nlp-natural-language-processing",
+    "name": "nlp-natural-language-processing",
+    "installs": 766,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Nlp Natural Language Processing"
+  }
+}

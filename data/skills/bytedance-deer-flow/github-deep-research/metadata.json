@@ -1,0 +1,17 @@
+{
+  "skillId": "github-deep-research",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "github-deep-research",
+    "name": "github-deep-research",
+    "installs": 2126,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Github Deep Research"
+  }
+}

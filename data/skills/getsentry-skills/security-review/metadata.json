@@ -1,0 +1,17 @@
+{
+  "skillId": "security-review",
+  "source": "getsentry/skills",
+  "owner": "getsentry",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/skills",
+    "skillId": "security-review",
+    "name": "security-review",
+    "installs": 10567,
+    "owner": "getsentry",
+    "repo": "skills",
+    "githubUrl": "https://github.com/getsentry/skills",
+    "displayName": "Security Review"
+  }
+}

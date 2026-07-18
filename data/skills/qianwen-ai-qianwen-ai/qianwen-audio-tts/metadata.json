@@ -1,0 +1,17 @@
+{
+  "skillId": "qianwen-audio-tts",
+  "source": "qianwen-ai/qianwen-ai",
+  "owner": "qianwen-ai",
+  "repo": "qianwen-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qianwen-ai/qianwen-ai",
+    "skillId": "qianwen-audio-tts",
+    "name": "qianwen-audio-tts",
+    "installs": 1655,
+    "owner": "qianwen-ai",
+    "repo": "qianwen-ai",
+    "githubUrl": "https://github.com/qianwen-ai/qianwen-ai",
+    "displayName": "Qianwen Audio Tts"
+  }
+}

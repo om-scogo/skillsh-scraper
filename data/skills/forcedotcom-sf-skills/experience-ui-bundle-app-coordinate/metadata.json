@@ -1,0 +1,17 @@
+{
+  "skillId": "experience-ui-bundle-app-coordinate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "experience-ui-bundle-app-coordinate",
+    "name": "experience-ui-bundle-app-coordinate",
+    "installs": 1329,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Experience Ui Bundle App Coordinate"
+  }
+}

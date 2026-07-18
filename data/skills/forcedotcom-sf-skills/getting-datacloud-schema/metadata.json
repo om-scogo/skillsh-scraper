@@ -1,0 +1,17 @@
+{
+  "skillId": "getting-datacloud-schema",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "getting-datacloud-schema",
+    "name": "getting-datacloud-schema",
+    "installs": 2068,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Getting Datacloud Schema"
+  }
+}

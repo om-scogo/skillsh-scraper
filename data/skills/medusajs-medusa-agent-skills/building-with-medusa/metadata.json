@@ -1,0 +1,17 @@
+{
+  "skillId": "building-with-medusa",
+  "source": "medusajs/medusa-agent-skills",
+  "owner": "medusajs",
+  "repo": "medusa-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "medusajs/medusa-agent-skills",
+    "skillId": "building-with-medusa",
+    "name": "building-with-medusa",
+    "installs": 2814,
+    "owner": "medusajs",
+    "repo": "medusa-agent-skills",
+    "githubUrl": "https://github.com/medusajs/medusa-agent-skills",
+    "displayName": "Building With Medusa"
+  }
+}

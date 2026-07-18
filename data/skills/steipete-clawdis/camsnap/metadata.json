@@ -1,0 +1,17 @@
+{
+  "skillId": "camsnap",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "camsnap",
+    "name": "camsnap",
+    "installs": 2629,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Camsnap"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "debugging-lambda-timeouts",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "debugging-lambda-timeouts",
+    "name": "debugging-lambda-timeouts",
+    "installs": 1808,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Debugging Lambda Timeouts"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "context-engineering-collection",
+  "source": "muratcankoylan/agent-skills-for-context-engineering",
+  "owner": "muratcankoylan",
+  "repo": "agent-skills-for-context-engineering",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "muratcankoylan/agent-skills-for-context-engineering",
+    "skillId": "context-engineering-collection",
+    "name": "context-engineering-collection",
+    "installs": 3024,
+    "owner": "muratcankoylan",
+    "repo": "agent-skills-for-context-engineering",
+    "githubUrl": "https://github.com/muratcankoylan/agent-skills-for-context-engineering",
+    "displayName": "Context Engineering Collection"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "game-changing-features",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "game-changing-features",
+    "name": "game-changing-features",
+    "installs": 3689,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Game Changing Features"
+  }
+}

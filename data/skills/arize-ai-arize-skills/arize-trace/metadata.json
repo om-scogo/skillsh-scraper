@@ -1,0 +1,17 @@
+{
+  "skillId": "arize-trace",
+  "source": "arize-ai/arize-skills",
+  "owner": "arize-ai",
+  "repo": "arize-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "arize-ai/arize-skills",
+    "skillId": "arize-trace",
+    "name": "arize-trace",
+    "installs": 1848,
+    "owner": "arize-ai",
+    "repo": "arize-skills",
+    "githubUrl": "https://github.com/arize-ai/arize-skills",
+    "displayName": "Arize Trace"
+  }
+}

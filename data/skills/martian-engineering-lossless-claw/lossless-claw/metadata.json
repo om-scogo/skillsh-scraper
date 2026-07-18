@@ -1,0 +1,17 @@
+{
+  "skillId": "lossless-claw",
+  "source": "martian-engineering/lossless-claw",
+  "owner": "martian-engineering",
+  "repo": "lossless-claw",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "martian-engineering/lossless-claw",
+    "skillId": "lossless-claw",
+    "name": "lossless-claw",
+    "installs": 789,
+    "owner": "martian-engineering",
+    "repo": "lossless-claw",
+    "githubUrl": "https://github.com/martian-engineering/lossless-claw",
+    "displayName": "Lossless Claw"
+  }
+}

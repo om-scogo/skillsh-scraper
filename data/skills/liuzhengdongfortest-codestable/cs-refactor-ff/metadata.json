@@ -1,0 +1,17 @@
+{
+  "skillId": "cs-refactor-ff",
+  "source": "liuzhengdongfortest/codestable",
+  "owner": "liuzhengdongfortest",
+  "repo": "codestable",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "liuzhengdongfortest/codestable",
+    "skillId": "cs-refactor-ff",
+    "name": "cs-refactor-ff",
+    "installs": 1220,
+    "owner": "liuzhengdongfortest",
+    "repo": "codestable",
+    "githubUrl": "https://github.com/liuzhengdongfortest/codestable",
+    "displayName": "Cs Refactor Ff"
+  }
+}

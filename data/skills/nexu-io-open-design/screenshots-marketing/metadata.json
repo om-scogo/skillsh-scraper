@@ -1,0 +1,17 @@
+{
+  "skillId": "screenshots-marketing",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "screenshots-marketing",
+    "name": "screenshots-marketing",
+    "installs": 1596,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Screenshots Marketing"
+  }
+}

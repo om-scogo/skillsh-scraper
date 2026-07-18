@@ -1,0 +1,17 @@
+{
+  "skillId": "az-cost-optimize",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "az-cost-optimize",
+    "name": "az-cost-optimize",
+    "installs": 8553,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Az Cost Optimize"
+  }
+}

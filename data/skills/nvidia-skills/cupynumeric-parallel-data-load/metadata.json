@@ -1,0 +1,17 @@
+{
+  "skillId": "cupynumeric-parallel-data-load",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "cupynumeric-parallel-data-load",
+    "name": "cupynumeric-parallel-data-load",
+    "installs": 1555,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Cupynumeric Parallel Data Load"
+  }
+}

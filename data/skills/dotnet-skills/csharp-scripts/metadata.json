@@ -1,0 +1,17 @@
+{
+  "skillId": "csharp-scripts",
+  "source": "dotnet/skills",
+  "owner": "dotnet",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dotnet/skills",
+    "skillId": "csharp-scripts",
+    "name": "csharp-scripts",
+    "installs": 923,
+    "owner": "dotnet",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dotnet/skills",
+    "displayName": "Csharp Scripts"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "open-prose",
+  "source": "frames-engineering/skills",
+  "owner": "frames-engineering",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "frames-engineering/skills",
+    "skillId": "open-prose",
+    "name": "open-prose",
+    "installs": 1061,
+    "owner": "frames-engineering",
+    "repo": "skills",
+    "githubUrl": "https://github.com/frames-engineering/skills",
+    "displayName": "Open Prose"
+  }
+}

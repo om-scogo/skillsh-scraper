@@ -1,0 +1,17 @@
+{
+  "skillId": "nemo-mbridge-perf-expert-parallel-overlap",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemo-mbridge-perf-expert-parallel-overlap",
+    "name": "nemo-mbridge-perf-expert-parallel-overlap",
+    "installs": 1509,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemo Mbridge Perf Expert Parallel Overlap"
+  }
+}

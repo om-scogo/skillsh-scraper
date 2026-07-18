@@ -1,0 +1,17 @@
+{
+  "skillId": "configuring-vpc-endpoints-for-private-aws-service-access",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "configuring-vpc-endpoints-for-private-aws-service-access",
+    "name": "configuring-vpc-endpoints-for-private-aws-service-access",
+    "installs": 1814,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Configuring Vpc Endpoints For Private Aws Service Access"
+  }
+}

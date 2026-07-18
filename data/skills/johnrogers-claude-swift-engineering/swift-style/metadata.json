@@ -1,0 +1,17 @@
+{
+  "skillId": "swift-style",
+  "source": "johnrogers/claude-swift-engineering",
+  "owner": "johnrogers",
+  "repo": "claude-swift-engineering",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "johnrogers/claude-swift-engineering",
+    "skillId": "swift-style",
+    "name": "swift-style",
+    "installs": 1510,
+    "owner": "johnrogers",
+    "repo": "claude-swift-engineering",
+    "githubUrl": "https://github.com/johnrogers/claude-swift-engineering",
+    "displayName": "Swift Style"
+  }
+}

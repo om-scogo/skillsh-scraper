@@ -1,0 +1,17 @@
+{
+  "skillId": "docs-demo",
+  "source": "remotion-dev/remotion",
+  "owner": "remotion-dev",
+  "repo": "remotion",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "remotion-dev/remotion",
+    "skillId": "docs-demo",
+    "name": "docs-demo",
+    "installs": 1502,
+    "owner": "remotion-dev",
+    "repo": "remotion",
+    "githubUrl": "https://github.com/remotion-dev/remotion",
+    "displayName": "Docs Demo"
+  }
+}

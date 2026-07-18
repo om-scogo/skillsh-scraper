@@ -1,0 +1,17 @@
+{
+  "skillId": "security-auditor",
+  "source": "ovachiever/droid-tings",
+  "owner": "ovachiever",
+  "repo": "droid-tings",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ovachiever/droid-tings",
+    "skillId": "security-auditor",
+    "name": "security-auditor",
+    "installs": 777,
+    "owner": "ovachiever",
+    "repo": "droid-tings",
+    "githubUrl": "https://github.com/ovachiever/droid-tings",
+    "displayName": "Security Auditor"
+  }
+}

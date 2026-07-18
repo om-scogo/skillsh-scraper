@@ -1,0 +1,17 @@
+{
+  "skillId": "analyze-feature-requests",
+  "source": "phuryn/pm-skills",
+  "owner": "phuryn",
+  "repo": "pm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "phuryn/pm-skills",
+    "skillId": "analyze-feature-requests",
+    "name": "analyze-feature-requests",
+    "installs": 1689,
+    "owner": "phuryn",
+    "repo": "pm-skills",
+    "githubUrl": "https://github.com/phuryn/pm-skills",
+    "displayName": "Analyze Feature Requests"
+  }
+}

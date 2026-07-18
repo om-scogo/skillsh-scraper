@@ -1,0 +1,17 @@
+{
+  "skillId": "framer-motion",
+  "source": "dylantarre/animation-principles",
+  "owner": "dylantarre",
+  "repo": "animation-principles",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dylantarre/animation-principles",
+    "skillId": "framer-motion",
+    "name": "framer-motion",
+    "installs": 1165,
+    "owner": "dylantarre",
+    "repo": "animation-principles",
+    "githubUrl": "https://github.com/dylantarre/animation-principles",
+    "displayName": "Framer Motion"
+  }
+}

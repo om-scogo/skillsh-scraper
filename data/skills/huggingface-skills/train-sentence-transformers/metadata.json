@@ -1,0 +1,17 @@
+{
+  "skillId": "train-sentence-transformers",
+  "source": "huggingface/skills",
+  "owner": "huggingface",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "huggingface/skills",
+    "skillId": "train-sentence-transformers",
+    "name": "train-sentence-transformers",
+    "installs": 831,
+    "owner": "huggingface",
+    "repo": "skills",
+    "githubUrl": "https://github.com/huggingface/skills",
+    "displayName": "Train Sentence Transformers"
+  }
+}

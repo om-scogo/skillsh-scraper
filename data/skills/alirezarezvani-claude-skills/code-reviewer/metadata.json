@@ -1,0 +1,17 @@
+{
+  "skillId": "code-reviewer",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "code-reviewer",
+    "name": "code-reviewer",
+    "installs": 983,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Code Reviewer"
+  }
+}

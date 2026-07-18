@@ -1,0 +1,17 @@
+{
+  "skillId": "react-best-practices",
+  "source": "0xbigboss/claude-code",
+  "owner": "0xbigboss",
+  "repo": "claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "0xbigboss/claude-code",
+    "skillId": "react-best-practices",
+    "name": "react-best-practices",
+    "installs": 2964,
+    "owner": "0xbigboss",
+    "repo": "claude-code",
+    "githubUrl": "https://github.com/0xbigboss/claude-code",
+    "displayName": "React Best Practices"
+  }
+}

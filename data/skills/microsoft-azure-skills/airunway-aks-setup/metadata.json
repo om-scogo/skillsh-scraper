@@ -1,0 +1,17 @@
+{
+  "skillId": "airunway-aks-setup",
+  "source": "microsoft/azure-skills",
+  "owner": "microsoft",
+  "repo": "azure-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/azure-skills",
+    "skillId": "airunway-aks-setup",
+    "name": "airunway-aks-setup",
+    "installs": 204397,
+    "owner": "microsoft",
+    "repo": "azure-skills",
+    "githubUrl": "https://github.com/microsoft/azure-skills",
+    "displayName": "Airunway Aks Setup"
+  }
+}

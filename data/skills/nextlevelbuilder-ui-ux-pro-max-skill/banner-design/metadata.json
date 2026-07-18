@@ -1,0 +1,17 @@
+{
+  "skillId": "banner-design",
+  "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+  "owner": "nextlevelbuilder",
+  "repo": "ui-ux-pro-max-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "skillId": "banner-design",
+    "name": "banner-design",
+    "installs": 7790,
+    "owner": "nextlevelbuilder",
+    "repo": "ui-ux-pro-max-skill",
+    "githubUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "displayName": "Banner Design"
+  }
+}

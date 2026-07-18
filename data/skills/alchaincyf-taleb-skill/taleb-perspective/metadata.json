@@ -1,0 +1,17 @@
+{
+  "skillId": "taleb-perspective",
+  "source": "alchaincyf/taleb-skill",
+  "owner": "alchaincyf",
+  "repo": "taleb-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/taleb-skill",
+    "skillId": "taleb-perspective",
+    "name": "taleb-perspective",
+    "installs": 1741,
+    "owner": "alchaincyf",
+    "repo": "taleb-skill",
+    "githubUrl": "https://github.com/alchaincyf/taleb-skill",
+    "displayName": "Taleb Perspective"
+  }
+}

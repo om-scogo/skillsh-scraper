@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-architecture",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-architecture",
+    "name": "agent-architecture",
+    "installs": 1034,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Architecture"
+  }
+}

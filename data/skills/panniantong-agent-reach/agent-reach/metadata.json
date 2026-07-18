@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-reach",
+  "source": "panniantong/agent-reach",
+  "owner": "panniantong",
+  "repo": "agent-reach",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "panniantong/agent-reach",
+    "skillId": "agent-reach",
+    "name": "agent-reach",
+    "installs": 9694,
+    "owner": "panniantong",
+    "repo": "agent-reach",
+    "githubUrl": "https://github.com/panniantong/agent-reach",
+    "displayName": "Agent Reach"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "opentelemetry",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "opentelemetry",
+    "name": "opentelemetry",
+    "installs": 2221,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Opentelemetry"
+  }
+}

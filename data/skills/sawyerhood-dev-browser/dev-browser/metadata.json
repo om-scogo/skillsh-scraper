@@ -1,0 +1,17 @@
+{
+  "skillId": "dev-browser",
+  "source": "sawyerhood/dev-browser",
+  "owner": "sawyerhood",
+  "repo": "dev-browser",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sawyerhood/dev-browser",
+    "skillId": "dev-browser",
+    "name": "dev-browser",
+    "installs": 2254,
+    "owner": "sawyerhood",
+    "repo": "dev-browser",
+    "githubUrl": "https://github.com/sawyerhood/dev-browser",
+    "displayName": "Dev Browser"
+  }
+}

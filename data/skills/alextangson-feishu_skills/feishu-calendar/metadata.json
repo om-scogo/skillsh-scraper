@@ -1,0 +1,17 @@
+{
+  "skillId": "feishu-calendar",
+  "source": "alextangson/feishu_skills",
+  "owner": "alextangson",
+  "repo": "feishu_skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alextangson/feishu_skills",
+    "skillId": "feishu-calendar",
+    "name": "feishu-calendar",
+    "installs": 1210,
+    "owner": "alextangson",
+    "repo": "feishu_skills",
+    "githubUrl": "https://github.com/alextangson/feishu_skills",
+    "displayName": "Feishu Calendar"
+  }
+}

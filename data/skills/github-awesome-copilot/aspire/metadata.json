@@ -1,0 +1,17 @@
+{
+  "skillId": "aspire",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "aspire",
+    "name": "aspire",
+    "installs": 8845,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Aspire"
+  }
+}

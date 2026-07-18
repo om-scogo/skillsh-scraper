@@ -1,0 +1,17 @@
+{
+  "skillId": "openspec-context-loading",
+  "source": "forztf/open-skilled-sdd",
+  "owner": "forztf",
+  "repo": "open-skilled-sdd",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forztf/open-skilled-sdd",
+    "skillId": "openspec-context-loading",
+    "name": "openspec-context-loading",
+    "installs": 987,
+    "owner": "forztf",
+    "repo": "open-skilled-sdd",
+    "githubUrl": "https://github.com/forztf/open-skilled-sdd",
+    "displayName": "Openspec Context Loading"
+  }
+}

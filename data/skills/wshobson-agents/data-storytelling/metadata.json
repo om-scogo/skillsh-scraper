@@ -1,0 +1,17 @@
+{
+  "skillId": "data-storytelling",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "data-storytelling",
+    "name": "data-storytelling",
+    "installs": 12754,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Data Storytelling"
+  }
+}

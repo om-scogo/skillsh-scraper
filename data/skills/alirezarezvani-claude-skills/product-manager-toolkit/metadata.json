@@ -1,0 +1,17 @@
+{
+  "skillId": "product-manager-toolkit",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "product-manager-toolkit",
+    "name": "product-manager-toolkit",
+    "installs": 867,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Product Manager Toolkit"
+  }
+}

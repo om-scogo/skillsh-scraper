@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-list-capabilities",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-list-capabilities",
+    "name": "tao-list-capabilities",
+    "installs": 1291,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao List Capabilities"
+  }
+}

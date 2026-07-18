@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-clearly-and-concisely",
+  "source": "obra/the-elements-of-style",
+  "owner": "obra",
+  "repo": "the-elements-of-style",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/the-elements-of-style",
+    "skillId": "writing-clearly-and-concisely",
+    "name": "writing-clearly-and-concisely",
+    "installs": 1083,
+    "owner": "obra",
+    "repo": "the-elements-of-style",
+    "githubUrl": "https://github.com/obra/the-elements-of-style",
+    "displayName": "Writing Clearly And Concisely"
+  }
+}

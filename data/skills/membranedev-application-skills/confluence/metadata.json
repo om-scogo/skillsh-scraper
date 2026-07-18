@@ -1,0 +1,17 @@
+{
+  "skillId": "confluence",
+  "source": "membranedev/application-skills",
+  "owner": "membranedev",
+  "repo": "application-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "membranedev/application-skills",
+    "skillId": "confluence",
+    "name": "confluence",
+    "installs": 1787,
+    "owner": "membranedev",
+    "repo": "application-skills",
+    "githubUrl": "https://github.com/membranedev/application-skills",
+    "displayName": "Confluence"
+  }
+}

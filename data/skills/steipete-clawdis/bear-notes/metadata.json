@@ -1,0 +1,17 @@
+{
+  "skillId": "bear-notes",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "bear-notes",
+    "name": "bear-notes",
+    "installs": 2632,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Bear Notes"
+  }
+}

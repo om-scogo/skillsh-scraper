@@ -1,0 +1,17 @@
+{
+  "skillId": "qmd",
+  "source": "levineam/qmd-skill",
+  "owner": "levineam",
+  "repo": "qmd-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "levineam/qmd-skill",
+    "skillId": "qmd",
+    "name": "qmd",
+    "installs": 937,
+    "owner": "levineam",
+    "repo": "qmd-skill",
+    "githubUrl": "https://github.com/levineam/qmd-skill",
+    "displayName": "Qmd"
+  }
+}

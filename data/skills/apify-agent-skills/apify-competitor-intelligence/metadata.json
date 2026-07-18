@@ -1,0 +1,17 @@
+{
+  "skillId": "apify-competitor-intelligence",
+  "source": "apify/agent-skills",
+  "owner": "apify",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apify/agent-skills",
+    "skillId": "apify-competitor-intelligence",
+    "name": "apify-competitor-intelligence",
+    "installs": 2585,
+    "owner": "apify",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/apify/agent-skills",
+    "displayName": "Apify Competitor Intelligence"
+  }
+}

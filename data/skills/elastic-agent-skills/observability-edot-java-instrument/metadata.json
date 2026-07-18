@@ -1,0 +1,17 @@
+{
+  "skillId": "observability-edot-java-instrument",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "observability-edot-java-instrument",
+    "name": "observability-edot-java-instrument",
+    "installs": 1676,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Observability Edot Java Instrument"
+  }
+}

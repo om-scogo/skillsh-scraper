@@ -1,0 +1,17 @@
+{
+  "skillId": "v3-swarm-coordination",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "v3-swarm-coordination",
+    "name": "v3 swarm coordination",
+    "installs": 969,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "V3 Swarm Coordination"
+  }
+}

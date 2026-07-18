@@ -1,0 +1,17 @@
+{
+  "skillId": "antdv-next",
+  "source": "antdv-next/skills",
+  "owner": "antdv-next",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antdv-next/skills",
+    "skillId": "antdv-next",
+    "name": "antdv-next",
+    "installs": 1116,
+    "owner": "antdv-next",
+    "repo": "skills",
+    "githubUrl": "https://github.com/antdv-next/skills",
+    "displayName": "Antdv Next"
+  }
+}

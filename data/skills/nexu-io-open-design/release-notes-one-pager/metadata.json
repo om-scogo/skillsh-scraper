@@ -1,0 +1,17 @@
+{
+  "skillId": "release-notes-one-pager",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "release-notes-one-pager",
+    "name": "release-notes-one-pager",
+    "installs": 1598,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Release Notes One Pager"
+  }
+}

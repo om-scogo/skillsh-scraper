@@ -1,0 +1,17 @@
+{
+  "skillId": "troubleshooting-s3-files",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "troubleshooting-s3-files",
+    "name": "troubleshooting-s3-files",
+    "installs": 1852,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Troubleshooting S3 Files"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "python-backend",
+  "source": "jiatastic/open-python-skills",
+  "owner": "jiatastic",
+  "repo": "open-python-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jiatastic/open-python-skills",
+    "skillId": "python-backend",
+    "name": "python-backend",
+    "installs": 1836,
+    "owner": "jiatastic",
+    "repo": "open-python-skills",
+    "githubUrl": "https://github.com/jiatastic/open-python-skills",
+    "displayName": "Python Backend"
+  }
+}

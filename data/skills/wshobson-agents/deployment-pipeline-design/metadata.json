@@ -1,0 +1,17 @@
+{
+  "skillId": "deployment-pipeline-design",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "deployment-pipeline-design",
+    "name": "deployment-pipeline-design",
+    "installs": 10540,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Deployment Pipeline Design"
+  }
+}

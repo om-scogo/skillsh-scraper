@@ -1,0 +1,17 @@
+{
+  "skillId": "aws-lambda-durable-functions",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "aws-lambda-durable-functions",
+    "name": "aws-lambda-durable-functions",
+    "installs": 895,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Aws Lambda Durable Functions"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gpt-image",
+  "source": "skills-shell/skills",
+  "owner": "skills-shell",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "skills-shell/skills",
+    "skillId": "gpt-image",
+    "name": "gpt-image",
+    "installs": 7,
+    "owner": "skills-shell",
+    "repo": "skills",
+    "githubUrl": "https://github.com/skills-shell/skills",
+    "displayName": "Gpt Image"
+  }
+}

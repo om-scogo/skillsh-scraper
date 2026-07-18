@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwind-best-practices",
+  "source": "mastra-ai/mastra",
+  "owner": "mastra-ai",
+  "repo": "mastra",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mastra-ai/mastra",
+    "skillId": "tailwind-best-practices",
+    "name": "tailwind-best-practices",
+    "installs": 1988,
+    "owner": "mastra-ai",
+    "repo": "mastra",
+    "githubUrl": "https://github.com/mastra-ai/mastra",
+    "displayName": "Tailwind Best Practices"
+  }
+}

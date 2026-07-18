@@ -1,0 +1,17 @@
+{
+  "skillId": "qdrant-deployment-options",
+  "source": "qdrant/skills",
+  "owner": "qdrant",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qdrant/skills",
+    "skillId": "qdrant-deployment-options",
+    "name": "qdrant-deployment-options",
+    "installs": 1137,
+    "owner": "qdrant",
+    "repo": "skills",
+    "githubUrl": "https://github.com/qdrant/skills",
+    "displayName": "Qdrant Deployment Options"
+  }
+}

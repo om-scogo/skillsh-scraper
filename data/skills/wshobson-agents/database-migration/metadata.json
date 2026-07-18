@@ -1,0 +1,17 @@
+{
+  "skillId": "database-migration",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "database-migration",
+    "name": "database-migration",
+    "installs": 14176,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Database Migration"
+  }
+}

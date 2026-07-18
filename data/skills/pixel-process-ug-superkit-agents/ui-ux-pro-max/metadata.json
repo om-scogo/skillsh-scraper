@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-ux-pro-max",
+  "source": "pixel-process-ug/superkit-agents",
+  "owner": "pixel-process-ug",
+  "repo": "superkit-agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pixel-process-ug/superkit-agents",
+    "skillId": "ui-ux-pro-max",
+    "name": "ui-ux-pro-max",
+    "installs": 1079,
+    "owner": "pixel-process-ug",
+    "repo": "superkit-agents",
+    "githubUrl": "https://github.com/pixel-process-ug/superkit-agents",
+    "displayName": "Ui Ux Pro Max"
+  }
+}

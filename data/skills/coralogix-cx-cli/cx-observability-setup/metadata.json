@@ -1,0 +1,17 @@
+{
+  "skillId": "cx-observability-setup",
+  "source": "coralogix/cx-cli",
+  "owner": "coralogix",
+  "repo": "cx-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coralogix/cx-cli",
+    "skillId": "cx-observability-setup",
+    "name": "cx-observability-setup",
+    "installs": 1128,
+    "owner": "coralogix",
+    "repo": "cx-cli",
+    "githubUrl": "https://github.com/coralogix/cx-cli",
+    "displayName": "Cx Observability Setup"
+  }
+}

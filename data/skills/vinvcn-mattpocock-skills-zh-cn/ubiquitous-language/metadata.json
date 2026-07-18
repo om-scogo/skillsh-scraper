@@ -1,0 +1,17 @@
+{
+  "skillId": "ubiquitous-language",
+  "source": "vinvcn/mattpocock-skills-zh-cn",
+  "owner": "vinvcn",
+  "repo": "mattpocock-skills-zh-cn",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vinvcn/mattpocock-skills-zh-cn",
+    "skillId": "ubiquitous-language",
+    "name": "ubiquitous-language",
+    "installs": 1353,
+    "owner": "vinvcn",
+    "repo": "mattpocock-skills-zh-cn",
+    "githubUrl": "https://github.com/vinvcn/mattpocock-skills-zh-cn",
+    "displayName": "Ubiquitous Language"
+  }
+}

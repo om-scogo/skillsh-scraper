@@ -1,0 +1,17 @@
+{
+  "skillId": "xcode-build-benchmark",
+  "source": "avdlee/xcode-build-optimization-agent-skill",
+  "owner": "avdlee",
+  "repo": "xcode-build-optimization-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "avdlee/xcode-build-optimization-agent-skill",
+    "skillId": "xcode-build-benchmark",
+    "name": "xcode-build-benchmark",
+    "installs": 2729,
+    "owner": "avdlee",
+    "repo": "xcode-build-optimization-agent-skill",
+    "githubUrl": "https://github.com/avdlee/xcode-build-optimization-agent-skill",
+    "displayName": "Xcode Build Benchmark"
+  }
+}

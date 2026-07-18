@@ -1,0 +1,17 @@
+{
+  "skillId": "git-flow-branch-creator",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "git-flow-branch-creator",
+    "name": "git-flow-branch-creator",
+    "installs": 9285,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Git Flow Branch Creator"
+  }
+}

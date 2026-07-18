@@ -1,0 +1,17 @@
+{
+  "skillId": "material-3",
+  "source": "hamen/material-3-skill",
+  "owner": "hamen",
+  "repo": "material-3-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hamen/material-3-skill",
+    "skillId": "material-3",
+    "name": "material-3",
+    "installs": 892,
+    "owner": "hamen",
+    "repo": "material-3-skill",
+    "githubUrl": "https://github.com/hamen/material-3-skill",
+    "displayName": "Material 3"
+  }
+}

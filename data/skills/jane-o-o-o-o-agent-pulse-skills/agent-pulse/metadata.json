@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-pulse",
+  "source": "jane-o-o-o-o/agent-pulse-skills",
+  "owner": "jane-o-o-o-o",
+  "repo": "agent-pulse-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jane-o-o-o-o/agent-pulse-skills",
+    "skillId": "agent-pulse",
+    "name": "agent-pulse",
+    "installs": 23652,
+    "owner": "jane-o-o-o-o",
+    "repo": "agent-pulse-skills",
+    "githubUrl": "https://github.com/jane-o-o-o-o/agent-pulse-skills",
+    "displayName": "Agent Pulse"
+  }
+}

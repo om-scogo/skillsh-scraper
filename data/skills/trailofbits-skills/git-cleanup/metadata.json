@@ -1,0 +1,17 @@
+{
+  "skillId": "git-cleanup",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "git-cleanup",
+    "name": "git-cleanup",
+    "installs": 3399,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Git Cleanup"
+  }
+}

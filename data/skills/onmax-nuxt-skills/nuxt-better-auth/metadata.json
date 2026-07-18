@@ -1,0 +1,17 @@
+{
+  "skillId": "nuxt-better-auth",
+  "source": "onmax/nuxt-skills",
+  "owner": "onmax",
+  "repo": "nuxt-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "onmax/nuxt-skills",
+    "skillId": "nuxt-better-auth",
+    "name": "nuxt-better-auth",
+    "installs": 1630,
+    "owner": "onmax",
+    "repo": "nuxt-skills",
+    "githubUrl": "https://github.com/onmax/nuxt-skills",
+    "displayName": "Nuxt Better Auth"
+  }
+}

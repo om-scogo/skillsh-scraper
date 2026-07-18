@@ -1,0 +1,17 @@
+{
+  "skillId": "check",
+  "source": "juliusbrussee/cavekit",
+  "owner": "juliusbrussee",
+  "repo": "cavekit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juliusbrussee/cavekit",
+    "skillId": "check",
+    "name": "check",
+    "installs": 2266,
+    "owner": "juliusbrussee",
+    "repo": "cavekit",
+    "githubUrl": "https://github.com/juliusbrussee/cavekit",
+    "displayName": "Check"
+  }
+}

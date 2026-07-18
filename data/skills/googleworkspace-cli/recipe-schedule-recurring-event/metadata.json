@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-schedule-recurring-event",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-schedule-recurring-event",
+    "name": "recipe-schedule-recurring-event",
+    "installs": 22303,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Schedule Recurring Event"
+  }
+}

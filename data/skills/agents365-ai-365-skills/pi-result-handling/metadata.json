@@ -1,0 +1,17 @@
+{
+  "skillId": "pi-result-handling",
+  "source": "agents365-ai/365-skills",
+  "owner": "agents365-ai",
+  "repo": "365-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agents365-ai/365-skills",
+    "skillId": "pi-result-handling",
+    "name": "pi-result-handling",
+    "installs": 1350,
+    "owner": "agents365-ai",
+    "repo": "365-skills",
+    "githubUrl": "https://github.com/agents365-ai/365-skills",
+    "displayName": "Pi Result Handling"
+  }
+}

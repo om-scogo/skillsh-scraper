@@ -1,0 +1,17 @@
+{
+  "skillId": "docker-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "docker-patterns",
+    "name": "docker-patterns",
+    "installs": 1210,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Docker Patterns"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "team-composition-analysis",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "team-composition-analysis",
+    "name": "team-composition-analysis",
+    "installs": 7835,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Team Composition Analysis"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "naver-blog-research",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "naver-blog-research",
+    "name": "naver-blog-research",
+    "installs": 2672,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Naver Blog Research"
+  }
+}

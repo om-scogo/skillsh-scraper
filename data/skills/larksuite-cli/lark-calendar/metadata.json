@@ -1,0 +1,17 @@
+{
+  "skillId": "lark-calendar",
+  "source": "larksuite/cli",
+  "owner": "larksuite",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "larksuite/cli",
+    "skillId": "lark-calendar",
+    "name": "lark-calendar",
+    "installs": 362625,
+    "owner": "larksuite",
+    "repo": "cli",
+    "githubUrl": "https://github.com/larksuite/cli",
+    "displayName": "Lark Calendar"
+  }
+}

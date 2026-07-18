@@ -1,0 +1,17 @@
+{
+  "skillId": "typefully",
+  "source": "typefully/agent-skills",
+  "owner": "typefully",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "typefully/agent-skills",
+    "skillId": "typefully",
+    "name": "typefully",
+    "installs": 1384,
+    "owner": "typefully",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/typefully/agent-skills",
+    "displayName": "Typefully"
+  }
+}

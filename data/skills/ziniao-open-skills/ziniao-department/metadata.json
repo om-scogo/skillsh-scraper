@@ -1,0 +1,17 @@
+{
+  "skillId": "ziniao-department",
+  "source": "ziniao-open/skills",
+  "owner": "ziniao-open",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ziniao-open/skills",
+    "skillId": "ziniao-department",
+    "name": "ziniao-department",
+    "installs": 1492,
+    "owner": "ziniao-open",
+    "repo": "skills",
+    "githubUrl": "https://github.com/ziniao-open/skills",
+    "displayName": "Ziniao Department"
+  }
+}

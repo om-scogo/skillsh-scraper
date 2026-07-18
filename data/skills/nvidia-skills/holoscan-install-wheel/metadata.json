@@ -1,0 +1,17 @@
+{
+  "skillId": "holoscan-install-wheel",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "holoscan-install-wheel",
+    "name": "holoscan-install-wheel",
+    "installs": 1483,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Holoscan Install Wheel"
+  }
+}

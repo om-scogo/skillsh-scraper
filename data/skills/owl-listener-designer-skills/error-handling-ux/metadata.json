@@ -1,0 +1,17 @@
+{
+  "skillId": "error-handling-ux",
+  "source": "owl-listener/designer-skills",
+  "owner": "owl-listener",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "owl-listener/designer-skills",
+    "skillId": "error-handling-ux",
+    "name": "error-handling-ux",
+    "installs": 883,
+    "owner": "owl-listener",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/owl-listener/designer-skills",
+    "displayName": "Error Handling Ux"
+  }
+}

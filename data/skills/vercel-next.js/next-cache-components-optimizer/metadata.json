@@ -1,0 +1,17 @@
+{
+  "skillId": "next-cache-components-optimizer",
+  "source": "vercel/next.js",
+  "owner": "vercel",
+  "repo": "next.js",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/next.js",
+    "skillId": "next-cache-components-optimizer",
+    "name": "next-cache-components-optimizer",
+    "installs": 2603,
+    "owner": "vercel",
+    "repo": "next.js",
+    "githubUrl": "https://github.com/vercel/next.js",
+    "displayName": "Next Cache Components Optimizer"
+  }
+}

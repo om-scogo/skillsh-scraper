@@ -1,0 +1,17 @@
+{
+  "skillId": "security-audit",
+  "source": "cloudflare/security-audit-skill",
+  "owner": "cloudflare",
+  "repo": "security-audit-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudflare/security-audit-skill",
+    "skillId": "security-audit",
+    "name": "security-audit",
+    "installs": 1836,
+    "owner": "cloudflare",
+    "repo": "security-audit-skill",
+    "githubUrl": "https://github.com/cloudflare/security-audit-skill",
+    "displayName": "Security Audit"
+  }
+}

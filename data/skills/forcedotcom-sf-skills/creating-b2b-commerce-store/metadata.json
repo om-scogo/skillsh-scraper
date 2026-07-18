@@ -1,0 +1,17 @@
+{
+  "skillId": "creating-b2b-commerce-store",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "creating-b2b-commerce-store",
+    "name": "creating-b2b-commerce-store",
+    "installs": 1921,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Creating B2b Commerce Store"
+  }
+}

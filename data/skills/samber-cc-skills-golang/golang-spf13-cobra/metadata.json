@@ -1,0 +1,17 @@
+{
+  "skillId": "golang-spf13-cobra",
+  "source": "samber/cc-skills-golang",
+  "owner": "samber",
+  "repo": "cc-skills-golang",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills-golang",
+    "skillId": "golang-spf13-cobra",
+    "name": "golang-spf13-cobra",
+    "installs": 31104,
+    "owner": "samber",
+    "repo": "cc-skills-golang",
+    "githubUrl": "https://github.com/samber/cc-skills-golang",
+    "displayName": "Golang Spf13 Cobra"
+  }
+}

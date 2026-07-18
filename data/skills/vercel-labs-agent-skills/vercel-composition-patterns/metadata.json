@@ -1,0 +1,17 @@
+{
+  "skillId": "vercel-composition-patterns",
+  "source": "vercel-labs/agent-skills",
+  "owner": "vercel-labs",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/agent-skills",
+    "skillId": "vercel-composition-patterns",
+    "name": "vercel-composition-patterns",
+    "installs": 251476,
+    "owner": "vercel-labs",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/vercel-labs/agent-skills",
+    "displayName": "Vercel Composition Patterns"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gke-cost",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "gke-cost",
+    "name": "gke-cost",
+    "installs": 938,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Gke Cost"
+  }
+}

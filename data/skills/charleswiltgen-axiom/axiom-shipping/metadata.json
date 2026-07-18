@@ -1,0 +1,17 @@
+{
+  "skillId": "axiom-shipping",
+  "source": "charleswiltgen/axiom",
+  "owner": "charleswiltgen",
+  "repo": "axiom",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "charleswiltgen/axiom",
+    "skillId": "axiom-shipping",
+    "name": "axiom-shipping",
+    "installs": 748,
+    "owner": "charleswiltgen",
+    "repo": "axiom",
+    "githubUrl": "https://github.com/charleswiltgen/axiom",
+    "displayName": "Axiom Shipping"
+  }
+}

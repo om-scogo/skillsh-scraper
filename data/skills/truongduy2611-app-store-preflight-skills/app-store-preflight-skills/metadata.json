@@ -1,0 +1,17 @@
+{
+  "skillId": "app-store-preflight-skills",
+  "source": "truongduy2611/app-store-preflight-skills",
+  "owner": "truongduy2611",
+  "repo": "app-store-preflight-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "truongduy2611/app-store-preflight-skills",
+    "skillId": "app-store-preflight-skills",
+    "name": "app-store-preflight-skills",
+    "installs": 1496,
+    "owner": "truongduy2611",
+    "repo": "app-store-preflight-skills",
+    "githubUrl": "https://github.com/truongduy2611/app-store-preflight-skills",
+    "displayName": "App Store Preflight Skills"
+  }
+}

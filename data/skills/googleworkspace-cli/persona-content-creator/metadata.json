@@ -1,0 +1,17 @@
+{
+  "skillId": "persona-content-creator",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "persona-content-creator",
+    "name": "persona-content-creator",
+    "installs": 22615,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Persona Content Creator"
+  }
+}

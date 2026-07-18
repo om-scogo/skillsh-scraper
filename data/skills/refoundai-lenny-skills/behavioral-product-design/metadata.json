@@ -1,0 +1,17 @@
+{
+  "skillId": "behavioral-product-design",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "behavioral-product-design",
+    "name": "behavioral-product-design",
+    "installs": 1974,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Behavioral Product Design"
+  }
+}

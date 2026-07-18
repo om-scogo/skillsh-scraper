@@ -1,0 +1,17 @@
+{
+  "skillId": "crxjs",
+  "source": "samber/cc-skills",
+  "owner": "samber",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills",
+    "skillId": "crxjs",
+    "name": "crxjs",
+    "installs": 1884,
+    "owner": "samber",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/samber/cc-skills",
+    "displayName": "Crxjs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "llm-trading-agent-security",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "llm-trading-agent-security",
+    "name": "llm-trading-agent-security",
+    "installs": 3581,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Llm Trading Agent Security"
+  }
+}

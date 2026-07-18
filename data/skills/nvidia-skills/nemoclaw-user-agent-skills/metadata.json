@@ -1,0 +1,17 @@
+{
+  "skillId": "nemoclaw-user-agent-skills",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemoclaw-user-agent-skills",
+    "name": "nemoclaw-user-agent-skills",
+    "installs": 881,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemoclaw User Agent Skills"
+  }
+}

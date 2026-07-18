@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-subscription-localization",
+  "source": "rorkai/app-store-connect-cli-skills",
+  "owner": "rorkai",
+  "repo": "app-store-connect-cli-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rorkai/app-store-connect-cli-skills",
+    "skillId": "asc-subscription-localization",
+    "name": "asc-subscription-localization",
+    "installs": 1684,
+    "owner": "rorkai",
+    "repo": "app-store-connect-cli-skills",
+    "githubUrl": "https://github.com/rorkai/app-store-connect-cli-skills",
+    "displayName": "Asc Subscription Localization"
+  }
+}

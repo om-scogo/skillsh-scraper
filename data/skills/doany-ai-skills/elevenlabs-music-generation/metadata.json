@@ -1,0 +1,17 @@
+{
+  "skillId": "elevenlabs-music-generation",
+  "source": "doany-ai/skills",
+  "owner": "doany-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "doany-ai/skills",
+    "skillId": "elevenlabs-music-generation",
+    "name": "elevenlabs-music-generation",
+    "installs": 12,
+    "owner": "doany-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/doany-ai/skills",
+    "displayName": "Elevenlabs Music Generation"
+  }
+}

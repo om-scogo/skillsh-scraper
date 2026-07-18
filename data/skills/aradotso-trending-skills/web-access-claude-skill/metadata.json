@@ -1,0 +1,17 @@
+{
+  "skillId": "web-access-claude-skill",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "web-access-claude-skill",
+    "name": "web-access-claude-skill",
+    "installs": 919,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Web Access Claude Skill"
+  }
+}

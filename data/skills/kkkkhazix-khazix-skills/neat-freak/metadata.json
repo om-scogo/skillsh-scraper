@@ -1,0 +1,17 @@
+{
+  "skillId": "neat-freak",
+  "source": "kkkkhazix/khazix-skills",
+  "owner": "kkkkhazix",
+  "repo": "khazix-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kkkkhazix/khazix-skills",
+    "skillId": "neat-freak",
+    "name": "neat-freak",
+    "installs": 2501,
+    "owner": "kkkkhazix",
+    "repo": "khazix-skills",
+    "githubUrl": "https://github.com/kkkkhazix/khazix-skills",
+    "displayName": "Neat Freak"
+  }
+}

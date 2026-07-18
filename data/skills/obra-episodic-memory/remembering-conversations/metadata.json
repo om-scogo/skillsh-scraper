@@ -1,0 +1,17 @@
+{
+  "skillId": "remembering-conversations",
+  "source": "obra/episodic-memory",
+  "owner": "obra",
+  "repo": "episodic-memory",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/episodic-memory",
+    "skillId": "remembering-conversations",
+    "name": "remembering-conversations",
+    "installs": 8968,
+    "owner": "obra",
+    "repo": "episodic-memory",
+    "githubUrl": "https://github.com/obra/episodic-memory",
+    "displayName": "Remembering Conversations"
+  }
+}

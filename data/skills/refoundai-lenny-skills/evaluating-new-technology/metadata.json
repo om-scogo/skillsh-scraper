@@ -1,0 +1,17 @@
+{
+  "skillId": "evaluating-new-technology",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "evaluating-new-technology",
+    "name": "evaluating-new-technology",
+    "installs": 1575,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Evaluating New Technology"
+  }
+}

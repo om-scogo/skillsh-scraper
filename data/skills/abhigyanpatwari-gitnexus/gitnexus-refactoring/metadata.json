@@ -1,0 +1,17 @@
+{
+  "skillId": "gitnexus-refactoring",
+  "source": "abhigyanpatwari/gitnexus",
+  "owner": "abhigyanpatwari",
+  "repo": "gitnexus",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "abhigyanpatwari/gitnexus",
+    "skillId": "gitnexus-refactoring",
+    "name": "gitnexus-refactoring",
+    "installs": 1208,
+    "owner": "abhigyanpatwari",
+    "repo": "gitnexus",
+    "githubUrl": "https://github.com/abhigyanpatwari/gitnexus",
+    "displayName": "Gitnexus Refactoring"
+  }
+}

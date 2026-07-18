@@ -1,0 +1,17 @@
+{
+  "skillId": "newsletter-generation",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "newsletter-generation",
+    "name": "newsletter-generation",
+    "installs": 1158,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Newsletter Generation"
+  }
+}

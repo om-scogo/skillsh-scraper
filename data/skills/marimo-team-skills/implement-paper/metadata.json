@@ -1,0 +1,17 @@
+{
+  "skillId": "implement-paper",
+  "source": "marimo-team/skills",
+  "owner": "marimo-team",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "marimo-team/skills",
+    "skillId": "implement-paper",
+    "name": "implement-paper",
+    "installs": 1640,
+    "owner": "marimo-team",
+    "repo": "skills",
+    "githubUrl": "https://github.com/marimo-team/skills",
+    "displayName": "Implement Paper"
+  }
+}

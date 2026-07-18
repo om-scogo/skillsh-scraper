@@ -1,0 +1,17 @@
+{
+  "skillId": "azure-resource-health-diagnose",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "azure-resource-health-diagnose",
+    "name": "azure-resource-health-diagnose",
+    "installs": 8560,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Azure Resource Health Diagnose"
+  }
+}

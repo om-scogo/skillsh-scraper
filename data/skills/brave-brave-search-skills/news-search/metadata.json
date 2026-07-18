@@ -1,0 +1,17 @@
+{
+  "skillId": "news-search",
+  "source": "brave/brave-search-skills",
+  "owner": "brave",
+  "repo": "brave-search-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "brave/brave-search-skills",
+    "skillId": "news-search",
+    "name": "news-search",
+    "installs": 1020,
+    "owner": "brave",
+    "repo": "brave-search-skills",
+    "githubUrl": "https://github.com/brave/brave-search-skills",
+    "displayName": "News Search"
+  }
+}

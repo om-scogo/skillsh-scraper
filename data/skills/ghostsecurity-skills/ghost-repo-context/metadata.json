@@ -1,0 +1,17 @@
+{
+  "skillId": "ghost-repo-context",
+  "source": "ghostsecurity/skills",
+  "owner": "ghostsecurity",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ghostsecurity/skills",
+    "skillId": "ghost-repo-context",
+    "name": "ghost-repo-context",
+    "installs": 2175,
+    "owner": "ghostsecurity",
+    "repo": "skills",
+    "githubUrl": "https://github.com/ghostsecurity/skills",
+    "displayName": "Ghost Repo Context"
+  }
+}

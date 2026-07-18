@@ -1,0 +1,17 @@
+{
+  "skillId": "plannotator-setup-goal",
+  "source": "backnotprop/plannotator",
+  "owner": "backnotprop",
+  "repo": "plannotator",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "backnotprop/plannotator",
+    "skillId": "plannotator-setup-goal",
+    "name": "plannotator-setup-goal",
+    "installs": 3595,
+    "owner": "backnotprop",
+    "repo": "plannotator",
+    "githubUrl": "https://github.com/backnotprop/plannotator",
+    "displayName": "Plannotator Setup Goal"
+  }
+}

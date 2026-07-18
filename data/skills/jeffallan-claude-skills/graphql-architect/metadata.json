@@ -1,0 +1,17 @@
+{
+  "skillId": "graphql-architect",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "graphql-architect",
+    "name": "graphql-architect",
+    "installs": 2794,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Graphql Architect"
+  }
+}

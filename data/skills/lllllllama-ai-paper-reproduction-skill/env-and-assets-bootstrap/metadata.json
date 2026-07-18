@@ -1,0 +1,17 @@
+{
+  "skillId": "env-and-assets-bootstrap",
+  "source": "lllllllama/ai-paper-reproduction-skill",
+  "owner": "lllllllama",
+  "repo": "ai-paper-reproduction-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lllllllama/ai-paper-reproduction-skill",
+    "skillId": "env-and-assets-bootstrap",
+    "name": "env-and-assets-bootstrap",
+    "installs": 139849,
+    "owner": "lllllllama",
+    "repo": "ai-paper-reproduction-skill",
+    "githubUrl": "https://github.com/lllllllama/ai-paper-reproduction-skill",
+    "displayName": "Env And Assets Bootstrap"
+  }
+}

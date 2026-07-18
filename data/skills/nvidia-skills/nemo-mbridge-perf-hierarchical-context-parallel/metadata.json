@@ -1,0 +1,17 @@
+{
+  "skillId": "nemo-mbridge-perf-hierarchical-context-parallel",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemo-mbridge-perf-hierarchical-context-parallel",
+    "name": "nemo-mbridge-perf-hierarchical-context-parallel",
+    "installs": 1510,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemo Mbridge Perf Hierarchical Context Parallel"
+  }
+}

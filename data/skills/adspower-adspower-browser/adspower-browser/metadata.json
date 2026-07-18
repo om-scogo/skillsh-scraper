@@ -1,0 +1,17 @@
+{
+  "skillId": "adspower-browser",
+  "source": "adspower/adspower-browser",
+  "owner": "adspower",
+  "repo": "adspower-browser",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adspower/adspower-browser",
+    "skillId": "adspower-browser",
+    "name": "adspower-browser",
+    "installs": 1235,
+    "owner": "adspower",
+    "repo": "adspower-browser",
+    "githubUrl": "https://github.com/adspower/adspower-browser",
+    "displayName": "Adspower Browser"
+  }
+}

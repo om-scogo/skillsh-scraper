@@ -1,0 +1,17 @@
+{
+  "skillId": "mcp",
+  "source": "vercel-labs/json-render",
+  "owner": "vercel-labs",
+  "repo": "json-render",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/json-render",
+    "skillId": "mcp",
+    "name": "mcp",
+    "installs": 2261,
+    "owner": "vercel-labs",
+    "repo": "json-render",
+    "githubUrl": "https://github.com/vercel-labs/json-render",
+    "displayName": "Mcp"
+  }
+}

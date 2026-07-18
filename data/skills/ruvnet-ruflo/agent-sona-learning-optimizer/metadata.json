@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-sona-learning-optimizer",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-sona-learning-optimizer",
+    "name": "agent-sona-learning-optimizer",
+    "installs": 989,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Sona Learning Optimizer"
+  }
+}

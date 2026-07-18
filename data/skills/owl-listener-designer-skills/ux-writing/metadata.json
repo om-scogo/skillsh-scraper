@@ -1,0 +1,17 @@
+{
+  "skillId": "ux-writing",
+  "source": "owl-listener/designer-skills",
+  "owner": "owl-listener",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "owl-listener/designer-skills",
+    "skillId": "ux-writing",
+    "name": "ux-writing",
+    "installs": 894,
+    "owner": "owl-listener",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/owl-listener/designer-skills",
+    "displayName": "Ux Writing"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "spotify-player",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "spotify-player",
+    "name": "spotify-player",
+    "installs": 2804,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Spotify Player"
+  }
+}

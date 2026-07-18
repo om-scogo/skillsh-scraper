@@ -1,0 +1,17 @@
+{
+  "skillId": "cli-anything",
+  "source": "hkuds/cli-anything",
+  "owner": "hkuds",
+  "repo": "cli-anything",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hkuds/cli-anything",
+    "skillId": "cli-anything",
+    "name": "cli-anything",
+    "installs": 1710,
+    "owner": "hkuds",
+    "repo": "cli-anything",
+    "githubUrl": "https://github.com/hkuds/cli-anything",
+    "displayName": "Cli Anything"
+  }
+}

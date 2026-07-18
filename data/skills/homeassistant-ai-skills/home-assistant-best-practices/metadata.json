@@ -1,0 +1,17 @@
+{
+  "skillId": "home-assistant-best-practices",
+  "source": "homeassistant-ai/skills",
+  "owner": "homeassistant-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "homeassistant-ai/skills",
+    "skillId": "home-assistant-best-practices",
+    "name": "home-assistant-best-practices",
+    "installs": 5314,
+    "owner": "homeassistant-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/homeassistant-ai/skills",
+    "displayName": "Home Assistant Best Practices"
+  }
+}

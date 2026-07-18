@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-ppp-pricing",
+  "source": "rudrankriyam/asc-skills",
+  "owner": "rudrankriyam",
+  "repo": "asc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rudrankriyam/asc-skills",
+    "skillId": "asc-ppp-pricing",
+    "name": "asc-ppp-pricing",
+    "installs": 1139,
+    "owner": "rudrankriyam",
+    "repo": "asc-skills",
+    "githubUrl": "https://github.com/rudrankriyam/asc-skills",
+    "displayName": "Asc Ppp Pricing"
+  }
+}

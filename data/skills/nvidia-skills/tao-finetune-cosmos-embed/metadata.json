@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-finetune-cosmos-embed",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-finetune-cosmos-embed",
+    "name": "tao-finetune-cosmos-embed",
+    "installs": 1291,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Finetune Cosmos Embed"
+  }
+}

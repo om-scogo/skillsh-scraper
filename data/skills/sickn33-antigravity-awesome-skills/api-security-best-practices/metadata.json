@@ -1,0 +1,17 @@
+{
+  "skillId": "api-security-best-practices",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "api-security-best-practices",
+    "name": "api-security-best-practices",
+    "installs": 7913,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Api Security Best Practices"
+  }
+}

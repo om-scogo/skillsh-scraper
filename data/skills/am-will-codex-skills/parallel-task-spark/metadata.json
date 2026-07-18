@@ -1,0 +1,17 @@
+{
+  "skillId": "parallel-task-spark",
+  "source": "am-will/codex-skills",
+  "owner": "am-will",
+  "repo": "codex-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "am-will/codex-skills",
+    "skillId": "parallel-task-spark",
+    "name": "parallel-task-spark",
+    "installs": 1149,
+    "owner": "am-will",
+    "repo": "codex-skills",
+    "githubUrl": "https://github.com/am-will/codex-skills",
+    "displayName": "Parallel Task Spark"
+  }
+}

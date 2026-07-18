@@ -1,0 +1,17 @@
+{
+  "skillId": "create-video",
+  "source": "heygen-com/skills",
+  "owner": "heygen-com",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/skills",
+    "skillId": "create-video",
+    "name": "create-video",
+    "installs": 946,
+    "owner": "heygen-com",
+    "repo": "skills",
+    "githubUrl": "https://github.com/heygen-com/skills",
+    "displayName": "Create Video"
+  }
+}

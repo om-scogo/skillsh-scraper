@@ -1,0 +1,17 @@
+{
+  "skillId": "arize-link",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "arize-link",
+    "name": "arize-link",
+    "installs": 978,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Arize Link"
+  }
+}

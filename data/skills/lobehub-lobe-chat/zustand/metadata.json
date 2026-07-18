@@ -1,0 +1,17 @@
+{
+  "skillId": "zustand",
+  "source": "lobehub/lobe-chat",
+  "owner": "lobehub",
+  "repo": "lobe-chat",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobe-chat",
+    "skillId": "zustand",
+    "name": "zustand",
+    "installs": 1391,
+    "owner": "lobehub",
+    "repo": "lobe-chat",
+    "githubUrl": "https://github.com/lobehub/lobe-chat",
+    "displayName": "Zustand"
+  }
+}

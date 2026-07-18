@@ -1,0 +1,17 @@
+{
+  "skillId": "paperclip-create-agent",
+  "source": "getpaperclipai/paperclip",
+  "owner": "getpaperclipai",
+  "repo": "paperclip",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getpaperclipai/paperclip",
+    "skillId": "paperclip-create-agent",
+    "name": "paperclip-create-agent",
+    "installs": 67028,
+    "owner": "getpaperclipai",
+    "repo": "paperclip",
+    "githubUrl": "https://github.com/getpaperclipai/paperclip",
+    "displayName": "Paperclip Create Agent"
+  }
+}

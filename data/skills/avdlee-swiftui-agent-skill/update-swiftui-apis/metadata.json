@@ -1,0 +1,17 @@
+{
+  "skillId": "update-swiftui-apis",
+  "source": "avdlee/swiftui-agent-skill",
+  "owner": "avdlee",
+  "repo": "swiftui-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "avdlee/swiftui-agent-skill",
+    "skillId": "update-swiftui-apis",
+    "name": "update-swiftui-apis",
+    "installs": 1608,
+    "owner": "avdlee",
+    "repo": "swiftui-agent-skill",
+    "githubUrl": "https://github.com/avdlee/swiftui-agent-skill",
+    "displayName": "Update Swiftui Apis"
+  }
+}

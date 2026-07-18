@@ -1,0 +1,17 @@
+{
+  "skillId": "steve-jobs-design-review",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "steve-jobs-design-review",
+    "name": "steve-jobs-design-review",
+    "installs": 848,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Steve Jobs Design Review"
+  }
+}

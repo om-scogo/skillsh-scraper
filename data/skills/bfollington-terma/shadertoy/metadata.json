@@ -1,0 +1,17 @@
+{
+  "skillId": "shadertoy",
+  "source": "bfollington/terma",
+  "owner": "bfollington",
+  "repo": "terma",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bfollington/terma",
+    "skillId": "shadertoy",
+    "name": "shadertoy",
+    "installs": 1405,
+    "owner": "bfollington",
+    "repo": "terma",
+    "githubUrl": "https://github.com/bfollington/terma",
+    "displayName": "Shadertoy"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "version-release",
+  "source": "lobehub/lobehub",
+  "owner": "lobehub",
+  "repo": "lobehub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobehub",
+    "skillId": "version-release",
+    "name": "version-release",
+    "installs": 1451,
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "githubUrl": "https://github.com/lobehub/lobehub",
+    "displayName": "Version Release"
+  }
+}

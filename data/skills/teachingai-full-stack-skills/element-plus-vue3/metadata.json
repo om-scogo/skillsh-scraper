@@ -1,0 +1,17 @@
+{
+  "skillId": "element-plus-vue3",
+  "source": "teachingai/full-stack-skills",
+  "owner": "teachingai",
+  "repo": "full-stack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "teachingai/full-stack-skills",
+    "skillId": "element-plus-vue3",
+    "name": "element-plus-vue3",
+    "installs": 1855,
+    "owner": "teachingai",
+    "repo": "full-stack-skills",
+    "githubUrl": "https://github.com/teachingai/full-stack-skills",
+    "displayName": "Element Plus Vue3"
+  }
+}

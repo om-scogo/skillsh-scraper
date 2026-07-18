@@ -1,0 +1,17 @@
+{
+  "skillId": "blue-ocean-strategy",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "blue-ocean-strategy",
+    "name": "blue-ocean-strategy",
+    "installs": 3002,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Blue Ocean Strategy"
+  }
+}

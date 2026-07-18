@@ -1,0 +1,17 @@
+{
+  "skillId": "terraform-azurerm-set-diff-analyzer",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "terraform-azurerm-set-diff-analyzer",
+    "name": "terraform-azurerm-set-diff-analyzer",
+    "installs": 8742,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Terraform Azurerm Set Diff Analyzer"
+  }
+}

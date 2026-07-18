@@ -1,0 +1,17 @@
+{
+  "skillId": "just-scrape",
+  "source": "scrapegraphai/just-scrape",
+  "owner": "scrapegraphai",
+  "repo": "just-scrape",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "scrapegraphai/just-scrape",
+    "skillId": "just-scrape",
+    "name": "just-scrape",
+    "installs": 244856,
+    "owner": "scrapegraphai",
+    "repo": "just-scrape",
+    "githubUrl": "https://github.com/scrapegraphai/just-scrape",
+    "displayName": "Just Scrape"
+  }
+}

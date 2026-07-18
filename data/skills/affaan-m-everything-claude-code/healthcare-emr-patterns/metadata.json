@@ -1,0 +1,17 @@
+{
+  "skillId": "healthcare-emr-patterns",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "healthcare-emr-patterns",
+    "name": "healthcare-emr-patterns",
+    "installs": 4003,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Healthcare Emr Patterns"
+  }
+}

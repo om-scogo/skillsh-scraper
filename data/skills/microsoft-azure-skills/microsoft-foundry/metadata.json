@@ -1,0 +1,17 @@
+{
+  "skillId": "microsoft-foundry",
+  "source": "microsoft/azure-skills",
+  "owner": "microsoft",
+  "repo": "azure-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/azure-skills",
+    "skillId": "microsoft-foundry",
+    "name": "microsoft-foundry",
+    "installs": 459870,
+    "owner": "microsoft",
+    "repo": "azure-skills",
+    "githubUrl": "https://github.com/microsoft/azure-skills",
+    "displayName": "Microsoft Foundry"
+  }
+}

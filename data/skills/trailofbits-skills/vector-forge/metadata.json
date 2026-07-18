@@ -1,0 +1,17 @@
+{
+  "skillId": "vector-forge",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "vector-forge",
+    "name": "vector-forge",
+    "installs": 2323,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Vector Forge"
+  }
+}

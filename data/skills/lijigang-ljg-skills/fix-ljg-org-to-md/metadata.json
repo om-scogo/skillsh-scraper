@@ -1,0 +1,17 @@
+{
+  "skillId": "fix-ljg-org-to-md",
+  "source": "lijigang/ljg-skills",
+  "owner": "lijigang",
+  "repo": "ljg-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lijigang/ljg-skills",
+    "skillId": "fix-ljg-org-to-md",
+    "name": "fix-ljg-org-to-md",
+    "installs": 1097,
+    "owner": "lijigang",
+    "repo": "ljg-skills",
+    "githubUrl": "https://github.com/lijigang/ljg-skills",
+    "displayName": "Fix Ljg Org To Md"
+  }
+}

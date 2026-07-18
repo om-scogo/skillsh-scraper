@@ -1,0 +1,17 @@
+{
+  "skillId": "seo-backlinks",
+  "source": "agricidaniel/claude-seo",
+  "owner": "agricidaniel",
+  "repo": "claude-seo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-seo",
+    "skillId": "seo-backlinks",
+    "name": "seo-backlinks",
+    "installs": 3101,
+    "owner": "agricidaniel",
+    "repo": "claude-seo",
+    "githubUrl": "https://github.com/agricidaniel/claude-seo",
+    "displayName": "Seo Backlinks"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "creating-oracle-to-postgres-master-migration-plan",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "creating-oracle-to-postgres-master-migration-plan",
+    "name": "creating-oracle-to-postgres-master-migration-plan",
+    "installs": 1688,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Creating Oracle To Postgres Master Migration Plan"
+  }
+}

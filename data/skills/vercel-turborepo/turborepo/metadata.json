@@ -1,0 +1,17 @@
+{
+  "skillId": "turborepo",
+  "source": "vercel/turborepo",
+  "owner": "vercel",
+  "repo": "turborepo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/turborepo",
+    "skillId": "turborepo",
+    "name": "turborepo",
+    "installs": 50752,
+    "owner": "vercel",
+    "repo": "turborepo",
+    "githubUrl": "https://github.com/vercel/turborepo",
+    "displayName": "Turborepo"
+  }
+}

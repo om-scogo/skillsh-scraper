@@ -1,0 +1,17 @@
+{
+  "skillId": "content-parser",
+  "source": "marswaveai/skills",
+  "owner": "marswaveai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "marswaveai/skills",
+    "skillId": "content-parser",
+    "name": "content-parser",
+    "installs": 998,
+    "owner": "marswaveai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/marswaveai/skills",
+    "displayName": "Content Parser"
+  }
+}

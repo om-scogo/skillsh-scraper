@@ -1,0 +1,17 @@
+{
+  "skillId": "nx-workspace-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "nx-workspace-patterns",
+    "name": "nx-workspace-patterns",
+    "installs": 8173,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Nx Workspace Patterns"
+  }
+}

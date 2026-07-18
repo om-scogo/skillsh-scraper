@@ -1,0 +1,17 @@
+{
+  "skillId": "nx-plugins",
+  "source": "nrwl/nx-ai-agents-config",
+  "owner": "nrwl",
+  "repo": "nx-ai-agents-config",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nrwl/nx-ai-agents-config",
+    "skillId": "nx-plugins",
+    "name": "nx-plugins",
+    "installs": 2032,
+    "owner": "nrwl",
+    "repo": "nx-ai-agents-config",
+    "githubUrl": "https://github.com/nrwl/nx-ai-agents-config",
+    "displayName": "Nx Plugins"
+  }
+}

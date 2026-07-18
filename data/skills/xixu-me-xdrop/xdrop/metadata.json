@@ -1,0 +1,17 @@
+{
+  "skillId": "xdrop",
+  "source": "xixu-me/xdrop",
+  "owner": "xixu-me",
+  "repo": "xdrop",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "xixu-me/xdrop",
+    "skillId": "xdrop",
+    "name": "xdrop",
+    "installs": 7,
+    "owner": "xixu-me",
+    "repo": "xdrop",
+    "githubUrl": "https://github.com/xixu-me/xdrop",
+    "displayName": "Xdrop"
+  }
+}

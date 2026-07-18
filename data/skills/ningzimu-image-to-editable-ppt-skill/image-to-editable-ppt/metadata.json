@@ -1,0 +1,17 @@
+{
+  "skillId": "image-to-editable-ppt",
+  "source": "ningzimu/image-to-editable-ppt-skill",
+  "owner": "ningzimu",
+  "repo": "image-to-editable-ppt-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ningzimu/image-to-editable-ppt-skill",
+    "skillId": "image-to-editable-ppt",
+    "name": "image-to-editable-ppt",
+    "installs": 870,
+    "owner": "ningzimu",
+    "repo": "image-to-editable-ppt-skill",
+    "githubUrl": "https://github.com/ningzimu/image-to-editable-ppt-skill",
+    "displayName": "Image To Editable Ppt"
+  }
+}

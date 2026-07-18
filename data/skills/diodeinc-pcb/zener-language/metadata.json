@@ -1,0 +1,17 @@
+{
+  "skillId": "zener-language",
+  "source": "diodeinc/pcb",
+  "owner": "diodeinc",
+  "repo": "pcb",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "diodeinc/pcb",
+    "skillId": "zener-language",
+    "name": "zener-language",
+    "installs": 1334,
+    "owner": "diodeinc",
+    "repo": "pcb",
+    "githubUrl": "https://github.com/diodeinc/pcb",
+    "displayName": "Zener Language"
+  }
+}

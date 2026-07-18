@@ -1,0 +1,17 @@
+{
+  "skillId": "ito-market-intelligence",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "ito-market-intelligence",
+    "name": "ito-market-intelligence",
+    "installs": 984,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Ito Market Intelligence"
+  }
+}

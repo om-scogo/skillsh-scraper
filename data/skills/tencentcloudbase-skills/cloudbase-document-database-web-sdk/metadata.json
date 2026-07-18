@@ -1,0 +1,17 @@
+{
+  "skillId": "cloudbase-document-database-web-sdk",
+  "source": "tencentcloudbase/skills",
+  "owner": "tencentcloudbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tencentcloudbase/skills",
+    "skillId": "cloudbase-document-database-web-sdk",
+    "name": "cloudbase-document-database-web-sdk",
+    "installs": 833,
+    "owner": "tencentcloudbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/tencentcloudbase/skills",
+    "displayName": "Cloudbase Document Database Web Sdk"
+  }
+}

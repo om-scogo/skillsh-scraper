@@ -1,0 +1,17 @@
+{
+  "skillId": "m04-zero-cost",
+  "source": "zhanghandong/rust-skills",
+  "owner": "zhanghandong",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zhanghandong/rust-skills",
+    "skillId": "m04-zero-cost",
+    "name": "m04-zero-cost",
+    "installs": 792,
+    "owner": "zhanghandong",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/zhanghandong/rust-skills",
+    "displayName": "M04 Zero Cost"
+  }
+}

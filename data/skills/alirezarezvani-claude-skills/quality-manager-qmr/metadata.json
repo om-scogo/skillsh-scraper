@@ -1,0 +1,17 @@
+{
+  "skillId": "quality-manager-qmr",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "quality-manager-qmr",
+    "name": "quality-manager-qmr",
+    "installs": 745,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Quality Manager Qmr"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gke-storage",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "gke-storage",
+    "name": "gke-storage",
+    "installs": 938,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Gke Storage"
+  }
+}

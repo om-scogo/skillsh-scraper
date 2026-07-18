@@ -1,0 +1,17 @@
+{
+  "skillId": "docs-review",
+  "source": "metabase/metabase",
+  "owner": "metabase",
+  "repo": "metabase",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "metabase/metabase",
+    "skillId": "docs-review",
+    "name": "docs-review",
+    "installs": 1255,
+    "owner": "metabase",
+    "repo": "metabase",
+    "githubUrl": "https://github.com/metabase/metabase",
+    "displayName": "Docs Review"
+  }
+}

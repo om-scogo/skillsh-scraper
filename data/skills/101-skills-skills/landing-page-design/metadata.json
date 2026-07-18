@@ -1,0 +1,17 @@
+{
+  "skillId": "landing-page-design",
+  "source": "101-skills/skills",
+  "owner": "101-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "101-skills/skills",
+    "skillId": "landing-page-design",
+    "name": "landing-page-design",
+    "installs": 11216,
+    "owner": "101-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/101-skills/skills",
+    "displayName": "Landing Page Design"
+  }
+}

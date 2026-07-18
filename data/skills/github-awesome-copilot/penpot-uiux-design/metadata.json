@@ -1,0 +1,17 @@
+{
+  "skillId": "penpot-uiux-design",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "penpot-uiux-design",
+    "name": "penpot-uiux-design",
+    "installs": 11665,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Penpot Uiux Design"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "idea-refine",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "idea-refine",
+    "name": "idea-refine",
+    "installs": 11767,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Idea Refine"
+  }
+}

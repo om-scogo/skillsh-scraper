@@ -1,0 +1,17 @@
+{
+  "skillId": "fix",
+  "source": "facebook/react",
+  "owner": "facebook",
+  "repo": "react",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "facebook/react",
+    "skillId": "fix",
+    "name": "fix",
+    "installs": 2105,
+    "owner": "facebook",
+    "repo": "react",
+    "githubUrl": "https://github.com/facebook/react",
+    "displayName": "Fix"
+  }
+}

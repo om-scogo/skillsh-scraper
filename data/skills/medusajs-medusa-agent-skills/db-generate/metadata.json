@@ -1,0 +1,17 @@
+{
+  "skillId": "db-generate",
+  "source": "medusajs/medusa-agent-skills",
+  "owner": "medusajs",
+  "repo": "medusa-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "medusajs/medusa-agent-skills",
+    "skillId": "db-generate",
+    "name": "db-generate",
+    "installs": 2010,
+    "owner": "medusajs",
+    "repo": "medusa-agent-skills",
+    "githubUrl": "https://github.com/medusajs/medusa-agent-skills",
+    "displayName": "Db Generate"
+  }
+}

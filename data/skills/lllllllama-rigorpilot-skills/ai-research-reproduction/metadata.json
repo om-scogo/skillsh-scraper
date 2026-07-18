@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-research-reproduction",
+  "source": "lllllllama/rigorpilot-skills",
+  "owner": "lllllllama",
+  "repo": "rigorpilot-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lllllllama/rigorpilot-skills",
+    "skillId": "ai-research-reproduction",
+    "name": "ai-research-reproduction",
+    "installs": 136090,
+    "owner": "lllllllama",
+    "repo": "rigorpilot-skills",
+    "githubUrl": "https://github.com/lllllllama/rigorpilot-skills",
+    "displayName": "Ai Research Reproduction"
+  }
+}

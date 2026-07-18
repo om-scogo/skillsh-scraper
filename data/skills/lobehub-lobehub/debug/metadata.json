@@ -1,0 +1,17 @@
+{
+  "skillId": "debug",
+  "source": "lobehub/lobehub",
+  "owner": "lobehub",
+  "repo": "lobehub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobehub",
+    "skillId": "debug",
+    "name": "debug",
+    "installs": 919,
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "githubUrl": "https://github.com/lobehub/lobehub",
+    "displayName": "Debug"
+  }
+}

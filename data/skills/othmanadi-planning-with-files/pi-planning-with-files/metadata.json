@@ -1,0 +1,17 @@
+{
+  "skillId": "pi-planning-with-files",
+  "source": "othmanadi/planning-with-files",
+  "owner": "othmanadi",
+  "repo": "planning-with-files",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "othmanadi/planning-with-files",
+    "skillId": "pi-planning-with-files",
+    "name": "pi-planning-with-files",
+    "installs": 9050,
+    "owner": "othmanadi",
+    "repo": "planning-with-files",
+    "githubUrl": "https://github.com/othmanadi/planning-with-files",
+    "displayName": "Pi Planning With Files"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "add-sfx",
+  "source": "remotion-dev/remotion",
+  "owner": "remotion-dev",
+  "repo": "remotion",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "remotion-dev/remotion",
+    "skillId": "add-sfx",
+    "name": "add-sfx",
+    "installs": 1482,
+    "owner": "remotion-dev",
+    "repo": "remotion",
+    "githubUrl": "https://github.com/remotion-dev/remotion",
+    "displayName": "Add Sfx"
+  }
+}

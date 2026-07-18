@@ -1,0 +1,17 @@
+{
+  "skillId": "testing-handbook-generator",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "testing-handbook-generator",
+    "name": "testing-handbook-generator",
+    "installs": 3678,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Testing Handbook Generator"
+  }
+}

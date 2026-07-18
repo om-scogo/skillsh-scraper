@@ -1,0 +1,17 @@
+{
+  "skillId": "zoom-oauth",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "zoom-oauth",
+    "name": "zoom-oauth",
+    "installs": 1300,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Zoom Oauth"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "rustyseo-toolkit",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "rustyseo-toolkit",
+    "name": "rustyseo-toolkit",
+    "installs": 802,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Rustyseo Toolkit"
+  }
+}

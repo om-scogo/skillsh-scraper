@@ -1,0 +1,17 @@
+{
+  "skillId": "property-based-testing",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "property-based-testing",
+    "name": "property-based-testing",
+    "installs": 4257,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Property Based Testing"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "dagster-expert",
+  "source": "dagster-io/skills",
+  "owner": "dagster-io",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dagster-io/skills",
+    "skillId": "dagster-expert",
+    "name": "dagster-expert",
+    "installs": 3148,
+    "owner": "dagster-io",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dagster-io/skills",
+    "displayName": "Dagster Expert"
+  }
+}

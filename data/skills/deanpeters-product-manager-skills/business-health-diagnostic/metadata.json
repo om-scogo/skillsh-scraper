@@ -1,0 +1,17 @@
+{
+  "skillId": "business-health-diagnostic",
+  "source": "deanpeters/product-manager-skills",
+  "owner": "deanpeters",
+  "repo": "product-manager-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "deanpeters/product-manager-skills",
+    "skillId": "business-health-diagnostic",
+    "name": "business-health-diagnostic",
+    "installs": 1613,
+    "owner": "deanpeters",
+    "repo": "product-manager-skills",
+    "githubUrl": "https://github.com/deanpeters/product-manager-skills",
+    "displayName": "Business Health Diagnostic"
+  }
+}

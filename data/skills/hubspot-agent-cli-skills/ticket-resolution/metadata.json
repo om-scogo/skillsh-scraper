@@ -1,0 +1,17 @@
+{
+  "skillId": "ticket-resolution",
+  "source": "hubspot/agent-cli-skills",
+  "owner": "hubspot",
+  "repo": "agent-cli-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hubspot/agent-cli-skills",
+    "skillId": "ticket-resolution",
+    "name": "ticket-resolution",
+    "installs": 890,
+    "owner": "hubspot",
+    "repo": "agent-cli-skills",
+    "githubUrl": "https://github.com/hubspot/agent-cli-skills",
+    "displayName": "Ticket Resolution"
+  }
+}

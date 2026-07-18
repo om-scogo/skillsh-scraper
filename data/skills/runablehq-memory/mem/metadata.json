@@ -1,0 +1,17 @@
+{
+  "skillId": "mem",
+  "source": "runablehq/memory",
+  "owner": "runablehq",
+  "repo": "memory",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "runablehq/memory",
+    "skillId": "mem",
+    "name": "mem",
+    "installs": 2345,
+    "owner": "runablehq",
+    "repo": "memory",
+    "githubUrl": "https://github.com/runablehq/memory",
+    "displayName": "Mem"
+  }
+}

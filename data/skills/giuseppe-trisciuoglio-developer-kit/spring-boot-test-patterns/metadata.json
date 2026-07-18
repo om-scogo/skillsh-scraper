@@ -1,0 +1,17 @@
+{
+  "skillId": "spring-boot-test-patterns",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "spring-boot-test-patterns",
+    "name": "spring-boot-test-patterns",
+    "installs": 1892,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Spring Boot Test Patterns"
+  }
+}

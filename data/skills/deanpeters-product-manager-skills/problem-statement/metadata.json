@@ -1,0 +1,17 @@
+{
+  "skillId": "problem-statement",
+  "source": "deanpeters/product-manager-skills",
+  "owner": "deanpeters",
+  "repo": "product-manager-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "deanpeters/product-manager-skills",
+    "skillId": "problem-statement",
+    "name": "problem-statement",
+    "installs": 1631,
+    "owner": "deanpeters",
+    "repo": "product-manager-skills",
+    "githubUrl": "https://github.com/deanpeters/product-manager-skills",
+    "displayName": "Problem Statement"
+  }
+}

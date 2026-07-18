@@ -1,0 +1,17 @@
+{
+  "skillId": "functions",
+  "source": "browserbase/skills",
+  "owner": "browserbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "browserbase/skills",
+    "skillId": "functions",
+    "name": "functions",
+    "installs": 2411,
+    "owner": "browserbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/browserbase/skills",
+    "displayName": "Functions"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "monitoring-operations",
+  "source": "acedergren/oci-agent-skills",
+  "owner": "acedergren",
+  "repo": "oci-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "acedergren/oci-agent-skills",
+    "skillId": "monitoring-operations",
+    "name": "monitoring-operations",
+    "installs": 1327,
+    "owner": "acedergren",
+    "repo": "oci-agent-skills",
+    "githubUrl": "https://github.com/acedergren/oci-agent-skills",
+    "displayName": "Monitoring Operations"
+  }
+}

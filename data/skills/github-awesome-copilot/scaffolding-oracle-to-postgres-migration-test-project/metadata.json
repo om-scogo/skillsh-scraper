@@ -1,0 +1,17 @@
+{
+  "skillId": "scaffolding-oracle-to-postgres-migration-test-project",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "scaffolding-oracle-to-postgres-migration-test-project",
+    "name": "scaffolding-oracle-to-postgres-migration-test-project",
+    "installs": 1649,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Scaffolding Oracle To Postgres Migration Test Project"
+  }
+}

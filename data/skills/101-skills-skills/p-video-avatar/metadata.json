@@ -1,0 +1,17 @@
+{
+  "skillId": "p-video-avatar",
+  "source": "101-skills/skills",
+  "owner": "101-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "101-skills/skills",
+    "skillId": "p-video-avatar",
+    "name": "p-video-avatar",
+    "installs": 2151,
+    "owner": "101-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/101-skills/skills",
+    "displayName": "P Video Avatar"
+  }
+}

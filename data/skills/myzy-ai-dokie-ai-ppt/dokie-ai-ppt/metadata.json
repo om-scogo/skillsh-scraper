@@ -1,0 +1,17 @@
+{
+  "skillId": "dokie-ai-ppt",
+  "source": "myzy-ai/dokie-ai-ppt",
+  "owner": "myzy-ai",
+  "repo": "dokie-ai-ppt",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "myzy-ai/dokie-ai-ppt",
+    "skillId": "dokie-ai-ppt",
+    "name": "dokie-ai-ppt",
+    "installs": 962,
+    "owner": "myzy-ai",
+    "repo": "dokie-ai-ppt",
+    "githubUrl": "https://github.com/myzy-ai/dokie-ai-ppt",
+    "displayName": "Dokie Ai Ppt"
+  }
+}

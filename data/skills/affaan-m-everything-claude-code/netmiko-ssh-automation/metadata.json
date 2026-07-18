@@ -1,0 +1,17 @@
+{
+  "skillId": "netmiko-ssh-automation",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "netmiko-ssh-automation",
+    "name": "netmiko-ssh-automation",
+    "installs": 1726,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Netmiko Ssh Automation"
+  }
+}

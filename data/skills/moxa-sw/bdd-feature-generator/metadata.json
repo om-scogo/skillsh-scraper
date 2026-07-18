@@ -1,0 +1,17 @@
+{
+  "skillId": "bdd-feature-generator",
+  "source": "moxa/sw",
+  "owner": "moxa",
+  "repo": "sw",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "moxa/sw",
+    "skillId": "bdd-feature-generator",
+    "name": "bdd-feature-generator",
+    "installs": 1180,
+    "owner": "moxa",
+    "repo": "sw",
+    "githubUrl": "https://github.com/moxa/sw",
+    "displayName": "Bdd Feature Generator"
+  }
+}

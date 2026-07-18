@@ -1,0 +1,17 @@
+{
+  "skillId": "crypto-ta-analyzer",
+  "source": "dkyazzentwatwa/chatgpt-skills",
+  "owner": "dkyazzentwatwa",
+  "repo": "chatgpt-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dkyazzentwatwa/chatgpt-skills",
+    "skillId": "crypto-ta-analyzer",
+    "name": "crypto-ta-analyzer",
+    "installs": 1535,
+    "owner": "dkyazzentwatwa",
+    "repo": "chatgpt-skills",
+    "githubUrl": "https://github.com/dkyazzentwatwa/chatgpt-skills",
+    "displayName": "Crypto Ta Analyzer"
+  }
+}

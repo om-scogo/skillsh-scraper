@@ -1,0 +1,17 @@
+{
+  "skillId": "blog-post",
+  "source": "langchain-ai/deepagents",
+  "owner": "langchain-ai",
+  "repo": "deepagents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langchain-ai/deepagents",
+    "skillId": "blog-post",
+    "name": "blog-post",
+    "installs": 1832,
+    "owner": "langchain-ai",
+    "repo": "deepagents",
+    "githubUrl": "https://github.com/langchain-ai/deepagents",
+    "displayName": "Blog Post"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-tools",
+  "source": "inference-sh/skills",
+  "owner": "inference-sh",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "inference-sh/skills",
+    "skillId": "agent-tools",
+    "name": "agent-tools",
+    "installs": 1088,
+    "owner": "inference-sh",
+    "repo": "skills",
+    "githubUrl": "https://github.com/inference-sh/skills",
+    "displayName": "Agent Tools"
+  }
+}

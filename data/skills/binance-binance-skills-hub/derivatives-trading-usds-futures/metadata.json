@@ -1,0 +1,17 @@
+{
+  "skillId": "derivatives-trading-usds-futures",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "derivatives-trading-usds-futures",
+    "name": "derivatives-trading-usds-futures",
+    "installs": 2261,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Derivatives Trading Usds Futures"
+  }
+}

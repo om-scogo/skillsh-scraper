@@ -1,0 +1,17 @@
+{
+  "skillId": "gzh-design",
+  "source": "isjiamu/gzh-design-skill",
+  "owner": "isjiamu",
+  "repo": "gzh-design-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "isjiamu/gzh-design-skill",
+    "skillId": "gzh-design",
+    "name": "gzh-design",
+    "installs": 839,
+    "owner": "isjiamu",
+    "repo": "gzh-design-skill",
+    "githubUrl": "https://github.com/isjiamu/gzh-design-skill",
+    "displayName": "Gzh Design"
+  }
+}

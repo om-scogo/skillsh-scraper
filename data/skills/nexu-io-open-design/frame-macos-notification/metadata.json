@@ -1,0 +1,17 @@
+{
+  "skillId": "frame-macos-notification",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "frame-macos-notification",
+    "name": "frame-macos-notification",
+    "installs": 1449,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Frame Macos Notification"
+  }
+}

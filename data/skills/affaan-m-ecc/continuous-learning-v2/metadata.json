@@ -1,0 +1,17 @@
+{
+  "skillId": "continuous-learning-v2",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "continuous-learning-v2",
+    "name": "continuous-learning-v2",
+    "installs": 1179,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Continuous Learning V2"
+  }
+}

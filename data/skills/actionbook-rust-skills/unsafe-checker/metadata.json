@@ -1,0 +1,17 @@
+{
+  "skillId": "unsafe-checker",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "unsafe-checker",
+    "name": "unsafe-checker",
+    "installs": 1326,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "Unsafe Checker"
+  }
+}

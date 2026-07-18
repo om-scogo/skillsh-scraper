@@ -1,0 +1,17 @@
+{
+  "skillId": "clickhouse-best-practices",
+  "source": "clickhouse/agent-skills",
+  "owner": "clickhouse",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clickhouse/agent-skills",
+    "skillId": "clickhouse-best-practices",
+    "name": "clickhouse-best-practices",
+    "installs": 6277,
+    "owner": "clickhouse",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/clickhouse/agent-skills",
+    "displayName": "Clickhouse Best Practices"
+  }
+}

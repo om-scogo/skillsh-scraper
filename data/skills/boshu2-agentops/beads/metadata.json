@@ -1,0 +1,17 @@
+{
+  "skillId": "beads",
+  "source": "boshu2/agentops",
+  "owner": "boshu2",
+  "repo": "agentops",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "boshu2/agentops",
+    "skillId": "beads",
+    "name": "beads",
+    "installs": 848,
+    "owner": "boshu2",
+    "repo": "agentops",
+    "githubUrl": "https://github.com/boshu2/agentops",
+    "displayName": "Beads"
+  }
+}

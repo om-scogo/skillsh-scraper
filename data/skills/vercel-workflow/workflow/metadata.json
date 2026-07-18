@@ -1,0 +1,17 @@
+{
+  "skillId": "workflow",
+  "source": "vercel/workflow",
+  "owner": "vercel",
+  "repo": "workflow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/workflow",
+    "skillId": "workflow",
+    "name": "workflow",
+    "installs": 3319,
+    "owner": "vercel",
+    "repo": "workflow",
+    "githubUrl": "https://github.com/vercel/workflow",
+    "displayName": "Workflow"
+  }
+}

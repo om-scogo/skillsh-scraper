@@ -1,0 +1,17 @@
+{
+  "skillId": "mongodb-query-optimizer",
+  "source": "mongodb/agent-skills",
+  "owner": "mongodb",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mongodb/agent-skills",
+    "skillId": "mongodb-query-optimizer",
+    "name": "mongodb-query-optimizer",
+    "installs": 3090,
+    "owner": "mongodb",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/mongodb/agent-skills",
+    "displayName": "Mongodb Query Optimizer"
+  }
+}

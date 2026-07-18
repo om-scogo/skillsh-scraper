@@ -1,0 +1,17 @@
+{
+  "skillId": "framer-motion",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "framer-motion",
+    "name": "framer-motion",
+    "installs": 1701,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Framer Motion"
+  }
+}

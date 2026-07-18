@@ -1,0 +1,17 @@
+{
+  "skillId": "technical-article-writer",
+  "source": "samber/cc-skills",
+  "owner": "samber",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills",
+    "skillId": "technical-article-writer",
+    "name": "technical-article-writer",
+    "installs": 1971,
+    "owner": "samber",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/samber/cc-skills",
+    "displayName": "Technical Article Writer"
+  }
+}

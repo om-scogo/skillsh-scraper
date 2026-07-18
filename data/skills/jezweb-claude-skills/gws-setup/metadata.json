@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-setup",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "gws-setup",
+    "name": "gws-setup",
+    "installs": 910,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Gws Setup"
+  }
+}

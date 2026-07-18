@@ -1,0 +1,17 @@
+{
+  "skillId": "marketing-campaign",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "marketing-campaign",
+    "name": "marketing-campaign",
+    "installs": 1098,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Marketing Campaign"
+  }
+}

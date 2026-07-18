@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-typography",
+  "source": "bencium/bencium-marketplace",
+  "owner": "bencium",
+  "repo": "bencium-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bencium/bencium-marketplace",
+    "skillId": "ui-typography",
+    "name": "ui-typography",
+    "installs": 1801,
+    "owner": "bencium",
+    "repo": "bencium-marketplace",
+    "githubUrl": "https://github.com/bencium/bencium-marketplace",
+    "displayName": "Ui Typography"
+  }
+}

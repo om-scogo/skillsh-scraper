@@ -1,0 +1,17 @@
+{
+  "skillId": "verified-agent-identity",
+  "source": "billionsnetwork/verified-agent-identity",
+  "owner": "billionsnetwork",
+  "repo": "verified-agent-identity",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "billionsnetwork/verified-agent-identity",
+    "skillId": "verified-agent-identity",
+    "name": "verified-agent-identity",
+    "installs": 8152,
+    "owner": "billionsnetwork",
+    "repo": "verified-agent-identity",
+    "githubUrl": "https://github.com/billionsnetwork/verified-agent-identity",
+    "displayName": "Verified Agent Identity"
+  }
+}

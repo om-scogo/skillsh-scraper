@@ -1,0 +1,17 @@
+{
+  "skillId": "kotlin-multiplatform",
+  "source": "vitorpamplona/amethyst",
+  "owner": "vitorpamplona",
+  "repo": "amethyst",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vitorpamplona/amethyst",
+    "skillId": "kotlin-multiplatform",
+    "name": "kotlin-multiplatform",
+    "installs": 1098,
+    "owner": "vitorpamplona",
+    "repo": "amethyst",
+    "githubUrl": "https://github.com/vitorpamplona/amethyst",
+    "displayName": "Kotlin Multiplatform"
+  }
+}

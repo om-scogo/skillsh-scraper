@@ -1,0 +1,17 @@
+{
+  "skillId": "qdrant-performance-optimization",
+  "source": "qdrant/skills",
+  "owner": "qdrant",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qdrant/skills",
+    "skillId": "qdrant-performance-optimization",
+    "name": "qdrant-performance-optimization",
+    "installs": 1247,
+    "owner": "qdrant",
+    "repo": "skills",
+    "githubUrl": "https://github.com/qdrant/skills",
+    "displayName": "Qdrant Performance Optimization"
+  }
+}

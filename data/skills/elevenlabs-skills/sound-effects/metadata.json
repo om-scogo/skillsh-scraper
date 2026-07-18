@@ -1,0 +1,17 @@
+{
+  "skillId": "sound-effects",
+  "source": "elevenlabs/skills",
+  "owner": "elevenlabs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elevenlabs/skills",
+    "skillId": "sound-effects",
+    "name": "sound-effects",
+    "installs": 4633,
+    "owner": "elevenlabs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/elevenlabs/skills",
+    "displayName": "Sound Effects"
+  }
+}

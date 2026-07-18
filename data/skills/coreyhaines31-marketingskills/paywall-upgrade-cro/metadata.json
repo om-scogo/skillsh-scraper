@@ -1,0 +1,17 @@
+{
+  "skillId": "paywall-upgrade-cro",
+  "source": "coreyhaines31/marketingskills",
+  "owner": "coreyhaines31",
+  "repo": "marketingskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coreyhaines31/marketingskills",
+    "skillId": "paywall-upgrade-cro",
+    "name": "paywall-upgrade-cro",
+    "installs": 51841,
+    "owner": "coreyhaines31",
+    "repo": "marketingskills",
+    "githubUrl": "https://github.com/coreyhaines31/marketingskills",
+    "displayName": "Paywall Upgrade Cro"
+  }
+}

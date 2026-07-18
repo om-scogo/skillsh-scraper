@@ -1,0 +1,17 @@
+{
+  "skillId": "elestio",
+  "source": "elestio/elestio-skill",
+  "owner": "elestio",
+  "repo": "elestio-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elestio/elestio-skill",
+    "skillId": "elestio",
+    "name": "elestio",
+    "installs": 4900,
+    "owner": "elestio",
+    "repo": "elestio-skill",
+    "githubUrl": "https://github.com/elestio/elestio-skill",
+    "displayName": "Elestio"
+  }
+}

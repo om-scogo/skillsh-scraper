@@ -1,0 +1,17 @@
+{
+  "skillId": "setup-matt-pocock-skills",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "setup-matt-pocock-skills",
+    "name": "setup-matt-pocock-skills",
+    "installs": 408066,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Setup Matt Pocock Skills"
+  }
+}

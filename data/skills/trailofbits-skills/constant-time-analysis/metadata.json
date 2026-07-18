@@ -1,0 +1,17 @@
+{
+  "skillId": "constant-time-analysis",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "constant-time-analysis",
+    "name": "constant-time-analysis",
+    "installs": 3730,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Constant Time Analysis"
+  }
+}

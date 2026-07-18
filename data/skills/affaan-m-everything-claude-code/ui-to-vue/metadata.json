@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-to-vue",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "ui-to-vue",
+    "name": "ui-to-vue",
+    "installs": 1753,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Ui To Vue"
+  }
+}

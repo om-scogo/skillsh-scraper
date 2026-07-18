@@ -1,0 +1,17 @@
+{
+  "skillId": "feishu-drive",
+  "source": "m1heng/clawdbot-feishu",
+  "owner": "m1heng",
+  "repo": "clawdbot-feishu",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "m1heng/clawdbot-feishu",
+    "skillId": "feishu-drive",
+    "name": "feishu-drive",
+    "installs": 873,
+    "owner": "m1heng",
+    "repo": "clawdbot-feishu",
+    "githubUrl": "https://github.com/m1heng/clawdbot-feishu",
+    "displayName": "Feishu Drive"
+  }
+}

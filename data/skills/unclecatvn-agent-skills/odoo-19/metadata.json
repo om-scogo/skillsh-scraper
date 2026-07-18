@@ -1,0 +1,17 @@
+{
+  "skillId": "odoo-19",
+  "source": "unclecatvn/agent-skills",
+  "owner": "unclecatvn",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "unclecatvn/agent-skills",
+    "skillId": "odoo-19",
+    "name": "odoo-19",
+    "installs": 1384,
+    "owner": "unclecatvn",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/unclecatvn/agent-skills",
+    "displayName": "Odoo 19"
+  }
+}

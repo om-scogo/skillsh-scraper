@@ -1,0 +1,17 @@
+{
+  "skillId": "constant-time-testing",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "constant-time-testing",
+    "name": "constant-time-testing",
+    "installs": 3644,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Constant Time Testing"
+  }
+}

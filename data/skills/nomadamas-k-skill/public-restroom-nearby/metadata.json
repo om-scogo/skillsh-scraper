@@ -1,0 +1,17 @@
+{
+  "skillId": "public-restroom-nearby",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "public-restroom-nearby",
+    "name": "public-restroom-nearby",
+    "installs": 2291,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Public Restroom Nearby"
+  }
+}

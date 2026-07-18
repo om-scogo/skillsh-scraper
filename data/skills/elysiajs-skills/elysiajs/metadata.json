@@ -1,0 +1,17 @@
+{
+  "skillId": "elysiajs",
+  "source": "elysiajs/skills",
+  "owner": "elysiajs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elysiajs/skills",
+    "skillId": "elysiajs",
+    "name": "elysiajs",
+    "installs": 7776,
+    "owner": "elysiajs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/elysiajs/skills",
+    "displayName": "Elysiajs"
+  }
+}

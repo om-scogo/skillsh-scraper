@@ -1,0 +1,17 @@
+{
+  "skillId": "predictable-revenue",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "predictable-revenue",
+    "name": "predictable-revenue",
+    "installs": 3041,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Predictable Revenue"
+  }
+}

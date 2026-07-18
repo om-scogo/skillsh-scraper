@@ -1,0 +1,17 @@
+{
+  "skillId": "javascript-testing-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "javascript-testing-patterns",
+    "name": "javascript-testing-patterns",
+    "installs": 16333,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Javascript Testing Patterns"
+  }
+}

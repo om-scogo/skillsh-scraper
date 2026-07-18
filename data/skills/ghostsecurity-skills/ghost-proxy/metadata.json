@@ -1,0 +1,17 @@
+{
+  "skillId": "ghost-proxy",
+  "source": "ghostsecurity/skills",
+  "owner": "ghostsecurity",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ghostsecurity/skills",
+    "skillId": "ghost-proxy",
+    "name": "ghost-proxy",
+    "installs": 2291,
+    "owner": "ghostsecurity",
+    "repo": "skills",
+    "githubUrl": "https://github.com/ghostsecurity/skills",
+    "displayName": "Ghost Proxy"
+  }
+}

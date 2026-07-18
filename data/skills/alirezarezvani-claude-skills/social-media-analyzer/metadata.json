@@ -1,0 +1,17 @@
+{
+  "skillId": "social-media-analyzer",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "social-media-analyzer",
+    "name": "social-media-analyzer",
+    "installs": 1348,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Social Media Analyzer"
+  }
+}

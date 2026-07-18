@@ -1,0 +1,17 @@
+{
+  "skillId": "docs-changelog",
+  "source": "google-gemini/gemini-cli",
+  "owner": "google-gemini",
+  "repo": "gemini-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-gemini/gemini-cli",
+    "skillId": "docs-changelog",
+    "name": "docs-changelog",
+    "installs": 1135,
+    "owner": "google-gemini",
+    "repo": "gemini-cli",
+    "githubUrl": "https://github.com/google-gemini/gemini-cli",
+    "displayName": "Docs Changelog"
+  }
+}

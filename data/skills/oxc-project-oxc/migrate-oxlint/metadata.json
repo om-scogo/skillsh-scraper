@@ -1,0 +1,17 @@
+{
+  "skillId": "migrate-oxlint",
+  "source": "oxc-project/oxc",
+  "owner": "oxc-project",
+  "repo": "oxc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "oxc-project/oxc",
+    "skillId": "migrate-oxlint",
+    "name": "migrate-oxlint",
+    "installs": 5247,
+    "owner": "oxc-project",
+    "repo": "oxc",
+    "githubUrl": "https://github.com/oxc-project/oxc",
+    "displayName": "Migrate Oxlint"
+  }
+}

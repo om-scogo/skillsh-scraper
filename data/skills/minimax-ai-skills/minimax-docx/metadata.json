@@ -1,0 +1,17 @@
+{
+  "skillId": "minimax-docx",
+  "source": "minimax-ai/skills",
+  "owner": "minimax-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "minimax-ai/skills",
+    "skillId": "minimax-docx",
+    "name": "minimax-docx",
+    "installs": 3996,
+    "owner": "minimax-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/minimax-ai/skills",
+    "displayName": "Minimax Docx"
+  }
+}

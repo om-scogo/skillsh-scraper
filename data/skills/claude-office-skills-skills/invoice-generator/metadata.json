@@ -1,0 +1,17 @@
+{
+  "skillId": "invoice-generator",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "invoice-generator",
+    "name": "invoice-generator",
+    "installs": 3794,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Invoice Generator"
+  }
+}

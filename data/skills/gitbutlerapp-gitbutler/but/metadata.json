@@ -1,0 +1,17 @@
+{
+  "skillId": "but",
+  "source": "gitbutlerapp/gitbutler",
+  "owner": "gitbutlerapp",
+  "repo": "gitbutler",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gitbutlerapp/gitbutler",
+    "skillId": "but",
+    "name": "but",
+    "installs": 889,
+    "owner": "gitbutlerapp",
+    "repo": "gitbutler",
+    "githubUrl": "https://github.com/gitbutlerapp/gitbutler",
+    "displayName": "But"
+  }
+}

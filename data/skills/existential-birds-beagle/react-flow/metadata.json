@@ -1,0 +1,17 @@
+{
+  "skillId": "react-flow",
+  "source": "existential-birds/beagle",
+  "owner": "existential-birds",
+  "repo": "beagle",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "existential-birds/beagle",
+    "skillId": "react-flow",
+    "name": "react-flow",
+    "installs": 1041,
+    "owner": "existential-birds",
+    "repo": "beagle",
+    "githubUrl": "https://github.com/existential-birds/beagle",
+    "displayName": "React Flow"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "design-taste-frontend",
+  "source": "leonxlnx/taste-skill",
+  "owner": "leonxlnx",
+  "repo": "taste-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "leonxlnx/taste-skill",
+    "skillId": "design-taste-frontend",
+    "name": "design-taste-frontend",
+    "installs": 262126,
+    "owner": "leonxlnx",
+    "repo": "taste-skill",
+    "githubUrl": "https://github.com/leonxlnx/taste-skill",
+    "displayName": "Design Taste Frontend"
+  }
+}

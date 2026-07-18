@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwindcss-animations",
+  "source": "josiahsiegel/claude-plugin-marketplace",
+  "owner": "josiahsiegel",
+  "repo": "claude-plugin-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "josiahsiegel/claude-plugin-marketplace",
+    "skillId": "tailwindcss-animations",
+    "name": "tailwindcss-animations",
+    "installs": 2089,
+    "owner": "josiahsiegel",
+    "repo": "claude-plugin-marketplace",
+    "githubUrl": "https://github.com/josiahsiegel/claude-plugin-marketplace",
+    "displayName": "Tailwindcss Animations"
+  }
+}

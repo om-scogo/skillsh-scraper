@@ -1,0 +1,17 @@
+{
+  "skillId": "mobile-ssl-pinning-bypass",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "mobile-ssl-pinning-bypass",
+    "name": "mobile-ssl-pinning-bypass",
+    "installs": 1923,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Mobile Ssl Pinning Bypass"
+  }
+}

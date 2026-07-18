@@ -1,0 +1,17 @@
+{
+  "skillId": "open-video-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "open-video-downloader",
+    "name": "open-video-downloader",
+    "installs": 959,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Open Video Downloader"
+  }
+}

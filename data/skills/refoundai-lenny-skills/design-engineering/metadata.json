@@ -1,0 +1,17 @@
+{
+  "skillId": "design-engineering",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "design-engineering",
+    "name": "design-engineering",
+    "installs": 1685,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Design Engineering"
+  }
+}

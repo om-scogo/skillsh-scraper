@@ -1,0 +1,17 @@
+{
+  "skillId": "mermaid-diagrams",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "mermaid-diagrams",
+    "name": "mermaid-diagrams",
+    "installs": 4516,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Mermaid Diagrams"
+  }
+}

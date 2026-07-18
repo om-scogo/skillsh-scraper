@@ -1,0 +1,17 @@
+{
+  "skillId": "m10-performance",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "m10-performance",
+    "name": "m10-performance",
+    "installs": 1408,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "M10 Performance"
+  }
+}

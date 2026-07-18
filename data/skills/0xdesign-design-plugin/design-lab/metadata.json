@@ -1,0 +1,17 @@
+{
+  "skillId": "design-lab",
+  "source": "0xdesign/design-plugin",
+  "owner": "0xdesign",
+  "repo": "design-plugin",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "0xdesign/design-plugin",
+    "skillId": "design-lab",
+    "name": "design-lab",
+    "installs": 1028,
+    "owner": "0xdesign",
+    "repo": "design-plugin",
+    "githubUrl": "https://github.com/0xdesign/design-plugin",
+    "displayName": "Design Lab"
+  }
+}

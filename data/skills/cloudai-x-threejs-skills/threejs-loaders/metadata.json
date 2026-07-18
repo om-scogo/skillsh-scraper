@@ -1,0 +1,17 @@
+{
+  "skillId": "threejs-loaders",
+  "source": "cloudai-x/threejs-skills",
+  "owner": "cloudai-x",
+  "repo": "threejs-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudai-x/threejs-skills",
+    "skillId": "threejs-loaders",
+    "name": "threejs-loaders",
+    "installs": 4672,
+    "owner": "cloudai-x",
+    "repo": "threejs-skills",
+    "githubUrl": "https://github.com/cloudai-x/threejs-skills",
+    "displayName": "Threejs Loaders"
+  }
+}

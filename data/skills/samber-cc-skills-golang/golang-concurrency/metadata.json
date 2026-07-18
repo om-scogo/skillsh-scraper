@@ -1,0 +1,17 @@
+{
+  "skillId": "golang-concurrency",
+  "source": "samber/cc-skills-golang",
+  "owner": "samber",
+  "repo": "cc-skills-golang",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills-golang",
+    "skillId": "golang-concurrency",
+    "name": "golang-concurrency",
+    "installs": 33618,
+    "owner": "samber",
+    "repo": "cc-skills-golang",
+    "githubUrl": "https://github.com/samber/cc-skills-golang",
+    "displayName": "Golang Concurrency"
+  }
+}

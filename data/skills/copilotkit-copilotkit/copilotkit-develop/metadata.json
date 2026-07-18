@@ -1,0 +1,17 @@
+{
+  "skillId": "copilotkit-develop",
+  "source": "copilotkit/copilotkit",
+  "owner": "copilotkit",
+  "repo": "copilotkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "copilotkit/copilotkit",
+    "skillId": "copilotkit-develop",
+    "name": "copilotkit-develop",
+    "installs": 1384,
+    "owner": "copilotkit",
+    "repo": "copilotkit",
+    "githubUrl": "https://github.com/copilotkit/copilotkit",
+    "displayName": "Copilotkit Develop"
+  }
+}

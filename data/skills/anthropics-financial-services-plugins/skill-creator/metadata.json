@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-creator",
+  "source": "anthropics/financial-services-plugins",
+  "owner": "anthropics",
+  "repo": "financial-services-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/financial-services-plugins",
+    "skillId": "skill-creator",
+    "name": "skill-creator",
+    "installs": 813,
+    "owner": "anthropics",
+    "repo": "financial-services-plugins",
+    "githubUrl": "https://github.com/anthropics/financial-services-plugins",
+    "displayName": "Skill Creator"
+  }
+}

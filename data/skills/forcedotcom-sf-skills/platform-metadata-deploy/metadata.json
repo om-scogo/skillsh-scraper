@@ -1,0 +1,17 @@
+{
+  "skillId": "platform-metadata-deploy",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "platform-metadata-deploy",
+    "name": "platform-metadata-deploy",
+    "installs": 1586,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Platform Metadata Deploy"
+  }
+}

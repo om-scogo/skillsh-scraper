@@ -1,0 +1,17 @@
+{
+  "skillId": "prisma-upgrade-v7",
+  "source": "prisma/skills",
+  "owner": "prisma",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "prisma/skills",
+    "skillId": "prisma-upgrade-v7",
+    "name": "prisma-upgrade-v7",
+    "installs": 7629,
+    "owner": "prisma",
+    "repo": "skills",
+    "githubUrl": "https://github.com/prisma/skills",
+    "displayName": "Prisma Upgrade V7"
+  }
+}

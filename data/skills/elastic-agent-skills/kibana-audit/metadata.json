@@ -1,0 +1,17 @@
+{
+  "skillId": "kibana-audit",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "kibana-audit",
+    "name": "kibana-audit",
+    "installs": 1798,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Kibana Audit"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "conventional-git",
+  "source": "samber/cc-skills",
+  "owner": "samber",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills",
+    "skillId": "conventional-git",
+    "name": "conventional-git",
+    "installs": 1941,
+    "owner": "samber",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/samber/cc-skills",
+    "displayName": "Conventional Git"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "photoshop",
+  "source": "sfkislev/flue",
+  "owner": "sfkislev",
+  "repo": "flue",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sfkislev/flue",
+    "skillId": "photoshop",
+    "name": "photoshop",
+    "installs": 1945,
+    "owner": "sfkislev",
+    "repo": "flue",
+    "githubUrl": "https://github.com/sfkislev/flue",
+    "displayName": "Photoshop"
+  }
+}

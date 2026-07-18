@@ -1,0 +1,17 @@
+{
+  "skillId": "ecommerce-competitor-analyzer",
+  "source": "buluslan/ecommerce-competitor-analyzer",
+  "owner": "buluslan",
+  "repo": "ecommerce-competitor-analyzer",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "buluslan/ecommerce-competitor-analyzer",
+    "skillId": "ecommerce-competitor-analyzer",
+    "name": "ecommerce-competitor-analyzer",
+    "installs": 1323,
+    "owner": "buluslan",
+    "repo": "ecommerce-competitor-analyzer",
+    "githubUrl": "https://github.com/buluslan/ecommerce-competitor-analyzer",
+    "displayName": "Ecommerce Competitor Analyzer"
+  }
+}

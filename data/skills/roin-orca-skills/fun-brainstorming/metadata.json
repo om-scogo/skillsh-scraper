@@ -1,0 +1,17 @@
+{
+  "skillId": "fun-brainstorming",
+  "source": "roin-orca/skills",
+  "owner": "roin-orca",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "roin-orca/skills",
+    "skillId": "fun-brainstorming",
+    "name": "fun-brainstorming",
+    "installs": 1481,
+    "owner": "roin-orca",
+    "repo": "skills",
+    "githubUrl": "https://github.com/roin-orca/skills",
+    "displayName": "Fun Brainstorming"
+  }
+}

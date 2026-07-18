@@ -1,0 +1,17 @@
+{
+  "skillId": "ux-design",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "ux-design",
+    "name": "ux-design",
+    "installs": 853,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Ux Design"
+  }
+}

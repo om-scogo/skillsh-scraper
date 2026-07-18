@@ -1,0 +1,17 @@
+{
+  "skillId": "react-state-management",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "react-state-management",
+    "name": "react-state-management",
+    "installs": 11571,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "React State Management"
+  }
+}

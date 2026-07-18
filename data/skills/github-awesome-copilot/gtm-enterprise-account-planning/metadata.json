@@ -1,0 +1,17 @@
+{
+  "skillId": "gtm-enterprise-account-planning",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "gtm-enterprise-account-planning",
+    "name": "gtm-enterprise-account-planning",
+    "installs": 1490,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Gtm Enterprise Account Planning"
+  }
+}

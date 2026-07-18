@@ -1,0 +1,17 @@
+{
+  "skillId": "clean-code",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "clean-code",
+    "name": "clean-code",
+    "installs": 9143,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Clean Code"
+  }
+}

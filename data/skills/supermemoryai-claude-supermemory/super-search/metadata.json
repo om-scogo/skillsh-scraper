@@ -1,0 +1,17 @@
+{
+  "skillId": "super-search",
+  "source": "supermemoryai/claude-supermemory",
+  "owner": "supermemoryai",
+  "repo": "claude-supermemory",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "supermemoryai/claude-supermemory",
+    "skillId": "super-search",
+    "name": "super-search",
+    "installs": 3006,
+    "owner": "supermemoryai",
+    "repo": "claude-supermemory",
+    "githubUrl": "https://github.com/supermemoryai/claude-supermemory",
+    "displayName": "Super Search"
+  }
+}

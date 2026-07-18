@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-environment-setup-linux",
+  "source": "flutter/skills",
+  "owner": "flutter",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "flutter/skills",
+    "skillId": "flutter-environment-setup-linux",
+    "name": "flutter-environment-setup-linux",
+    "installs": 798,
+    "owner": "flutter",
+    "repo": "skills",
+    "githubUrl": "https://github.com/flutter/skills",
+    "displayName": "Flutter Environment Setup Linux"
+  }
+}

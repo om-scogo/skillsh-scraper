@@ -1,0 +1,17 @@
+{
+  "skillId": "opennews",
+  "source": "6551team/opennews-mcp",
+  "owner": "6551team",
+  "repo": "opennews-mcp",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "6551team/opennews-mcp",
+    "skillId": "opennews",
+    "name": "opennews",
+    "installs": 1841,
+    "owner": "6551team",
+    "repo": "opennews-mcp",
+    "githubUrl": "https://github.com/6551team/opennews-mcp",
+    "displayName": "Opennews"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "drive-motivation",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "drive-motivation",
+    "name": "drive-motivation",
+    "installs": 2879,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Drive Motivation"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "options-analytics-agent-langgraph",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "options-analytics-agent-langgraph",
+    "name": "options-analytics-agent-langgraph",
+    "installs": 1642,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Options Analytics Agent Langgraph"
+  }
+}

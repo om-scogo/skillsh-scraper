@@ -1,0 +1,17 @@
+{
+  "skillId": "runcomfy-cli",
+  "source": "doany-ai/skills",
+  "owner": "doany-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "doany-ai/skills",
+    "skillId": "runcomfy-cli",
+    "name": "runcomfy-cli",
+    "installs": 12,
+    "owner": "doany-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/doany-ai/skills",
+    "displayName": "Runcomfy Cli"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "xxe-xml-external-entity",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "xxe-xml-external-entity",
+    "name": "xxe-xml-external-entity",
+    "installs": 1956,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Xxe Xml External Entity"
+  }
+}

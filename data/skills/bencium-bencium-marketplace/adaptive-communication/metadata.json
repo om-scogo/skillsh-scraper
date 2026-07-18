@@ -1,0 +1,17 @@
+{
+  "skillId": "adaptive-communication",
+  "source": "bencium/bencium-marketplace",
+  "owner": "bencium",
+  "repo": "bencium-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bencium/bencium-marketplace",
+    "skillId": "adaptive-communication",
+    "name": "adaptive-communication",
+    "installs": 1595,
+    "owner": "bencium",
+    "repo": "bencium-marketplace",
+    "githubUrl": "https://github.com/bencium/bencium-marketplace",
+    "displayName": "Adaptive Communication"
+  }
+}

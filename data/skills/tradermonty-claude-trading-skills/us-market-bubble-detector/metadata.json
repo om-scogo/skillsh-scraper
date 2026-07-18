@@ -1,0 +1,17 @@
+{
+  "skillId": "us-market-bubble-detector",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "us-market-bubble-detector",
+    "name": "us-market-bubble-detector",
+    "installs": 845,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Us Market Bubble Detector"
+  }
+}

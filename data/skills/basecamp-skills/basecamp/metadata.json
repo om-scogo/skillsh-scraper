@@ -1,0 +1,17 @@
+{
+  "skillId": "basecamp",
+  "source": "basecamp/skills",
+  "owner": "basecamp",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "basecamp/skills",
+    "skillId": "basecamp",
+    "name": "basecamp",
+    "installs": 1728,
+    "owner": "basecamp",
+    "repo": "skills",
+    "githubUrl": "https://github.com/basecamp/skills",
+    "displayName": "Basecamp"
+  }
+}

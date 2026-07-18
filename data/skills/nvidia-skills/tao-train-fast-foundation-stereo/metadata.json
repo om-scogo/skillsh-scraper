@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-train-fast-foundation-stereo",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-train-fast-foundation-stereo",
+    "name": "tao-train-fast-foundation-stereo",
+    "installs": 1273,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Train Fast Foundation Stereo"
+  }
+}

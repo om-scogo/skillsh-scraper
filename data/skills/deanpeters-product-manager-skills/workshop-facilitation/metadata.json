@@ -1,0 +1,17 @@
+{
+  "skillId": "workshop-facilitation",
+  "source": "deanpeters/product-manager-skills",
+  "owner": "deanpeters",
+  "repo": "product-manager-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "deanpeters/product-manager-skills",
+    "skillId": "workshop-facilitation",
+    "name": "workshop-facilitation",
+    "installs": 1529,
+    "owner": "deanpeters",
+    "repo": "product-manager-skills",
+    "githubUrl": "https://github.com/deanpeters/product-manager-skills",
+    "displayName": "Workshop Facilitation"
+  }
+}

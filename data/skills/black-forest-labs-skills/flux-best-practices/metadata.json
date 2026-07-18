@@ -1,0 +1,17 @@
+{
+  "skillId": "flux-best-practices",
+  "source": "black-forest-labs/skills",
+  "owner": "black-forest-labs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "black-forest-labs/skills",
+    "skillId": "flux-best-practices",
+    "name": "flux-best-practices",
+    "installs": 757,
+    "owner": "black-forest-labs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/black-forest-labs/skills",
+    "displayName": "Flux Best Practices"
+  }
+}

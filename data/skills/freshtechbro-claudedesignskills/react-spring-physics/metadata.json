@@ -1,0 +1,17 @@
+{
+  "skillId": "react-spring-physics",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "react-spring-physics",
+    "name": "react-spring-physics",
+    "installs": 1244,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "React Spring Physics"
+  }
+}

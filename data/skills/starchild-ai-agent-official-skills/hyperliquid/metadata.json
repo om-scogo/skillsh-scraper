@@ -1,0 +1,17 @@
+{
+  "skillId": "hyperliquid",
+  "source": "starchild-ai-agent/official-skills",
+  "owner": "starchild-ai-agent",
+  "repo": "official-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "starchild-ai-agent/official-skills",
+    "skillId": "hyperliquid",
+    "name": "hyperliquid",
+    "installs": 8354,
+    "owner": "starchild-ai-agent",
+    "repo": "official-skills",
+    "githubUrl": "https://github.com/starchild-ai-agent/official-skills",
+    "displayName": "Hyperliquid"
+  }
+}

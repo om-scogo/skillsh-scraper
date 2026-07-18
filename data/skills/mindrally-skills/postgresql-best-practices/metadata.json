@@ -1,0 +1,17 @@
+{
+  "skillId": "postgresql-best-practices",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "postgresql-best-practices",
+    "name": "postgresql-best-practices",
+    "installs": 1051,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Postgresql Best Practices"
+  }
+}

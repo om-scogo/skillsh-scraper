@@ -1,0 +1,17 @@
+{
+  "skillId": "harvard-art-museums-data-engineering-app",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "harvard-art-museums-data-engineering-app",
+    "name": "harvard-art-museums-data-engineering-app",
+    "installs": 1455,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Harvard Art Museums Data Engineering App"
+  }
+}

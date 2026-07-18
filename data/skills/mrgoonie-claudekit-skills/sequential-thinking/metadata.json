@@ -1,0 +1,17 @@
+{
+  "skillId": "sequential-thinking",
+  "source": "mrgoonie/claudekit-skills",
+  "owner": "mrgoonie",
+  "repo": "claudekit-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mrgoonie/claudekit-skills",
+    "skillId": "sequential-thinking",
+    "name": "sequential-thinking",
+    "installs": 1514,
+    "owner": "mrgoonie",
+    "repo": "claudekit-skills",
+    "githubUrl": "https://github.com/mrgoonie/claudekit-skills",
+    "displayName": "Sequential Thinking"
+  }
+}

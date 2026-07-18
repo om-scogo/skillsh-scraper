@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-code-analyzer",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-code-analyzer",
+    "name": "agent-code-analyzer",
+    "installs": 1018,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Code Analyzer"
+  }
+}

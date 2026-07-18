@@ -1,0 +1,17 @@
+{
+  "skillId": "file-organizer",
+  "source": "composiohq/awesome-claude-skills",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "composiohq/awesome-claude-skills",
+    "skillId": "file-organizer",
+    "name": "file-organizer",
+    "installs": 4729,
+    "owner": "composiohq",
+    "repo": "awesome-claude-skills",
+    "githubUrl": "https://github.com/composiohq/awesome-claude-skills",
+    "displayName": "File Organizer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "wecomcli-sheet",
+  "source": "wecomteam/wecom-cli",
+  "owner": "wecomteam",
+  "repo": "wecom-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wecomteam/wecom-cli",
+    "skillId": "wecomcli-sheet",
+    "name": "wecomcli-sheet",
+    "installs": 1224,
+    "owner": "wecomteam",
+    "repo": "wecom-cli",
+    "githubUrl": "https://github.com/wecomteam/wecom-cli",
+    "displayName": "Wecomcli Sheet"
+  }
+}

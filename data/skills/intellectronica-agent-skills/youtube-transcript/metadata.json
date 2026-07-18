@@ -1,0 +1,17 @@
+{
+  "skillId": "youtube-transcript",
+  "source": "intellectronica/agent-skills",
+  "owner": "intellectronica",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "intellectronica/agent-skills",
+    "skillId": "youtube-transcript",
+    "name": "youtube-transcript",
+    "installs": 3080,
+    "owner": "intellectronica",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/intellectronica/agent-skills",
+    "displayName": "Youtube Transcript"
+  }
+}

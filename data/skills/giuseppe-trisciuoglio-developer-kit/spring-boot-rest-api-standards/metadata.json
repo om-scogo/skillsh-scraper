@@ -1,0 +1,17 @@
+{
+  "skillId": "spring-boot-rest-api-standards",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "spring-boot-rest-api-standards",
+    "name": "spring-boot-rest-api-standards",
+    "installs": 1854,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Spring Boot Rest Api Standards"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "debug-buttercup",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "debug-buttercup",
+    "name": "debug-buttercup",
+    "installs": 3256,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Debug Buttercup"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "svg-logo-designer",
+  "source": "rknall/claude-skills",
+  "owner": "rknall",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rknall/claude-skills",
+    "skillId": "svg-logo-designer",
+    "name": "svg-logo-designer",
+    "installs": 1174,
+    "owner": "rknall",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/rknall/claude-skills",
+    "displayName": "Svg Logo Designer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "langgraph-code-review",
+  "source": "existential-birds/beagle",
+  "owner": "existential-birds",
+  "repo": "beagle",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "existential-birds/beagle",
+    "skillId": "langgraph-code-review",
+    "name": "langgraph-code-review",
+    "installs": 882,
+    "owner": "existential-birds",
+    "repo": "beagle",
+    "githubUrl": "https://github.com/existential-birds/beagle",
+    "displayName": "Langgraph Code Review"
+  }
+}

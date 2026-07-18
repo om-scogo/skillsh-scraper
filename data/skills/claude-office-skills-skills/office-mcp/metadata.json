@@ -1,0 +1,17 @@
+{
+  "skillId": "office-mcp",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "office-mcp",
+    "name": "office-mcp",
+    "installs": 5302,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Office Mcp"
+  }
+}

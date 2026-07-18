@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-riverpod-expert",
+  "source": "juparave/dotfiles",
+  "owner": "juparave",
+  "repo": "dotfiles",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juparave/dotfiles",
+    "skillId": "flutter-riverpod-expert",
+    "name": "flutter-riverpod-expert",
+    "installs": 929,
+    "owner": "juparave",
+    "repo": "dotfiles",
+    "githubUrl": "https://github.com/juparave/dotfiles",
+    "displayName": "Flutter Riverpod Expert"
+  }
+}

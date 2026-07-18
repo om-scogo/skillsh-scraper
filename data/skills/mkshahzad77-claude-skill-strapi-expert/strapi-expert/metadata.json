@@ -1,0 +1,17 @@
+{
+  "skillId": "strapi-expert",
+  "source": "mkshahzad77/claude-skill-strapi-expert",
+  "owner": "mkshahzad77",
+  "repo": "claude-skill-strapi-expert",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mkshahzad77/claude-skill-strapi-expert",
+    "skillId": "strapi-expert",
+    "name": "strapi-expert",
+    "installs": 1060,
+    "owner": "mkshahzad77",
+    "repo": "claude-skill-strapi-expert",
+    "githubUrl": "https://github.com/mkshahzad77/claude-skill-strapi-expert",
+    "displayName": "Strapi Expert"
+  }
+}

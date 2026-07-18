@@ -1,0 +1,17 @@
+{
+  "skillId": "linear-release-setup",
+  "source": "linear/linear-release",
+  "owner": "linear",
+  "repo": "linear-release",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "linear/linear-release",
+    "skillId": "linear-release-setup",
+    "name": "linear-release-setup",
+    "installs": 2671,
+    "owner": "linear",
+    "repo": "linear-release",
+    "githubUrl": "https://github.com/linear/linear-release",
+    "displayName": "Linear Release Setup"
+  }
+}

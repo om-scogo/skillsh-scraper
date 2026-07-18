@@ -1,0 +1,17 @@
+{
+  "skillId": "dbs-agent-migration",
+  "source": "dontbesilent2025/dbskill",
+  "owner": "dontbesilent2025",
+  "repo": "dbskill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dontbesilent2025/dbskill",
+    "skillId": "dbs-agent-migration",
+    "name": "dbs-agent-migration",
+    "installs": 11785,
+    "owner": "dontbesilent2025",
+    "repo": "dbskill",
+    "githubUrl": "https://github.com/dontbesilent2025/dbskill",
+    "displayName": "Dbs Agent Migration"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "iii-getting-started",
+  "source": "iii-hq/iii",
+  "owner": "iii-hq",
+  "repo": "iii",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "iii-hq/iii",
+    "skillId": "iii-getting-started",
+    "name": "iii-getting-started",
+    "installs": 1014,
+    "owner": "iii-hq",
+    "repo": "iii",
+    "githubUrl": "https://github.com/iii-hq/iii",
+    "displayName": "Iii Getting Started"
+  }
+}

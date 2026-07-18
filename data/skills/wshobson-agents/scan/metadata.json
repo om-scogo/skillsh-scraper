@@ -1,0 +1,17 @@
+{
+  "skillId": "scan",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "scan",
+    "name": "scan",
+    "installs": 1964,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Scan"
+  }
+}

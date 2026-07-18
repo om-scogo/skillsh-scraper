@@ -1,0 +1,17 @@
+{
+  "skillId": "gemini-watermark-remover",
+  "source": "rookie-ricardo/erduo-skills",
+  "owner": "rookie-ricardo",
+  "repo": "erduo-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rookie-ricardo/erduo-skills",
+    "skillId": "gemini-watermark-remover",
+    "name": "gemini-watermark-remover",
+    "installs": 1702,
+    "owner": "rookie-ricardo",
+    "repo": "erduo-skills",
+    "githubUrl": "https://github.com/rookie-ricardo/erduo-skills",
+    "displayName": "Gemini Watermark Remover"
+  }
+}

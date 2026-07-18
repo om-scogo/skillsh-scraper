@@ -1,0 +1,17 @@
+{
+  "skillId": "opentwitter",
+  "source": "6551team/opentwitter-mcp",
+  "owner": "6551team",
+  "repo": "opentwitter-mcp",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "6551team/opentwitter-mcp",
+    "skillId": "opentwitter",
+    "name": "opentwitter",
+    "installs": 2040,
+    "owner": "6551team",
+    "repo": "opentwitter-mcp",
+    "githubUrl": "https://github.com/6551team/opentwitter-mcp",
+    "displayName": "Opentwitter"
+  }
+}

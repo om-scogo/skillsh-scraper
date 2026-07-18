@@ -1,0 +1,17 @@
+{
+  "skillId": "reanimated-skia-performance",
+  "source": "andreev-danila/skills",
+  "owner": "andreev-danila",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "andreev-danila/skills",
+    "skillId": "reanimated-skia-performance",
+    "name": "reanimated-skia-performance",
+    "installs": 801,
+    "owner": "andreev-danila",
+    "repo": "skills",
+    "githubUrl": "https://github.com/andreev-danila/skills",
+    "displayName": "Reanimated Skia Performance"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "winui-app",
+  "source": "openai/skills",
+  "owner": "openai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openai/skills",
+    "skillId": "winui-app",
+    "name": "winui-app",
+    "installs": 1710,
+    "owner": "openai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/openai/skills",
+    "displayName": "Winui App"
+  }
+}

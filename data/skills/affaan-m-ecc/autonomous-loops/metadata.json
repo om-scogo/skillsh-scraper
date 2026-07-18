@@ -1,0 +1,17 @@
+{
+  "skillId": "autonomous-loops",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "autonomous-loops",
+    "name": "autonomous-loops",
+    "installs": 1131,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Autonomous Loops"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "stock-analysis",
+  "source": "alphamoemoe/foci",
+  "owner": "alphamoemoe",
+  "repo": "foci",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alphamoemoe/foci",
+    "skillId": "stock-analysis",
+    "name": "stock-analysis",
+    "installs": 979,
+    "owner": "alphamoemoe",
+    "repo": "foci",
+    "githubUrl": "https://github.com/alphamoemoe/foci",
+    "displayName": "Stock Analysis"
+  }
+}

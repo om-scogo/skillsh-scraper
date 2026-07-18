@@ -1,0 +1,17 @@
+{
+  "skillId": "convex-realtime",
+  "source": "waynesutton/convexskills",
+  "owner": "waynesutton",
+  "repo": "convexskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "waynesutton/convexskills",
+    "skillId": "convex-realtime",
+    "name": "convex-realtime",
+    "installs": 2499,
+    "owner": "waynesutton",
+    "repo": "convexskills",
+    "githubUrl": "https://github.com/waynesutton/convexskills",
+    "displayName": "Convex Realtime"
+  }
+}

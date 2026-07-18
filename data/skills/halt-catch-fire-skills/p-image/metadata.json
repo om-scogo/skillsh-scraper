@@ -1,0 +1,17 @@
+{
+  "skillId": "p-image",
+  "source": "halt-catch-fire/skills",
+  "owner": "halt-catch-fire",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "halt-catch-fire/skills",
+    "skillId": "p-image",
+    "name": "p-image",
+    "installs": 8,
+    "owner": "halt-catch-fire",
+    "repo": "skills",
+    "githubUrl": "https://github.com/halt-catch-fire/skills",
+    "displayName": "P Image"
+  }
+}

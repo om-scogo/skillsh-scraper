@@ -1,0 +1,17 @@
+{
+  "skillId": "copaw-ai-assistant",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "copaw-ai-assistant",
+    "name": "copaw-ai-assistant",
+    "installs": 1339,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Copaw Ai Assistant"
+  }
+}

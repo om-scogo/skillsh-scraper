@@ -1,0 +1,17 @@
+{
+  "skillId": "radian-layer-41-seo-content-marketing-skill-suite",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "radian-layer-41-seo-content-marketing-skill-suite",
+    "name": "radian-layer-41-seo-content-marketing-skill-suite",
+    "installs": 954,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Radian Layer 41 Seo Content Marketing Skill Suite"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "dart-use-pattern-matching",
+  "source": "dart-lang/skills",
+  "owner": "dart-lang",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dart-lang/skills",
+    "skillId": "dart-use-pattern-matching",
+    "name": "dart-use-pattern-matching",
+    "installs": 9565,
+    "owner": "dart-lang",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dart-lang/skills",
+    "displayName": "Dart Use Pattern Matching"
+  }
+}

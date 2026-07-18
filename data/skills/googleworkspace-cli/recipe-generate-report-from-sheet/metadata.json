@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-generate-report-from-sheet",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-generate-report-from-sheet",
+    "name": "recipe-generate-report-from-sheet",
+    "installs": 22551,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Generate Report From Sheet"
+  }
+}

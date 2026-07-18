@@ -1,0 +1,17 @@
+{
+  "skillId": "reka-ui",
+  "source": "onmax/nuxt-skills",
+  "owner": "onmax",
+  "repo": "nuxt-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "onmax/nuxt-skills",
+    "skillId": "reka-ui",
+    "name": "reka-ui",
+    "installs": 6609,
+    "owner": "onmax",
+    "repo": "nuxt-skills",
+    "githubUrl": "https://github.com/onmax/nuxt-skills",
+    "displayName": "Reka Ui"
+  }
+}

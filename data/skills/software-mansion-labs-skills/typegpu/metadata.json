@@ -1,0 +1,17 @@
+{
+  "skillId": "typegpu",
+  "source": "software-mansion-labs/skills",
+  "owner": "software-mansion-labs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "software-mansion-labs/skills",
+    "skillId": "typegpu",
+    "name": "typegpu",
+    "installs": 792,
+    "owner": "software-mansion-labs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/software-mansion-labs/skills",
+    "displayName": "Typegpu"
+  }
+}

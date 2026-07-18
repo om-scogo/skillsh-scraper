@@ -1,0 +1,17 @@
+{
+  "skillId": "efcore-patterns",
+  "source": "aaronontheweb/dotnet-skills",
+  "owner": "aaronontheweb",
+  "repo": "dotnet-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aaronontheweb/dotnet-skills",
+    "skillId": "efcore-patterns",
+    "name": "efcore-patterns",
+    "installs": 1227,
+    "owner": "aaronontheweb",
+    "repo": "dotnet-skills",
+    "githubUrl": "https://github.com/aaronontheweb/dotnet-skills",
+    "displayName": "Efcore Patterns"
+  }
+}

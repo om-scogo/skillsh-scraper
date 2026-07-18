@@ -1,0 +1,17 @@
+{
+  "skillId": "laravel-best-practices",
+  "source": "asyrafhussin/agent-skills",
+  "owner": "asyrafhussin",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "asyrafhussin/agent-skills",
+    "skillId": "laravel-best-practices",
+    "name": "laravel-best-practices",
+    "installs": 1310,
+    "owner": "asyrafhussin",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/asyrafhussin/agent-skills",
+    "displayName": "Laravel Best Practices"
+  }
+}

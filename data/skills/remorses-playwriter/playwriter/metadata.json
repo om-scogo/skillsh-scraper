@@ -1,0 +1,17 @@
+{
+  "skillId": "playwriter",
+  "source": "remorses/playwriter",
+  "owner": "remorses",
+  "repo": "playwriter",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "remorses/playwriter",
+    "skillId": "playwriter",
+    "name": "playwriter",
+    "installs": 4690,
+    "owner": "remorses",
+    "repo": "playwriter",
+    "githubUrl": "https://github.com/remorses/playwriter",
+    "displayName": "Playwriter"
+  }
+}

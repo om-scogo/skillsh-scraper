@@ -1,0 +1,17 @@
+{
+  "skillId": "defuddle",
+  "source": "kepano/obsidian-skills",
+  "owner": "kepano",
+  "repo": "obsidian-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kepano/obsidian-skills",
+    "skillId": "defuddle",
+    "name": "defuddle",
+    "installs": 44381,
+    "owner": "kepano",
+    "repo": "obsidian-skills",
+    "githubUrl": "https://github.com/kepano/obsidian-skills",
+    "displayName": "Defuddle"
+  }
+}

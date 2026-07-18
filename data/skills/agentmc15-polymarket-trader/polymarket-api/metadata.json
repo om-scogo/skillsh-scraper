@@ -1,0 +1,17 @@
+{
+  "skillId": "polymarket-api",
+  "source": "agentmc15/polymarket-trader",
+  "owner": "agentmc15",
+  "repo": "polymarket-trader",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agentmc15/polymarket-trader",
+    "skillId": "polymarket-api",
+    "name": "polymarket-api",
+    "installs": 927,
+    "owner": "agentmc15",
+    "repo": "polymarket-trader",
+    "githubUrl": "https://github.com/agentmc15/polymarket-trader",
+    "displayName": "Polymarket Api"
+  }
+}

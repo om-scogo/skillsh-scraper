@@ -1,0 +1,17 @@
+{
+  "skillId": "academic-research-writer",
+  "source": "endigo/claude-skills",
+  "owner": "endigo",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "endigo/claude-skills",
+    "skillId": "academic-research-writer",
+    "name": "academic-research-writer",
+    "installs": 1654,
+    "owner": "endigo",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/endigo/claude-skills",
+    "displayName": "Academic Research Writer"
+  }
+}

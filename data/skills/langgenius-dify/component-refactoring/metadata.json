@@ -1,0 +1,17 @@
+{
+  "skillId": "component-refactoring",
+  "source": "langgenius/dify",
+  "owner": "langgenius",
+  "repo": "dify",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langgenius/dify",
+    "skillId": "component-refactoring",
+    "name": "component-refactoring",
+    "installs": 3723,
+    "owner": "langgenius",
+    "repo": "dify",
+    "githubUrl": "https://github.com/langgenius/dify",
+    "displayName": "Component Refactoring"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-ux-pro-max",
+  "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+  "owner": "nextlevelbuilder",
+  "repo": "ui-ux-pro-max-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "skillId": "ui-ux-pro-max",
+    "name": "ui-ux-pro-max",
+    "installs": 269874,
+    "owner": "nextlevelbuilder",
+    "repo": "ui-ux-pro-max-skill",
+    "githubUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "displayName": "Ui Ux Pro Max"
+  }
+}

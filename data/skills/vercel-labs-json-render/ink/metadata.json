@@ -1,0 +1,17 @@
+{
+  "skillId": "ink",
+  "source": "vercel-labs/json-render",
+  "owner": "vercel-labs",
+  "repo": "json-render",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/json-render",
+    "skillId": "ink",
+    "name": "ink",
+    "installs": 864,
+    "owner": "vercel-labs",
+    "repo": "json-render",
+    "githubUrl": "https://github.com/vercel-labs/json-render",
+    "displayName": "Ink"
+  }
+}

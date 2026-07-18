@@ -1,0 +1,17 @@
+{
+  "skillId": "openai-whisper",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "openai-whisper",
+    "name": "openai-whisper",
+    "installs": 4199,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Openai Whisper"
+  }
+}

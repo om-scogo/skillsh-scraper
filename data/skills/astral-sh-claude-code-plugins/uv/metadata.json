@@ -1,0 +1,17 @@
+{
+  "skillId": "uv",
+  "source": "astral-sh/claude-code-plugins",
+  "owner": "astral-sh",
+  "repo": "claude-code-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astral-sh/claude-code-plugins",
+    "skillId": "uv",
+    "name": "uv",
+    "installs": 1655,
+    "owner": "astral-sh",
+    "repo": "claude-code-plugins",
+    "githubUrl": "https://github.com/astral-sh/claude-code-plugins",
+    "displayName": "Uv"
+  }
+}

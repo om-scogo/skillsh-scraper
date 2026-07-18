@@ -1,0 +1,17 @@
+{
+  "skillId": "dignified-python",
+  "source": "dagster-io/skills",
+  "owner": "dagster-io",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dagster-io/skills",
+    "skillId": "dignified-python",
+    "name": "dignified-python",
+    "installs": 2956,
+    "owner": "dagster-io",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dagster-io/skills",
+    "displayName": "Dignified Python"
+  }
+}

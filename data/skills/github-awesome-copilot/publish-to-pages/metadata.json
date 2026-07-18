@@ -1,0 +1,17 @@
+{
+  "skillId": "publish-to-pages",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "publish-to-pages",
+    "name": "publish-to-pages",
+    "installs": 1710,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Publish To Pages"
+  }
+}

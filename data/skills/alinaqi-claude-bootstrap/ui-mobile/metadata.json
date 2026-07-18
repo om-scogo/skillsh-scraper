@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-mobile",
+  "source": "alinaqi/claude-bootstrap",
+  "owner": "alinaqi",
+  "repo": "claude-bootstrap",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alinaqi/claude-bootstrap",
+    "skillId": "ui-mobile",
+    "name": "ui-mobile",
+    "installs": 1017,
+    "owner": "alinaqi",
+    "repo": "claude-bootstrap",
+    "githubUrl": "https://github.com/alinaqi/claude-bootstrap",
+    "displayName": "Ui Mobile"
+  }
+}

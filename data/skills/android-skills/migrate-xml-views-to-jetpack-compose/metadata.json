@@ -1,0 +1,17 @@
+{
+  "skillId": "migrate-xml-views-to-jetpack-compose",
+  "source": "android/skills",
+  "owner": "android",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "android/skills",
+    "skillId": "migrate-xml-views-to-jetpack-compose",
+    "name": "migrate-xml-views-to-jetpack-compose",
+    "installs": 950,
+    "owner": "android",
+    "repo": "skills",
+    "githubUrl": "https://github.com/android/skills",
+    "displayName": "Migrate Xml Views To Jetpack Compose"
+  }
+}

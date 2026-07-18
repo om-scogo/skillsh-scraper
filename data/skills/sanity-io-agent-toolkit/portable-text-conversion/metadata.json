@@ -1,0 +1,17 @@
+{
+  "skillId": "portable-text-conversion",
+  "source": "sanity-io/agent-toolkit",
+  "owner": "sanity-io",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sanity-io/agent-toolkit",
+    "skillId": "portable-text-conversion",
+    "name": "portable-text-conversion",
+    "installs": 1274,
+    "owner": "sanity-io",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/sanity-io/agent-toolkit",
+    "displayName": "Portable Text Conversion"
+  }
+}

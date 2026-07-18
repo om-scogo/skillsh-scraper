@@ -1,0 +1,17 @@
+{
+  "skillId": "ads-create",
+  "source": "agricidaniel/claude-ads",
+  "owner": "agricidaniel",
+  "repo": "claude-ads",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-ads",
+    "skillId": "ads-create",
+    "name": "ads-create",
+    "installs": 1903,
+    "owner": "agricidaniel",
+    "repo": "claude-ads",
+    "githubUrl": "https://github.com/agricidaniel/claude-ads",
+    "displayName": "Ads Create"
+  }
+}

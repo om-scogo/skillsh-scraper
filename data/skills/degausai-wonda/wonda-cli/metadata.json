@@ -1,0 +1,17 @@
+{
+  "skillId": "wonda-cli",
+  "source": "degausai/wonda",
+  "owner": "degausai",
+  "repo": "wonda",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "degausai/wonda",
+    "skillId": "wonda-cli",
+    "name": "wonda-cli",
+    "installs": 61819,
+    "owner": "degausai",
+    "repo": "wonda",
+    "githubUrl": "https://github.com/degausai/wonda",
+    "displayName": "Wonda Cli"
+  }
+}

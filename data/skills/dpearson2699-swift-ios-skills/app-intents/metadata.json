@@ -1,0 +1,17 @@
+{
+  "skillId": "app-intents",
+  "source": "dpearson2699/swift-ios-skills",
+  "owner": "dpearson2699",
+  "repo": "swift-ios-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dpearson2699/swift-ios-skills",
+    "skillId": "app-intents",
+    "name": "app-intents",
+    "installs": 2563,
+    "owner": "dpearson2699",
+    "repo": "swift-ios-skills",
+    "githubUrl": "https://github.com/dpearson2699/swift-ios-skills",
+    "displayName": "App Intents"
+  }
+}

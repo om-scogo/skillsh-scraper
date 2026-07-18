@@ -1,0 +1,17 @@
+{
+  "skillId": "job-stories",
+  "source": "phuryn/pm-skills",
+  "owner": "phuryn",
+  "repo": "pm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "phuryn/pm-skills",
+    "skillId": "job-stories",
+    "name": "job-stories",
+    "installs": 1656,
+    "owner": "phuryn",
+    "repo": "pm-skills",
+    "githubUrl": "https://github.com/phuryn/pm-skills",
+    "displayName": "Job Stories"
+  }
+}

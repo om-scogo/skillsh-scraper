@@ -1,0 +1,17 @@
+{
+  "skillId": "owasp-security",
+  "source": "agamm/claude-code-owasp",
+  "owner": "agamm",
+  "repo": "claude-code-owasp",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agamm/claude-code-owasp",
+    "skillId": "owasp-security",
+    "name": "owasp-security",
+    "installs": 1310,
+    "owner": "agamm",
+    "repo": "claude-code-owasp",
+    "githubUrl": "https://github.com/agamm/claude-code-owasp",
+    "displayName": "Owasp Security"
+  }
+}

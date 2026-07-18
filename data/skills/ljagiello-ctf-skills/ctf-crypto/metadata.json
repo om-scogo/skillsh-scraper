@@ -1,0 +1,17 @@
+{
+  "skillId": "ctf-crypto",
+  "source": "ljagiello/ctf-skills",
+  "owner": "ljagiello",
+  "repo": "ctf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ljagiello/ctf-skills",
+    "skillId": "ctf-crypto",
+    "name": "ctf-crypto",
+    "installs": 5766,
+    "owner": "ljagiello",
+    "repo": "ctf-skills",
+    "githubUrl": "https://github.com/ljagiello/ctf-skills",
+    "displayName": "Ctf Crypto"
+  }
+}

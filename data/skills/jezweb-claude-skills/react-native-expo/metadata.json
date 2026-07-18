@@ -1,0 +1,17 @@
+{
+  "skillId": "react-native-expo",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "react-native-expo",
+    "name": "react-native-expo",
+    "installs": 753,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "React Native Expo"
+  }
+}

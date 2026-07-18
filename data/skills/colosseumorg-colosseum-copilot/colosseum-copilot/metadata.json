@@ -1,0 +1,17 @@
+{
+  "skillId": "colosseum-copilot",
+  "source": "colosseumorg/colosseum-copilot",
+  "owner": "colosseumorg",
+  "repo": "colosseum-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "colosseumorg/colosseum-copilot",
+    "skillId": "colosseum-copilot",
+    "name": "colosseum-copilot",
+    "installs": 2834,
+    "owner": "colosseumorg",
+    "repo": "colosseum-copilot",
+    "githubUrl": "https://github.com/colosseumorg/colosseum-copilot",
+    "displayName": "Colosseum Copilot"
+  }
+}

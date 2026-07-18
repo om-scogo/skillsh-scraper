@@ -1,0 +1,17 @@
+{
+  "skillId": "react-pdf",
+  "source": "vercel-labs/json-render",
+  "owner": "vercel-labs",
+  "repo": "json-render",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/json-render",
+    "skillId": "react-pdf",
+    "name": "react-pdf",
+    "installs": 1598,
+    "owner": "vercel-labs",
+    "repo": "json-render",
+    "githubUrl": "https://github.com/vercel-labs/json-render",
+    "displayName": "React Pdf"
+  }
+}

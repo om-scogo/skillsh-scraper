@@ -1,0 +1,17 @@
+{
+  "skillId": "platform-custom-tab-generate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "platform-custom-tab-generate",
+    "name": "platform-custom-tab-generate",
+    "installs": 1530,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Platform Custom Tab Generate"
+  }
+}

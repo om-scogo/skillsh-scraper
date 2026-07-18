@@ -1,0 +1,17 @@
+{
+  "skillId": "hsb-app",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "hsb-app",
+    "name": "hsb-app",
+    "installs": 1381,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Hsb App"
+  }
+}

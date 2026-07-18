@@ -1,0 +1,17 @@
+{
+  "skillId": "coss-particles",
+  "source": "cosscom/coss",
+  "owner": "cosscom",
+  "repo": "coss",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cosscom/coss",
+    "skillId": "coss-particles",
+    "name": "coss-particles",
+    "installs": 1903,
+    "owner": "cosscom",
+    "repo": "coss",
+    "githubUrl": "https://github.com/cosscom/coss",
+    "displayName": "Coss Particles"
+  }
+}

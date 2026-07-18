@@ -1,0 +1,17 @@
+{
+  "skillId": "golang-backend-development",
+  "source": "manutej/luxor-claude-marketplace",
+  "owner": "manutej",
+  "repo": "luxor-claude-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "manutej/luxor-claude-marketplace",
+    "skillId": "golang-backend-development",
+    "name": "golang-backend-development",
+    "installs": 1093,
+    "owner": "manutej",
+    "repo": "luxor-claude-marketplace",
+    "githubUrl": "https://github.com/manutej/luxor-claude-marketplace",
+    "displayName": "Golang Backend Development"
+  }
+}

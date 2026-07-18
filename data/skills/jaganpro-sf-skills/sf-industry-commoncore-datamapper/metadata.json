@@ -1,0 +1,17 @@
+{
+  "skillId": "sf-industry-commoncore-datamapper",
+  "source": "jaganpro/sf-skills",
+  "owner": "jaganpro",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jaganpro/sf-skills",
+    "skillId": "sf-industry-commoncore-datamapper",
+    "name": "sf-industry-commoncore-datamapper",
+    "installs": 924,
+    "owner": "jaganpro",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/jaganpro/sf-skills",
+    "displayName": "Sf Industry Commoncore Datamapper"
+  }
+}

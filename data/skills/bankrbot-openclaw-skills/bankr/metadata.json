@@ -1,0 +1,17 @@
+{
+  "skillId": "bankr",
+  "source": "bankrbot/openclaw-skills",
+  "owner": "bankrbot",
+  "repo": "openclaw-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bankrbot/openclaw-skills",
+    "skillId": "bankr",
+    "name": "bankr",
+    "installs": 822,
+    "owner": "bankrbot",
+    "repo": "openclaw-skills",
+    "githubUrl": "https://github.com/bankrbot/openclaw-skills",
+    "displayName": "Bankr"
+  }
+}

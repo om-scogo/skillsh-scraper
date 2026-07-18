@@ -1,0 +1,17 @@
+{
+  "skillId": "source-driven-development",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "source-driven-development",
+    "name": "source-driven-development",
+    "installs": 10602,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Source Driven Development"
+  }
+}

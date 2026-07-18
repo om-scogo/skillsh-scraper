@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-nextjs-sdk",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-nextjs-sdk",
+    "name": "sentry-nextjs-sdk",
+    "installs": 2799,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry Nextjs Sdk"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "amazon-seller",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "amazon-seller",
+    "name": "amazon seller",
+    "installs": 4003,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Amazon Seller"
+  }
+}

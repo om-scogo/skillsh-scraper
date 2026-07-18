@@ -1,0 +1,17 @@
+{
+  "skillId": "clawhub-skill-vetting",
+  "source": "hugomrtz/skill-vetting-clawhub",
+  "owner": "hugomrtz",
+  "repo": "skill-vetting-clawhub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hugomrtz/skill-vetting-clawhub",
+    "skillId": "clawhub-skill-vetting",
+    "name": "clawhub-skill-vetting",
+    "installs": 1640,
+    "owner": "hugomrtz",
+    "repo": "skill-vetting-clawhub",
+    "githubUrl": "https://github.com/hugomrtz/skill-vetting-clawhub",
+    "displayName": "Clawhub Skill Vetting"
+  }
+}

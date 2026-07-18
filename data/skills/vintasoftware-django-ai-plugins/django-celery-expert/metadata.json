@@ -1,0 +1,17 @@
+{
+  "skillId": "django-celery-expert",
+  "source": "vintasoftware/django-ai-plugins",
+  "owner": "vintasoftware",
+  "repo": "django-ai-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vintasoftware/django-ai-plugins",
+    "skillId": "django-celery-expert",
+    "name": "django-celery-expert",
+    "installs": 739,
+    "owner": "vintasoftware",
+    "repo": "django-ai-plugins",
+    "githubUrl": "https://github.com/vintasoftware/django-ai-plugins",
+    "displayName": "Django Celery Expert"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "web-design-guidelines",
+  "source": "antfu/skills",
+  "owner": "antfu",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antfu/skills",
+    "skillId": "web-design-guidelines",
+    "name": "web-design-guidelines",
+    "installs": 16631,
+    "owner": "antfu",
+    "repo": "skills",
+    "githubUrl": "https://github.com/antfu/skills",
+    "displayName": "Web Design Guidelines"
+  }
+}

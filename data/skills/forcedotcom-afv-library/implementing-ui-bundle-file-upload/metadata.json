@@ -1,0 +1,17 @@
+{
+  "skillId": "implementing-ui-bundle-file-upload",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "implementing-ui-bundle-file-upload",
+    "name": "implementing-ui-bundle-file-upload",
+    "installs": 1474,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Implementing Ui Bundle File Upload"
+  }
+}

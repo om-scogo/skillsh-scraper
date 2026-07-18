@@ -1,0 +1,17 @@
+{
+  "skillId": "atheris",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "atheris",
+    "name": "atheris",
+    "installs": 3617,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Atheris"
+  }
+}

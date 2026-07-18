@@ -1,0 +1,17 @@
+{
+  "skillId": "extension-email",
+  "source": "caffeinelabs/skills",
+  "owner": "caffeinelabs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "caffeinelabs/skills",
+    "skillId": "extension-email",
+    "name": "extension-email",
+    "installs": 6547,
+    "owner": "caffeinelabs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/caffeinelabs/skills",
+    "displayName": "Extension Email"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "options-strategy-advisor",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "options-strategy-advisor",
+    "name": "options-strategy-advisor",
+    "installs": 1151,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Options Strategy Advisor"
+  }
+}

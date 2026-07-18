@@ -1,0 +1,17 @@
+{
+  "skillId": "report-malicious-repository",
+  "source": "aradotso/security-skills",
+  "owner": "aradotso",
+  "repo": "security-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/security-skills",
+    "skillId": "report-malicious-repository",
+    "name": "report-malicious-repository",
+    "installs": 934,
+    "owner": "aradotso",
+    "repo": "security-skills",
+    "githubUrl": "https://github.com/aradotso/security-skills",
+    "displayName": "Report Malicious Repository"
+  }
+}

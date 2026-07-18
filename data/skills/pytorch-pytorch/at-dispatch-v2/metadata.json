@@ -1,0 +1,17 @@
+{
+  "skillId": "at-dispatch-v2",
+  "source": "pytorch/pytorch",
+  "owner": "pytorch",
+  "repo": "pytorch",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pytorch/pytorch",
+    "skillId": "at-dispatch-v2",
+    "name": "at-dispatch-v2",
+    "installs": 1950,
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "githubUrl": "https://github.com/pytorch/pytorch",
+    "displayName": "At Dispatch V2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "chdb-datastore",
+  "source": "clickhouse/agent-skills",
+  "owner": "clickhouse",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clickhouse/agent-skills",
+    "skillId": "chdb-datastore",
+    "name": "chdb-datastore",
+    "installs": 3105,
+    "owner": "clickhouse",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/clickhouse/agent-skills",
+    "displayName": "Chdb Datastore"
+  }
+}

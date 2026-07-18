@@ -1,0 +1,17 @@
+{
+  "skillId": "remove-background",
+  "source": "pilioai/skills",
+  "owner": "pilioai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pilioai/skills",
+    "skillId": "remove-background",
+    "name": "remove-background",
+    "installs": 7519,
+    "owner": "pilioai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/pilioai/skills",
+    "displayName": "Remove Background"
+  }
+}

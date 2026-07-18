@@ -1,0 +1,17 @@
+{
+  "skillId": "git-notes",
+  "source": "neolabhq/context-engineering-kit",
+  "owner": "neolabhq",
+  "repo": "context-engineering-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "neolabhq/context-engineering-kit",
+    "skillId": "git-notes",
+    "name": "git-notes",
+    "installs": 766,
+    "owner": "neolabhq",
+    "repo": "context-engineering-kit",
+    "githubUrl": "https://github.com/neolabhq/context-engineering-kit",
+    "displayName": "Git Notes"
+  }
+}

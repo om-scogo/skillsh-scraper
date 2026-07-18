@@ -1,0 +1,17 @@
+{
+  "skillId": "healthcare-eval-harness",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "healthcare-eval-harness",
+    "name": "healthcare-eval-harness",
+    "installs": 3867,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Healthcare Eval Harness"
+  }
+}

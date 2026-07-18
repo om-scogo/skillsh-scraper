@@ -1,0 +1,17 @@
+{
+  "skillId": "last30days",
+  "source": "mvanhorn/last30days-skill",
+  "owner": "mvanhorn",
+  "repo": "last30days-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mvanhorn/last30days-skill",
+    "skillId": "last30days",
+    "name": "last30days",
+    "installs": 23475,
+    "owner": "mvanhorn",
+    "repo": "last30days-skill",
+    "githubUrl": "https://github.com/mvanhorn/last30days-skill",
+    "displayName": "Last30days"
+  }
+}

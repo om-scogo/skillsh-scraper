@@ -1,0 +1,17 @@
+{
+  "skillId": "caption-writer-sms",
+  "source": "blacktwist/social-media-skills",
+  "owner": "blacktwist",
+  "repo": "social-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "blacktwist/social-media-skills",
+    "skillId": "caption-writer-sms",
+    "name": "caption-writer-sms",
+    "installs": 770,
+    "owner": "blacktwist",
+    "repo": "social-media-skills",
+    "githubUrl": "https://github.com/blacktwist/social-media-skills",
+    "displayName": "Caption Writer Sms"
+  }
+}

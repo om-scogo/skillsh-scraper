@@ -1,0 +1,17 @@
+{
+  "skillId": "macos-development",
+  "source": "rshankras/claude-code-apple-skills",
+  "owner": "rshankras",
+  "repo": "claude-code-apple-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rshankras/claude-code-apple-skills",
+    "skillId": "macos-development",
+    "name": "macos-development",
+    "installs": 1093,
+    "owner": "rshankras",
+    "repo": "claude-code-apple-skills",
+    "githubUrl": "https://github.com/rshankras/claude-code-apple-skills",
+    "displayName": "Macos Development"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "golang-dependency-management",
+  "source": "samber/cc-skills-golang",
+  "owner": "samber",
+  "repo": "cc-skills-golang",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills-golang",
+    "skillId": "golang-dependency-management",
+    "name": "golang-dependency-management",
+    "installs": 33058,
+    "owner": "samber",
+    "repo": "cc-skills-golang",
+    "githubUrl": "https://github.com/samber/cc-skills-golang",
+    "displayName": "Golang Dependency Management"
+  }
+}

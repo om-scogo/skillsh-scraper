@@ -1,0 +1,17 @@
+{
+  "skillId": "gtm-0-to-1-launch",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "gtm-0-to-1-launch",
+    "name": "gtm-0-to-1-launch",
+    "installs": 1552,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Gtm 0 To 1 Launch"
+  }
+}

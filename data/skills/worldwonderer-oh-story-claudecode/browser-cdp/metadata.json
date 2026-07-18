@@ -1,0 +1,17 @@
+{
+  "skillId": "browser-cdp",
+  "source": "worldwonderer/oh-story-claudecode",
+  "owner": "worldwonderer",
+  "repo": "oh-story-claudecode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "worldwonderer/oh-story-claudecode",
+    "skillId": "browser-cdp",
+    "name": "browser-cdp",
+    "installs": 8330,
+    "owner": "worldwonderer",
+    "repo": "oh-story-claudecode",
+    "githubUrl": "https://github.com/worldwonderer/oh-story-claudecode",
+    "displayName": "Browser Cdp"
+  }
+}

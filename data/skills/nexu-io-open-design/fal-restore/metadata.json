@@ -1,0 +1,17 @@
+{
+  "skillId": "fal-restore",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "fal-restore",
+    "name": "fal-restore",
+    "installs": 1572,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Fal Restore"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "excel-mcp",
+  "source": "sbroenne/mcp-server-excel",
+  "owner": "sbroenne",
+  "repo": "mcp-server-excel",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sbroenne/mcp-server-excel",
+    "skillId": "excel-mcp",
+    "name": "excel-mcp",
+    "installs": 1341,
+    "owner": "sbroenne",
+    "repo": "mcp-server-excel",
+    "githubUrl": "https://github.com/sbroenne/mcp-server-excel",
+    "displayName": "Excel Mcp"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-plans",
+  "source": "jnmetacode/superpowers-zh",
+  "owner": "jnmetacode",
+  "repo": "superpowers-zh",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jnmetacode/superpowers-zh",
+    "skillId": "writing-plans",
+    "name": "writing-plans",
+    "installs": 805,
+    "owner": "jnmetacode",
+    "repo": "superpowers-zh",
+    "githubUrl": "https://github.com/jnmetacode/superpowers-zh",
+    "displayName": "Writing Plans"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "docker-best-practices",
+  "source": "josiahsiegel/claude-plugin-marketplace",
+  "owner": "josiahsiegel",
+  "repo": "claude-plugin-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "josiahsiegel/claude-plugin-marketplace",
+    "skillId": "docker-best-practices",
+    "name": "docker-best-practices",
+    "installs": 793,
+    "owner": "josiahsiegel",
+    "repo": "claude-plugin-marketplace",
+    "githubUrl": "https://github.com/josiahsiegel/claude-plugin-marketplace",
+    "displayName": "Docker Best Practices"
+  }
+}

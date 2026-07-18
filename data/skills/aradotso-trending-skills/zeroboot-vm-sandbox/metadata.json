@@ -1,0 +1,17 @@
+{
+  "skillId": "zeroboot-vm-sandbox",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "zeroboot-vm-sandbox",
+    "name": "zeroboot-vm-sandbox",
+    "installs": 1243,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Zeroboot Vm Sandbox"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-prompt-engineering-safety-review",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "ai-prompt-engineering-safety-review",
+    "name": "ai-prompt-engineering-safety-review",
+    "installs": 9801,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Ai Prompt Engineering Safety Review"
+  }
+}

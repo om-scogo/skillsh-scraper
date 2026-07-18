@@ -1,0 +1,17 @@
+{
+  "skillId": "cubox",
+  "source": "olcubo/cubox-cli",
+  "owner": "olcubo",
+  "repo": "cubox-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "olcubo/cubox-cli",
+    "skillId": "cubox",
+    "name": "cubox",
+    "installs": 758,
+    "owner": "olcubo",
+    "repo": "cubox-cli",
+    "githubUrl": "https://github.com/olcubo/cubox-cli",
+    "displayName": "Cubox"
+  }
+}

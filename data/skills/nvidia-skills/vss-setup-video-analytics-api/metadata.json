@@ -1,0 +1,17 @@
+{
+  "skillId": "vss-setup-video-analytics-api",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "vss-setup-video-analytics-api",
+    "name": "vss-setup-video-analytics-api",
+    "installs": 1504,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Vss Setup Video Analytics Api"
+  }
+}

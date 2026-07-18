@@ -1,0 +1,17 @@
+{
+  "skillId": "web-performance-optimization",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "web-performance-optimization",
+    "name": "web-performance-optimization",
+    "installs": 2426,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Web Performance Optimization"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "omnistudio-omniscript-generate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "omnistudio-omniscript-generate",
+    "name": "omnistudio-omniscript-generate",
+    "installs": 1259,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Omnistudio Omniscript Generate"
+  }
+}

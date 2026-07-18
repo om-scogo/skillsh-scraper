@@ -1,0 +1,17 @@
+{
+  "skillId": "paper-to-code",
+  "source": "lingzhi227/agent-research-skills",
+  "owner": "lingzhi227",
+  "repo": "agent-research-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lingzhi227/agent-research-skills",
+    "skillId": "paper-to-code",
+    "name": "paper-to-code",
+    "installs": 1078,
+    "owner": "lingzhi227",
+    "repo": "agent-research-skills",
+    "githubUrl": "https://github.com/lingzhi227/agent-research-skills",
+    "displayName": "Paper To Code"
+  }
+}

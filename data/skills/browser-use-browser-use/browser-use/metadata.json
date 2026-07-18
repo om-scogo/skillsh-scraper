@@ -1,0 +1,17 @@
+{
+  "skillId": "browser-use",
+  "source": "browser-use/browser-use",
+  "owner": "browser-use",
+  "repo": "browser-use",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "browser-use/browser-use",
+    "skillId": "browser-use",
+    "name": "browser-use",
+    "installs": 84940,
+    "owner": "browser-use",
+    "repo": "browser-use",
+    "githubUrl": "https://github.com/browser-use/browser-use",
+    "displayName": "Browser Use"
+  }
+}

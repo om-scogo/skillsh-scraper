@@ -1,0 +1,17 @@
+{
+  "skillId": "deslop",
+  "source": "brianlovin/claude-config",
+  "owner": "brianlovin",
+  "repo": "claude-config",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "brianlovin/claude-config",
+    "skillId": "deslop",
+    "name": "deslop",
+    "installs": 1442,
+    "owner": "brianlovin",
+    "repo": "claude-config",
+    "githubUrl": "https://github.com/brianlovin/claude-config",
+    "displayName": "Deslop"
+  }
+}

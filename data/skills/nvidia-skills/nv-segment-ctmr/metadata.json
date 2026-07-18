@@ -1,0 +1,17 @@
+{
+  "skillId": "nv-segment-ctmr",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nv-segment-ctmr",
+    "name": "nv-segment-ctmr",
+    "installs": 1463,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nv Segment Ctmr"
+  }
+}

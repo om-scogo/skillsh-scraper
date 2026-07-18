@@ -1,0 +1,17 @@
+{
+  "skillId": "worktrunk",
+  "source": "max-sixty/worktrunk",
+  "owner": "max-sixty",
+  "repo": "worktrunk",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "max-sixty/worktrunk",
+    "skillId": "worktrunk",
+    "name": "worktrunk",
+    "installs": 3401,
+    "owner": "max-sixty",
+    "repo": "worktrunk",
+    "githubUrl": "https://github.com/max-sixty/worktrunk",
+    "displayName": "Worktrunk"
+  }
+}

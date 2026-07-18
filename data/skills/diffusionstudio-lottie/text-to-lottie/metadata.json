@@ -1,0 +1,17 @@
+{
+  "skillId": "text-to-lottie",
+  "source": "diffusionstudio/lottie",
+  "owner": "diffusionstudio",
+  "repo": "lottie",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "diffusionstudio/lottie",
+    "skillId": "text-to-lottie",
+    "name": "text-to-lottie",
+    "installs": 6854,
+    "owner": "diffusionstudio",
+    "repo": "lottie",
+    "githubUrl": "https://github.com/diffusionstudio/lottie",
+    "displayName": "Text To Lottie"
+  }
+}

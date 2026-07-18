@@ -1,0 +1,17 @@
+{
+  "skillId": "supabase-server",
+  "source": "supabase/server",
+  "owner": "supabase",
+  "repo": "server",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "supabase/server",
+    "skillId": "supabase-server",
+    "name": "supabase-server",
+    "installs": 2168,
+    "owner": "supabase",
+    "repo": "server",
+    "githubUrl": "https://github.com/supabase/server",
+    "displayName": "Supabase Server"
+  }
+}

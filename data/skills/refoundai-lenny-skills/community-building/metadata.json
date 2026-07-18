@@ -1,0 +1,17 @@
+{
+  "skillId": "community-building",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "community-building",
+    "name": "community-building",
+    "installs": 1694,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Community Building"
+  }
+}

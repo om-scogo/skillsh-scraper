@@ -1,0 +1,17 @@
+{
+  "skillId": "physical-ai-defect-image-generation",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "physical-ai-defect-image-generation",
+    "name": "physical-ai-defect-image-generation",
+    "installs": 1552,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Physical Ai Defect Image Generation"
+  }
+}

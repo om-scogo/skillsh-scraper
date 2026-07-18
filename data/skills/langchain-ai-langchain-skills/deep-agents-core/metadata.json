@@ -1,0 +1,17 @@
+{
+  "skillId": "deep-agents-core",
+  "source": "langchain-ai/langchain-skills",
+  "owner": "langchain-ai",
+  "repo": "langchain-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langchain-ai/langchain-skills",
+    "skillId": "deep-agents-core",
+    "name": "deep-agents-core",
+    "installs": 10142,
+    "owner": "langchain-ai",
+    "repo": "langchain-skills",
+    "githubUrl": "https://github.com/langchain-ai/langchain-skills",
+    "displayName": "Deep Agents Core"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "threejs",
+  "source": "mrgoonie/claudekit-skills",
+  "owner": "mrgoonie",
+  "repo": "claudekit-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mrgoonie/claudekit-skills",
+    "skillId": "threejs",
+    "name": "threejs",
+    "installs": 1092,
+    "owner": "mrgoonie",
+    "repo": "claudekit-skills",
+    "githubUrl": "https://github.com/mrgoonie/claudekit-skills",
+    "displayName": "Threejs"
+  }
+}

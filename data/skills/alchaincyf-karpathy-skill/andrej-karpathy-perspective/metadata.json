@@ -1,0 +1,17 @@
+{
+  "skillId": "andrej-karpathy-perspective",
+  "source": "alchaincyf/karpathy-skill",
+  "owner": "alchaincyf",
+  "repo": "karpathy-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/karpathy-skill",
+    "skillId": "andrej-karpathy-perspective",
+    "name": "andrej-karpathy-perspective",
+    "installs": 2610,
+    "owner": "alchaincyf",
+    "repo": "karpathy-skill",
+    "githubUrl": "https://github.com/alchaincyf/karpathy-skill",
+    "displayName": "Andrej Karpathy Perspective"
+  }
+}

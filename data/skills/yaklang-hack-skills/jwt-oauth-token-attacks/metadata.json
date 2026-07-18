@@ -1,0 +1,17 @@
+{
+  "skillId": "jwt-oauth-token-attacks",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "jwt-oauth-token-attacks",
+    "name": "jwt-oauth-token-attacks",
+    "installs": 2022,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Jwt Oauth Token Attacks"
+  }
+}

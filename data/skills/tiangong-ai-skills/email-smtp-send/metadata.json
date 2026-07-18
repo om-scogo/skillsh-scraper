@@ -1,0 +1,17 @@
+{
+  "skillId": "email-smtp-send",
+  "source": "tiangong-ai/skills",
+  "owner": "tiangong-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tiangong-ai/skills",
+    "skillId": "email-smtp-send",
+    "name": "email-smtp-send",
+    "installs": 6213,
+    "owner": "tiangong-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/tiangong-ai/skills",
+    "displayName": "Email Smtp Send"
+  }
+}

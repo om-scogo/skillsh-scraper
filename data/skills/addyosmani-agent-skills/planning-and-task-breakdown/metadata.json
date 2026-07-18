@@ -1,0 +1,17 @@
+{
+  "skillId": "planning-and-task-breakdown",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "planning-and-task-breakdown",
+    "name": "planning-and-task-breakdown",
+    "installs": 13456,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Planning And Task Breakdown"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "swiss-user-research-video-template",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "swiss-user-research-video-template",
+    "name": "swiss-user-research-video-template",
+    "installs": 1600,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Swiss User Research Video Template"
+  }
+}

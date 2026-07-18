@@ -1,0 +1,17 @@
+{
+  "skillId": "zod-4",
+  "source": "prowler-cloud/prowler",
+  "owner": "prowler-cloud",
+  "repo": "prowler",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "prowler-cloud/prowler",
+    "skillId": "zod-4",
+    "name": "zod-4",
+    "installs": 929,
+    "owner": "prowler-cloud",
+    "repo": "prowler",
+    "githubUrl": "https://github.com/prowler-cloud/prowler",
+    "displayName": "Zod 4"
+  }
+}

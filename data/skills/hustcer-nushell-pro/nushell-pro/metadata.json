@@ -1,0 +1,17 @@
+{
+  "skillId": "nushell-pro",
+  "source": "hustcer/nushell-pro",
+  "owner": "hustcer",
+  "repo": "nushell-pro",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hustcer/nushell-pro",
+    "skillId": "nushell-pro",
+    "name": "nushell-pro",
+    "installs": 826,
+    "owner": "hustcer",
+    "repo": "nushell-pro",
+    "githubUrl": "https://github.com/hustcer/nushell-pro",
+    "displayName": "Nushell Pro"
+  }
+}

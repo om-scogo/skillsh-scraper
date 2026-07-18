@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-mesh-coordinator",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-mesh-coordinator",
+    "name": "agent-mesh-coordinator",
+    "installs": 986,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Mesh Coordinator"
+  }
+}

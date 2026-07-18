@@ -1,0 +1,17 @@
+{
+  "skillId": "uncodixfy",
+  "source": "cyxzdev/uncodixfy",
+  "owner": "cyxzdev",
+  "repo": "uncodixfy",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cyxzdev/uncodixfy",
+    "skillId": "uncodixfy",
+    "name": "uncodixfy",
+    "installs": 5065,
+    "owner": "cyxzdev",
+    "repo": "uncodixfy",
+    "githubUrl": "https://github.com/cyxzdev/uncodixfy",
+    "displayName": "Uncodixfy"
+  }
+}

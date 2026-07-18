@@ -1,0 +1,17 @@
+{
+  "skillId": "developing-genkit-go",
+  "source": "firebase/agent-skills",
+  "owner": "firebase",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firebase/agent-skills",
+    "skillId": "developing-genkit-go",
+    "name": "developing-genkit-go",
+    "installs": 49326,
+    "owner": "firebase",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/firebase/agent-skills",
+    "displayName": "Developing Genkit Go"
+  }
+}

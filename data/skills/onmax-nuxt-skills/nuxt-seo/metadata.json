@@ -1,0 +1,17 @@
+{
+  "skillId": "nuxt-seo",
+  "source": "onmax/nuxt-skills",
+  "owner": "onmax",
+  "repo": "nuxt-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "onmax/nuxt-skills",
+    "skillId": "nuxt-seo",
+    "name": "nuxt-seo",
+    "installs": 2171,
+    "owner": "onmax",
+    "repo": "nuxt-skills",
+    "githubUrl": "https://github.com/onmax/nuxt-skills",
+    "displayName": "Nuxt Seo"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "coralogix-docs",
+  "source": "coralogix/cx-cli",
+  "owner": "coralogix",
+  "repo": "cx-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coralogix/cx-cli",
+    "skillId": "coralogix-docs",
+    "name": "coralogix-docs",
+    "installs": 806,
+    "owner": "coralogix",
+    "repo": "cx-cli",
+    "githubUrl": "https://github.com/coralogix/cx-cli",
+    "displayName": "Coralogix Docs"
+  }
+}

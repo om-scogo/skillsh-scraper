@@ -1,0 +1,17 @@
+{
+  "skillId": "code-documenter",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "code-documenter",
+    "name": "code-documenter",
+    "installs": 3865,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Code Documenter"
+  }
+}

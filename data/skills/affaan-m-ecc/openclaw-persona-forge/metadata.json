@@ -1,0 +1,17 @@
+{
+  "skillId": "openclaw-persona-forge",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "openclaw-persona-forge",
+    "name": "openclaw-persona-forge",
+    "installs": 1091,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Openclaw Persona Forge"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-events-subscribe",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "gws-events-subscribe",
+    "name": "gws-events-subscribe",
+    "installs": 22668,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Gws Events Subscribe"
+  }
+}

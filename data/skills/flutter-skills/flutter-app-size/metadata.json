@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-app-size",
+  "source": "flutter/skills",
+  "owner": "flutter",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "flutter/skills",
+    "skillId": "flutter-app-size",
+    "name": "flutter-app-size",
+    "installs": 1034,
+    "owner": "flutter",
+    "repo": "skills",
+    "githubUrl": "https://github.com/flutter/skills",
+    "displayName": "Flutter App Size"
+  }
+}

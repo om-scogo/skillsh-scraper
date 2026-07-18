@@ -1,0 +1,17 @@
+{
+  "skillId": "xiaohongshu-images",
+  "source": "iamzifei/xiaohongshu-images-skill",
+  "owner": "iamzifei",
+  "repo": "xiaohongshu-images-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "iamzifei/xiaohongshu-images-skill",
+    "skillId": "xiaohongshu-images",
+    "name": "xiaohongshu-images",
+    "installs": 1833,
+    "owner": "iamzifei",
+    "repo": "xiaohongshu-images-skill",
+    "githubUrl": "https://github.com/iamzifei/xiaohongshu-images-skill",
+    "displayName": "Xiaohongshu Images"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "processize",
+  "source": "slavingia/skills",
+  "owner": "slavingia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "slavingia/skills",
+    "skillId": "processize",
+    "name": "processize",
+    "installs": 1028,
+    "owner": "slavingia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/slavingia/skills",
+    "displayName": "Processize"
+  }
+}

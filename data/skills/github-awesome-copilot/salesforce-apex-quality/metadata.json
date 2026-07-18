@@ -1,0 +1,17 @@
+{
+  "skillId": "salesforce-apex-quality",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "salesforce-apex-quality",
+    "name": "salesforce-apex-quality",
+    "installs": 812,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Salesforce Apex Quality"
+  }
+}

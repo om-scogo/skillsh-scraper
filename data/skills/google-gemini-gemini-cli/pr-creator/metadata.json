@@ -1,0 +1,17 @@
+{
+  "skillId": "pr-creator",
+  "source": "google-gemini/gemini-cli",
+  "owner": "google-gemini",
+  "repo": "gemini-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-gemini/gemini-cli",
+    "skillId": "pr-creator",
+    "name": "pr-creator",
+    "installs": 2143,
+    "owner": "google-gemini",
+    "repo": "gemini-cli",
+    "githubUrl": "https://github.com/google-gemini/gemini-cli",
+    "displayName": "Pr Creator"
+  }
+}

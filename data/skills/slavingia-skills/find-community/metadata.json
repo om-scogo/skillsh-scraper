@@ -1,0 +1,17 @@
+{
+  "skillId": "find-community",
+  "source": "slavingia/skills",
+  "owner": "slavingia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "slavingia/skills",
+    "skillId": "find-community",
+    "name": "find-community",
+    "installs": 1112,
+    "owner": "slavingia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/slavingia/skills",
+    "displayName": "Find Community"
+  }
+}

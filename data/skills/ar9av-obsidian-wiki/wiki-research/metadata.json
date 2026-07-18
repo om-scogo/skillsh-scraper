@@ -1,0 +1,17 @@
+{
+  "skillId": "wiki-research",
+  "source": "ar9av/obsidian-wiki",
+  "owner": "ar9av",
+  "repo": "obsidian-wiki",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ar9av/obsidian-wiki",
+    "skillId": "wiki-research",
+    "name": "wiki-research",
+    "installs": 2321,
+    "owner": "ar9av",
+    "repo": "obsidian-wiki",
+    "githubUrl": "https://github.com/ar9av/obsidian-wiki",
+    "displayName": "Wiki Research"
+  }
+}

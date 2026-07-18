@@ -1,0 +1,17 @@
+{
+  "skillId": "ucp",
+  "source": "shopify/shopify-ai-toolkit",
+  "owner": "shopify",
+  "repo": "shopify-ai-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shopify/shopify-ai-toolkit",
+    "skillId": "ucp",
+    "name": "ucp",
+    "installs": 2755,
+    "owner": "shopify",
+    "repo": "shopify-ai-toolkit",
+    "githubUrl": "https://github.com/shopify/shopify-ai-toolkit",
+    "displayName": "Ucp"
+  }
+}

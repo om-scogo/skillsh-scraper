@@ -1,0 +1,17 @@
+{
+  "skillId": "setup-artist",
+  "source": "recoupable/setup-artist",
+  "owner": "recoupable",
+  "repo": "setup-artist",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "recoupable/setup-artist",
+    "skillId": "setup-artist",
+    "name": "setup-artist",
+    "installs": 1142,
+    "owner": "recoupable",
+    "repo": "setup-artist",
+    "githubUrl": "https://github.com/recoupable/setup-artist",
+    "displayName": "Setup Artist"
+  }
+}

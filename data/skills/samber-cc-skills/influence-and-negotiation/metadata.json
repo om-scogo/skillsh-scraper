@@ -1,0 +1,17 @@
+{
+  "skillId": "influence-and-negotiation",
+  "source": "samber/cc-skills",
+  "owner": "samber",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills",
+    "skillId": "influence-and-negotiation",
+    "name": "influence-and-negotiation",
+    "installs": 1883,
+    "owner": "samber",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/samber/cc-skills",
+    "displayName": "Influence And Negotiation"
+  }
+}

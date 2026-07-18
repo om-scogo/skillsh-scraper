@@ -1,0 +1,17 @@
+{
+  "skillId": "terraform-search-import",
+  "source": "hashicorp/agent-skills",
+  "owner": "hashicorp",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hashicorp/agent-skills",
+    "skillId": "terraform-search-import",
+    "name": "terraform-search-import",
+    "installs": 2999,
+    "owner": "hashicorp",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/hashicorp/agent-skills",
+    "displayName": "Terraform Search Import"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "dbs-save",
+  "source": "dontbesilent2025/dbskill",
+  "owner": "dontbesilent2025",
+  "repo": "dbskill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dontbesilent2025/dbskill",
+    "skillId": "dbs-save",
+    "name": "dbs-save",
+    "installs": 10689,
+    "owner": "dontbesilent2025",
+    "repo": "dbskill",
+    "githubUrl": "https://github.com/dontbesilent2025/dbskill",
+    "displayName": "Dbs Save"
+  }
+}

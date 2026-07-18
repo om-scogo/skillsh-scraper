@@ -1,0 +1,17 @@
+{
+  "skillId": "telecommunications-expert",
+  "source": "personamanagmentlayer/pcl",
+  "owner": "personamanagmentlayer",
+  "repo": "pcl",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "personamanagmentlayer/pcl",
+    "skillId": "telecommunications-expert",
+    "name": "telecommunications-expert",
+    "installs": 1812,
+    "owner": "personamanagmentlayer",
+    "repo": "pcl",
+    "githubUrl": "https://github.com/personamanagmentlayer/pcl",
+    "displayName": "Telecommunications Expert"
+  }
+}

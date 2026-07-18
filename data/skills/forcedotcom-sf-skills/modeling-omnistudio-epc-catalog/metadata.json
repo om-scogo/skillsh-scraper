@@ -1,0 +1,17 @@
+{
+  "skillId": "modeling-omnistudio-epc-catalog",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "modeling-omnistudio-epc-catalog",
+    "name": "modeling-omnistudio-epc-catalog",
+    "installs": 1904,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Modeling Omnistudio Epc Catalog"
+  }
+}

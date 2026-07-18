@@ -1,0 +1,17 @@
+{
+  "skillId": "best-minds",
+  "source": "ceeon/best-minds",
+  "owner": "ceeon",
+  "repo": "best-minds",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ceeon/best-minds",
+    "skillId": "best-minds",
+    "name": "best-minds",
+    "installs": 873,
+    "owner": "ceeon",
+    "repo": "best-minds",
+    "githubUrl": "https://github.com/ceeon/best-minds",
+    "displayName": "Best Minds"
+  }
+}

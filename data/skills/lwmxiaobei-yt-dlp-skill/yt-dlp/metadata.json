@@ -1,0 +1,17 @@
+{
+  "skillId": "yt-dlp",
+  "source": "lwmxiaobei/yt-dlp-skill",
+  "owner": "lwmxiaobei",
+  "repo": "yt-dlp-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lwmxiaobei/yt-dlp-skill",
+    "skillId": "yt-dlp",
+    "name": "yt-dlp",
+    "installs": 1099,
+    "owner": "lwmxiaobei",
+    "repo": "yt-dlp-skill",
+    "githubUrl": "https://github.com/lwmxiaobei/yt-dlp-skill",
+    "displayName": "Yt Dlp"
+  }
+}

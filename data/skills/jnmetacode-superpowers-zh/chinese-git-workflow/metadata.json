@@ -1,0 +1,17 @@
+{
+  "skillId": "chinese-git-workflow",
+  "source": "jnmetacode/superpowers-zh",
+  "owner": "jnmetacode",
+  "repo": "superpowers-zh",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jnmetacode/superpowers-zh",
+    "skillId": "chinese-git-workflow",
+    "name": "chinese-git-workflow",
+    "installs": 777,
+    "owner": "jnmetacode",
+    "repo": "superpowers-zh",
+    "githubUrl": "https://github.com/jnmetacode/superpowers-zh",
+    "displayName": "Chinese Git Workflow"
+  }
+}

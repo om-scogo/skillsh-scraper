@@ -1,0 +1,17 @@
+{
+  "skillId": "newapi",
+  "source": "quantumnous/skills",
+  "owner": "quantumnous",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "quantumnous/skills",
+    "skillId": "newapi",
+    "name": "newapi",
+    "installs": 845,
+    "owner": "quantumnous",
+    "repo": "skills",
+    "githubUrl": "https://github.com/quantumnous/skills",
+    "displayName": "Newapi"
+  }
+}

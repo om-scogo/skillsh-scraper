@@ -1,0 +1,17 @@
+{
+  "skillId": "m07-concurrency",
+  "source": "zhanghandong/rust-skills",
+  "owner": "zhanghandong",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zhanghandong/rust-skills",
+    "skillId": "m07-concurrency",
+    "name": "m07-concurrency",
+    "installs": 845,
+    "owner": "zhanghandong",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/zhanghandong/rust-skills",
+    "displayName": "M07 Concurrency"
+  }
+}

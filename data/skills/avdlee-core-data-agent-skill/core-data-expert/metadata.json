@@ -1,0 +1,17 @@
+{
+  "skillId": "core-data-expert",
+  "source": "avdlee/core-data-agent-skill",
+  "owner": "avdlee",
+  "repo": "core-data-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "avdlee/core-data-agent-skill",
+    "skillId": "core-data-expert",
+    "name": "core-data-expert",
+    "installs": 2006,
+    "owner": "avdlee",
+    "repo": "core-data-agent-skill",
+    "githubUrl": "https://github.com/avdlee/core-data-agent-skill",
+    "displayName": "Core Data Expert"
+  }
+}

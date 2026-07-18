@@ -1,0 +1,17 @@
+{
+  "skillId": "doc-coauthoring",
+  "source": "anthropics/skills",
+  "owner": "anthropics",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/skills",
+    "skillId": "doc-coauthoring",
+    "name": "doc-coauthoring",
+    "installs": 68553,
+    "owner": "anthropics",
+    "repo": "skills",
+    "githubUrl": "https://github.com/anthropics/skills",
+    "displayName": "Doc Coauthoring"
+  }
+}

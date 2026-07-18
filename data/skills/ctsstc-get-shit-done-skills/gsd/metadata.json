@@ -1,0 +1,17 @@
+{
+  "skillId": "gsd",
+  "source": "ctsstc/get-shit-done-skills",
+  "owner": "ctsstc",
+  "repo": "get-shit-done-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ctsstc/get-shit-done-skills",
+    "skillId": "gsd",
+    "name": "gsd",
+    "installs": 2758,
+    "owner": "ctsstc",
+    "repo": "get-shit-done-skills",
+    "githubUrl": "https://github.com/ctsstc/get-shit-done-skills",
+    "displayName": "Gsd"
+  }
+}

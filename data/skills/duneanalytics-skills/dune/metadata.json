@@ -1,0 +1,17 @@
+{
+  "skillId": "dune",
+  "source": "duneanalytics/skills",
+  "owner": "duneanalytics",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "duneanalytics/skills",
+    "skillId": "dune",
+    "name": "dune",
+    "installs": 779,
+    "owner": "duneanalytics",
+    "repo": "skills",
+    "githubUrl": "https://github.com/duneanalytics/skills",
+    "displayName": "Dune"
+  }
+}

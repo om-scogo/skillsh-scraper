@@ -1,0 +1,17 @@
+{
+  "skillId": "cloudflare-tunnel",
+  "source": "vm0-ai/vm0-skills",
+  "owner": "vm0-ai",
+  "repo": "vm0-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vm0-ai/vm0-skills",
+    "skillId": "cloudflare-tunnel",
+    "name": "cloudflare-tunnel",
+    "installs": 832,
+    "owner": "vm0-ai",
+    "repo": "vm0-skills",
+    "githubUrl": "https://github.com/vm0-ai/vm0-skills",
+    "displayName": "Cloudflare Tunnel"
+  }
+}

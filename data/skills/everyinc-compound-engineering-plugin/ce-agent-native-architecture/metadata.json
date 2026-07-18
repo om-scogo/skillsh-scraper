@@ -1,0 +1,17 @@
+{
+  "skillId": "ce-agent-native-architecture",
+  "source": "everyinc/compound-engineering-plugin",
+  "owner": "everyinc",
+  "repo": "compound-engineering-plugin",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "everyinc/compound-engineering-plugin",
+    "skillId": "ce-agent-native-architecture",
+    "name": "ce-agent-native-architecture",
+    "installs": 1799,
+    "owner": "everyinc",
+    "repo": "compound-engineering-plugin",
+    "githubUrl": "https://github.com/everyinc/compound-engineering-plugin",
+    "displayName": "Ce Agent Native Architecture"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "csv-data-summarizer",
+  "source": "coffeefuelbump/csv-data-summarizer-claude-skill",
+  "owner": "coffeefuelbump",
+  "repo": "csv-data-summarizer-claude-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coffeefuelbump/csv-data-summarizer-claude-skill",
+    "skillId": "csv-data-summarizer",
+    "name": "csv-data-summarizer",
+    "installs": 1896,
+    "owner": "coffeefuelbump",
+    "repo": "csv-data-summarizer-claude-skill",
+    "githubUrl": "https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill",
+    "displayName": "Csv Data Summarizer"
+  }
+}

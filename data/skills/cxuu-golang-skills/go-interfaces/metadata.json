@@ -1,0 +1,17 @@
+{
+  "skillId": "go-interfaces",
+  "source": "cxuu/golang-skills",
+  "owner": "cxuu",
+  "repo": "golang-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cxuu/golang-skills",
+    "skillId": "go-interfaces",
+    "name": "go-interfaces",
+    "installs": 831,
+    "owner": "cxuu",
+    "repo": "golang-skills",
+    "githubUrl": "https://github.com/cxuu/golang-skills",
+    "displayName": "Go Interfaces"
+  }
+}

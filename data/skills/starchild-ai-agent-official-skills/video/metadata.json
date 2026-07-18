@@ -1,0 +1,17 @@
+{
+  "skillId": "video",
+  "source": "starchild-ai-agent/official-skills",
+  "owner": "starchild-ai-agent",
+  "repo": "official-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "starchild-ai-agent/official-skills",
+    "skillId": "video",
+    "name": "video",
+    "installs": 2384,
+    "owner": "starchild-ai-agent",
+    "repo": "official-skills",
+    "githubUrl": "https://github.com/starchild-ai-agent/official-skills",
+    "displayName": "Video"
+  }
+}

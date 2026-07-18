@@ -1,0 +1,17 @@
+{
+  "skillId": "instaclaw",
+  "source": "napoleond/instaclaw",
+  "owner": "napoleond",
+  "repo": "instaclaw",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "napoleond/instaclaw",
+    "skillId": "instaclaw",
+    "name": "instaclaw",
+    "installs": 4520,
+    "owner": "napoleond",
+    "repo": "instaclaw",
+    "githubUrl": "https://github.com/napoleond/instaclaw",
+    "displayName": "Instaclaw"
+  }
+}

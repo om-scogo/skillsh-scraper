@@ -1,0 +1,17 @@
+{
+  "skillId": "r3f-lighting",
+  "source": "enzed/r3f-skills",
+  "owner": "enzed",
+  "repo": "r3f-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "enzed/r3f-skills",
+    "skillId": "r3f-lighting",
+    "name": "r3f-lighting",
+    "installs": 884,
+    "owner": "enzed",
+    "repo": "r3f-skills",
+    "githubUrl": "https://github.com/enzed/r3f-skills",
+    "displayName": "R3f Lighting"
+  }
+}

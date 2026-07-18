@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-embedding-native-views",
+  "source": "flutter/skills",
+  "owner": "flutter",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "flutter/skills",
+    "skillId": "flutter-embedding-native-views",
+    "name": "flutter-embedding-native-views",
+    "installs": 8271,
+    "owner": "flutter",
+    "repo": "skills",
+    "githubUrl": "https://github.com/flutter/skills",
+    "displayName": "Flutter Embedding Native Views"
+  }
+}

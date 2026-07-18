@@ -1,0 +1,17 @@
+{
+  "skillId": "archify",
+  "source": "tt-a1i/archify",
+  "owner": "tt-a1i",
+  "repo": "archify",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tt-a1i/archify",
+    "skillId": "archify",
+    "name": "archify",
+    "installs": 1646,
+    "owner": "tt-a1i",
+    "repo": "archify",
+    "githubUrl": "https://github.com/tt-a1i/archify",
+    "displayName": "Archify"
+  }
+}

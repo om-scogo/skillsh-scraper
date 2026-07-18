@@ -1,0 +1,17 @@
+{
+  "skillId": "apify-ultimate-scraper",
+  "source": "apify/agent-skills",
+  "owner": "apify",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apify/agent-skills",
+    "skillId": "apify-ultimate-scraper",
+    "name": "apify-ultimate-scraper",
+    "installs": 13244,
+    "owner": "apify",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/apify/agent-skills",
+    "displayName": "Apify Ultimate Scraper"
+  }
+}

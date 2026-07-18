@@ -1,0 +1,17 @@
+{
+  "skillId": "running-apex-tests",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "running-apex-tests",
+    "name": "running-apex-tests",
+    "installs": 2472,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Running Apex Tests"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-research-index",
+  "source": "firecrawl/skills",
+  "owner": "firecrawl",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/skills",
+    "skillId": "firecrawl-research-index",
+    "name": "firecrawl-research-index",
+    "installs": 15372,
+    "owner": "firecrawl",
+    "repo": "skills",
+    "githubUrl": "https://github.com/firecrawl/skills",
+    "displayName": "Firecrawl Research Index"
+  }
+}

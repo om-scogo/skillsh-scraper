@@ -1,0 +1,17 @@
+{
+  "skillId": "figma-create-new-file",
+  "source": "openai/skills",
+  "owner": "openai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openai/skills",
+    "skillId": "figma-create-new-file",
+    "name": "figma-create-new-file",
+    "installs": 1361,
+    "owner": "openai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/openai/skills",
+    "displayName": "Figma Create New File"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "open-redirect",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "open-redirect",
+    "name": "open-redirect",
+    "installs": 1951,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Open Redirect"
+  }
+}

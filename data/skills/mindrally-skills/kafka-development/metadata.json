@@ -1,0 +1,17 @@
+{
+  "skillId": "kafka-development",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "kafka-development",
+    "name": "kafka-development",
+    "installs": 820,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Kafka Development"
+  }
+}

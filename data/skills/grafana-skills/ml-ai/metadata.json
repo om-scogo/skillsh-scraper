@@ -1,0 +1,17 @@
+{
+  "skillId": "ml-ai",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "ml-ai",
+    "name": "ml-ai",
+    "installs": 1459,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Ml Ai"
+  }
+}

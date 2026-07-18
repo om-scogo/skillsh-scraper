@@ -1,0 +1,17 @@
+{
+  "skillId": "flash",
+  "source": "runpod/skills",
+  "owner": "runpod",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "runpod/skills",
+    "skillId": "flash",
+    "name": "flash",
+    "installs": 1292,
+    "owner": "runpod",
+    "repo": "skills",
+    "githubUrl": "https://github.com/runpod/skills",
+    "displayName": "Flash"
+  }
+}

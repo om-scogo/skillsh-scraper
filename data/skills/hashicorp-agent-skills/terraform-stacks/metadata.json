@@ -1,0 +1,17 @@
+{
+  "skillId": "terraform-stacks",
+  "source": "hashicorp/agent-skills",
+  "owner": "hashicorp",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hashicorp/agent-skills",
+    "skillId": "terraform-stacks",
+    "name": "terraform-stacks",
+    "installs": 3848,
+    "owner": "hashicorp",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/hashicorp/agent-skills",
+    "displayName": "Terraform Stacks"
+  }
+}

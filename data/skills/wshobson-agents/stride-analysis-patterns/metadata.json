@@ -1,0 +1,17 @@
+{
+  "skillId": "stride-analysis-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "stride-analysis-patterns",
+    "name": "stride-analysis-patterns",
+    "installs": 8679,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Stride Analysis Patterns"
+  }
+}

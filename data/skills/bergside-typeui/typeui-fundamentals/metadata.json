@@ -1,0 +1,17 @@
+{
+  "skillId": "typeui-fundamentals",
+  "source": "bergside/typeui",
+  "owner": "bergside",
+  "repo": "typeui",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bergside/typeui",
+    "skillId": "typeui-fundamentals",
+    "name": "typeui-fundamentals",
+    "installs": 843,
+    "owner": "bergside",
+    "repo": "typeui",
+    "githubUrl": "https://github.com/bergside/typeui",
+    "displayName": "Typeui Fundamentals"
+  }
+}

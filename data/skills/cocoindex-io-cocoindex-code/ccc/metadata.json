@@ -1,0 +1,17 @@
+{
+  "skillId": "ccc",
+  "source": "cocoindex-io/cocoindex-code",
+  "owner": "cocoindex-io",
+  "repo": "cocoindex-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cocoindex-io/cocoindex-code",
+    "skillId": "ccc",
+    "name": "ccc",
+    "installs": 4012,
+    "owner": "cocoindex-io",
+    "repo": "cocoindex-code",
+    "githubUrl": "https://github.com/cocoindex-io/cocoindex-code",
+    "displayName": "Ccc"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "create-pr",
+  "source": "warpdotdev/common-skills",
+  "owner": "warpdotdev",
+  "repo": "common-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "warpdotdev/common-skills",
+    "skillId": "create-pr",
+    "name": "create-pr",
+    "installs": 13375,
+    "owner": "warpdotdev",
+    "repo": "common-skills",
+    "githubUrl": "https://github.com/warpdotdev/common-skills",
+    "displayName": "Create Pr"
+  }
+}

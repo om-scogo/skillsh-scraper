@@ -1,0 +1,17 @@
+{
+  "skillId": "mindmap",
+  "source": "markdown-viewer/skills",
+  "owner": "markdown-viewer",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "markdown-viewer/skills",
+    "skillId": "mindmap",
+    "name": "mindmap",
+    "installs": 2550,
+    "owner": "markdown-viewer",
+    "repo": "skills",
+    "githubUrl": "https://github.com/markdown-viewer/skills",
+    "displayName": "Mindmap"
+  }
+}

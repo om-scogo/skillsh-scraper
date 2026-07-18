@@ -1,0 +1,17 @@
+{
+  "skillId": "csv-formula-injection",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "csv-formula-injection",
+    "name": "csv-formula-injection",
+    "installs": 1934,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Csv Formula Injection"
+  }
+}

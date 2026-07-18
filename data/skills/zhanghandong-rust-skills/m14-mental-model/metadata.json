@@ -1,0 +1,17 @@
+{
+  "skillId": "m14-mental-model",
+  "source": "zhanghandong/rust-skills",
+  "owner": "zhanghandong",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zhanghandong/rust-skills",
+    "skillId": "m14-mental-model",
+    "name": "m14-mental-model",
+    "installs": 751,
+    "owner": "zhanghandong",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/zhanghandong/rust-skills",
+    "displayName": "M14 Mental Model"
+  }
+}

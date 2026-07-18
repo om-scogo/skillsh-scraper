@@ -1,0 +1,17 @@
+{
+  "skillId": "agnes-ai-generation",
+  "source": "yacey/agnes-ai-generation-skill",
+  "owner": "yacey",
+  "repo": "agnes-ai-generation-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yacey/agnes-ai-generation-skill",
+    "skillId": "agnes-ai-generation",
+    "name": "agnes-ai-generation",
+    "installs": 1805,
+    "owner": "yacey",
+    "repo": "agnes-ai-generation-skill",
+    "githubUrl": "https://github.com/yacey/agnes-ai-generation-skill",
+    "displayName": "Agnes Ai Generation"
+  }
+}

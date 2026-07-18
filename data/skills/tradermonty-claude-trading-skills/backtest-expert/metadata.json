@@ -1,0 +1,17 @@
+{
+  "skillId": "backtest-expert",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "backtest-expert",
+    "name": "backtest-expert",
+    "installs": 1305,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Backtest Expert"
+  }
+}

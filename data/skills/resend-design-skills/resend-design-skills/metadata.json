@@ -1,0 +1,17 @@
+{
+  "skillId": "resend-design-skills",
+  "source": "resend/design-skills",
+  "owner": "resend",
+  "repo": "design-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "resend/design-skills",
+    "skillId": "resend-design-skills",
+    "name": "resend-design-skills",
+    "installs": 1056,
+    "owner": "resend",
+    "repo": "design-skills",
+    "githubUrl": "https://github.com/resend/design-skills",
+    "displayName": "Resend Design Skills"
+  }
+}

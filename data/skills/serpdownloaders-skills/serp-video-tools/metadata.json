@@ -1,0 +1,17 @@
+{
+  "skillId": "serp-video-tools",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "serp-video-tools",
+    "name": "serp-video-tools",
+    "installs": 952,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Serp Video Tools"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "threejs-textures",
+  "source": "cloudai-x/threejs-skills",
+  "owner": "cloudai-x",
+  "repo": "threejs-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudai-x/threejs-skills",
+    "skillId": "threejs-textures",
+    "name": "threejs-textures",
+    "installs": 4609,
+    "owner": "cloudai-x",
+    "repo": "threejs-skills",
+    "githubUrl": "https://github.com/cloudai-x/threejs-skills",
+    "displayName": "Threejs Textures"
+  }
+}

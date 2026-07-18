@@ -1,0 +1,17 @@
+{
+  "skillId": "developing-genkit-js",
+  "source": "genkit-ai/skills",
+  "owner": "genkit-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "genkit-ai/skills",
+    "skillId": "developing-genkit-js",
+    "name": "developing-genkit-js",
+    "installs": 52353,
+    "owner": "genkit-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/genkit-ai/skills",
+    "displayName": "Developing Genkit Js"
+  }
+}

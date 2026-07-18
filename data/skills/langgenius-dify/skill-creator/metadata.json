@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-creator",
+  "source": "langgenius/dify",
+  "owner": "langgenius",
+  "repo": "dify",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langgenius/dify",
+    "skillId": "skill-creator",
+    "name": "skill-creator",
+    "installs": 759,
+    "owner": "langgenius",
+    "repo": "dify",
+    "githubUrl": "https://github.com/langgenius/dify",
+    "displayName": "Skill Creator"
+  }
+}

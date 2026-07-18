@@ -1,0 +1,17 @@
+{
+  "skillId": "gpt-image-2",
+  "source": "pilioai/skills",
+  "owner": "pilioai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pilioai/skills",
+    "skillId": "gpt-image-2",
+    "name": "gpt-image-2",
+    "installs": 19722,
+    "owner": "pilioai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/pilioai/skills",
+    "displayName": "Gpt Image 2"
+  }
+}

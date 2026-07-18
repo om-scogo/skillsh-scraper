@@ -1,0 +1,17 @@
+{
+  "skillId": "anti-detect-browser",
+  "source": "antibrow/anti-detect-browser-skills",
+  "owner": "antibrow",
+  "repo": "anti-detect-browser-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antibrow/anti-detect-browser-skills",
+    "skillId": "anti-detect-browser",
+    "name": "anti-detect-browser",
+    "installs": 29659,
+    "owner": "antibrow",
+    "repo": "anti-detect-browser-skills",
+    "githubUrl": "https://github.com/antibrow/anti-detect-browser-skills",
+    "displayName": "Anti Detect Browser"
+  }
+}

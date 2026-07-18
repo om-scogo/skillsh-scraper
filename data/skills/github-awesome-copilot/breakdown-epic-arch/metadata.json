@@ -1,0 +1,17 @@
+{
+  "skillId": "breakdown-epic-arch",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "breakdown-epic-arch",
+    "name": "breakdown-epic-arch",
+    "installs": 8828,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Breakdown Epic Arch"
+  }
+}

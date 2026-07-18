@@ -1,0 +1,17 @@
+{
+  "skillId": "amazon-listing-optimization",
+  "source": "nexscope-ai/amazon-skills",
+  "owner": "nexscope-ai",
+  "repo": "amazon-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexscope-ai/amazon-skills",
+    "skillId": "amazon-listing-optimization",
+    "name": "amazon-listing-optimization",
+    "installs": 830,
+    "owner": "nexscope-ai",
+    "repo": "amazon-skills",
+    "githubUrl": "https://github.com/nexscope-ai/amazon-skills",
+    "displayName": "Amazon Listing Optimization"
+  }
+}

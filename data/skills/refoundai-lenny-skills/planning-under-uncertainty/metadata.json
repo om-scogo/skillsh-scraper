@@ -1,0 +1,17 @@
+{
+  "skillId": "planning-under-uncertainty",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "planning-under-uncertainty",
+    "name": "planning-under-uncertainty",
+    "installs": 1643,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Planning Under Uncertainty"
+  }
+}

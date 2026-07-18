@@ -1,0 +1,17 @@
+{
+  "skillId": "openclaw-self-healing",
+  "source": "ramsbaby/openclaw-self-healing",
+  "owner": "ramsbaby",
+  "repo": "openclaw-self-healing",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ramsbaby/openclaw-self-healing",
+    "skillId": "openclaw-self-healing",
+    "name": "openclaw-self-healing",
+    "installs": 889,
+    "owner": "ramsbaby",
+    "repo": "openclaw-self-healing",
+    "githubUrl": "https://github.com/ramsbaby/openclaw-self-healing",
+    "displayName": "Openclaw Self Healing"
+  }
+}

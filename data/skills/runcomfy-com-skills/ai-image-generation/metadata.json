@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-image-generation",
+  "source": "runcomfy-com/skills",
+  "owner": "runcomfy-com",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "runcomfy-com/skills",
+    "skillId": "ai-image-generation",
+    "name": "ai-image-generation",
+    "installs": 12,
+    "owner": "runcomfy-com",
+    "repo": "skills",
+    "githubUrl": "https://github.com/runcomfy-com/skills",
+    "displayName": "Ai Image Generation"
+  }
+}

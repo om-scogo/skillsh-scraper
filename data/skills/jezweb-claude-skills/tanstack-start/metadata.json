@@ -1,0 +1,17 @@
+{
+  "skillId": "tanstack-start",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "tanstack-start",
+    "name": "tanstack-start",
+    "installs": 2004,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Tanstack Start"
+  }
+}

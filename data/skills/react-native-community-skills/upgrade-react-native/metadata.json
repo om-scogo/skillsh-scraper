@@ -1,0 +1,17 @@
+{
+  "skillId": "upgrade-react-native",
+  "source": "react-native-community/skills",
+  "owner": "react-native-community",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "react-native-community/skills",
+    "skillId": "upgrade-react-native",
+    "name": "upgrade-react-native",
+    "installs": 937,
+    "owner": "react-native-community",
+    "repo": "skills",
+    "githubUrl": "https://github.com/react-native-community/skills",
+    "displayName": "Upgrade React Native"
+  }
+}

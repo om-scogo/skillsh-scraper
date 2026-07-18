@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-agentic-payments",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-agentic-payments",
+    "name": "agent-agentic-payments",
+    "installs": 1012,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Agentic Payments"
+  }
+}

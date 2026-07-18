@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-vetter",
+  "source": "useai-pro/openclaw-skills-security",
+  "owner": "useai-pro",
+  "repo": "openclaw-skills-security",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "useai-pro/openclaw-skills-security",
+    "skillId": "skill-vetter",
+    "name": "skill-vetter",
+    "installs": 20382,
+    "owner": "useai-pro",
+    "repo": "openclaw-skills-security",
+    "githubUrl": "https://github.com/useai-pro/openclaw-skills-security",
+    "displayName": "Skill Vetter"
+  }
+}

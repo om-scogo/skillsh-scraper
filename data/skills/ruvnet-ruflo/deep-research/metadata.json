@@ -1,0 +1,17 @@
+{
+  "skillId": "deep-research",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "deep-research",
+    "name": "deep-research",
+    "installs": 780,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Deep Research"
+  }
+}

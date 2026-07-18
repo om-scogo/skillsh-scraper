@@ -1,0 +1,17 @@
+{
+  "skillId": "grill-me",
+  "source": "vinvcn/mattpocock-skills-zh-cn",
+  "owner": "vinvcn",
+  "repo": "mattpocock-skills-zh-cn",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vinvcn/mattpocock-skills-zh-cn",
+    "skillId": "grill-me",
+    "name": "grill-me",
+    "installs": 2776,
+    "owner": "vinvcn",
+    "repo": "mattpocock-skills-zh-cn",
+    "githubUrl": "https://github.com/vinvcn/mattpocock-skills-zh-cn",
+    "displayName": "Grill Me"
+  }
+}

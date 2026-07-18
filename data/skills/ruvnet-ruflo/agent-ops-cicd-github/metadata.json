@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-ops-cicd-github",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-ops-cicd-github",
+    "name": "agent-ops-cicd-github",
+    "installs": 1042,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Ops Cicd Github"
+  }
+}

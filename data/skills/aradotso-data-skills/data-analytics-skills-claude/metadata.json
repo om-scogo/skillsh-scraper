@@ -1,0 +1,17 @@
+{
+  "skillId": "data-analytics-skills-claude",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "data-analytics-skills-claude",
+    "name": "data-analytics-skills-claude",
+    "installs": 849,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Data Analytics Skills Claude"
+  }
+}

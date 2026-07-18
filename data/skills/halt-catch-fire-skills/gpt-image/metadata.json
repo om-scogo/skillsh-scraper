@@ -1,0 +1,17 @@
+{
+  "skillId": "gpt-image",
+  "source": "halt-catch-fire/skills",
+  "owner": "halt-catch-fire",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "halt-catch-fire/skills",
+    "skillId": "gpt-image",
+    "name": "gpt-image",
+    "installs": 8,
+    "owner": "halt-catch-fire",
+    "repo": "skills",
+    "githubUrl": "https://github.com/halt-catch-fire/skills",
+    "displayName": "Gpt Image"
+  }
+}

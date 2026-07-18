@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-regression-testing",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "ai-regression-testing",
+    "name": "ai-regression-testing",
+    "installs": 1134,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Ai Regression Testing"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "darwin-skill",
+  "source": "alchaincyf/darwin-skill",
+  "owner": "alchaincyf",
+  "repo": "darwin-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/darwin-skill",
+    "skillId": "darwin-skill",
+    "name": "darwin-skill",
+    "installs": 8812,
+    "owner": "alchaincyf",
+    "repo": "darwin-skill",
+    "githubUrl": "https://github.com/alchaincyf/darwin-skill",
+    "displayName": "Darwin Skill"
+  }
+}

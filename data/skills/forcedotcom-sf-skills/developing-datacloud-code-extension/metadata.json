@@ -1,0 +1,17 @@
+{
+  "skillId": "developing-datacloud-code-extension",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "developing-datacloud-code-extension",
+    "name": "developing-datacloud-code-extension",
+    "installs": 2042,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Developing Datacloud Code Extension"
+  }
+}

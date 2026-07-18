@@ -1,0 +1,17 @@
+{
+  "skillId": "google-search-browser-use",
+  "source": "grasseed/google-search-browser-use",
+  "owner": "grasseed",
+  "repo": "google-search-browser-use",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grasseed/google-search-browser-use",
+    "skillId": "google-search-browser-use",
+    "name": "google-search-browser-use",
+    "installs": 1848,
+    "owner": "grasseed",
+    "repo": "google-search-browser-use",
+    "githubUrl": "https://github.com/grasseed/google-search-browser-use",
+    "displayName": "Google Search Browser Use"
+  }
+}

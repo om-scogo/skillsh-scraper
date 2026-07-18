@@ -1,0 +1,17 @@
+{
+  "skillId": "nx-import",
+  "source": "nrwl/nx-ai-agents-config",
+  "owner": "nrwl",
+  "repo": "nx-ai-agents-config",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nrwl/nx-ai-agents-config",
+    "skillId": "nx-import",
+    "name": "nx-import",
+    "installs": 1676,
+    "owner": "nrwl",
+    "repo": "nx-ai-agents-config",
+    "githubUrl": "https://github.com/nrwl/nx-ai-agents-config",
+    "displayName": "Nx Import"
+  }
+}

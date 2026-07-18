@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-forge",
+  "source": "sanyuan0704/sanyuan-skills",
+  "owner": "sanyuan0704",
+  "repo": "sanyuan-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sanyuan0704/sanyuan-skills",
+    "skillId": "skill-forge",
+    "name": "skill-forge",
+    "installs": 2101,
+    "owner": "sanyuan0704",
+    "repo": "sanyuan-skills",
+    "githubUrl": "https://github.com/sanyuan0704/sanyuan-skills",
+    "displayName": "Skill Forge"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "langchain4j-vector-stores-configuration",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "langchain4j-vector-stores-configuration",
+    "name": "langchain4j-vector-stores-configuration",
+    "installs": 1537,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Langchain4j Vector Stores Configuration"
+  }
+}

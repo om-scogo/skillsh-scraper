@@ -1,0 +1,17 @@
+{
+  "skillId": "platform-trust-archive-manage",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "platform-trust-archive-manage",
+    "name": "platform-trust-archive-manage",
+    "installs": 1380,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Platform Trust Archive Manage"
+  }
+}

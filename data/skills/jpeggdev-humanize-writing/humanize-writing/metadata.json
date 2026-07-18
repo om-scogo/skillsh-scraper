@@ -1,0 +1,17 @@
+{
+  "skillId": "humanize-writing",
+  "source": "jpeggdev/humanize-writing",
+  "owner": "jpeggdev",
+  "repo": "humanize-writing",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jpeggdev/humanize-writing",
+    "skillId": "humanize-writing",
+    "name": "humanize-writing",
+    "installs": 972,
+    "owner": "jpeggdev",
+    "repo": "humanize-writing",
+    "githubUrl": "https://github.com/jpeggdev/humanize-writing",
+    "displayName": "Humanize Writing"
+  }
+}

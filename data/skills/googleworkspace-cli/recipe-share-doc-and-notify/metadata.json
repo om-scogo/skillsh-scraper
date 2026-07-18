@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-share-doc-and-notify",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-share-doc-and-notify",
+    "name": "recipe-share-doc-and-notify",
+    "installs": 22302,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Share Doc And Notify"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "valyu-best-practices",
+  "source": "valyuai/skills",
+  "owner": "valyuai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "valyuai/skills",
+    "skillId": "valyu-best-practices",
+    "name": "valyu-best-practices",
+    "installs": 2813,
+    "owner": "valyuai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/valyuai/skills",
+    "displayName": "Valyu Best Practices"
+  }
+}

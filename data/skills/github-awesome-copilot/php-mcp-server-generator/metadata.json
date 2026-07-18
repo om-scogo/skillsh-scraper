@@ -1,0 +1,17 @@
+{
+  "skillId": "php-mcp-server-generator",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "php-mcp-server-generator",
+    "name": "php-mcp-server-generator",
+    "installs": 8715,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Php Mcp Server Generator"
+  }
+}

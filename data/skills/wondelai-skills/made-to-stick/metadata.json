@@ -1,0 +1,17 @@
+{
+  "skillId": "made-to-stick",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "made-to-stick",
+    "name": "made-to-stick",
+    "installs": 2999,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Made To Stick"
+  }
+}

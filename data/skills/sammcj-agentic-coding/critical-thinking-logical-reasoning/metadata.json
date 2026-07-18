@@ -1,0 +1,17 @@
+{
+  "skillId": "critical-thinking-logical-reasoning",
+  "source": "sammcj/agentic-coding",
+  "owner": "sammcj",
+  "repo": "agentic-coding",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sammcj/agentic-coding",
+    "skillId": "critical-thinking-logical-reasoning",
+    "name": "critical-thinking-logical-reasoning",
+    "installs": 1792,
+    "owner": "sammcj",
+    "repo": "agentic-coding",
+    "githubUrl": "https://github.com/sammcj/agentic-coding",
+    "displayName": "Critical Thinking Logical Reasoning"
+  }
+}

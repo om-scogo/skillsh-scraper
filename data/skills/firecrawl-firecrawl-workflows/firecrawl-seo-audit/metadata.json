@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-seo-audit",
+  "source": "firecrawl/firecrawl-workflows",
+  "owner": "firecrawl",
+  "repo": "firecrawl-workflows",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/firecrawl-workflows",
+    "skillId": "firecrawl-seo-audit",
+    "name": "firecrawl-seo-audit",
+    "installs": 29111,
+    "owner": "firecrawl",
+    "repo": "firecrawl-workflows",
+    "githubUrl": "https://github.com/firecrawl/firecrawl-workflows",
+    "displayName": "Firecrawl Seo Audit"
+  }
+}

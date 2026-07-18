@@ -1,0 +1,17 @@
+{
+  "skillId": "khan-academy-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "khan-academy-downloader",
+    "name": "khan-academy-downloader",
+    "installs": 957,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Khan Academy Downloader"
+  }
+}

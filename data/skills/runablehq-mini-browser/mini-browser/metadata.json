@@ -1,0 +1,17 @@
+{
+  "skillId": "mini-browser",
+  "source": "runablehq/mini-browser",
+  "owner": "runablehq",
+  "repo": "mini-browser",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "runablehq/mini-browser",
+    "skillId": "mini-browser",
+    "name": "mini-browser",
+    "installs": 2423,
+    "owner": "runablehq",
+    "repo": "mini-browser",
+    "githubUrl": "https://github.com/runablehq/mini-browser",
+    "displayName": "Mini Browser"
+  }
+}

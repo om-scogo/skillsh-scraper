@@ -1,0 +1,17 @@
+{
+  "skillId": "msgraph",
+  "source": "merill/msgraph",
+  "owner": "merill",
+  "repo": "msgraph",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "merill/msgraph",
+    "skillId": "msgraph",
+    "name": "msgraph",
+    "installs": 852,
+    "owner": "merill",
+    "repo": "msgraph",
+    "githubUrl": "https://github.com/merill/msgraph",
+    "displayName": "Msgraph"
+  }
+}

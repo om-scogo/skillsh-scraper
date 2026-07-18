@@ -1,0 +1,17 @@
+{
+  "skillId": "fal-kling-o3",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "fal-kling-o3",
+    "name": "fal-kling-o3",
+    "installs": 1570,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Fal Kling O3"
+  }
+}

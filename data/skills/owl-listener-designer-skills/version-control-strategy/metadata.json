@@ -1,0 +1,17 @@
+{
+  "skillId": "version-control-strategy",
+  "source": "owl-listener/designer-skills",
+  "owner": "owl-listener",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "owl-listener/designer-skills",
+    "skillId": "version-control-strategy",
+    "name": "version-control-strategy",
+    "installs": 845,
+    "owner": "owl-listener",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/owl-listener/designer-skills",
+    "displayName": "Version Control Strategy"
+  }
+}

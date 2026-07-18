@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-ux-pro-max",
+  "source": "likaia/nginxpulse",
+  "owner": "likaia",
+  "repo": "nginxpulse",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "likaia/nginxpulse",
+    "skillId": "ui-ux-pro-max",
+    "name": "ui-ux-pro-max",
+    "installs": 1299,
+    "owner": "likaia",
+    "repo": "nginxpulse",
+    "githubUrl": "https://github.com/likaia/nginxpulse",
+    "displayName": "Ui Ux Pro Max"
+  }
+}

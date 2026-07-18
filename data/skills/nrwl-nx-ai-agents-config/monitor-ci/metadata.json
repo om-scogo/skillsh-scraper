@@ -1,0 +1,17 @@
+{
+  "skillId": "monitor-ci",
+  "source": "nrwl/nx-ai-agents-config",
+  "owner": "nrwl",
+  "repo": "nx-ai-agents-config",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nrwl/nx-ai-agents-config",
+    "skillId": "monitor-ci",
+    "name": "monitor-ci",
+    "installs": 1480,
+    "owner": "nrwl",
+    "repo": "nx-ai-agents-config",
+    "githubUrl": "https://github.com/nrwl/nx-ai-agents-config",
+    "displayName": "Monitor Ci"
+  }
+}

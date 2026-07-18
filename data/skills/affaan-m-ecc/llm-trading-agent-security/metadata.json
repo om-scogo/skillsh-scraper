@@ -1,0 +1,17 @@
+{
+  "skillId": "llm-trading-agent-security",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "llm-trading-agent-security",
+    "name": "llm-trading-agent-security",
+    "installs": 1100,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Llm Trading Agent Security"
+  }
+}

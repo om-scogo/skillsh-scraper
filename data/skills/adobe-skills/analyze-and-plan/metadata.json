@@ -1,0 +1,17 @@
+{
+  "skillId": "analyze-and-plan",
+  "source": "adobe/skills",
+  "owner": "adobe",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adobe/skills",
+    "skillId": "analyze-and-plan",
+    "name": "analyze-and-plan",
+    "installs": 919,
+    "owner": "adobe",
+    "repo": "skills",
+    "githubUrl": "https://github.com/adobe/skills",
+    "displayName": "Analyze And Plan"
+  }
+}

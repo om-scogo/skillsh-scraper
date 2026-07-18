@@ -1,0 +1,17 @@
+{
+  "skillId": "okx-cex-trade",
+  "source": "okx/agent-skills",
+  "owner": "okx",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "okx/agent-skills",
+    "skillId": "okx-cex-trade",
+    "name": "okx-cex-trade",
+    "installs": 8254,
+    "owner": "okx",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/okx/agent-skills",
+    "displayName": "Okx Cex Trade"
+  }
+}

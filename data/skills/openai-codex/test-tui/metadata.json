@@ -1,0 +1,17 @@
+{
+  "skillId": "test-tui",
+  "source": "openai/codex",
+  "owner": "openai",
+  "repo": "codex",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openai/codex",
+    "skillId": "test-tui",
+    "name": "test-tui",
+    "installs": 1677,
+    "owner": "openai",
+    "repo": "codex",
+    "githubUrl": "https://github.com/openai/codex",
+    "displayName": "Test Tui"
+  }
+}

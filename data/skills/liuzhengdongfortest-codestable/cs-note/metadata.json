@@ -1,0 +1,17 @@
+{
+  "skillId": "cs-note",
+  "source": "liuzhengdongfortest/codestable",
+  "owner": "liuzhengdongfortest",
+  "repo": "codestable",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "liuzhengdongfortest/codestable",
+    "skillId": "cs-note",
+    "name": "cs-note",
+    "installs": 1043,
+    "owner": "liuzhengdongfortest",
+    "repo": "codestable",
+    "githubUrl": "https://github.com/liuzhengdongfortest/codestable",
+    "displayName": "Cs Note"
+  }
+}

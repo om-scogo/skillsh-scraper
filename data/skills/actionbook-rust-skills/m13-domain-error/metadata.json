@@ -1,0 +1,17 @@
+{
+  "skillId": "m13-domain-error",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "m13-domain-error",
+    "name": "m13-domain-error",
+    "installs": 1343,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "M13 Domain Error"
+  }
+}

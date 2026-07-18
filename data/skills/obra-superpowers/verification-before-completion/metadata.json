@@ -1,0 +1,17 @@
+{
+  "skillId": "verification-before-completion",
+  "source": "obra/superpowers",
+  "owner": "obra",
+  "repo": "superpowers",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/superpowers",
+    "skillId": "verification-before-completion",
+    "name": "verification-before-completion",
+    "installs": 146609,
+    "owner": "obra",
+    "repo": "superpowers",
+    "githubUrl": "https://github.com/obra/superpowers",
+    "displayName": "Verification Before Completion"
+  }
+}

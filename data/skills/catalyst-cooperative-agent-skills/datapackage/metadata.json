@@ -1,0 +1,17 @@
+{
+  "skillId": "datapackage",
+  "source": "catalyst-cooperative/agent-skills",
+  "owner": "catalyst-cooperative",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "catalyst-cooperative/agent-skills",
+    "skillId": "datapackage",
+    "name": "datapackage",
+    "installs": 818,
+    "owner": "catalyst-cooperative",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/catalyst-cooperative/agent-skills",
+    "displayName": "Datapackage"
+  }
+}

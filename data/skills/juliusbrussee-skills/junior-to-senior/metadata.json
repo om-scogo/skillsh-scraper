@@ -1,0 +1,17 @@
+{
+  "skillId": "junior-to-senior",
+  "source": "juliusbrussee/skills",
+  "owner": "juliusbrussee",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juliusbrussee/skills",
+    "skillId": "junior-to-senior",
+    "name": "junior-to-senior",
+    "installs": 1568,
+    "owner": "juliusbrussee",
+    "repo": "skills",
+    "githubUrl": "https://github.com/juliusbrussee/skills",
+    "displayName": "Junior To Senior"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "heroui-native",
+  "source": "heroui-inc/heroui",
+  "owner": "heroui-inc",
+  "repo": "heroui",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heroui-inc/heroui",
+    "skillId": "heroui-native",
+    "name": "heroui-native",
+    "installs": 7624,
+    "owner": "heroui-inc",
+    "repo": "heroui",
+    "githubUrl": "https://github.com/heroui-inc/heroui",
+    "displayName": "Heroui Native"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "shopify-polaris-admin-extensions",
+  "source": "shopify/shopify-ai-toolkit",
+  "owner": "shopify",
+  "repo": "shopify-ai-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shopify/shopify-ai-toolkit",
+    "skillId": "shopify-polaris-admin-extensions",
+    "name": "shopify-polaris-admin-extensions",
+    "installs": 6299,
+    "owner": "shopify",
+    "repo": "shopify-ai-toolkit",
+    "githubUrl": "https://github.com/shopify/shopify-ai-toolkit",
+    "displayName": "Shopify Polaris Admin Extensions"
+  }
+}

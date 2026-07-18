@@ -1,0 +1,17 @@
+{
+  "skillId": "valibot",
+  "source": "open-circle/agent-skills",
+  "owner": "open-circle",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "open-circle/agent-skills",
+    "skillId": "valibot",
+    "name": "valibot",
+    "installs": 1040,
+    "owner": "open-circle",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/open-circle/agent-skills",
+    "displayName": "Valibot"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "roundup-setup",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "roundup-setup",
+    "name": "roundup-setup",
+    "installs": 1212,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Roundup Setup"
+  }
+}

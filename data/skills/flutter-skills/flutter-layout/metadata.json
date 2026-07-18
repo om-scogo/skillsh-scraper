@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-layout",
+  "source": "flutter/skills",
+  "owner": "flutter",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "flutter/skills",
+    "skillId": "flutter-layout",
+    "name": "flutter-layout",
+    "installs": 1286,
+    "owner": "flutter",
+    "repo": "skills",
+    "githubUrl": "https://github.com/flutter/skills",
+    "displayName": "Flutter Layout"
+  }
+}

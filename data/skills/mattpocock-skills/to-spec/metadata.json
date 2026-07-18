@@ -1,0 +1,17 @@
+{
+  "skillId": "to-spec",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "to-spec",
+    "name": "to-spec",
+    "installs": 74027,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "To Spec"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "social-media-marketing",
+  "source": "dengineproblem/agents-monorepo",
+  "owner": "dengineproblem",
+  "repo": "agents-monorepo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dengineproblem/agents-monorepo",
+    "skillId": "social-media-marketing",
+    "name": "social-media-marketing",
+    "installs": 1161,
+    "owner": "dengineproblem",
+    "repo": "agents-monorepo",
+    "githubUrl": "https://github.com/dengineproblem/agents-monorepo",
+    "displayName": "Social Media Marketing"
+  }
+}

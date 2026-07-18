@@ -1,0 +1,17 @@
+{
+  "skillId": "fastapi",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "fastapi",
+    "name": "fastapi",
+    "installs": 1973,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Fastapi"
+  }
+}

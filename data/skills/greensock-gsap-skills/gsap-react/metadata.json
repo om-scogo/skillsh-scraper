@@ -1,0 +1,17 @@
+{
+  "skillId": "gsap-react",
+  "source": "greensock/gsap-skills",
+  "owner": "greensock",
+  "repo": "gsap-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "greensock/gsap-skills",
+    "skillId": "gsap-react",
+    "name": "gsap-react",
+    "installs": 30904,
+    "owner": "greensock",
+    "repo": "gsap-skills",
+    "githubUrl": "https://github.com/greensock/gsap-skills",
+    "displayName": "Gsap React"
+  }
+}

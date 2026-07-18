@@ -1,0 +1,17 @@
+{
+  "skillId": "carousel-writer-sms",
+  "source": "blacktwist/social-media-skills",
+  "owner": "blacktwist",
+  "repo": "social-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "blacktwist/social-media-skills",
+    "skillId": "carousel-writer-sms",
+    "name": "carousel-writer-sms",
+    "installs": 1038,
+    "owner": "blacktwist",
+    "repo": "social-media-skills",
+    "githubUrl": "https://github.com/blacktwist/social-media-skills",
+    "displayName": "Carousel Writer Sms"
+  }
+}

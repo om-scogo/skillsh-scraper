@@ -1,0 +1,17 @@
+{
+  "skillId": "nelson",
+  "source": "harrymunro/nelson",
+  "owner": "harrymunro",
+  "repo": "nelson",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "harrymunro/nelson",
+    "skillId": "nelson",
+    "name": "nelson",
+    "installs": 1267,
+    "owner": "harrymunro",
+    "repo": "nelson",
+    "githubUrl": "https://github.com/harrymunro/nelson",
+    "displayName": "Nelson"
+  }
+}

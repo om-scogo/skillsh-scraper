@@ -1,0 +1,17 @@
+{
+  "skillId": "app-store-changelog",
+  "source": "dimillian/skills",
+  "owner": "dimillian",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dimillian/skills",
+    "skillId": "app-store-changelog",
+    "name": "app-store-changelog",
+    "installs": 1092,
+    "owner": "dimillian",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dimillian/skills",
+    "displayName": "App Store Changelog"
+  }
+}

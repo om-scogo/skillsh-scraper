@@ -1,0 +1,17 @@
+{
+  "skillId": "v3-security-overhaul",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "v3-security-overhaul",
+    "name": "v3 security overhaul",
+    "installs": 967,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "V3 Security Overhaul"
+  }
+}

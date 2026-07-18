@@ -1,0 +1,17 @@
+{
+  "skillId": "orchestrating-datacloud",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "orchestrating-datacloud",
+    "name": "orchestrating-datacloud",
+    "installs": 1993,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Orchestrating Datacloud"
+  }
+}

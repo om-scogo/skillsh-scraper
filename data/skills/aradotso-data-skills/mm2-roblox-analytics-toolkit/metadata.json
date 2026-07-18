@@ -1,0 +1,17 @@
+{
+  "skillId": "mm2-roblox-analytics-toolkit",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "mm2-roblox-analytics-toolkit",
+    "name": "mm2-roblox-analytics-toolkit",
+    "installs": 1952,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Mm2 Roblox Analytics Toolkit"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "neural-training",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "neural-training",
+    "name": "neural-training",
+    "installs": 998,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Neural Training"
+  }
+}

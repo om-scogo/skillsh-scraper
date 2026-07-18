@@ -1,0 +1,17 @@
+{
+  "skillId": "hyperframes-read-first",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "hyperframes-read-first",
+    "name": "hyperframes-read-first",
+    "installs": 2446,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Hyperframes Read First"
+  }
+}

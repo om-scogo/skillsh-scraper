@@ -1,0 +1,17 @@
+{
+  "skillId": "rust-code-navigator",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "rust-code-navigator",
+    "name": "rust-code-navigator",
+    "installs": 1301,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "Rust Code Navigator"
+  }
+}

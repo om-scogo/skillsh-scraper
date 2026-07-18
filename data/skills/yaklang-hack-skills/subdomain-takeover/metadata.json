@@ -1,0 +1,17 @@
+{
+  "skillId": "subdomain-takeover",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "subdomain-takeover",
+    "name": "subdomain-takeover",
+    "installs": 1927,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Subdomain Takeover"
+  }
+}

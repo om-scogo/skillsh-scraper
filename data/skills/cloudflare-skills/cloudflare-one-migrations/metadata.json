@@ -1,0 +1,17 @@
+{
+  "skillId": "cloudflare-one-migrations",
+  "source": "cloudflare/skills",
+  "owner": "cloudflare",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudflare/skills",
+    "skillId": "cloudflare-one-migrations",
+    "name": "cloudflare-one-migrations",
+    "installs": 7500,
+    "owner": "cloudflare",
+    "repo": "skills",
+    "githubUrl": "https://github.com/cloudflare/skills",
+    "displayName": "Cloudflare One Migrations"
+  }
+}

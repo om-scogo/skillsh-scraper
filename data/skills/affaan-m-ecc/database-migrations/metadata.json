@@ -1,0 +1,17 @@
+{
+  "skillId": "database-migrations",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "database-migrations",
+    "name": "database-migrations",
+    "installs": 1193,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Database Migrations"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-watch-drive-changes",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-watch-drive-changes",
+    "name": "recipe-watch-drive-changes",
+    "installs": 22411,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Watch Drive Changes"
+  }
+}

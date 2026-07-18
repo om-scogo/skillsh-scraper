@@ -1,0 +1,17 @@
+{
+  "skillId": "domain-driven-design",
+  "source": "yonatangross/orchestkit",
+  "owner": "yonatangross",
+  "repo": "orchestkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yonatangross/orchestkit",
+    "skillId": "domain-driven-design",
+    "name": "domain-driven-design",
+    "installs": 742,
+    "owner": "yonatangross",
+    "repo": "orchestkit",
+    "githubUrl": "https://github.com/yonatangross/orchestkit",
+    "displayName": "Domain Driven Design"
+  }
+}

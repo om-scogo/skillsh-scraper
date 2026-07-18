@@ -1,0 +1,17 @@
+{
+  "skillId": "unit-test-vue-pinia",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "unit-test-vue-pinia",
+    "name": "unit-test-vue-pinia",
+    "installs": 1653,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Unit Test Vue Pinia"
+  }
+}

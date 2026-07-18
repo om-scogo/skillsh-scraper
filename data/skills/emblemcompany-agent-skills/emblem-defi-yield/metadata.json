@@ -1,0 +1,17 @@
+{
+  "skillId": "emblem-defi-yield",
+  "source": "emblemcompany/agent-skills",
+  "owner": "emblemcompany",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "emblemcompany/agent-skills",
+    "skillId": "emblem-defi-yield",
+    "name": "emblem-defi-yield",
+    "installs": 8654,
+    "owner": "emblemcompany",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/emblemcompany/agent-skills",
+    "displayName": "Emblem Defi Yield"
+  }
+}

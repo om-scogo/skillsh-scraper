@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-copy-sheet-for-new-month",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-copy-sheet-for-new-month",
+    "name": "recipe-copy-sheet-for-new-month",
+    "installs": 22226,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Copy Sheet For New Month"
+  }
+}

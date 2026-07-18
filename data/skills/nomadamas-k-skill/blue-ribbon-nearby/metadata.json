@@ -1,0 +1,17 @@
+{
+  "skillId": "blue-ribbon-nearby",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "blue-ribbon-nearby",
+    "name": "blue-ribbon-nearby",
+    "installs": 2550,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Blue Ribbon Nearby"
+  }
+}

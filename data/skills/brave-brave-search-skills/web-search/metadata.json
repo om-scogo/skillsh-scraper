@@ -1,0 +1,17 @@
+{
+  "skillId": "web-search",
+  "source": "brave/brave-search-skills",
+  "owner": "brave",
+  "repo": "brave-search-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "brave/brave-search-skills",
+    "skillId": "web-search",
+    "name": "web-search",
+    "installs": 3616,
+    "owner": "brave",
+    "repo": "brave-search-skills",
+    "githubUrl": "https://github.com/brave/brave-search-skills",
+    "displayName": "Web Search"
+  }
+}

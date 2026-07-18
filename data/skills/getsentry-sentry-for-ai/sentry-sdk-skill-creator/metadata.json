@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-sdk-skill-creator",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-sdk-skill-creator",
+    "name": "sentry-sdk-skill-creator",
+    "installs": 1949,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry Sdk Skill Creator"
+  }
+}

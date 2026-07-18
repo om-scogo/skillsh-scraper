@@ -1,0 +1,17 @@
+{
+  "skillId": "request-refactor-plan",
+  "source": "vinvcn/mattpocock-skills-zh-cn",
+  "owner": "vinvcn",
+  "repo": "mattpocock-skills-zh-cn",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vinvcn/mattpocock-skills-zh-cn",
+    "skillId": "request-refactor-plan",
+    "name": "request-refactor-plan",
+    "installs": 1366,
+    "owner": "vinvcn",
+    "repo": "mattpocock-skills-zh-cn",
+    "githubUrl": "https://github.com/vinvcn/mattpocock-skills-zh-cn",
+    "displayName": "Request Refactor Plan"
+  }
+}

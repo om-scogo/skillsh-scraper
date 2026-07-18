@@ -1,0 +1,17 @@
+{
+  "skillId": "convex-security-check",
+  "source": "waynesutton/convexskills",
+  "owner": "waynesutton",
+  "repo": "convexskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "waynesutton/convexskills",
+    "skillId": "convex-security-check",
+    "name": "convex-security-check",
+    "installs": 2346,
+    "owner": "waynesutton",
+    "repo": "convexskills",
+    "githubUrl": "https://github.com/waynesutton/convexskills",
+    "displayName": "Convex Security Check"
+  }
+}

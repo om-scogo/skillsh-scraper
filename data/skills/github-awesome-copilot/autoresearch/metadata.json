@@ -1,0 +1,17 @@
+{
+  "skillId": "autoresearch",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "autoresearch",
+    "name": "autoresearch",
+    "installs": 2922,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Autoresearch"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "typescript-best-practices",
+  "source": "0xbigboss/claude-code",
+  "owner": "0xbigboss",
+  "repo": "claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "0xbigboss/claude-code",
+    "skillId": "typescript-best-practices",
+    "name": "typescript-best-practices",
+    "installs": 2873,
+    "owner": "0xbigboss",
+    "repo": "claude-code",
+    "githubUrl": "https://github.com/0xbigboss/claude-code",
+    "displayName": "Typescript Best Practices"
+  }
+}

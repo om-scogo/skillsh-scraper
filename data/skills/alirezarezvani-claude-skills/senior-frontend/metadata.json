@@ -1,0 +1,17 @@
+{
+  "skillId": "senior-frontend",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "senior-frontend",
+    "name": "senior-frontend",
+    "installs": 1226,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Senior Frontend"
+  }
+}

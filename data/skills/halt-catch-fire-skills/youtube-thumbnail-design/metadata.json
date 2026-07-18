@@ -1,0 +1,17 @@
+{
+  "skillId": "youtube-thumbnail-design",
+  "source": "halt-catch-fire/skills",
+  "owner": "halt-catch-fire",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "halt-catch-fire/skills",
+    "skillId": "youtube-thumbnail-design",
+    "name": "youtube-thumbnail-design",
+    "installs": 10,
+    "owner": "halt-catch-fire",
+    "repo": "skills",
+    "githubUrl": "https://github.com/halt-catch-fire/skills",
+    "displayName": "Youtube Thumbnail Design"
+  }
+}

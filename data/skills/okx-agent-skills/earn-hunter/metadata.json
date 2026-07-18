@@ -1,0 +1,17 @@
+{
+  "skillId": "earn-hunter",
+  "source": "okx/agent-skills",
+  "owner": "okx",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "okx/agent-skills",
+    "skillId": "earn-hunter",
+    "name": "earn-hunter",
+    "installs": 1308,
+    "owner": "okx",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/okx/agent-skills",
+    "displayName": "Earn Hunter"
+  }
+}

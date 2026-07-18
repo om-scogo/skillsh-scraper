@@ -1,0 +1,17 @@
+{
+  "skillId": "identify-page-structure",
+  "source": "adobe/skills",
+  "owner": "adobe",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adobe/skills",
+    "skillId": "identify-page-structure",
+    "name": "identify-page-structure",
+    "installs": 912,
+    "owner": "adobe",
+    "repo": "skills",
+    "githubUrl": "https://github.com/adobe/skills",
+    "displayName": "Identify Page Structure"
+  }
+}

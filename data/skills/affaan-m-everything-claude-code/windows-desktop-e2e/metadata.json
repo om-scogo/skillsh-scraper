@@ -1,0 +1,17 @@
+{
+  "skillId": "windows-desktop-e2e",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "windows-desktop-e2e",
+    "name": "windows-desktop-e2e",
+    "installs": 1797,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Windows Desktop E2e"
+  }
+}

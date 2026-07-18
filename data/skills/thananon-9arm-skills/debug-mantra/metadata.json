@@ -1,0 +1,17 @@
+{
+  "skillId": "debug-mantra",
+  "source": "thananon/9arm-skills",
+  "owner": "thananon",
+  "repo": "9arm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thananon/9arm-skills",
+    "skillId": "debug-mantra",
+    "name": "debug-mantra",
+    "installs": 3130,
+    "owner": "thananon",
+    "repo": "9arm-skills",
+    "githubUrl": "https://github.com/thananon/9arm-skills",
+    "displayName": "Debug Mantra"
+  }
+}

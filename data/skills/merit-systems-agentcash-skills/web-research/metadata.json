@@ -1,0 +1,17 @@
+{
+  "skillId": "web-research",
+  "source": "merit-systems/agentcash-skills",
+  "owner": "merit-systems",
+  "repo": "agentcash-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "merit-systems/agentcash-skills",
+    "skillId": "web-research",
+    "name": "web-research",
+    "installs": 1692,
+    "owner": "merit-systems",
+    "repo": "agentcash-skills",
+    "githubUrl": "https://github.com/merit-systems/agentcash-skills",
+    "displayName": "Web Research"
+  }
+}

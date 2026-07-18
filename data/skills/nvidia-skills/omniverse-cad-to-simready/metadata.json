@@ -1,0 +1,17 @@
+{
+  "skillId": "omniverse-cad-to-simready",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "omniverse-cad-to-simready",
+    "name": "omniverse-cad-to-simready",
+    "installs": 1676,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Omniverse Cad To Simready"
+  }
+}

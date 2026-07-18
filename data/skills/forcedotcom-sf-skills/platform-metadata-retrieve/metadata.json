@@ -1,0 +1,17 @@
+{
+  "skillId": "platform-metadata-retrieve",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "platform-metadata-retrieve",
+    "name": "platform-metadata-retrieve",
+    "installs": 1554,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Platform Metadata Retrieve"
+  }
+}

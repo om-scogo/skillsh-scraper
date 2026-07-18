@@ -1,0 +1,17 @@
+{
+  "skillId": "bunjang-search",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "bunjang-search",
+    "name": "bunjang-search",
+    "installs": 3030,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Bunjang Search"
+  }
+}

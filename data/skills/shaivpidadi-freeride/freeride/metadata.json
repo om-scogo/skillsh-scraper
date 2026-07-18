@@ -1,0 +1,17 @@
+{
+  "skillId": "freeride",
+  "source": "shaivpidadi/freeride",
+  "owner": "shaivpidadi",
+  "repo": "freeride",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shaivpidadi/freeride",
+    "skillId": "freeride",
+    "name": "freeride",
+    "installs": 770,
+    "owner": "shaivpidadi",
+    "repo": "freeride",
+    "githubUrl": "https://github.com/shaivpidadi/freeride",
+    "displayName": "Freeride"
+  }
+}

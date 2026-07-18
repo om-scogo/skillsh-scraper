@@ -1,0 +1,17 @@
+{
+  "skillId": "link-workspace-packages",
+  "source": "nrwl/nx-ai-agents-config",
+  "owner": "nrwl",
+  "repo": "nx-ai-agents-config",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nrwl/nx-ai-agents-config",
+    "skillId": "link-workspace-packages",
+    "name": "link-workspace-packages",
+    "installs": 1991,
+    "owner": "nrwl",
+    "repo": "nx-ai-agents-config",
+    "githubUrl": "https://github.com/nrwl/nx-ai-agents-config",
+    "displayName": "Link Workspace Packages"
+  }
+}

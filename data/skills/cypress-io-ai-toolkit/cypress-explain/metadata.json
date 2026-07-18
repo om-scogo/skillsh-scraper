@@ -1,0 +1,17 @@
+{
+  "skillId": "cypress-explain",
+  "source": "cypress-io/ai-toolkit",
+  "owner": "cypress-io",
+  "repo": "ai-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cypress-io/ai-toolkit",
+    "skillId": "cypress-explain",
+    "name": "cypress-explain",
+    "installs": 2461,
+    "owner": "cypress-io",
+    "repo": "ai-toolkit",
+    "githubUrl": "https://github.com/cypress-io/ai-toolkit",
+    "displayName": "Cypress Explain"
+  }
+}

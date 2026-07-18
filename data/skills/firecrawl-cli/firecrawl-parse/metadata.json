@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-parse",
+  "source": "firecrawl/cli",
+  "owner": "firecrawl",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/cli",
+    "skillId": "firecrawl-parse",
+    "name": "firecrawl-parse",
+    "installs": 44270,
+    "owner": "firecrawl",
+    "repo": "cli",
+    "githubUrl": "https://github.com/firecrawl/cli",
+    "displayName": "Firecrawl Parse"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "consulting-analysis",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "consulting-analysis",
+    "name": "consulting-analysis",
+    "installs": 2189,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Consulting Analysis"
+  }
+}

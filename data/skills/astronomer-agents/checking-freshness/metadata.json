@@ -1,0 +1,17 @@
+{
+  "skillId": "checking-freshness",
+  "source": "astronomer/agents",
+  "owner": "astronomer",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astronomer/agents",
+    "skillId": "checking-freshness",
+    "name": "checking-freshness",
+    "installs": 834,
+    "owner": "astronomer",
+    "repo": "agents",
+    "githubUrl": "https://github.com/astronomer/agents",
+    "displayName": "Checking Freshness"
+  }
+}

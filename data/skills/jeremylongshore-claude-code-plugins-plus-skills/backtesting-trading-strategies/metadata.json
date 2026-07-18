@@ -1,0 +1,17 @@
+{
+  "skillId": "backtesting-trading-strategies",
+  "source": "jeremylongshore/claude-code-plugins-plus-skills",
+  "owner": "jeremylongshore",
+  "repo": "claude-code-plugins-plus-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeremylongshore/claude-code-plugins-plus-skills",
+    "skillId": "backtesting-trading-strategies",
+    "name": "backtesting-trading-strategies",
+    "installs": 3816,
+    "owner": "jeremylongshore",
+    "repo": "claude-code-plugins-plus-skills",
+    "githubUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "displayName": "Backtesting Trading Strategies"
+  }
+}

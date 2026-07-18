@@ -1,0 +1,17 @@
+{
+  "skillId": "ensembl-database",
+  "source": "google-deepmind/science-skills",
+  "owner": "google-deepmind",
+  "repo": "science-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-deepmind/science-skills",
+    "skillId": "ensembl-database",
+    "name": "ensembl-database",
+    "installs": 977,
+    "owner": "google-deepmind",
+    "repo": "science-skills",
+    "githubUrl": "https://github.com/google-deepmind/science-skills",
+    "displayName": "Ensembl Database"
+  }
+}

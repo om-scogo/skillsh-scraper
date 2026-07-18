@@ -1,0 +1,17 @@
+{
+  "skillId": "authbypass-authentication-flaws",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "authbypass-authentication-flaws",
+    "name": "authbypass-authentication-flaws",
+    "installs": 2021,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Authbypass Authentication Flaws"
+  }
+}

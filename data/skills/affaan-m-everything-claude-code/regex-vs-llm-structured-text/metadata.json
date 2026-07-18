@@ -1,0 +1,17 @@
+{
+  "skillId": "regex-vs-llm-structured-text",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "regex-vs-llm-structured-text",
+    "name": "regex-vs-llm-structured-text",
+    "installs": 5166,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Regex Vs Llm Structured Text"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "diffity-diff",
+  "source": "kamranahmedse/diffity",
+  "owner": "kamranahmedse",
+  "repo": "diffity",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kamranahmedse/diffity",
+    "skillId": "diffity-diff",
+    "name": "diffity-diff",
+    "installs": 916,
+    "owner": "kamranahmedse",
+    "repo": "diffity",
+    "githubUrl": "https://github.com/kamranahmedse/diffity",
+    "displayName": "Diffity Diff"
+  }
+}

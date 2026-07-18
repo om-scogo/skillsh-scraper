@@ -1,0 +1,17 @@
+{
+  "skillId": "render",
+  "source": "earthtojake/text-to-cad",
+  "owner": "earthtojake",
+  "repo": "text-to-cad",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "earthtojake/text-to-cad",
+    "skillId": "render",
+    "name": "render",
+    "installs": 1353,
+    "owner": "earthtojake",
+    "repo": "text-to-cad",
+    "githubUrl": "https://github.com/earthtojake/text-to-cad",
+    "displayName": "Render"
+  }
+}

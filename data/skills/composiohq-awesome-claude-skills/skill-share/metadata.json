@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-share",
+  "source": "composiohq/awesome-claude-skills",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "composiohq/awesome-claude-skills",
+    "skillId": "skill-share",
+    "name": "skill-share",
+    "installs": 2998,
+    "owner": "composiohq",
+    "repo": "awesome-claude-skills",
+    "githubUrl": "https://github.com/composiohq/awesome-claude-skills",
+    "displayName": "Skill Share"
+  }
+}

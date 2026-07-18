@@ -1,0 +1,17 @@
+{
+  "skillId": "wind-alice",
+  "source": "wind-information-co-ltd/wind-skills",
+  "owner": "wind-information-co-ltd",
+  "repo": "wind-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wind-information-co-ltd/wind-skills",
+    "skillId": "wind-alice",
+    "name": "wind-alice",
+    "installs": 1201,
+    "owner": "wind-information-co-ltd",
+    "repo": "wind-skills",
+    "githubUrl": "https://github.com/wind-information-co-ltd/wind-skills",
+    "displayName": "Wind Alice"
+  }
+}

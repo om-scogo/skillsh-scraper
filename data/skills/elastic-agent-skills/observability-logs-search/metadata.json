@@ -1,0 +1,17 @@
+{
+  "skillId": "observability-logs-search",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "observability-logs-search",
+    "name": "observability-logs-search",
+    "installs": 2018,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Observability Logs Search"
+  }
+}

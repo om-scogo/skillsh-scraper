@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-implementing-navigation-and-routing",
+  "source": "flutter/skills",
+  "owner": "flutter",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "flutter/skills",
+    "skillId": "flutter-implementing-navigation-and-routing",
+    "name": "flutter-implementing-navigation-and-routing",
+    "installs": 9377,
+    "owner": "flutter",
+    "repo": "skills",
+    "githubUrl": "https://github.com/flutter/skills",
+    "displayName": "Flutter Implementing Navigation And Routing"
+  }
+}

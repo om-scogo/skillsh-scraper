@@ -1,0 +1,17 @@
+{
+  "skillId": "design-system",
+  "source": "buildgreatproducts/builder-os",
+  "owner": "buildgreatproducts",
+  "repo": "builder-os",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "buildgreatproducts/builder-os",
+    "skillId": "design-system",
+    "name": "design-system",
+    "installs": 913,
+    "owner": "buildgreatproducts",
+    "repo": "builder-os",
+    "githubUrl": "https://github.com/buildgreatproducts/builder-os",
+    "displayName": "Design System"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "defi-amm-security",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "defi-amm-security",
+    "name": "defi-amm-security",
+    "installs": 1100,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Defi Amm Security"
+  }
+}

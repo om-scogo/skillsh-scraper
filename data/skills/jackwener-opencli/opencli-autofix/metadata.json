@@ -1,0 +1,17 @@
+{
+  "skillId": "opencli-autofix",
+  "source": "jackwener/opencli",
+  "owner": "jackwener",
+  "repo": "opencli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jackwener/opencli",
+    "skillId": "opencli-autofix",
+    "name": "opencli-autofix",
+    "installs": 14230,
+    "owner": "jackwener",
+    "repo": "opencli",
+    "githubUrl": "https://github.com/jackwener/opencli",
+    "displayName": "Opencli Autofix"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "mintlify",
+  "source": "codewithshreyans/skills",
+  "owner": "codewithshreyans",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "codewithshreyans/skills",
+    "skillId": "mintlify",
+    "name": "mintlify",
+    "installs": 1701,
+    "owner": "codewithshreyans",
+    "repo": "skills",
+    "githubUrl": "https://github.com/codewithshreyans/skills",
+    "displayName": "Mintlify"
+  }
+}

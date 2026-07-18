@@ -1,0 +1,17 @@
+{
+  "skillId": "push-to-registry",
+  "source": "hashicorp/agent-skills",
+  "owner": "hashicorp",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hashicorp/agent-skills",
+    "skillId": "push-to-registry",
+    "name": "push-to-registry",
+    "installs": 1782,
+    "owner": "hashicorp",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/hashicorp/agent-skills",
+    "displayName": "Push To Registry"
+  }
+}

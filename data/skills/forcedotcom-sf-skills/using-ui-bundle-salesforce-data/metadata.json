@@ -1,0 +1,17 @@
+{
+  "skillId": "using-ui-bundle-salesforce-data",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "using-ui-bundle-salesforce-data",
+    "name": "using-ui-bundle-salesforce-data",
+    "installs": 2100,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Using Ui Bundle Salesforce Data"
+  }
+}

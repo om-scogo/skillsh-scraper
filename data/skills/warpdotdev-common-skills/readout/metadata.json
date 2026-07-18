@@ -1,0 +1,17 @@
+{
+  "skillId": "readout",
+  "source": "warpdotdev/common-skills",
+  "owner": "warpdotdev",
+  "repo": "common-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "warpdotdev/common-skills",
+    "skillId": "readout",
+    "name": "readout",
+    "installs": 2517,
+    "owner": "warpdotdev",
+    "repo": "common-skills",
+    "githubUrl": "https://github.com/warpdotdev/common-skills",
+    "displayName": "Readout"
+  }
+}

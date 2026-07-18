@@ -1,0 +1,17 @@
+{
+  "skillId": "news-aggregator-skill",
+  "source": "cclank/news-aggregator-skill",
+  "owner": "cclank",
+  "repo": "news-aggregator-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cclank/news-aggregator-skill",
+    "skillId": "news-aggregator-skill",
+    "name": "news-aggregator-skill",
+    "installs": 5731,
+    "owner": "cclank",
+    "repo": "news-aggregator-skill",
+    "githubUrl": "https://github.com/cclank/news-aggregator-skill",
+    "displayName": "News Aggregator Skill"
+  }
+}

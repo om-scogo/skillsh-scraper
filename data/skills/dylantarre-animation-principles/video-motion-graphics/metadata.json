@@ -1,0 +1,17 @@
+{
+  "skillId": "video-motion-graphics",
+  "source": "dylantarre/animation-principles",
+  "owner": "dylantarre",
+  "repo": "animation-principles",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dylantarre/animation-principles",
+    "skillId": "video-motion-graphics",
+    "name": "video-motion-graphics",
+    "installs": 1341,
+    "owner": "dylantarre",
+    "repo": "animation-principles",
+    "githubUrl": "https://github.com/dylantarre/animation-principles",
+    "displayName": "Video Motion Graphics"
+  }
+}

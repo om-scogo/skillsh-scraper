@@ -1,0 +1,17 @@
+{
+  "skillId": "twitter-automation",
+  "source": "skills-shell/skills",
+  "owner": "skills-shell",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "skills-shell/skills",
+    "skillId": "twitter-automation",
+    "name": "twitter-automation",
+    "installs": 12,
+    "owner": "skills-shell",
+    "repo": "skills",
+    "githubUrl": "https://github.com/skills-shell/skills",
+    "displayName": "Twitter Automation"
+  }
+}

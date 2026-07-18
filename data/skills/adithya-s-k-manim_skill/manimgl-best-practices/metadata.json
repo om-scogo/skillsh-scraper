@@ -1,0 +1,17 @@
+{
+  "skillId": "manimgl-best-practices",
+  "source": "adithya-s-k/manim_skill",
+  "owner": "adithya-s-k",
+  "repo": "manim_skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adithya-s-k/manim_skill",
+    "skillId": "manimgl-best-practices",
+    "name": "manimgl-best-practices",
+    "installs": 1548,
+    "owner": "adithya-s-k",
+    "repo": "manim_skill",
+    "githubUrl": "https://github.com/adithya-s-k/manim_skill",
+    "displayName": "Manimgl Best Practices"
+  }
+}

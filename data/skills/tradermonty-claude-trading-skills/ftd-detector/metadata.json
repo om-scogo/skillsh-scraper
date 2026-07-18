@@ -1,0 +1,17 @@
+{
+  "skillId": "ftd-detector",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "ftd-detector",
+    "name": "ftd-detector",
+    "installs": 769,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Ftd Detector"
+  }
+}

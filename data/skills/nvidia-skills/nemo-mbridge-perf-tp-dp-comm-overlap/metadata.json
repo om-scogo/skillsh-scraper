@@ -1,0 +1,17 @@
+{
+  "skillId": "nemo-mbridge-perf-tp-dp-comm-overlap",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemo-mbridge-perf-tp-dp-comm-overlap",
+    "name": "nemo-mbridge-perf-tp-dp-comm-overlap",
+    "installs": 1501,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemo Mbridge Perf Tp Dp Comm Overlap"
+  }
+}

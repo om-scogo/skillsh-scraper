@@ -1,0 +1,17 @@
+{
+  "skillId": "ecc-tools-cost-audit",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "ecc-tools-cost-audit",
+    "name": "ecc-tools-cost-audit",
+    "installs": 1104,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Ecc Tools Cost Audit"
+  }
+}

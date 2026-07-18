@@ -1,0 +1,17 @@
+{
+  "skillId": "platform-infrastructure",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "platform-infrastructure",
+    "name": "platform-infrastructure",
+    "installs": 1612,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Platform Infrastructure"
+  }
+}

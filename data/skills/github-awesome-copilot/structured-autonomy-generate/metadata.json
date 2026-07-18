@@ -1,0 +1,17 @@
+{
+  "skillId": "structured-autonomy-generate",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "structured-autonomy-generate",
+    "name": "structured-autonomy-generate",
+    "installs": 8645,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Structured Autonomy Generate"
+  }
+}

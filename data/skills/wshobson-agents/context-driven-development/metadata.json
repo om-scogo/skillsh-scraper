@@ -1,0 +1,17 @@
+{
+  "skillId": "context-driven-development",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "context-driven-development",
+    "name": "context-driven-development",
+    "installs": 8442,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Context Driven Development"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "graph-colorize",
+  "source": "ar9av/obsidian-wiki",
+  "owner": "ar9av",
+  "repo": "obsidian-wiki",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ar9av/obsidian-wiki",
+    "skillId": "graph-colorize",
+    "name": "graph-colorize",
+    "installs": 2327,
+    "owner": "ar9av",
+    "repo": "obsidian-wiki",
+    "githubUrl": "https://github.com/ar9av/obsidian-wiki",
+    "displayName": "Graph Colorize"
+  }
+}

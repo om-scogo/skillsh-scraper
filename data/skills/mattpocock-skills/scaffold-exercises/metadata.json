@@ -1,0 +1,17 @@
+{
+  "skillId": "scaffold-exercises",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "scaffold-exercises",
+    "name": "scaffold-exercises",
+    "installs": 130298,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Scaffold Exercises"
+  }
+}

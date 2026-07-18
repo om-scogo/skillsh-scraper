@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-animation",
+  "source": "flutter/skills",
+  "owner": "flutter",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "flutter/skills",
+    "skillId": "flutter-animation",
+    "name": "flutter-animation",
+    "installs": 1134,
+    "owner": "flutter",
+    "repo": "skills",
+    "githubUrl": "https://github.com/flutter/skills",
+    "displayName": "Flutter Animation"
+  }
+}

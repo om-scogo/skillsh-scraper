@@ -1,0 +1,17 @@
+{
+  "skillId": "karpathy-llm-wiki",
+  "source": "astro-han/karpathy-llm-wiki",
+  "owner": "astro-han",
+  "repo": "karpathy-llm-wiki",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astro-han/karpathy-llm-wiki",
+    "skillId": "karpathy-llm-wiki",
+    "name": "karpathy-llm-wiki",
+    "installs": 5312,
+    "owner": "astro-han",
+    "repo": "karpathy-llm-wiki",
+    "githubUrl": "https://github.com/astro-han/karpathy-llm-wiki",
+    "displayName": "Karpathy Llm Wiki"
+  }
+}

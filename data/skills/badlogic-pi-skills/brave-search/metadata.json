@@ -1,0 +1,17 @@
+{
+  "skillId": "brave-search",
+  "source": "badlogic/pi-skills",
+  "owner": "badlogic",
+  "repo": "pi-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "badlogic/pi-skills",
+    "skillId": "brave-search",
+    "name": "brave-search",
+    "installs": 796,
+    "owner": "badlogic",
+    "repo": "pi-skills",
+    "githubUrl": "https://github.com/badlogic/pi-skills",
+    "displayName": "Brave Search"
+  }
+}

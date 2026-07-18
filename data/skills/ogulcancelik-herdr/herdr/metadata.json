@@ -1,0 +1,17 @@
+{
+  "skillId": "herdr",
+  "source": "ogulcancelik/herdr",
+  "owner": "ogulcancelik",
+  "repo": "herdr",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ogulcancelik/herdr",
+    "skillId": "herdr",
+    "name": "herdr",
+    "installs": 7451,
+    "owner": "ogulcancelik",
+    "repo": "herdr",
+    "githubUrl": "https://github.com/ogulcancelik/herdr",
+    "displayName": "Herdr"
+  }
+}

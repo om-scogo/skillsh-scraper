@@ -1,0 +1,17 @@
+{
+  "skillId": "finishing-a-development-branch",
+  "source": "obra/superpowers",
+  "owner": "obra",
+  "repo": "superpowers",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/superpowers",
+    "skillId": "finishing-a-development-branch",
+    "name": "finishing-a-development-branch",
+    "installs": 134540,
+    "owner": "obra",
+    "repo": "superpowers",
+    "githubUrl": "https://github.com/obra/superpowers",
+    "displayName": "Finishing A Development Branch"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "mcp-builder",
+  "source": "mcp-use/mcp-use",
+  "owner": "mcp-use",
+  "repo": "mcp-use",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mcp-use/mcp-use",
+    "skillId": "mcp-builder",
+    "name": "mcp-builder",
+    "installs": 9370,
+    "owner": "mcp-use",
+    "repo": "mcp-use",
+    "githubUrl": "https://github.com/mcp-use/mcp-use",
+    "displayName": "Mcp Builder"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "xiaohongshu",
+  "source": "autoclaw-cc/xiaohongshu-mcp-skills",
+  "owner": "autoclaw-cc",
+  "repo": "xiaohongshu-mcp-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "autoclaw-cc/xiaohongshu-mcp-skills",
+    "skillId": "xiaohongshu",
+    "name": "xiaohongshu",
+    "installs": 2800,
+    "owner": "autoclaw-cc",
+    "repo": "xiaohongshu-mcp-skills",
+    "githubUrl": "https://github.com/autoclaw-cc/xiaohongshu-mcp-skills",
+    "displayName": "Xiaohongshu"
+  }
+}

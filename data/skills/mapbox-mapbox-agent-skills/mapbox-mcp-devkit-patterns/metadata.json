@@ -1,0 +1,17 @@
+{
+  "skillId": "mapbox-mcp-devkit-patterns",
+  "source": "mapbox/mapbox-agent-skills",
+  "owner": "mapbox",
+  "repo": "mapbox-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mapbox/mapbox-agent-skills",
+    "skillId": "mapbox-mcp-devkit-patterns",
+    "name": "mapbox-mcp-devkit-patterns",
+    "installs": 876,
+    "owner": "mapbox",
+    "repo": "mapbox-agent-skills",
+    "githubUrl": "https://github.com/mapbox/mapbox-agent-skills",
+    "displayName": "Mapbox Mcp Devkit Patterns"
+  }
+}

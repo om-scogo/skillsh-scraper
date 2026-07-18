@@ -1,0 +1,17 @@
+{
+  "skillId": "websocket-engineer",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "websocket-engineer",
+    "name": "websocket-engineer",
+    "installs": 5058,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Websocket Engineer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "frame-liquid-bg-hero",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "frame-liquid-bg-hero",
+    "name": "frame-liquid-bg-hero",
+    "installs": 1463,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Frame Liquid Bg Hero"
+  }
+}

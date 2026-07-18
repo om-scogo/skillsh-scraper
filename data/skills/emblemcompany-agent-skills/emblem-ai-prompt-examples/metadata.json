@@ -1,0 +1,17 @@
+{
+  "skillId": "emblem-ai-prompt-examples",
+  "source": "emblemcompany/agent-skills",
+  "owner": "emblemcompany",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "emblemcompany/agent-skills",
+    "skillId": "emblem-ai-prompt-examples",
+    "name": "emblem-ai-prompt-examples",
+    "installs": 8757,
+    "owner": "emblemcompany",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/emblemcompany/agent-skills",
+    "displayName": "Emblem Ai Prompt Examples"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "powerpoint",
+  "source": "igorwarzocha/opencode-workflows",
+  "owner": "igorwarzocha",
+  "repo": "opencode-workflows",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "igorwarzocha/opencode-workflows",
+    "skillId": "powerpoint",
+    "name": "powerpoint",
+    "installs": 5134,
+    "owner": "igorwarzocha",
+    "repo": "opencode-workflows",
+    "githubUrl": "https://github.com/igorwarzocha/opencode-workflows",
+    "displayName": "Powerpoint"
+  }
+}

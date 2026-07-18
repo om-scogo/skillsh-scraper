@@ -1,0 +1,17 @@
+{
+  "skillId": "python-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "python-patterns",
+    "name": "python-patterns",
+    "installs": 1288,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Python Patterns"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-brainrot",
+  "source": "marks97/claude-brainrot",
+  "owner": "marks97",
+  "repo": "claude-brainrot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "marks97/claude-brainrot",
+    "skillId": "claude-brainrot",
+    "name": "claude-brainrot",
+    "installs": 3056,
+    "owner": "marks97",
+    "repo": "claude-brainrot",
+    "githubUrl": "https://github.com/marks97/claude-brainrot",
+    "displayName": "Claude Brainrot"
+  }
+}

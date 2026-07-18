@@ -1,0 +1,17 @@
+{
+  "skillId": "token-efficiency",
+  "source": "delphine-l/claude_global",
+  "owner": "delphine-l",
+  "repo": "claude_global",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "delphine-l/claude_global",
+    "skillId": "token-efficiency",
+    "name": "token-efficiency",
+    "installs": 1792,
+    "owner": "delphine-l",
+    "repo": "claude_global",
+    "githubUrl": "https://github.com/delphine-l/claude_global",
+    "displayName": "Token Efficiency"
+  }
+}

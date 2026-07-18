@@ -1,0 +1,17 @@
+{
+  "skillId": "csrf-cross-site-request-forgery",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "csrf-cross-site-request-forgery",
+    "name": "csrf-cross-site-request-forgery",
+    "installs": 1977,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Csrf Cross Site Request Forgery"
+  }
+}

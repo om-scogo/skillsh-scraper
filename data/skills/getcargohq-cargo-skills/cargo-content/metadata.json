@@ -1,0 +1,17 @@
+{
+  "skillId": "cargo-content",
+  "source": "getcargohq/cargo-skills",
+  "owner": "getcargohq",
+  "repo": "cargo-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getcargohq/cargo-skills",
+    "skillId": "cargo-content",
+    "name": "cargo-content",
+    "installs": 1665,
+    "owner": "getcargohq",
+    "repo": "cargo-skills",
+    "githubUrl": "https://github.com/getcargohq/cargo-skills",
+    "displayName": "Cargo Content"
+  }
+}

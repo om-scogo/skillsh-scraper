@@ -1,0 +1,17 @@
+{
+  "skillId": "memory-setup",
+  "source": "sundial-org/awesome-openclaw-skills",
+  "owner": "sundial-org",
+  "repo": "awesome-openclaw-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sundial-org/awesome-openclaw-skills",
+    "skillId": "memory-setup",
+    "name": "memory-setup",
+    "installs": 1495,
+    "owner": "sundial-org",
+    "repo": "awesome-openclaw-skills",
+    "githubUrl": "https://github.com/sundial-org/awesome-openclaw-skills",
+    "displayName": "Memory Setup"
+  }
+}

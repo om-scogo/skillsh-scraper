@@ -1,0 +1,17 @@
+{
+  "skillId": "rev-dex-dumper",
+  "source": "p4nda0s/reverse-skills",
+  "owner": "p4nda0s",
+  "repo": "reverse-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "p4nda0s/reverse-skills",
+    "skillId": "rev-dex-dumper",
+    "name": "rev-dex-dumper",
+    "installs": 1119,
+    "owner": "p4nda0s",
+    "repo": "reverse-skills",
+    "githubUrl": "https://github.com/p4nda0s/reverse-skills",
+    "displayName": "Rev Dex Dumper"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "substack-ghostwriting",
+  "source": "samber/cc-skills",
+  "owner": "samber",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills",
+    "skillId": "substack-ghostwriting",
+    "name": "substack-ghostwriting",
+    "installs": 1939,
+    "owner": "samber",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/samber/cc-skills",
+    "displayName": "Substack Ghostwriting"
+  }
+}

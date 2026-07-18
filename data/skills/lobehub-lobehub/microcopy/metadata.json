@@ -1,0 +1,17 @@
+{
+  "skillId": "microcopy",
+  "source": "lobehub/lobehub",
+  "owner": "lobehub",
+  "repo": "lobehub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobehub",
+    "skillId": "microcopy",
+    "name": "microcopy",
+    "installs": 1450,
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "githubUrl": "https://github.com/lobehub/lobehub",
+    "displayName": "Microcopy"
+  }
+}

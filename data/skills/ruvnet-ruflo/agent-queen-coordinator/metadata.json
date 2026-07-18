@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-queen-coordinator",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-queen-coordinator",
+    "name": "agent-queen-coordinator",
+    "installs": 977,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Queen Coordinator"
+  }
+}

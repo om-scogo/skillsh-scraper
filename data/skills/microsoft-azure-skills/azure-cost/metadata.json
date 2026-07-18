@@ -1,0 +1,17 @@
+{
+  "skillId": "azure-cost",
+  "source": "microsoft/azure-skills",
+  "owner": "microsoft",
+  "repo": "azure-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/azure-skills",
+    "skillId": "azure-cost",
+    "name": "azure-cost",
+    "installs": 259810,
+    "owner": "microsoft",
+    "repo": "azure-skills",
+    "githubUrl": "https://github.com/microsoft/azure-skills",
+    "displayName": "Azure Cost"
+  }
+}

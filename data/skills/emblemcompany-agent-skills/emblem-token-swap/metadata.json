@@ -1,0 +1,17 @@
+{
+  "skillId": "emblem-token-swap",
+  "source": "emblemcompany/agent-skills",
+  "owner": "emblemcompany",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "emblemcompany/agent-skills",
+    "skillId": "emblem-token-swap",
+    "name": "emblem-token-swap",
+    "installs": 8575,
+    "owner": "emblemcompany",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/emblemcompany/agent-skills",
+    "displayName": "Emblem Token Swap"
+  }
+}

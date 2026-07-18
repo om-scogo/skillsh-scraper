@@ -1,0 +1,17 @@
+{
+  "skillId": "product-lens",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "product-lens",
+    "name": "product-lens",
+    "installs": 1130,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Product Lens"
+  }
+}

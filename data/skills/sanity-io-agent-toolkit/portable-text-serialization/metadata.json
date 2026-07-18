@@ -1,0 +1,17 @@
+{
+  "skillId": "portable-text-serialization",
+  "source": "sanity-io/agent-toolkit",
+  "owner": "sanity-io",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sanity-io/agent-toolkit",
+    "skillId": "portable-text-serialization",
+    "name": "portable-text-serialization",
+    "installs": 1318,
+    "owner": "sanity-io",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/sanity-io/agent-toolkit",
+    "displayName": "Portable Text Serialization"
+  }
+}

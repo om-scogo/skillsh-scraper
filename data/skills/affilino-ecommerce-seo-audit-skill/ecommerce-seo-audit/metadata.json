@@ -1,0 +1,17 @@
+{
+  "skillId": "ecommerce-seo-audit",
+  "source": "affilino/ecommerce-seo-audit-skill",
+  "owner": "affilino",
+  "repo": "ecommerce-seo-audit-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affilino/ecommerce-seo-audit-skill",
+    "skillId": "ecommerce-seo-audit",
+    "name": "ecommerce-seo-audit",
+    "installs": 778,
+    "owner": "affilino",
+    "repo": "ecommerce-seo-audit-skill",
+    "githubUrl": "https://github.com/affilino/ecommerce-seo-audit-skill",
+    "displayName": "Ecommerce Seo Audit"
+  }
+}

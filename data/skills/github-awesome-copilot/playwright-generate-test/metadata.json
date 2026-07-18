@@ -1,0 +1,17 @@
+{
+  "skillId": "playwright-generate-test",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "playwright-generate-test",
+    "name": "playwright-generate-test",
+    "installs": 15747,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Playwright Generate Test"
+  }
+}

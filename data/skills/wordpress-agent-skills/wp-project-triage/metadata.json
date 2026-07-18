@@ -1,0 +1,17 @@
+{
+  "skillId": "wp-project-triage",
+  "source": "wordpress/agent-skills",
+  "owner": "wordpress",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wordpress/agent-skills",
+    "skillId": "wp-project-triage",
+    "name": "wp-project-triage",
+    "installs": 2637,
+    "owner": "wordpress",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/wordpress/agent-skills",
+    "displayName": "Wp Project Triage"
+  }
+}

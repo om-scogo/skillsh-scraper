@@ -1,0 +1,17 @@
+{
+  "skillId": "dbs-content-system",
+  "source": "dontbesilent2025/dbskill",
+  "owner": "dontbesilent2025",
+  "repo": "dbskill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dontbesilent2025/dbskill",
+    "skillId": "dbs-content-system",
+    "name": "dbs-content-system",
+    "installs": 7249,
+    "owner": "dontbesilent2025",
+    "repo": "dbskill",
+    "githubUrl": "https://github.com/dontbesilent2025/dbskill",
+    "displayName": "Dbs Content System"
+  }
+}

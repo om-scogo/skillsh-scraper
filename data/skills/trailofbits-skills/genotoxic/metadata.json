@@ -1,0 +1,17 @@
+{
+  "skillId": "genotoxic",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "genotoxic",
+    "name": "genotoxic",
+    "installs": 2327,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Genotoxic"
+  }
+}

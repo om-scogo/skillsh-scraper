@@ -1,0 +1,17 @@
+{
+  "skillId": "playwright",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "playwright",
+    "name": "playwright",
+    "installs": 879,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Playwright"
+  }
+}

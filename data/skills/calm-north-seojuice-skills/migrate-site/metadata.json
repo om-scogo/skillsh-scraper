@@ -1,0 +1,17 @@
+{
+  "skillId": "migrate-site",
+  "source": "calm-north/seojuice-skills",
+  "owner": "calm-north",
+  "repo": "seojuice-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "calm-north/seojuice-skills",
+    "skillId": "migrate-site",
+    "name": "migrate-site",
+    "installs": 2065,
+    "owner": "calm-north",
+    "repo": "seojuice-skills",
+    "githubUrl": "https://github.com/calm-north/seojuice-skills",
+    "displayName": "Migrate Site"
+  }
+}

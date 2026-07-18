@@ -1,0 +1,17 @@
+{
+  "skillId": "pestle-analysis",
+  "source": "phuryn/pm-skills",
+  "owner": "phuryn",
+  "repo": "pm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "phuryn/pm-skills",
+    "skillId": "pestle-analysis",
+    "name": "pestle-analysis",
+    "installs": 1712,
+    "owner": "phuryn",
+    "repo": "pm-skills",
+    "githubUrl": "https://github.com/phuryn/pm-skills",
+    "displayName": "Pestle Analysis"
+  }
+}

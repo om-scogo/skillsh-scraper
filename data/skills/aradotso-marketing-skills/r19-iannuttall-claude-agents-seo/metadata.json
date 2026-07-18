@@ -1,0 +1,17 @@
+{
+  "skillId": "r19-iannuttall-claude-agents-seo",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "r19-iannuttall-claude-agents-seo",
+    "name": "r19-iannuttall-claude-agents-seo",
+    "installs": 837,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "R19 Iannuttall Claude Agents Seo"
+  }
+}

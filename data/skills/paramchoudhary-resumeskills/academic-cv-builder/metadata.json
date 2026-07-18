@@ -1,0 +1,17 @@
+{
+  "skillId": "academic-cv-builder",
+  "source": "paramchoudhary/resumeskills",
+  "owner": "paramchoudhary",
+  "repo": "resumeskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paramchoudhary/resumeskills",
+    "skillId": "academic-cv-builder",
+    "name": "academic cv builder",
+    "installs": 1657,
+    "owner": "paramchoudhary",
+    "repo": "resumeskills",
+    "githubUrl": "https://github.com/paramchoudhary/resumeskills",
+    "displayName": "Academic Cv Builder"
+  }
+}

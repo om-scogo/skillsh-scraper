@@ -1,0 +1,17 @@
+{
+  "skillId": "prototype",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "prototype",
+    "name": "prototype",
+    "installs": 361052,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Prototype"
+  }
+}

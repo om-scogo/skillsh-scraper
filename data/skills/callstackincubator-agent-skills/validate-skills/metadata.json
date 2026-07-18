@@ -1,0 +1,17 @@
+{
+  "skillId": "validate-skills",
+  "source": "callstackincubator/agent-skills",
+  "owner": "callstackincubator",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "callstackincubator/agent-skills",
+    "skillId": "validate-skills",
+    "name": "validate-skills",
+    "installs": 4929,
+    "owner": "callstackincubator",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/callstackincubator/agent-skills",
+    "displayName": "Validate Skills"
+  }
+}

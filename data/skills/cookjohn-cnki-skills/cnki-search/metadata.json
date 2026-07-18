@@ -1,0 +1,17 @@
+{
+  "skillId": "cnki-search",
+  "source": "cookjohn/cnki-skills",
+  "owner": "cookjohn",
+  "repo": "cnki-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cookjohn/cnki-skills",
+    "skillId": "cnki-search",
+    "name": "cnki-search",
+    "installs": 923,
+    "owner": "cookjohn",
+    "repo": "cnki-skills",
+    "githubUrl": "https://github.com/cookjohn/cnki-skills",
+    "displayName": "Cnki Search"
+  }
+}

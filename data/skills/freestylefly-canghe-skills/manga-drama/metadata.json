@@ -1,0 +1,17 @@
+{
+  "skillId": "manga-drama",
+  "source": "freestylefly/canghe-skills",
+  "owner": "freestylefly",
+  "repo": "canghe-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freestylefly/canghe-skills",
+    "skillId": "manga-drama",
+    "name": "manga-drama",
+    "installs": 744,
+    "owner": "freestylefly",
+    "repo": "canghe-skills",
+    "githubUrl": "https://github.com/freestylefly/canghe-skills",
+    "displayName": "Manga Drama"
+  }
+}

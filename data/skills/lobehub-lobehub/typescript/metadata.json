@@ -1,0 +1,17 @@
+{
+  "skillId": "typescript",
+  "source": "lobehub/lobehub",
+  "owner": "lobehub",
+  "repo": "lobehub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobehub",
+    "skillId": "typescript",
+    "name": "typescript",
+    "installs": 2383,
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "githubUrl": "https://github.com/lobehub/lobehub",
+    "displayName": "Typescript"
+  }
+}

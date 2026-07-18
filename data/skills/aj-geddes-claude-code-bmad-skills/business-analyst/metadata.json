@@ -1,0 +1,17 @@
+{
+  "skillId": "business-analyst",
+  "source": "aj-geddes/claude-code-bmad-skills",
+  "owner": "aj-geddes",
+  "repo": "claude-code-bmad-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aj-geddes/claude-code-bmad-skills",
+    "skillId": "business-analyst",
+    "name": "business-analyst",
+    "installs": 2014,
+    "owner": "aj-geddes",
+    "repo": "claude-code-bmad-skills",
+    "githubUrl": "https://github.com/aj-geddes/claude-code-bmad-skills",
+    "displayName": "Business Analyst"
+  }
+}

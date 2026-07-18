@@ -1,0 +1,17 @@
+{
+  "skillId": "hygiene",
+  "source": "microsoft/vscode",
+  "owner": "microsoft",
+  "repo": "vscode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/vscode",
+    "skillId": "hygiene",
+    "name": "hygiene",
+    "installs": 1900,
+    "owner": "microsoft",
+    "repo": "vscode",
+    "githubUrl": "https://github.com/microsoft/vscode",
+    "displayName": "Hygiene"
+  }
+}

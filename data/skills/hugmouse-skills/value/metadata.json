@@ -1,0 +1,17 @@
+{
+  "skillId": "value",
+  "source": "hugmouse/skills",
+  "owner": "hugmouse",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hugmouse/skills",
+    "skillId": "value",
+    "name": "value",
+    "installs": 35504,
+    "owner": "hugmouse",
+    "repo": "skills",
+    "githubUrl": "https://github.com/hugmouse/skills",
+    "displayName": "Value"
+  }
+}

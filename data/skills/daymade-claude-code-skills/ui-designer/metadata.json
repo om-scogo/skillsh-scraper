@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-designer",
+  "source": "daymade/claude-code-skills",
+  "owner": "daymade",
+  "repo": "claude-code-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "daymade/claude-code-skills",
+    "skillId": "ui-designer",
+    "name": "ui-designer",
+    "installs": 880,
+    "owner": "daymade",
+    "repo": "claude-code-skills",
+    "githubUrl": "https://github.com/daymade/claude-code-skills",
+    "displayName": "Ui Designer"
+  }
+}

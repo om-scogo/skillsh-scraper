@@ -1,0 +1,17 @@
+{
+  "skillId": "python-configuration",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "python-configuration",
+    "name": "python-configuration",
+    "installs": 8501,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Python Configuration"
+  }
+}

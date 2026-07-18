@@ -1,0 +1,17 @@
+{
+  "skillId": "dt-dql-essentials",
+  "source": "dynatrace/dynatrace-for-ai",
+  "owner": "dynatrace",
+  "repo": "dynatrace-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dynatrace/dynatrace-for-ai",
+    "skillId": "dt-dql-essentials",
+    "name": "dt-dql-essentials",
+    "installs": 1359,
+    "owner": "dynatrace",
+    "repo": "dynatrace-for-ai",
+    "githubUrl": "https://github.com/dynatrace/dynatrace-for-ai",
+    "displayName": "Dt Dql Essentials"
+  }
+}

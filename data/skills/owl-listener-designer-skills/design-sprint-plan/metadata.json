@@ -1,0 +1,17 @@
+{
+  "skillId": "design-sprint-plan",
+  "source": "owl-listener/designer-skills",
+  "owner": "owl-listener",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "owl-listener/designer-skills",
+    "skillId": "design-sprint-plan",
+    "name": "design-sprint-plan",
+    "installs": 857,
+    "owner": "owl-listener",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/owl-listener/designer-skills",
+    "displayName": "Design Sprint Plan"
+  }
+}

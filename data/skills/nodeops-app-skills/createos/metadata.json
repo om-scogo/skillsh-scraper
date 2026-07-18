@@ -1,0 +1,17 @@
+{
+  "skillId": "createos",
+  "source": "nodeops-app/skills",
+  "owner": "nodeops-app",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nodeops-app/skills",
+    "skillId": "createos",
+    "name": "createos",
+    "installs": 1663,
+    "owner": "nodeops-app",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nodeops-app/skills",
+    "displayName": "Createos"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "windows-ui-automation",
+  "source": "martinholovsky/claude-skills-generator",
+  "owner": "martinholovsky",
+  "repo": "claude-skills-generator",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "martinholovsky/claude-skills-generator",
+    "skillId": "windows-ui-automation",
+    "name": "windows-ui-automation",
+    "installs": 1198,
+    "owner": "martinholovsky",
+    "repo": "claude-skills-generator",
+    "githubUrl": "https://github.com/martinholovsky/claude-skills-generator",
+    "displayName": "Windows Ui Automation"
+  }
+}

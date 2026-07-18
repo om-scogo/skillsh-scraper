@@ -1,0 +1,17 @@
+{
+  "skillId": "okx-growth-competition",
+  "source": "okx/onchainos-skills",
+  "owner": "okx",
+  "repo": "onchainos-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "okx/onchainos-skills",
+    "skillId": "okx-growth-competition",
+    "name": "okx-growth-competition",
+    "installs": 6162,
+    "owner": "okx",
+    "repo": "onchainos-skills",
+    "githubUrl": "https://github.com/okx/onchainos-skills",
+    "displayName": "Okx Growth Competition"
+  }
+}

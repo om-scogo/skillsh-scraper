@@ -1,0 +1,17 @@
+{
+  "skillId": "mapbox-android-patterns",
+  "source": "mapbox/mapbox-agent-skills",
+  "owner": "mapbox",
+  "repo": "mapbox-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mapbox/mapbox-agent-skills",
+    "skillId": "mapbox-android-patterns",
+    "name": "mapbox-android-patterns",
+    "installs": 849,
+    "owner": "mapbox",
+    "repo": "mapbox-agent-skills",
+    "githubUrl": "https://github.com/mapbox/mapbox-agent-skills",
+    "displayName": "Mapbox Android Patterns"
+  }
+}

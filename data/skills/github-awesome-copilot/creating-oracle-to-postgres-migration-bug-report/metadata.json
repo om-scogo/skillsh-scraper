@@ -1,0 +1,17 @@
+{
+  "skillId": "creating-oracle-to-postgres-migration-bug-report",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "creating-oracle-to-postgres-migration-bug-report",
+    "name": "creating-oracle-to-postgres-migration-bug-report",
+    "installs": 1677,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Creating Oracle To Postgres Migration Bug Report"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-to-vue",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "ui-to-vue",
+    "name": "ui-to-vue",
+    "installs": 1136,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Ui To Vue"
+  }
+}

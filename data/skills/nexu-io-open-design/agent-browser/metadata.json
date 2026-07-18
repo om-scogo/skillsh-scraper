@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-browser",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "agent-browser",
+    "name": "agent-browser",
+    "installs": 1650,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Agent Browser"
+  }
+}

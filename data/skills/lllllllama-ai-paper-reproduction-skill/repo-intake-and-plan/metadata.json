@@ -1,0 +1,17 @@
+{
+  "skillId": "repo-intake-and-plan",
+  "source": "lllllllama/ai-paper-reproduction-skill",
+  "owner": "lllllllama",
+  "repo": "ai-paper-reproduction-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lllllllama/ai-paper-reproduction-skill",
+    "skillId": "repo-intake-and-plan",
+    "name": "repo-intake-and-plan",
+    "installs": 139900,
+    "owner": "lllllllama",
+    "repo": "ai-paper-reproduction-skill",
+    "githubUrl": "https://github.com/lllllllama/ai-paper-reproduction-skill",
+    "displayName": "Repo Intake And Plan"
+  }
+}

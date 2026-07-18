@@ -1,0 +1,17 @@
+{
+  "skillId": "xiaohongshu-note-analyzer",
+  "source": "softbread/xiaohongshu-doctor",
+  "owner": "softbread",
+  "repo": "xiaohongshu-doctor",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softbread/xiaohongshu-doctor",
+    "skillId": "xiaohongshu-note-analyzer",
+    "name": "xiaohongshu-note-analyzer",
+    "installs": 2829,
+    "owner": "softbread",
+    "repo": "xiaohongshu-doctor",
+    "githubUrl": "https://github.com/softbread/xiaohongshu-doctor",
+    "displayName": "Xiaohongshu Note Analyzer"
+  }
+}

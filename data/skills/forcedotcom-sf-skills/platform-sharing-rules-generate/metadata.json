@@ -1,0 +1,17 @@
+{
+  "skillId": "platform-sharing-rules-generate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "platform-sharing-rules-generate",
+    "name": "platform-sharing-rules-generate",
+    "installs": 1484,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Platform Sharing Rules Generate"
+  }
+}

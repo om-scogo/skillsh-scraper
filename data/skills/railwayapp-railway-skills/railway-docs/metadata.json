@@ -1,0 +1,17 @@
+{
+  "skillId": "railway-docs",
+  "source": "railwayapp/railway-skills",
+  "owner": "railwayapp",
+  "repo": "railway-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "railwayapp/railway-skills",
+    "skillId": "railway-docs",
+    "name": "railway-docs",
+    "installs": 1069,
+    "owner": "railwayapp",
+    "repo": "railway-skills",
+    "githubUrl": "https://github.com/railwayapp/railway-skills",
+    "displayName": "Railway Docs"
+  }
+}

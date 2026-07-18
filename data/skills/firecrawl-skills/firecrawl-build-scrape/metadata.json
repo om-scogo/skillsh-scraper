@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-build-scrape",
+  "source": "firecrawl/skills",
+  "owner": "firecrawl",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/skills",
+    "skillId": "firecrawl-build-scrape",
+    "name": "firecrawl-build-scrape",
+    "installs": 55163,
+    "owner": "firecrawl",
+    "repo": "skills",
+    "githubUrl": "https://github.com/firecrawl/skills",
+    "displayName": "Firecrawl Build Scrape"
+  }
+}

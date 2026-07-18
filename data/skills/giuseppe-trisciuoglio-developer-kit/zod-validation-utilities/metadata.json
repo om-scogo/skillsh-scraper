@@ -1,0 +1,17 @@
+{
+  "skillId": "zod-validation-utilities",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "zod-validation-utilities",
+    "name": "zod-validation-utilities",
+    "installs": 1422,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Zod Validation Utilities"
+  }
+}

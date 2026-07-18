@@ -1,0 +1,17 @@
+{
+  "skillId": "product-hunt-launch",
+  "source": "qu-skills/skills",
+  "owner": "qu-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qu-skills/skills",
+    "skillId": "product-hunt-launch",
+    "name": "product-hunt-launch",
+    "installs": 9,
+    "owner": "qu-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/qu-skills/skills",
+    "displayName": "Product Hunt Launch"
+  }
+}

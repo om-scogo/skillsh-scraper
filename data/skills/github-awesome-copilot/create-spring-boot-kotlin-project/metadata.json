@@ -1,0 +1,17 @@
+{
+  "skillId": "create-spring-boot-kotlin-project",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "create-spring-boot-kotlin-project",
+    "name": "create-spring-boot-kotlin-project",
+    "installs": 8605,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Create Spring Boot Kotlin Project"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "attribution-setup",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "attribution-setup",
+    "name": "attribution-setup",
+    "installs": 765,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "Attribution Setup"
+  }
+}

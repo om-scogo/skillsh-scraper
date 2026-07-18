@@ -1,0 +1,17 @@
+{
+  "skillId": "okx-outcomes",
+  "source": "okx/agent-skills",
+  "owner": "okx",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "okx/agent-skills",
+    "skillId": "okx-outcomes",
+    "name": "okx-outcomes",
+    "installs": 1032,
+    "owner": "okx",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/okx/agent-skills",
+    "displayName": "Okx Outcomes"
+  }
+}

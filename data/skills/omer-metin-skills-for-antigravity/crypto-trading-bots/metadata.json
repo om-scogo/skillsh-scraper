@@ -1,0 +1,17 @@
+{
+  "skillId": "crypto-trading-bots",
+  "source": "omer-metin/skills-for-antigravity",
+  "owner": "omer-metin",
+  "repo": "skills-for-antigravity",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "omer-metin/skills-for-antigravity",
+    "skillId": "crypto-trading-bots",
+    "name": "crypto-trading-bots",
+    "installs": 817,
+    "owner": "omer-metin",
+    "repo": "skills-for-antigravity",
+    "githubUrl": "https://github.com/omer-metin/skills-for-antigravity",
+    "displayName": "Crypto Trading Bots"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "cass",
+  "source": "dicklesworthstone/coding_agent_session_search",
+  "owner": "dicklesworthstone",
+  "repo": "coding_agent_session_search",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dicklesworthstone/coding_agent_session_search",
+    "skillId": "cass",
+    "name": "cass",
+    "installs": 2238,
+    "owner": "dicklesworthstone",
+    "repo": "coding_agent_session_search",
+    "githubUrl": "https://github.com/dicklesworthstone/coding_agent_session_search",
+    "displayName": "Cass"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "data360-code-extension-generate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "data360-code-extension-generate",
+    "name": "data360-code-extension-generate",
+    "installs": 1268,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Data360 Code Extension Generate"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "wechat-claude-code",
+  "source": "wechat-gggithub/wechat-claude-code",
+  "owner": "wechat-gggithub",
+  "repo": "wechat-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wechat-gggithub/wechat-claude-code",
+    "skillId": "wechat-claude-code",
+    "name": "wechat-claude-code",
+    "installs": 749,
+    "owner": "wechat-gggithub",
+    "repo": "wechat-claude-code",
+    "githubUrl": "https://github.com/wechat-gggithub/wechat-claude-code",
+    "displayName": "Wechat Claude Code"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "istock-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "istock-downloader",
+    "name": "istock-downloader",
+    "installs": 958,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Istock Downloader"
+  }
+}

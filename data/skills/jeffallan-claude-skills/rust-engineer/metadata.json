@@ -1,0 +1,17 @@
+{
+  "skillId": "rust-engineer",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "rust-engineer",
+    "name": "rust-engineer",
+    "installs": 4509,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Rust Engineer"
+  }
+}

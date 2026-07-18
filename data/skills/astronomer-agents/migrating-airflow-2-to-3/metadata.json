@@ -1,0 +1,17 @@
+{
+  "skillId": "migrating-airflow-2-to-3",
+  "source": "astronomer/agents",
+  "owner": "astronomer",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astronomer/agents",
+    "skillId": "migrating-airflow-2-to-3",
+    "name": "migrating-airflow-2-to-3",
+    "installs": 920,
+    "owner": "astronomer",
+    "repo": "agents",
+    "githubUrl": "https://github.com/astronomer/agents",
+    "displayName": "Migrating Airflow 2 To 3"
+  }
+}

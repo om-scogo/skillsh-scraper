@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-creator",
+  "source": "langchain-ai/deepagents",
+  "owner": "langchain-ai",
+  "repo": "deepagents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langchain-ai/deepagents",
+    "skillId": "skill-creator",
+    "name": "skill-creator",
+    "installs": 1037,
+    "owner": "langchain-ai",
+    "repo": "deepagents",
+    "githubUrl": "https://github.com/langchain-ai/deepagents",
+    "displayName": "Skill Creator"
+  }
+}

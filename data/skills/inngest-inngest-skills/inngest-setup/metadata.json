@@ -1,0 +1,17 @@
+{
+  "skillId": "inngest-setup",
+  "source": "inngest/inngest-skills",
+  "owner": "inngest",
+  "repo": "inngest-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "inngest/inngest-skills",
+    "skillId": "inngest-setup",
+    "name": "inngest-setup",
+    "installs": 2937,
+    "owner": "inngest",
+    "repo": "inngest-skills",
+    "githubUrl": "https://github.com/inngest/inngest-skills",
+    "displayName": "Inngest Setup"
+  }
+}

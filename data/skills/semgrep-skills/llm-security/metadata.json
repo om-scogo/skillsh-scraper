@@ -1,0 +1,17 @@
+{
+  "skillId": "llm-security",
+  "source": "semgrep/skills",
+  "owner": "semgrep",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "semgrep/skills",
+    "skillId": "llm-security",
+    "name": "llm-security",
+    "installs": 875,
+    "owner": "semgrep",
+    "repo": "skills",
+    "githubUrl": "https://github.com/semgrep/skills",
+    "displayName": "Llm Security"
+  }
+}

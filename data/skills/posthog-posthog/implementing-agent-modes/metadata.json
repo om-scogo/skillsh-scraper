@@ -1,0 +1,17 @@
+{
+  "skillId": "implementing-agent-modes",
+  "source": "posthog/posthog",
+  "owner": "posthog",
+  "repo": "posthog",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "posthog/posthog",
+    "skillId": "implementing-agent-modes",
+    "name": "implementing-agent-modes",
+    "installs": 1907,
+    "owner": "posthog",
+    "repo": "posthog",
+    "githubUrl": "https://github.com/posthog/posthog",
+    "displayName": "Implementing Agent Modes"
+  }
+}

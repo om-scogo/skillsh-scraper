@@ -1,0 +1,17 @@
+{
+  "skillId": "multi-search-engine",
+  "source": "aaaaqwq/claude-code-skills",
+  "owner": "aaaaqwq",
+  "repo": "claude-code-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aaaaqwq/claude-code-skills",
+    "skillId": "multi-search-engine",
+    "name": "multi-search-engine",
+    "installs": 2675,
+    "owner": "aaaaqwq",
+    "repo": "claude-code-skills",
+    "githubUrl": "https://github.com/aaaaqwq/claude-code-skills",
+    "displayName": "Multi Search Engine"
+  }
+}

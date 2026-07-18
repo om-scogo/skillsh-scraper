@@ -1,0 +1,17 @@
+{
+  "skillId": "axi",
+  "source": "kunchenguid/axi",
+  "owner": "kunchenguid",
+  "repo": "axi",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kunchenguid/axi",
+    "skillId": "axi",
+    "name": "axi",
+    "installs": 2522,
+    "owner": "kunchenguid",
+    "repo": "axi",
+    "githubUrl": "https://github.com/kunchenguid/axi",
+    "displayName": "Axi"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "run-models",
+  "source": "replicate/skills",
+  "owner": "replicate",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "replicate/skills",
+    "skillId": "run-models",
+    "name": "run-models",
+    "installs": 1089,
+    "owner": "replicate",
+    "repo": "skills",
+    "githubUrl": "https://github.com/replicate/skills",
+    "displayName": "Run Models"
+  }
+}

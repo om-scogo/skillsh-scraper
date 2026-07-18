@@ -1,0 +1,17 @@
+{
+  "skillId": "deep-research",
+  "source": "199-biotechnologies/claude-deep-research-skill",
+  "owner": "199-biotechnologies",
+  "repo": "claude-deep-research-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "199-biotechnologies/claude-deep-research-skill",
+    "skillId": "deep-research",
+    "name": "deep-research",
+    "installs": 8827,
+    "owner": "199-biotechnologies",
+    "repo": "claude-deep-research-skill",
+    "githubUrl": "https://github.com/199-biotechnologies/claude-deep-research-skill",
+    "displayName": "Deep Research"
+  }
+}

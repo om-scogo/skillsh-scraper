@@ -1,0 +1,17 @@
+{
+  "skillId": "deep-research",
+  "source": "lingzhi227/agent-research-skills",
+  "owner": "lingzhi227",
+  "repo": "agent-research-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lingzhi227/agent-research-skills",
+    "skillId": "deep-research",
+    "name": "deep-research",
+    "installs": 1270,
+    "owner": "lingzhi227",
+    "repo": "agent-research-skills",
+    "githubUrl": "https://github.com/lingzhi227/agent-research-skills",
+    "displayName": "Deep Research"
+  }
+}

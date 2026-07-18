@@ -1,0 +1,17 @@
+{
+  "skillId": "wp-plugin-directory-guidelines",
+  "source": "wordpress/agent-skills",
+  "owner": "wordpress",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wordpress/agent-skills",
+    "skillId": "wp-plugin-directory-guidelines",
+    "name": "wp-plugin-directory-guidelines",
+    "installs": 1463,
+    "owner": "wordpress",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/wordpress/agent-skills",
+    "displayName": "Wp Plugin Directory Guidelines"
+  }
+}

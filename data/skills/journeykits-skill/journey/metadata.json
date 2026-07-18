@@ -1,0 +1,17 @@
+{
+  "skillId": "journey",
+  "source": "journeykits/skill",
+  "owner": "journeykits",
+  "repo": "skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "journeykits/skill",
+    "skillId": "journey",
+    "name": "journey",
+    "installs": 828,
+    "owner": "journeykits",
+    "repo": "skill",
+    "githubUrl": "https://github.com/journeykits/skill",
+    "displayName": "Journey"
+  }
+}

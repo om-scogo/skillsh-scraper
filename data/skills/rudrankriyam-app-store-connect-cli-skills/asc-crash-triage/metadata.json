@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-crash-triage",
+  "source": "rudrankriyam/app-store-connect-cli-skills",
+  "owner": "rudrankriyam",
+  "repo": "app-store-connect-cli-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rudrankriyam/app-store-connect-cli-skills",
+    "skillId": "asc-crash-triage",
+    "name": "asc-crash-triage",
+    "installs": 1664,
+    "owner": "rudrankriyam",
+    "repo": "app-store-connect-cli-skills",
+    "githubUrl": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+    "displayName": "Asc Crash Triage"
+  }
+}

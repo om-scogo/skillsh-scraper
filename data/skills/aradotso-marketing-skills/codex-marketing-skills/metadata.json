@@ -1,0 +1,17 @@
+{
+  "skillId": "codex-marketing-skills",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "codex-marketing-skills",
+    "name": "codex-marketing-skills",
+    "installs": 818,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Codex Marketing Skills"
+  }
+}

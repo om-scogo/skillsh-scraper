@@ -1,0 +1,17 @@
+{
+  "skillId": "k-skill-cleaner",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "k-skill-cleaner",
+    "name": "k-skill-cleaner",
+    "installs": 1864,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "K Skill Cleaner"
+  }
+}

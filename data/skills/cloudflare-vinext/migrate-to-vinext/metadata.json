@@ -1,0 +1,17 @@
+{
+  "skillId": "migrate-to-vinext",
+  "source": "cloudflare/vinext",
+  "owner": "cloudflare",
+  "repo": "vinext",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudflare/vinext",
+    "skillId": "migrate-to-vinext",
+    "name": "migrate-to-vinext",
+    "installs": 4183,
+    "owner": "cloudflare",
+    "repo": "vinext",
+    "githubUrl": "https://github.com/cloudflare/vinext",
+    "displayName": "Migrate To Vinext"
+  }
+}

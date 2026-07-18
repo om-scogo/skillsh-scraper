@@ -1,0 +1,17 @@
+{
+  "skillId": "directory-submissions",
+  "source": "coreyhaines31/marketingskills",
+  "owner": "coreyhaines31",
+  "repo": "marketingskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coreyhaines31/marketingskills",
+    "skillId": "directory-submissions",
+    "name": "directory-submissions",
+    "installs": 44201,
+    "owner": "coreyhaines31",
+    "repo": "marketingskills",
+    "githubUrl": "https://github.com/coreyhaines31/marketingskills",
+    "displayName": "Directory Submissions"
+  }
+}

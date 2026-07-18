@@ -1,0 +1,17 @@
+{
+  "skillId": "codebase-onboarding",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "codebase-onboarding",
+    "name": "codebase-onboarding",
+    "installs": 1183,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Codebase Onboarding"
+  }
+}

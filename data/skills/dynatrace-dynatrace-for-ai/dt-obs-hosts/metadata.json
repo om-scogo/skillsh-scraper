@@ -1,0 +1,17 @@
+{
+  "skillId": "dt-obs-hosts",
+  "source": "dynatrace/dynatrace-for-ai",
+  "owner": "dynatrace",
+  "repo": "dynatrace-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dynatrace/dynatrace-for-ai",
+    "skillId": "dt-obs-hosts",
+    "name": "dt-obs-hosts",
+    "installs": 1245,
+    "owner": "dynatrace",
+    "repo": "dynatrace-for-ai",
+    "githubUrl": "https://github.com/dynatrace/dynatrace-for-ai",
+    "displayName": "Dt Obs Hosts"
+  }
+}

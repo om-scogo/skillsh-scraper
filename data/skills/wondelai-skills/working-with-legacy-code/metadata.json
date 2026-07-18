@@ -1,0 +1,17 @@
+{
+  "skillId": "working-with-legacy-code",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "working-with-legacy-code",
+    "name": "working-with-legacy-code",
+    "installs": 828,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Working With Legacy Code"
+  }
+}

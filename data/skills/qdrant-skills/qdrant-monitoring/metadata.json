@@ -1,0 +1,17 @@
+{
+  "skillId": "qdrant-monitoring",
+  "source": "qdrant/skills",
+  "owner": "qdrant",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qdrant/skills",
+    "skillId": "qdrant-monitoring",
+    "name": "qdrant-monitoring",
+    "installs": 1161,
+    "owner": "qdrant",
+    "repo": "skills",
+    "githubUrl": "https://github.com/qdrant/skills",
+    "displayName": "Qdrant Monitoring"
+  }
+}

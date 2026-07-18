@@ -1,0 +1,17 @@
+{
+  "skillId": "golang-pkg-go-dev",
+  "source": "samber/cc-skills-golang",
+  "owner": "samber",
+  "repo": "cc-skills-golang",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills-golang",
+    "skillId": "golang-pkg-go-dev",
+    "name": "golang-pkg-go-dev",
+    "installs": 1794,
+    "owner": "samber",
+    "repo": "cc-skills-golang",
+    "githubUrl": "https://github.com/samber/cc-skills-golang",
+    "displayName": "Golang Pkg Go Dev"
+  }
+}

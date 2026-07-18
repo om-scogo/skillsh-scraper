@@ -1,0 +1,17 @@
+{
+  "skillId": "ux-designer",
+  "source": "szilu/ux-designer-skill",
+  "owner": "szilu",
+  "repo": "ux-designer-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "szilu/ux-designer-skill",
+    "skillId": "ux-designer",
+    "name": "ux-designer",
+    "installs": 861,
+    "owner": "szilu",
+    "repo": "ux-designer-skill",
+    "githubUrl": "https://github.com/szilu/ux-designer-skill",
+    "displayName": "Ux Designer"
+  }
+}

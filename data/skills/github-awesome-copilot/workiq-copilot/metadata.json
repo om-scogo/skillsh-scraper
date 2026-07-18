@@ -1,0 +1,17 @@
+{
+  "skillId": "workiq-copilot",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "workiq-copilot",
+    "name": "workiq-copilot",
+    "installs": 8721,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Workiq Copilot"
+  }
+}

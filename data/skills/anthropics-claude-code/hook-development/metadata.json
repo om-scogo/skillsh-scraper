@@ -1,0 +1,17 @@
+{
+  "skillId": "hook-development",
+  "source": "anthropics/claude-code",
+  "owner": "anthropics",
+  "repo": "claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/claude-code",
+    "skillId": "hook-development",
+    "name": "hook development",
+    "installs": 11312,
+    "owner": "anthropics",
+    "repo": "claude-code",
+    "githubUrl": "https://github.com/anthropics/claude-code",
+    "displayName": "Hook Development"
+  }
+}

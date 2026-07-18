@@ -1,0 +1,17 @@
+{
+  "skillId": "make-pr",
+  "source": "remotion-dev/remotion",
+  "owner": "remotion-dev",
+  "repo": "remotion",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "remotion-dev/remotion",
+    "skillId": "make-pr",
+    "name": "make-pr",
+    "installs": 1005,
+    "owner": "remotion-dev",
+    "repo": "remotion",
+    "githubUrl": "https://github.com/remotion-dev/remotion",
+    "displayName": "Make Pr"
+  }
+}

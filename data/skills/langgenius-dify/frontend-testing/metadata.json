@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-testing",
+  "source": "langgenius/dify",
+  "owner": "langgenius",
+  "repo": "dify",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langgenius/dify",
+    "skillId": "frontend-testing",
+    "name": "frontend-testing",
+    "installs": 2970,
+    "owner": "langgenius",
+    "repo": "dify",
+    "githubUrl": "https://github.com/langgenius/dify",
+    "displayName": "Frontend Testing"
+  }
+}

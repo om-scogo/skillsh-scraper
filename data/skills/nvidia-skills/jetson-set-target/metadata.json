@@ -1,0 +1,17 @@
+{
+  "skillId": "jetson-set-target",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "jetson-set-target",
+    "name": "jetson-set-target",
+    "installs": 821,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Jetson Set Target"
+  }
+}

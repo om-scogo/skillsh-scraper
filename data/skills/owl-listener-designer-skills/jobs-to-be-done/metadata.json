@@ -1,0 +1,17 @@
+{
+  "skillId": "jobs-to-be-done",
+  "source": "owl-listener/designer-skills",
+  "owner": "owl-listener",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "owl-listener/designer-skills",
+    "skillId": "jobs-to-be-done",
+    "name": "jobs-to-be-done",
+    "installs": 863,
+    "owner": "owl-listener",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/owl-listener/designer-skills",
+    "displayName": "Jobs To Be Done"
+  }
+}

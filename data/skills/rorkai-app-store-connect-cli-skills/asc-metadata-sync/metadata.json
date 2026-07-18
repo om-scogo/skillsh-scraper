@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-metadata-sync",
+  "source": "rorkai/app-store-connect-cli-skills",
+  "owner": "rorkai",
+  "repo": "app-store-connect-cli-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rorkai/app-store-connect-cli-skills",
+    "skillId": "asc-metadata-sync",
+    "name": "asc-metadata-sync",
+    "installs": 1794,
+    "owner": "rorkai",
+    "repo": "app-store-connect-cli-skills",
+    "githubUrl": "https://github.com/rorkai/app-store-connect-cli-skills",
+    "displayName": "Asc Metadata Sync"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-android-sdk",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-android-sdk",
+    "name": "sentry-android-sdk",
+    "installs": 1770,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry Android Sdk"
+  }
+}

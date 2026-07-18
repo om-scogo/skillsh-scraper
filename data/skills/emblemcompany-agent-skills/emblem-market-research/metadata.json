@@ -1,0 +1,17 @@
+{
+  "skillId": "emblem-market-research",
+  "source": "emblemcompany/agent-skills",
+  "owner": "emblemcompany",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "emblemcompany/agent-skills",
+    "skillId": "emblem-market-research",
+    "name": "emblem-market-research",
+    "installs": 8796,
+    "owner": "emblemcompany",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/emblemcompany/agent-skills",
+    "displayName": "Emblem Market Research"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "code-review",
+  "source": "coderabbitai/skills",
+  "owner": "coderabbitai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coderabbitai/skills",
+    "skillId": "code-review",
+    "name": "code-review",
+    "installs": 7996,
+    "owner": "coderabbitai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/coderabbitai/skills",
+    "displayName": "Code Review"
+  }
+}

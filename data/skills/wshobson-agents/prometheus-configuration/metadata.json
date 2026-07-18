@@ -1,0 +1,17 @@
+{
+  "skillId": "prometheus-configuration",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "prometheus-configuration",
+    "name": "prometheus-configuration",
+    "installs": 8448,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Prometheus Configuration"
+  }
+}

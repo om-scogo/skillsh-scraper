@@ -1,0 +1,17 @@
+{
+  "skillId": "executing-plans",
+  "source": "obra/superpowers",
+  "owner": "obra",
+  "repo": "superpowers",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/superpowers",
+    "skillId": "executing-plans",
+    "name": "executing-plans",
+    "installs": 156150,
+    "owner": "obra",
+    "repo": "superpowers",
+    "githubUrl": "https://github.com/obra/superpowers",
+    "displayName": "Executing Plans"
+  }
+}

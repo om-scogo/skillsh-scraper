@@ -1,0 +1,17 @@
+{
+  "skillId": "postgresql-code-review",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "postgresql-code-review",
+    "name": "postgresql-code-review",
+    "installs": 11216,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Postgresql Code Review"
+  }
+}

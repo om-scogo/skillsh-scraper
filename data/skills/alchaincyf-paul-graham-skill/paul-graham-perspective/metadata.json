@@ -1,0 +1,17 @@
+{
+  "skillId": "paul-graham-perspective",
+  "source": "alchaincyf/paul-graham-skill",
+  "owner": "alchaincyf",
+  "repo": "paul-graham-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/paul-graham-skill",
+    "skillId": "paul-graham-perspective",
+    "name": "paul-graham-perspective",
+    "installs": 1892,
+    "owner": "alchaincyf",
+    "repo": "paul-graham-skill",
+    "githubUrl": "https://github.com/alchaincyf/paul-graham-skill",
+    "displayName": "Paul Graham Perspective"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "apify-sdk-integration",
+  "source": "apify/agent-skills",
+  "owner": "apify",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apify/agent-skills",
+    "skillId": "apify-sdk-integration",
+    "name": "apify-sdk-integration",
+    "installs": 1988,
+    "owner": "apify",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/apify/agent-skills",
+    "displayName": "Apify Sdk Integration"
+  }
+}

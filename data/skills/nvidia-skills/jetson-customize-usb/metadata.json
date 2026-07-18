@@ -1,0 +1,17 @@
+{
+  "skillId": "jetson-customize-usb",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "jetson-customize-usb",
+    "name": "jetson-customize-usb",
+    "installs": 832,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Jetson Customize Usb"
+  }
+}

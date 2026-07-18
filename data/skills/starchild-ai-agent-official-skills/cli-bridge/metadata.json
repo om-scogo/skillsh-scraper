@@ -1,0 +1,17 @@
+{
+  "skillId": "cli-bridge",
+  "source": "starchild-ai-agent/official-skills",
+  "owner": "starchild-ai-agent",
+  "repo": "official-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "starchild-ai-agent/official-skills",
+    "skillId": "cli-bridge",
+    "name": "cli-bridge",
+    "installs": 1584,
+    "owner": "starchild-ai-agent",
+    "repo": "official-skills",
+    "githubUrl": "https://github.com/starchild-ai-agent/official-skills",
+    "displayName": "Cli Bridge"
+  }
+}

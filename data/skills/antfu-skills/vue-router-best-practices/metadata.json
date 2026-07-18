@@ -1,0 +1,17 @@
+{
+  "skillId": "vue-router-best-practices",
+  "source": "antfu/skills",
+  "owner": "antfu",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antfu/skills",
+    "skillId": "vue-router-best-practices",
+    "name": "vue-router-best-practices",
+    "installs": 16347,
+    "owner": "antfu",
+    "repo": "skills",
+    "githubUrl": "https://github.com/antfu/skills",
+    "displayName": "Vue Router Best Practices"
+  }
+}

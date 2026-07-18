@@ -1,0 +1,17 @@
+{
+  "skillId": "trace",
+  "source": "boshu2/agentops",
+  "owner": "boshu2",
+  "repo": "agentops",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "boshu2/agentops",
+    "skillId": "trace",
+    "name": "trace",
+    "installs": 844,
+    "owner": "boshu2",
+    "repo": "agentops",
+    "githubUrl": "https://github.com/boshu2/agentops",
+    "displayName": "Trace"
+  }
+}

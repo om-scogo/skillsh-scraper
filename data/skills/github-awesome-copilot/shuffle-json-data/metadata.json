@@ -1,0 +1,17 @@
+{
+  "skillId": "shuffle-json-data",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "shuffle-json-data",
+    "name": "shuffle-json-data",
+    "installs": 8574,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Shuffle Json Data"
+  }
+}

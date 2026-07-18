@@ -1,0 +1,17 @@
+{
+  "skillId": "setup",
+  "source": "parallel-web/parallel-agent-skills",
+  "owner": "parallel-web",
+  "repo": "parallel-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "parallel-web/parallel-agent-skills",
+    "skillId": "setup",
+    "name": "setup",
+    "installs": 7536,
+    "owner": "parallel-web",
+    "repo": "parallel-agent-skills",
+    "githubUrl": "https://github.com/parallel-web/parallel-agent-skills",
+    "displayName": "Setup"
+  }
+}

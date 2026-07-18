@@ -1,0 +1,17 @@
+{
+  "skillId": "aiq-research",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "aiq-research",
+    "name": "aiq-research",
+    "installs": 1937,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Aiq Research"
+  }
+}

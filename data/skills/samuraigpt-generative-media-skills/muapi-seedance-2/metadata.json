@@ -1,0 +1,17 @@
+{
+  "skillId": "muapi-seedance-2",
+  "source": "samuraigpt/generative-media-skills",
+  "owner": "samuraigpt",
+  "repo": "generative-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samuraigpt/generative-media-skills",
+    "skillId": "muapi-seedance-2",
+    "name": "muapi-seedance-2",
+    "installs": 1544,
+    "owner": "samuraigpt",
+    "repo": "generative-media-skills",
+    "githubUrl": "https://github.com/samuraigpt/generative-media-skills",
+    "displayName": "Muapi Seedance 2"
+  }
+}

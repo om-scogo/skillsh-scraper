@@ -1,0 +1,17 @@
+{
+  "skillId": "find-bugs",
+  "source": "getsentry/skills",
+  "owner": "getsentry",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/skills",
+    "skillId": "find-bugs",
+    "name": "find-bugs",
+    "installs": 4198,
+    "owner": "getsentry",
+    "repo": "skills",
+    "githubUrl": "https://github.com/getsentry/skills",
+    "displayName": "Find Bugs"
+  }
+}

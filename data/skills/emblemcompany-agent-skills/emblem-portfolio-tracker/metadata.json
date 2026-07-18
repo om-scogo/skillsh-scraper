@@ -1,0 +1,17 @@
+{
+  "skillId": "emblem-portfolio-tracker",
+  "source": "emblemcompany/agent-skills",
+  "owner": "emblemcompany",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "emblemcompany/agent-skills",
+    "skillId": "emblem-portfolio-tracker",
+    "name": "emblem-portfolio-tracker",
+    "installs": 8859,
+    "owner": "emblemcompany",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/emblemcompany/agent-skills",
+    "displayName": "Emblem Portfolio Tracker"
+  }
+}

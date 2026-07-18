@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-testflight-orchestration",
+  "source": "rudrankriyam/asc-skills",
+  "owner": "rudrankriyam",
+  "repo": "asc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rudrankriyam/asc-skills",
+    "skillId": "asc-testflight-orchestration",
+    "name": "asc-testflight-orchestration",
+    "installs": 1181,
+    "owner": "rudrankriyam",
+    "repo": "asc-skills",
+    "githubUrl": "https://github.com/rudrankriyam/asc-skills",
+    "displayName": "Asc Testflight Orchestration"
+  }
+}

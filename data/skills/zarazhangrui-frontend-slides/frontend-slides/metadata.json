@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-slides",
+  "source": "zarazhangrui/frontend-slides",
+  "owner": "zarazhangrui",
+  "repo": "frontend-slides",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zarazhangrui/frontend-slides",
+    "skillId": "frontend-slides",
+    "name": "frontend-slides",
+    "installs": 743,
+    "owner": "zarazhangrui",
+    "repo": "frontend-slides",
+    "githubUrl": "https://github.com/zarazhangrui/frontend-slides",
+    "displayName": "Frontend Slides"
+  }
+}

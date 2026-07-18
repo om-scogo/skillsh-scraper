@@ -1,0 +1,17 @@
+{
+  "skillId": "self-improving-agent",
+  "source": "charon-fan/agent-playbook",
+  "owner": "charon-fan",
+  "repo": "agent-playbook",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "charon-fan/agent-playbook",
+    "skillId": "self-improving-agent",
+    "name": "self-improving-agent",
+    "installs": 31949,
+    "owner": "charon-fan",
+    "repo": "agent-playbook",
+    "githubUrl": "https://github.com/charon-fan/agent-playbook",
+    "displayName": "Self Improving Agent"
+  }
+}

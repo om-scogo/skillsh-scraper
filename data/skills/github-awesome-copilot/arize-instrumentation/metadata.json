@@ -1,0 +1,17 @@
+{
+  "skillId": "arize-instrumentation",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "arize-instrumentation",
+    "name": "arize-instrumentation",
+    "installs": 988,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Arize Instrumentation"
+  }
+}

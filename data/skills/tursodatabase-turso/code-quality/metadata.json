@@ -1,0 +1,17 @@
+{
+  "skillId": "code-quality",
+  "source": "tursodatabase/turso",
+  "owner": "tursodatabase",
+  "repo": "turso",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tursodatabase/turso",
+    "skillId": "code-quality",
+    "name": "code-quality",
+    "installs": 1375,
+    "owner": "tursodatabase",
+    "repo": "turso",
+    "githubUrl": "https://github.com/tursodatabase/turso",
+    "displayName": "Code Quality"
+  }
+}

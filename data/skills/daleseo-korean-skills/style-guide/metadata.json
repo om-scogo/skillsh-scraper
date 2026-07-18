@@ -1,0 +1,17 @@
+{
+  "skillId": "style-guide",
+  "source": "daleseo/korean-skills",
+  "owner": "daleseo",
+  "repo": "korean-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "daleseo/korean-skills",
+    "skillId": "style-guide",
+    "name": "style-guide",
+    "installs": 1202,
+    "owner": "daleseo",
+    "repo": "korean-skills",
+    "githubUrl": "https://github.com/daleseo/korean-skills",
+    "displayName": "Style Guide"
+  }
+}

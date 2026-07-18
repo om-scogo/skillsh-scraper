@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-north-star-metrics",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "writing-north-star-metrics",
+    "name": "writing-north-star-metrics",
+    "installs": 1652,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Writing North Star Metrics"
+  }
+}

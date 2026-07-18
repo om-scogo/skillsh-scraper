@@ -1,0 +1,17 @@
+{
+  "skillId": "reference-design",
+  "source": "diodeinc/pcb",
+  "owner": "diodeinc",
+  "repo": "pcb",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "diodeinc/pcb",
+    "skillId": "reference-design",
+    "name": "reference-design",
+    "installs": 799,
+    "owner": "diodeinc",
+    "repo": "pcb",
+    "githubUrl": "https://github.com/diodeinc/pcb",
+    "displayName": "Reference Design"
+  }
+}

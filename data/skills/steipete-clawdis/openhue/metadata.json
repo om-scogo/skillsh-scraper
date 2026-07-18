@@ -1,0 +1,17 @@
+{
+  "skillId": "openhue",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "openhue",
+    "name": "openhue",
+    "installs": 2708,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Openhue"
+  }
+}

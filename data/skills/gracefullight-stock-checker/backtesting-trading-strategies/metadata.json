@@ -1,0 +1,17 @@
+{
+  "skillId": "backtesting-trading-strategies",
+  "source": "gracefullight/stock-checker",
+  "owner": "gracefullight",
+  "repo": "stock-checker",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gracefullight/stock-checker",
+    "skillId": "backtesting-trading-strategies",
+    "name": "backtesting-trading-strategies",
+    "installs": 1829,
+    "owner": "gracefullight",
+    "repo": "stock-checker",
+    "githubUrl": "https://github.com/gracefullight/stock-checker",
+    "displayName": "Backtesting Trading Strategies"
+  }
+}

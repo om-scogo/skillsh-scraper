@@ -1,0 +1,17 @@
+{
+  "skillId": "threat-mitigation-mapping",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "threat-mitigation-mapping",
+    "name": "threat-mitigation-mapping",
+    "installs": 8648,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Threat Mitigation Mapping"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "a2ui-renderer",
+  "source": "copilotkit/copilotkit",
+  "owner": "copilotkit",
+  "repo": "copilotkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "copilotkit/copilotkit",
+    "skillId": "a2ui-renderer",
+    "name": "a2ui-renderer",
+    "installs": 1382,
+    "owner": "copilotkit",
+    "repo": "copilotkit",
+    "githubUrl": "https://github.com/copilotkit/copilotkit",
+    "displayName": "A2ui Renderer"
+  }
+}

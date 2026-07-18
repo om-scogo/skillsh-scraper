@@ -1,0 +1,17 @@
+{
+  "skillId": "ctf-forensics",
+  "source": "ljagiello/ctf-skills",
+  "owner": "ljagiello",
+  "repo": "ctf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ljagiello/ctf-skills",
+    "skillId": "ctf-forensics",
+    "name": "ctf-forensics",
+    "installs": 5648,
+    "owner": "ljagiello",
+    "repo": "ctf-skills",
+    "githubUrl": "https://github.com/ljagiello/ctf-skills",
+    "displayName": "Ctf Forensics"
+  }
+}

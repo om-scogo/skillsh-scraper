@@ -1,0 +1,17 @@
+{
+  "skillId": "holoscan-install-container",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "holoscan-install-container",
+    "name": "holoscan-install-container",
+    "installs": 1491,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Holoscan Install Container"
+  }
+}

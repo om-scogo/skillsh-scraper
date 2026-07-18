@@ -1,0 +1,17 @@
+{
+  "skillId": "arbitrary-write-to-rce",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "arbitrary-write-to-rce",
+    "name": "arbitrary-write-to-rce",
+    "installs": 1915,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Arbitrary Write To Rce"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "used-car-price-search",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "used-car-price-search",
+    "name": "used-car-price-search",
+    "installs": 3193,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Used Car Price Search"
+  }
+}

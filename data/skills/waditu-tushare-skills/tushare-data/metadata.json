@@ -1,0 +1,17 @@
+{
+  "skillId": "tushare-data",
+  "source": "waditu-tushare/skills",
+  "owner": "waditu-tushare",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "waditu-tushare/skills",
+    "skillId": "tushare-data",
+    "name": "tushare-data",
+    "installs": 1186,
+    "owner": "waditu-tushare",
+    "repo": "skills",
+    "githubUrl": "https://github.com/waditu-tushare/skills",
+    "displayName": "Tushare Data"
+  }
+}

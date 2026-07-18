@@ -1,0 +1,17 @@
+{
+  "skillId": "qa-test-planner",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "qa-test-planner",
+    "name": "qa-test-planner",
+    "installs": 4011,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Qa Test Planner"
+  }
+}

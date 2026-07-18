@@ -1,0 +1,17 @@
+{
+  "skillId": "eas-hosting",
+  "source": "expo/skills",
+  "owner": "expo",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "expo/skills",
+    "skillId": "eas-hosting",
+    "name": "eas-hosting",
+    "installs": 1282,
+    "owner": "expo",
+    "repo": "skills",
+    "githubUrl": "https://github.com/expo/skills",
+    "displayName": "Eas Hosting"
+  }
+}

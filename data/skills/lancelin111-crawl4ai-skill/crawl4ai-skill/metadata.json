@@ -1,0 +1,17 @@
+{
+  "skillId": "crawl4ai-skill",
+  "source": "lancelin111/crawl4ai-skill",
+  "owner": "lancelin111",
+  "repo": "crawl4ai-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lancelin111/crawl4ai-skill",
+    "skillId": "crawl4ai-skill",
+    "name": "crawl4ai-skill",
+    "installs": 750,
+    "owner": "lancelin111",
+    "repo": "crawl4ai-skill",
+    "githubUrl": "https://github.com/lancelin111/crawl4ai-skill",
+    "displayName": "Crawl4ai Skill"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "data360-prepare",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "data360-prepare",
+    "name": "data360-prepare",
+    "installs": 1282,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Data360 Prepare"
+  }
+}

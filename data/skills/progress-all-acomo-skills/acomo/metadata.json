@@ -1,0 +1,17 @@
+{
+  "skillId": "acomo",
+  "source": "progress-all/acomo-skills",
+  "owner": "progress-all",
+  "repo": "acomo-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "progress-all/acomo-skills",
+    "skillId": "acomo",
+    "name": "acomo",
+    "installs": 741,
+    "owner": "progress-all",
+    "repo": "acomo-skills",
+    "githubUrl": "https://github.com/progress-all/acomo-skills",
+    "displayName": "Acomo"
+  }
+}

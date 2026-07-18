@@ -1,0 +1,17 @@
+{
+  "skillId": "reference-signal-forms",
+  "source": "angular/angular",
+  "owner": "angular",
+  "repo": "angular",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "angular/angular",
+    "skillId": "reference-signal-forms",
+    "name": "reference-signal-forms",
+    "installs": 962,
+    "owner": "angular",
+    "repo": "angular",
+    "githubUrl": "https://github.com/angular/angular",
+    "displayName": "Reference Signal Forms"
+  }
+}

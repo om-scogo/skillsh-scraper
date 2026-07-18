@@ -1,0 +1,17 @@
+{
+  "skillId": "feishu-cli-msg",
+  "source": "riba2534/feishu-cli",
+  "owner": "riba2534",
+  "repo": "feishu-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "riba2534/feishu-cli",
+    "skillId": "feishu-cli-msg",
+    "name": "feishu-cli-msg",
+    "installs": 878,
+    "owner": "riba2534",
+    "repo": "feishu-cli",
+    "githubUrl": "https://github.com/riba2534/feishu-cli",
+    "displayName": "Feishu Cli Msg"
+  }
+}

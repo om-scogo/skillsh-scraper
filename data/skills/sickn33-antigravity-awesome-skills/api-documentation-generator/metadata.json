@@ -1,0 +1,17 @@
+{
+  "skillId": "api-documentation-generator",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "api-documentation-generator",
+    "name": "api-documentation-generator",
+    "installs": 1871,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Api Documentation Generator"
+  }
+}

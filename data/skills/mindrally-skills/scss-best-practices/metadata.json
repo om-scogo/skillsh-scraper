@@ -1,0 +1,17 @@
+{
+  "skillId": "scss-best-practices",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "scss-best-practices",
+    "name": "scss-best-practices",
+    "installs": 1255,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Scss Best Practices"
+  }
+}

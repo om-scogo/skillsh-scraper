@@ -1,0 +1,17 @@
+{
+  "skillId": "agents-sdk",
+  "source": "cloudflare/skills",
+  "owner": "cloudflare",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudflare/skills",
+    "skillId": "agents-sdk",
+    "name": "agents-sdk",
+    "installs": 21256,
+    "owner": "cloudflare",
+    "repo": "skills",
+    "githubUrl": "https://github.com/cloudflare/skills",
+    "displayName": "Agents Sdk"
+  }
+}

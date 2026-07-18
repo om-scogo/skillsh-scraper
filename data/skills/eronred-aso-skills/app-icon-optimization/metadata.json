@@ -1,0 +1,17 @@
+{
+  "skillId": "app-icon-optimization",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "app-icon-optimization",
+    "name": "app-icon-optimization",
+    "installs": 1526,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "App Icon Optimization"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "openai-symphony-autonomous-agents",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "openai-symphony-autonomous-agents",
+    "name": "openai-symphony-autonomous-agents",
+    "installs": 1359,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Openai Symphony Autonomous Agents"
+  }
+}

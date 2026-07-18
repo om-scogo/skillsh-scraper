@@ -1,0 +1,17 @@
+{
+  "skillId": "nvidia-nemoclaw",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "nvidia-nemoclaw",
+    "name": "nvidia-nemoclaw",
+    "installs": 1358,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Nvidia Nemoclaw"
+  }
+}

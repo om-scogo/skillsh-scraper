@@ -1,0 +1,17 @@
+{
+  "skillId": "modal",
+  "source": "lobehub/lobe-chat",
+  "owner": "lobehub",
+  "repo": "lobe-chat",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobe-chat",
+    "skillId": "modal",
+    "name": "modal",
+    "installs": 1314,
+    "owner": "lobehub",
+    "repo": "lobe-chat",
+    "githubUrl": "https://github.com/lobehub/lobe-chat",
+    "displayName": "Modal"
+  }
+}

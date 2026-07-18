@@ -1,0 +1,17 @@
+{
+  "skillId": "vanity-engineering-review",
+  "source": "bencium/bencium-marketplace",
+  "owner": "bencium",
+  "repo": "bencium-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bencium/bencium-marketplace",
+    "skillId": "vanity-engineering-review",
+    "name": "vanity-engineering-review",
+    "installs": 1562,
+    "owner": "bencium",
+    "repo": "bencium-marketplace",
+    "githubUrl": "https://github.com/bencium/bencium-marketplace",
+    "displayName": "Vanity Engineering Review"
+  }
+}

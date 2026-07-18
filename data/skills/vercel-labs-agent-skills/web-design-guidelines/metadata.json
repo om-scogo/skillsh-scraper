@@ -1,0 +1,17 @@
+{
+  "skillId": "web-design-guidelines",
+  "source": "vercel-labs/agent-skills",
+  "owner": "vercel-labs",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/agent-skills",
+    "skillId": "web-design-guidelines",
+    "name": "web-design-guidelines",
+    "installs": 468239,
+    "owner": "vercel-labs",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/vercel-labs/agent-skills",
+    "displayName": "Web Design Guidelines"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "social-spotify-card",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "social-spotify-card",
+    "name": "social-spotify-card",
+    "installs": 1436,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Social Spotify Card"
+  }
+}

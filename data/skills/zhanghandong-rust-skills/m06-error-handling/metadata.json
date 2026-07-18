@@ -1,0 +1,17 @@
+{
+  "skillId": "m06-error-handling",
+  "source": "zhanghandong/rust-skills",
+  "owner": "zhanghandong",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zhanghandong/rust-skills",
+    "skillId": "m06-error-handling",
+    "name": "m06-error-handling",
+    "installs": 827,
+    "owner": "zhanghandong",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/zhanghandong/rust-skills",
+    "displayName": "M06 Error Handling"
+  }
+}

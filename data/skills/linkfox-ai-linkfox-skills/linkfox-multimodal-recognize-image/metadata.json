@@ -1,0 +1,17 @@
+{
+  "skillId": "linkfox-multimodal-recognize-image",
+  "source": "linkfox-ai/linkfox-skills",
+  "owner": "linkfox-ai",
+  "repo": "linkfox-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "linkfox-ai/linkfox-skills",
+    "skillId": "linkfox-multimodal-recognize-image",
+    "name": "linkfox-multimodal-recognize-image",
+    "installs": 867,
+    "owner": "linkfox-ai",
+    "repo": "linkfox-skills",
+    "githubUrl": "https://github.com/linkfox-ai/linkfox-skills",
+    "displayName": "Linkfox Multimodal Recognize Image"
+  }
+}

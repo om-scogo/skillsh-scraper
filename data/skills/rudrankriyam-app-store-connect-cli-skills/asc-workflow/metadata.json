@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-workflow",
+  "source": "rudrankriyam/app-store-connect-cli-skills",
+  "owner": "rudrankriyam",
+  "repo": "app-store-connect-cli-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rudrankriyam/app-store-connect-cli-skills",
+    "skillId": "asc-workflow",
+    "name": "asc-workflow",
+    "installs": 1967,
+    "owner": "rudrankriyam",
+    "repo": "app-store-connect-cli-skills",
+    "githubUrl": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+    "displayName": "Asc Workflow"
+  }
+}

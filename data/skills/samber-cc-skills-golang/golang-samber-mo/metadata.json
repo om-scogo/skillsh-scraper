@@ -1,0 +1,17 @@
+{
+  "skillId": "golang-samber-mo",
+  "source": "samber/cc-skills-golang",
+  "owner": "samber",
+  "repo": "cc-skills-golang",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills-golang",
+    "skillId": "golang-samber-mo",
+    "name": "golang-samber-mo",
+    "installs": 32512,
+    "owner": "samber",
+    "repo": "cc-skills-golang",
+    "githubUrl": "https://github.com/samber/cc-skills-golang",
+    "displayName": "Golang Samber Mo"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "vega",
+  "source": "markdown-viewer/skills",
+  "owner": "markdown-viewer",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "markdown-viewer/skills",
+    "skillId": "vega",
+    "name": "vega",
+    "installs": 2670,
+    "owner": "markdown-viewer",
+    "repo": "skills",
+    "githubUrl": "https://github.com/markdown-viewer/skills",
+    "displayName": "Vega"
+  }
+}

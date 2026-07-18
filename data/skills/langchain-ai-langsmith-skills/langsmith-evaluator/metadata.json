@@ -1,0 +1,17 @@
+{
+  "skillId": "langsmith-evaluator",
+  "source": "langchain-ai/langsmith-skills",
+  "owner": "langchain-ai",
+  "repo": "langsmith-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langchain-ai/langsmith-skills",
+    "skillId": "langsmith-evaluator",
+    "name": "langsmith-evaluator",
+    "installs": 2908,
+    "owner": "langchain-ai",
+    "repo": "langsmith-skills",
+    "githubUrl": "https://github.com/langchain-ai/langsmith-skills",
+    "displayName": "Langsmith Evaluator"
+  }
+}

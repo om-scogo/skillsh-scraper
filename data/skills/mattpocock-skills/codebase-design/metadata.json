@@ -1,0 +1,17 @@
+{
+  "skillId": "codebase-design",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "codebase-design",
+    "name": "codebase-design",
+    "installs": 179679,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Codebase Design"
+  }
+}

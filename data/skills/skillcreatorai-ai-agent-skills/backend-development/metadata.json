@@ -1,0 +1,17 @@
+{
+  "skillId": "backend-development",
+  "source": "skillcreatorai/ai-agent-skills",
+  "owner": "skillcreatorai",
+  "repo": "ai-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "skillcreatorai/ai-agent-skills",
+    "skillId": "backend-development",
+    "name": "backend-development",
+    "installs": 752,
+    "owner": "skillcreatorai",
+    "repo": "ai-agent-skills",
+    "githubUrl": "https://github.com/skillcreatorai/ai-agent-skills",
+    "displayName": "Backend Development"
+  }
+}

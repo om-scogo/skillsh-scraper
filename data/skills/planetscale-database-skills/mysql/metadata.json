@@ -1,0 +1,17 @@
+{
+  "skillId": "mysql",
+  "source": "planetscale/database-skills",
+  "owner": "planetscale",
+  "repo": "database-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "planetscale/database-skills",
+    "skillId": "mysql",
+    "name": "mysql",
+    "installs": 6177,
+    "owner": "planetscale",
+    "repo": "database-skills",
+    "githubUrl": "https://github.com/planetscale/database-skills",
+    "displayName": "Mysql"
+  }
+}

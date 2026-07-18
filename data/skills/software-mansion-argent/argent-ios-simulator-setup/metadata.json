@@ -1,0 +1,17 @@
+{
+  "skillId": "argent-ios-simulator-setup",
+  "source": "software-mansion/argent",
+  "owner": "software-mansion",
+  "repo": "argent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "software-mansion/argent",
+    "skillId": "argent-ios-simulator-setup",
+    "name": "argent-ios-simulator-setup",
+    "installs": 6826,
+    "owner": "software-mansion",
+    "repo": "argent",
+    "githubUrl": "https://github.com/software-mansion/argent",
+    "displayName": "Argent Ios Simulator Setup"
+  }
+}

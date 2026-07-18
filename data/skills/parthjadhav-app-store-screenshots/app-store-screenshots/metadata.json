@@ -1,0 +1,17 @@
+{
+  "skillId": "app-store-screenshots",
+  "source": "parthjadhav/app-store-screenshots",
+  "owner": "parthjadhav",
+  "repo": "app-store-screenshots",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "parthjadhav/app-store-screenshots",
+    "skillId": "app-store-screenshots",
+    "name": "app-store-screenshots",
+    "installs": 10430,
+    "owner": "parthjadhav",
+    "repo": "app-store-screenshots",
+    "githubUrl": "https://github.com/parthjadhav/app-store-screenshots",
+    "displayName": "App Store Screenshots"
+  }
+}

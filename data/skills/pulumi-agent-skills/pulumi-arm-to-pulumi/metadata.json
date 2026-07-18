@@ -1,0 +1,17 @@
+{
+  "skillId": "pulumi-arm-to-pulumi",
+  "source": "pulumi/agent-skills",
+  "owner": "pulumi",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pulumi/agent-skills",
+    "skillId": "pulumi-arm-to-pulumi",
+    "name": "pulumi-arm-to-pulumi",
+    "installs": 1842,
+    "owner": "pulumi",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/pulumi/agent-skills",
+    "displayName": "Pulumi Arm To Pulumi"
+  }
+}

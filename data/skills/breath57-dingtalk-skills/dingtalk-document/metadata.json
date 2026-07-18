@@ -1,0 +1,17 @@
+{
+  "skillId": "dingtalk-document",
+  "source": "breath57/dingtalk-skills",
+  "owner": "breath57",
+  "repo": "dingtalk-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "breath57/dingtalk-skills",
+    "skillId": "dingtalk-document",
+    "name": "dingtalk-document",
+    "installs": 1603,
+    "owner": "breath57",
+    "repo": "dingtalk-skills",
+    "githubUrl": "https://github.com/breath57/dingtalk-skills",
+    "displayName": "Dingtalk Document"
+  }
+}

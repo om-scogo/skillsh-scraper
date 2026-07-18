@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-train-ocdnet",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-train-ocdnet",
+    "name": "tao-train-ocdnet",
+    "installs": 1276,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Train Ocdnet"
+  }
+}

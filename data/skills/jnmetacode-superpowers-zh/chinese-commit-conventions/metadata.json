@@ -1,0 +1,17 @@
+{
+  "skillId": "chinese-commit-conventions",
+  "source": "jnmetacode/superpowers-zh",
+  "owner": "jnmetacode",
+  "repo": "superpowers-zh",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jnmetacode/superpowers-zh",
+    "skillId": "chinese-commit-conventions",
+    "name": "chinese-commit-conventions",
+    "installs": 807,
+    "owner": "jnmetacode",
+    "repo": "superpowers-zh",
+    "githubUrl": "https://github.com/jnmetacode/superpowers-zh",
+    "displayName": "Chinese Commit Conventions"
+  }
+}

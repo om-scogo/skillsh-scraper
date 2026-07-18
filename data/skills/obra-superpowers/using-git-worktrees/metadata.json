@@ -1,0 +1,17 @@
+{
+  "skillId": "using-git-worktrees",
+  "source": "obra/superpowers",
+  "owner": "obra",
+  "repo": "superpowers",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/superpowers",
+    "skillId": "using-git-worktrees",
+    "name": "using-git-worktrees",
+    "installs": 136841,
+    "owner": "obra",
+    "repo": "superpowers",
+    "githubUrl": "https://github.com/obra/superpowers",
+    "displayName": "Using Git Worktrees"
+  }
+}

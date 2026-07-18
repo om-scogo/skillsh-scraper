@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwindcss",
+  "source": "hairyf/skills",
+  "owner": "hairyf",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hairyf/skills",
+    "skillId": "tailwindcss",
+    "name": "tailwindcss",
+    "installs": 2538,
+    "owner": "hairyf",
+    "repo": "skills",
+    "githubUrl": "https://github.com/hairyf/skills",
+    "displayName": "Tailwindcss"
+  }
+}

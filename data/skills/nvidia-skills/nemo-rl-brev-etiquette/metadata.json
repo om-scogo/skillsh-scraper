@@ -1,0 +1,17 @@
+{
+  "skillId": "nemo-rl-brev-etiquette",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemo-rl-brev-etiquette",
+    "name": "nemo-rl-brev-etiquette",
+    "installs": 1455,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemo Rl Brev Etiquette"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "cn-ecommerce-search",
+  "source": "shopmeskills/mcp",
+  "owner": "shopmeskills",
+  "repo": "mcp",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shopmeskills/mcp",
+    "skillId": "cn-ecommerce-search",
+    "name": "cn-ecommerce-search",
+    "installs": 955,
+    "owner": "shopmeskills",
+    "repo": "mcp",
+    "githubUrl": "https://github.com/shopmeskills/mcp",
+    "displayName": "Cn Ecommerce Search"
+  }
+}

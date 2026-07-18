@@ -1,0 +1,17 @@
+{
+  "skillId": "android-clean-architecture",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "android-clean-architecture",
+    "name": "android-clean-architecture",
+    "installs": 1154,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Android Clean Architecture"
+  }
+}

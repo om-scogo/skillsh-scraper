@@ -1,0 +1,17 @@
+{
+  "skillId": "awwwards-animations",
+  "source": "devmartinese/awwwards-animations-skill",
+  "owner": "devmartinese",
+  "repo": "awwwards-animations-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "devmartinese/awwwards-animations-skill",
+    "skillId": "awwwards-animations",
+    "name": "awwwards-animations",
+    "installs": 1689,
+    "owner": "devmartinese",
+    "repo": "awwwards-animations-skill",
+    "githubUrl": "https://github.com/devmartinese/awwwards-animations-skill",
+    "displayName": "Awwwards Animations"
+  }
+}

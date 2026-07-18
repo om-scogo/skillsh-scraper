@@ -1,0 +1,17 @@
+{
+  "skillId": "first-customers",
+  "source": "slavingia/skills",
+  "owner": "slavingia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "slavingia/skills",
+    "skillId": "first-customers",
+    "name": "first-customers",
+    "installs": 1147,
+    "owner": "slavingia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/slavingia/skills",
+    "displayName": "First Customers"
+  }
+}

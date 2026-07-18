@@ -1,0 +1,17 @@
+{
+  "skillId": "deployment-patterns",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "deployment-patterns",
+    "name": "deployment-patterns",
+    "installs": 5838,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Deployment Patterns"
+  }
+}

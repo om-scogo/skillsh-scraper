@@ -1,0 +1,17 @@
+{
+  "skillId": "prioritize-assumptions",
+  "source": "phuryn/pm-skills",
+  "owner": "phuryn",
+  "repo": "pm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "phuryn/pm-skills",
+    "skillId": "prioritize-assumptions",
+    "name": "prioritize-assumptions",
+    "installs": 1690,
+    "owner": "phuryn",
+    "repo": "pm-skills",
+    "githubUrl": "https://github.com/phuryn/pm-skills",
+    "displayName": "Prioritize Assumptions"
+  }
+}

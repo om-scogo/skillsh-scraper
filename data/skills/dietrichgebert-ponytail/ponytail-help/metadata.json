@@ -1,0 +1,17 @@
+{
+  "skillId": "ponytail-help",
+  "source": "dietrichgebert/ponytail",
+  "owner": "dietrichgebert",
+  "repo": "ponytail",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dietrichgebert/ponytail",
+    "skillId": "ponytail-help",
+    "name": "ponytail-help",
+    "installs": 6898,
+    "owner": "dietrichgebert",
+    "repo": "ponytail",
+    "githubUrl": "https://github.com/dietrichgebert/ponytail",
+    "displayName": "Ponytail Help"
+  }
+}

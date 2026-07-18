@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-design-system",
+  "source": "davila7/claude-code-templates",
+  "owner": "davila7",
+  "repo": "claude-code-templates",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "davila7/claude-code-templates",
+    "skillId": "ui-design-system",
+    "name": "ui-design-system",
+    "installs": 1381,
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "githubUrl": "https://github.com/davila7/claude-code-templates",
+    "displayName": "Ui Design System"
+  }
+}

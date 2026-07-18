@@ -1,0 +1,17 @@
+{
+  "skillId": "pulumi-best-practices",
+  "source": "pulumi/agent-skills",
+  "owner": "pulumi",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pulumi/agent-skills",
+    "skillId": "pulumi-best-practices",
+    "name": "pulumi-best-practices",
+    "installs": 1663,
+    "owner": "pulumi",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/pulumi/agent-skills",
+    "displayName": "Pulumi Best Practices"
+  }
+}

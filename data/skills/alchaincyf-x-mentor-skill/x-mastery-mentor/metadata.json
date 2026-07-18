@@ -1,0 +1,17 @@
+{
+  "skillId": "x-mastery-mentor",
+  "source": "alchaincyf/x-mentor-skill",
+  "owner": "alchaincyf",
+  "repo": "x-mentor-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/x-mentor-skill",
+    "skillId": "x-mastery-mentor",
+    "name": "x-mastery-mentor",
+    "installs": 1398,
+    "owner": "alchaincyf",
+    "repo": "x-mentor-skill",
+    "githubUrl": "https://github.com/alchaincyf/x-mentor-skill",
+    "displayName": "X Mastery Mentor"
+  }
+}

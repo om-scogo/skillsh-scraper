@@ -1,0 +1,17 @@
+{
+  "skillId": "extract-design-system",
+  "source": "arvindrk/extract-design-system",
+  "owner": "arvindrk",
+  "repo": "extract-design-system",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "arvindrk/extract-design-system",
+    "skillId": "extract-design-system",
+    "name": "extract-design-system",
+    "installs": 125489,
+    "owner": "arvindrk",
+    "repo": "extract-design-system",
+    "githubUrl": "https://github.com/arvindrk/extract-design-system",
+    "displayName": "Extract Design System"
+  }
+}

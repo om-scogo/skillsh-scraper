@@ -1,0 +1,17 @@
+{
+  "skillId": "eslint-prettier-config",
+  "source": "patricio0312rev/skills",
+  "owner": "patricio0312rev",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "patricio0312rev/skills",
+    "skillId": "eslint-prettier-config",
+    "name": "eslint-prettier-config",
+    "installs": 873,
+    "owner": "patricio0312rev",
+    "repo": "skills",
+    "githubUrl": "https://github.com/patricio0312rev/skills",
+    "displayName": "Eslint Prettier Config"
+  }
+}

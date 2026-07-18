@@ -1,0 +1,17 @@
+{
+  "skillId": "clean-code-principles",
+  "source": "asyrafhussin/agent-skills",
+  "owner": "asyrafhussin",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "asyrafhussin/agent-skills",
+    "skillId": "clean-code-principles",
+    "name": "clean-code-principles",
+    "installs": 874,
+    "owner": "asyrafhussin",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/asyrafhussin/agent-skills",
+    "displayName": "Clean Code Principles"
+  }
+}

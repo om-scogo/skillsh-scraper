@@ -1,0 +1,17 @@
+{
+  "skillId": "setup-ts-deep-modules",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "setup-ts-deep-modules",
+    "name": "setup-ts-deep-modules",
+    "installs": 19787,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Setup Ts Deep Modules"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "pdf-merge-&-split",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "pdf-merge-&-split",
+    "name": "pdf merge & split",
+    "installs": 3441,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Pdf Merge & Split"
+  }
+}

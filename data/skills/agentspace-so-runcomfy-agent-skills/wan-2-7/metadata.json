@@ -1,0 +1,17 @@
+{
+  "skillId": "wan-2-7",
+  "source": "agentspace-so/runcomfy-agent-skills",
+  "owner": "agentspace-so",
+  "repo": "runcomfy-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agentspace-so/runcomfy-agent-skills",
+    "skillId": "wan-2-7",
+    "name": "wan-2-7",
+    "installs": 12,
+    "owner": "agentspace-so",
+    "repo": "runcomfy-agent-skills",
+    "githubUrl": "https://github.com/agentspace-so/runcomfy-agent-skills",
+    "displayName": "Wan 2 7"
+  }
+}

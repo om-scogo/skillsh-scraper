@@ -1,0 +1,17 @@
+{
+  "skillId": "generating-visual-diagrams",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "generating-visual-diagrams",
+    "name": "generating-visual-diagrams",
+    "installs": 2288,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Generating Visual Diagrams"
+  }
+}

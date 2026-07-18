@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-astro-patterns",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-astro-patterns",
+    "name": "clerk-astro-patterns",
+    "installs": 6938,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk Astro Patterns"
+  }
+}

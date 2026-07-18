@@ -1,0 +1,17 @@
+{
+  "skillId": "elasticsearch-audit",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "elasticsearch-audit",
+    "name": "elasticsearch-audit",
+    "installs": 1879,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Elasticsearch Audit"
+  }
+}

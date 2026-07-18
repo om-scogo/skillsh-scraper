@@ -1,0 +1,17 @@
+{
+  "skillId": "create-branch",
+  "source": "ruchernchong/claude-kit",
+  "owner": "ruchernchong",
+  "repo": "claude-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruchernchong/claude-kit",
+    "skillId": "create-branch",
+    "name": "create-branch",
+    "installs": 1273,
+    "owner": "ruchernchong",
+    "repo": "claude-kit",
+    "githubUrl": "https://github.com/ruchernchong/claude-kit",
+    "displayName": "Create Branch"
+  }
+}

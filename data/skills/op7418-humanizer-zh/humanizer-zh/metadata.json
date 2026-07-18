@@ -1,0 +1,17 @@
+{
+  "skillId": "humanizer-zh",
+  "source": "op7418/humanizer-zh",
+  "owner": "op7418",
+  "repo": "humanizer-zh",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "op7418/humanizer-zh",
+    "skillId": "humanizer-zh",
+    "name": "humanizer-zh",
+    "installs": 38470,
+    "owner": "op7418",
+    "repo": "humanizer-zh",
+    "githubUrl": "https://github.com/op7418/humanizer-zh",
+    "displayName": "Humanizer Zh"
+  }
+}

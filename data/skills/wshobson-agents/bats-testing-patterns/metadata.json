@@ -1,0 +1,17 @@
+{
+  "skillId": "bats-testing-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "bats-testing-patterns",
+    "name": "bats-testing-patterns",
+    "installs": 7842,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Bats Testing Patterns"
+  }
+}

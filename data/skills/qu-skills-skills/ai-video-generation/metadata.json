@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-video-generation",
+  "source": "qu-skills/skills",
+  "owner": "qu-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qu-skills/skills",
+    "skillId": "ai-video-generation",
+    "name": "ai-video-generation",
+    "installs": 12,
+    "owner": "qu-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/qu-skills/skills",
+    "displayName": "Ai Video Generation"
+  }
+}

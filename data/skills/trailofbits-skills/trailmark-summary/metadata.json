@@ -1,0 +1,17 @@
+{
+  "skillId": "trailmark-summary",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "trailmark-summary",
+    "name": "trailmark-summary",
+    "installs": 2362,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Trailmark Summary"
+  }
+}

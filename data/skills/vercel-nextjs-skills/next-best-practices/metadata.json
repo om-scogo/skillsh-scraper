@@ -1,0 +1,17 @@
+{
+  "skillId": "next-best-practices",
+  "source": "vercel/nextjs-skills",
+  "owner": "vercel",
+  "repo": "nextjs-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/nextjs-skills",
+    "skillId": "next-best-practices",
+    "name": "next-best-practices",
+    "installs": 1041,
+    "owner": "vercel",
+    "repo": "nextjs-skills",
+    "githubUrl": "https://github.com/vercel/nextjs-skills",
+    "displayName": "Next Best Practices"
+  }
+}

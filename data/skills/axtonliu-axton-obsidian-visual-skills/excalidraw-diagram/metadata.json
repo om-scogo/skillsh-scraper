@@ -1,0 +1,17 @@
+{
+  "skillId": "excalidraw-diagram",
+  "source": "axtonliu/axton-obsidian-visual-skills",
+  "owner": "axtonliu",
+  "repo": "axton-obsidian-visual-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "axtonliu/axton-obsidian-visual-skills",
+    "skillId": "excalidraw-diagram",
+    "name": "excalidraw-diagram",
+    "installs": 2659,
+    "owner": "axtonliu",
+    "repo": "axton-obsidian-visual-skills",
+    "githubUrl": "https://github.com/axtonliu/axton-obsidian-visual-skills",
+    "displayName": "Excalidraw Diagram"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "understand-anything-knowledge-graph",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "understand-anything-knowledge-graph",
+    "name": "understand-anything-knowledge-graph",
+    "installs": 2246,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Understand Anything Knowledge Graph"
+  }
+}

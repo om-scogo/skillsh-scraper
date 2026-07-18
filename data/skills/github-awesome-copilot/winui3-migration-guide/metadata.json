@@ -1,0 +1,17 @@
+{
+  "skillId": "winui3-migration-guide",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "winui3-migration-guide",
+    "name": "winui3-migration-guide",
+    "installs": 5577,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Winui3 Migration Guide"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "document-processing",
+  "source": "eyadsibai/ltk",
+  "owner": "eyadsibai",
+  "repo": "ltk",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eyadsibai/ltk",
+    "skillId": "document-processing",
+    "name": "document-processing",
+    "installs": 1199,
+    "owner": "eyadsibai",
+    "repo": "ltk",
+    "githubUrl": "https://github.com/eyadsibai/ltk",
+    "displayName": "Document Processing"
+  }
+}

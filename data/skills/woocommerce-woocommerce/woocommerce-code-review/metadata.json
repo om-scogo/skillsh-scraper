@@ -1,0 +1,17 @@
+{
+  "skillId": "woocommerce-code-review",
+  "source": "woocommerce/woocommerce",
+  "owner": "woocommerce",
+  "repo": "woocommerce",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "woocommerce/woocommerce",
+    "skillId": "woocommerce-code-review",
+    "name": "woocommerce-code-review",
+    "installs": 1059,
+    "owner": "woocommerce",
+    "repo": "woocommerce",
+    "githubUrl": "https://github.com/woocommerce/woocommerce",
+    "displayName": "Woocommerce Code Review"
+  }
+}

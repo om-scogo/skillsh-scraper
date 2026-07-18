@@ -1,0 +1,17 @@
+{
+  "skillId": "trading-plan-generator",
+  "source": "jamesrochabrun/skills",
+  "owner": "jamesrochabrun",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jamesrochabrun/skills",
+    "skillId": "trading-plan-generator",
+    "name": "trading-plan-generator",
+    "installs": 1031,
+    "owner": "jamesrochabrun",
+    "repo": "skills",
+    "githubUrl": "https://github.com/jamesrochabrun/skills",
+    "displayName": "Trading Plan Generator"
+  }
+}

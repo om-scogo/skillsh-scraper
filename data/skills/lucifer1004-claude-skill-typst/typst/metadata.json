@@ -1,0 +1,17 @@
+{
+  "skillId": "typst",
+  "source": "lucifer1004/claude-skill-typst",
+  "owner": "lucifer1004",
+  "repo": "claude-skill-typst",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lucifer1004/claude-skill-typst",
+    "skillId": "typst",
+    "name": "typst",
+    "installs": 1206,
+    "owner": "lucifer1004",
+    "repo": "claude-skill-typst",
+    "githubUrl": "https://github.com/lucifer1004/claude-skill-typst",
+    "displayName": "Typst"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ckm:slides",
+  "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+  "owner": "nextlevelbuilder",
+  "repo": "ui-ux-pro-max-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "skillId": "ckm:slides",
+    "name": "ckm:slides",
+    "installs": 31879,
+    "owner": "nextlevelbuilder",
+    "repo": "ui-ux-pro-max-skill",
+    "githubUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "displayName": "Ckm:slides"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "query-writing",
+  "source": "langchain-ai/deepagents",
+  "owner": "langchain-ai",
+  "repo": "deepagents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langchain-ai/deepagents",
+    "skillId": "query-writing",
+    "name": "query-writing",
+    "installs": 984,
+    "owner": "langchain-ai",
+    "repo": "deepagents",
+    "githubUrl": "https://github.com/langchain-ai/deepagents",
+    "displayName": "Query Writing"
+  }
+}

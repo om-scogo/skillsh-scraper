@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-music-album",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "ai-music-album",
+    "name": "ai-music-album",
+    "installs": 1581,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Ai Music Album"
+  }
+}

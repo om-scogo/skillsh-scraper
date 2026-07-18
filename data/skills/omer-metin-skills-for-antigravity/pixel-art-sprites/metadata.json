@@ -1,0 +1,17 @@
+{
+  "skillId": "pixel-art-sprites",
+  "source": "omer-metin/skills-for-antigravity",
+  "owner": "omer-metin",
+  "repo": "skills-for-antigravity",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "omer-metin/skills-for-antigravity",
+    "skillId": "pixel-art-sprites",
+    "name": "pixel-art-sprites",
+    "installs": 1428,
+    "owner": "omer-metin",
+    "repo": "skills-for-antigravity",
+    "githubUrl": "https://github.com/omer-metin/skills-for-antigravity",
+    "displayName": "Pixel Art Sprites"
+  }
+}

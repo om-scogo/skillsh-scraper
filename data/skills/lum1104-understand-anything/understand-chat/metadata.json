@@ -1,0 +1,17 @@
+{
+  "skillId": "understand-chat",
+  "source": "lum1104/understand-anything",
+  "owner": "lum1104",
+  "repo": "understand-anything",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lum1104/understand-anything",
+    "skillId": "understand-chat",
+    "name": "understand-chat",
+    "installs": 1185,
+    "owner": "lum1104",
+    "repo": "understand-anything",
+    "githubUrl": "https://github.com/lum1104/understand-anything",
+    "displayName": "Understand Chat"
+  }
+}

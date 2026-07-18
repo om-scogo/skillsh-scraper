@@ -1,0 +1,17 @@
+{
+  "skillId": "kotlin-mcp-server-generator",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "kotlin-mcp-server-generator",
+    "name": "kotlin-mcp-server-generator",
+    "installs": 8582,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Kotlin Mcp Server Generator"
+  }
+}

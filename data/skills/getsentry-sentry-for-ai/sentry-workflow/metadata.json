@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-workflow",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-workflow",
+    "name": "sentry-workflow",
+    "installs": 3280,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry Workflow"
+  }
+}

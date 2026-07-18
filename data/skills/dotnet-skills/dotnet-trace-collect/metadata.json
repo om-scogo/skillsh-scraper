@@ -1,0 +1,17 @@
+{
+  "skillId": "dotnet-trace-collect",
+  "source": "dotnet/skills",
+  "owner": "dotnet",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dotnet/skills",
+    "skillId": "dotnet-trace-collect",
+    "name": "dotnet-trace-collect",
+    "installs": 788,
+    "owner": "dotnet",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dotnet/skills",
+    "displayName": "Dotnet Trace Collect"
+  }
+}

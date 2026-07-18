@@ -1,0 +1,17 @@
+{
+  "skillId": "csp-bypass-advanced",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "csp-bypass-advanced",
+    "name": "csp-bypass-advanced",
+    "installs": 1930,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Csp Bypass Advanced"
+  }
+}

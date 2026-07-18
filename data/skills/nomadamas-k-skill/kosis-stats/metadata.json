@@ -1,0 +1,17 @@
+{
+  "skillId": "kosis-stats",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "kosis-stats",
+    "name": "kosis-stats",
+    "installs": 1446,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Kosis Stats"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "role-creator",
+  "source": "am-will/codex-skills",
+  "owner": "am-will",
+  "repo": "codex-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "am-will/codex-skills",
+    "skillId": "role-creator",
+    "name": "role-creator",
+    "installs": 1152,
+    "owner": "am-will",
+    "repo": "codex-skills",
+    "githubUrl": "https://github.com/am-will/codex-skills",
+    "displayName": "Role Creator"
+  }
+}

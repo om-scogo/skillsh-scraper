@@ -1,0 +1,17 @@
+{
+  "skillId": "kami",
+  "source": "tw93/kami",
+  "owner": "tw93",
+  "repo": "kami",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tw93/kami",
+    "skillId": "kami",
+    "name": "kami",
+    "installs": 9438,
+    "owner": "tw93",
+    "repo": "kami",
+    "githubUrl": "https://github.com/tw93/kami",
+    "displayName": "Kami"
+  }
+}

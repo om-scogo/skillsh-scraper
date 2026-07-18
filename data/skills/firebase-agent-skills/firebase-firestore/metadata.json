@@ -1,0 +1,17 @@
+{
+  "skillId": "firebase-firestore",
+  "source": "firebase/agent-skills",
+  "owner": "firebase",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firebase/agent-skills",
+    "skillId": "firebase-firestore",
+    "name": "firebase-firestore",
+    "installs": 68097,
+    "owner": "firebase",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/firebase/agent-skills",
+    "displayName": "Firebase Firestore"
+  }
+}

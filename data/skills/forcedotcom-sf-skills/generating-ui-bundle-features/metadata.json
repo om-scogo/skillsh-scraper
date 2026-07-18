@@ -1,0 +1,17 @@
+{
+  "skillId": "generating-ui-bundle-features",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "generating-ui-bundle-features",
+    "name": "generating-ui-bundle-features",
+    "installs": 2213,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Generating Ui Bundle Features"
+  }
+}

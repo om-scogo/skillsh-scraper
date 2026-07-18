@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-share-folder-with-team",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-share-folder-with-team",
+    "name": "recipe-share-folder-with-team",
+    "installs": 22095,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Share Folder With Team"
+  }
+}

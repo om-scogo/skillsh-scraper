@@ -1,0 +1,17 @@
+{
+  "skillId": "openclaw-persona-forge",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "openclaw-persona-forge",
+    "name": "openclaw-persona-forge",
+    "installs": 3753,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Openclaw Persona Forge"
+  }
+}

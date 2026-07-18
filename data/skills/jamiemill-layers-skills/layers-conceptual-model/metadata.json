@@ -1,0 +1,17 @@
+{
+  "skillId": "layers-conceptual-model",
+  "source": "jamiemill/layers-skills",
+  "owner": "jamiemill",
+  "repo": "layers-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jamiemill/layers-skills",
+    "skillId": "layers-conceptual-model",
+    "name": "layers-conceptual-model",
+    "installs": 1278,
+    "owner": "jamiemill",
+    "repo": "layers-skills",
+    "githubUrl": "https://github.com/jamiemill/layers-skills",
+    "displayName": "Layers Conceptual Model"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "r8-analyzer",
+  "source": "android/skills",
+  "owner": "android",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "android/skills",
+    "skillId": "r8-analyzer",
+    "name": "r8-analyzer",
+    "installs": 1113,
+    "owner": "android",
+    "repo": "skills",
+    "githubUrl": "https://github.com/android/skills",
+    "displayName": "R8 Analyzer"
+  }
+}

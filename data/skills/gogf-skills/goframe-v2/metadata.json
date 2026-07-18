@@ -1,0 +1,17 @@
+{
+  "skillId": "goframe-v2",
+  "source": "gogf/skills",
+  "owner": "gogf",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gogf/skills",
+    "skillId": "goframe-v2",
+    "name": "goframe-v2",
+    "installs": 2459,
+    "owner": "gogf",
+    "repo": "skills",
+    "githubUrl": "https://github.com/gogf/skills",
+    "displayName": "Goframe V2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gemini-live-api-dev",
+  "source": "google-gemini/gemini-skills",
+  "owner": "google-gemini",
+  "repo": "gemini-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-gemini/gemini-skills",
+    "skillId": "gemini-live-api-dev",
+    "name": "gemini-live-api-dev",
+    "installs": 5689,
+    "owner": "google-gemini",
+    "repo": "gemini-skills",
+    "githubUrl": "https://github.com/google-gemini/gemini-skills",
+    "displayName": "Gemini Live Api Dev"
+  }
+}

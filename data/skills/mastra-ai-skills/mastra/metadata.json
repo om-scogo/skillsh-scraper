@@ -1,0 +1,17 @@
+{
+  "skillId": "mastra",
+  "source": "mastra-ai/skills",
+  "owner": "mastra-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mastra-ai/skills",
+    "skillId": "mastra",
+    "name": "mastra",
+    "installs": 24603,
+    "owner": "mastra-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mastra-ai/skills",
+    "displayName": "Mastra"
+  }
+}

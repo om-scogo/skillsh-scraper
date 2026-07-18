@@ -1,0 +1,17 @@
+{
+  "skillId": "wecomcli-manage-doc",
+  "source": "wecomteam/wecom-cli",
+  "owner": "wecomteam",
+  "repo": "wecom-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wecomteam/wecom-cli",
+    "skillId": "wecomcli-manage-doc",
+    "name": "wecomcli-manage-doc",
+    "installs": 2474,
+    "owner": "wecomteam",
+    "repo": "wecom-cli",
+    "githubUrl": "https://github.com/wecomteam/wecom-cli",
+    "displayName": "Wecomcli Manage Doc"
+  }
+}

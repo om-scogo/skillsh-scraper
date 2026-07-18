@@ -1,0 +1,17 @@
+{
+  "skillId": "swap-planner",
+  "source": "uniswap/uniswap-ai",
+  "owner": "uniswap",
+  "repo": "uniswap-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "uniswap/uniswap-ai",
+    "skillId": "swap-planner",
+    "name": "swap-planner",
+    "installs": 809,
+    "owner": "uniswap",
+    "repo": "uniswap-ai",
+    "githubUrl": "https://github.com/uniswap/uniswap-ai",
+    "displayName": "Swap Planner"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-authoring-workflow",
+  "source": "deanpeters/product-manager-skills",
+  "owner": "deanpeters",
+  "repo": "product-manager-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "deanpeters/product-manager-skills",
+    "skillId": "skill-authoring-workflow",
+    "name": "skill-authoring-workflow",
+    "installs": 1459,
+    "owner": "deanpeters",
+    "repo": "product-manager-skills",
+    "githubUrl": "https://github.com/deanpeters/product-manager-skills",
+    "displayName": "Skill Authoring Workflow"
+  }
+}

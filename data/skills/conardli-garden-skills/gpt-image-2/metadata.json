@@ -1,0 +1,17 @@
+{
+  "skillId": "gpt-image-2",
+  "source": "conardli/garden-skills",
+  "owner": "conardli",
+  "repo": "garden-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "conardli/garden-skills",
+    "skillId": "gpt-image-2",
+    "name": "gpt-image-2",
+    "installs": 2827,
+    "owner": "conardli",
+    "repo": "garden-skills",
+    "githubUrl": "https://github.com/conardli/garden-skills",
+    "displayName": "Gpt Image 2"
+  }
+}

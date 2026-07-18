@@ -1,0 +1,17 @@
+{
+  "skillId": "warranty-tracker",
+  "source": "datadrivenconstruction/ddc_skills_for_ai_agents_in_construction",
+  "owner": "datadrivenconstruction",
+  "repo": "ddc_skills_for_ai_agents_in_construction",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "datadrivenconstruction/ddc_skills_for_ai_agents_in_construction",
+    "skillId": "warranty-tracker",
+    "name": "warranty-tracker",
+    "installs": 942,
+    "owner": "datadrivenconstruction",
+    "repo": "ddc_skills_for_ai_agents_in_construction",
+    "githubUrl": "https://github.com/datadrivenconstruction/ddc_skills_for_ai_agents_in_construction",
+    "displayName": "Warranty Tracker"
+  }
+}

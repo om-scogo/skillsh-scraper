@@ -1,0 +1,17 @@
+{
+  "skillId": "query-token-info",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "query-token-info",
+    "name": "query-token-info",
+    "installs": 5838,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Query Token Info"
+  }
+}

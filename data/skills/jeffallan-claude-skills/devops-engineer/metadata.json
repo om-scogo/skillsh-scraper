@@ -1,0 +1,17 @@
+{
+  "skillId": "devops-engineer",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "devops-engineer",
+    "name": "devops-engineer",
+    "installs": 7376,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Devops Engineer"
+  }
+}

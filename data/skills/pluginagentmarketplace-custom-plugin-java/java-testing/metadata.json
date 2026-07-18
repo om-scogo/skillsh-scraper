@@ -1,0 +1,17 @@
+{
+  "skillId": "java-testing",
+  "source": "pluginagentmarketplace/custom-plugin-java",
+  "owner": "pluginagentmarketplace",
+  "repo": "custom-plugin-java",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pluginagentmarketplace/custom-plugin-java",
+    "skillId": "java-testing",
+    "name": "java-testing",
+    "installs": 771,
+    "owner": "pluginagentmarketplace",
+    "repo": "custom-plugin-java",
+    "githubUrl": "https://github.com/pluginagentmarketplace/custom-plugin-java",
+    "displayName": "Java Testing"
+  }
+}

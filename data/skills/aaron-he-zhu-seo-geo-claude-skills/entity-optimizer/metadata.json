@@ -1,0 +1,17 @@
+{
+  "skillId": "entity-optimizer",
+  "source": "aaron-he-zhu/seo-geo-claude-skills",
+  "owner": "aaron-he-zhu",
+  "repo": "seo-geo-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aaron-he-zhu/seo-geo-claude-skills",
+    "skillId": "entity-optimizer",
+    "name": "entity-optimizer",
+    "installs": 4703,
+    "owner": "aaron-he-zhu",
+    "repo": "seo-geo-claude-skills",
+    "githubUrl": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+    "displayName": "Entity Optimizer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "github-code-review",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "github-code-review",
+    "name": "github-code-review",
+    "installs": 1053,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Github Code Review"
+  }
+}

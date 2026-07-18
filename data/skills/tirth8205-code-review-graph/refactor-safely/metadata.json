@@ -1,0 +1,17 @@
+{
+  "skillId": "refactor-safely",
+  "source": "tirth8205/code-review-graph",
+  "owner": "tirth8205",
+  "repo": "code-review-graph",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tirth8205/code-review-graph",
+    "skillId": "refactor-safely",
+    "name": "refactor safely",
+    "installs": 804,
+    "owner": "tirth8205",
+    "repo": "code-review-graph",
+    "githubUrl": "https://github.com/tirth8205/code-review-graph",
+    "displayName": "Refactor Safely"
+  }
+}

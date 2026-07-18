@@ -1,0 +1,17 @@
+{
+  "skillId": "mobile-android-design",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "mobile-android-design",
+    "name": "mobile-android-design",
+    "installs": 18838,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Mobile Android Design"
+  }
+}

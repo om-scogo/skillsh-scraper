@@ -1,0 +1,17 @@
+{
+  "skillId": "searching-media",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "searching-media",
+    "name": "searching-media",
+    "installs": 1485,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Searching Media"
+  }
+}

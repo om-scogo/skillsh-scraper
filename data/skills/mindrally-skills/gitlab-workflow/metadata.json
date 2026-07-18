@@ -1,0 +1,17 @@
+{
+  "skillId": "gitlab-workflow",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "gitlab-workflow",
+    "name": "gitlab-workflow",
+    "installs": 886,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Gitlab Workflow"
+  }
+}

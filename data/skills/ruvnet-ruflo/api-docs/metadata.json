@@ -1,0 +1,17 @@
+{
+  "skillId": "api-docs",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "api-docs",
+    "name": "api-docs",
+    "installs": 779,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Api Docs"
+  }
+}

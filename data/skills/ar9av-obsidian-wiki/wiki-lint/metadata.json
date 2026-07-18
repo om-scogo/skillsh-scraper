@@ -1,0 +1,17 @@
+{
+  "skillId": "wiki-lint",
+  "source": "ar9av/obsidian-wiki",
+  "owner": "ar9av",
+  "repo": "obsidian-wiki",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ar9av/obsidian-wiki",
+    "skillId": "wiki-lint",
+    "name": "wiki-lint",
+    "installs": 2933,
+    "owner": "ar9av",
+    "repo": "obsidian-wiki",
+    "githubUrl": "https://github.com/ar9av/obsidian-wiki",
+    "displayName": "Wiki Lint"
+  }
+}

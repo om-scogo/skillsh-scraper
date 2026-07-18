@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-sheets",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "gws-sheets",
+    "name": "gws-sheets",
+    "installs": 43063,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Gws Sheets"
+  }
+}

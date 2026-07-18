@@ -1,0 +1,17 @@
+{
+  "skillId": "create-issue-interaction-ui",
+  "source": "getpaperclipai/paperclip",
+  "owner": "getpaperclipai",
+  "repo": "paperclip",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getpaperclipai/paperclip",
+    "skillId": "create-issue-interaction-ui",
+    "name": "create-issue-interaction-ui",
+    "installs": 1427,
+    "owner": "getpaperclipai",
+    "repo": "paperclip",
+    "githubUrl": "https://github.com/getpaperclipai/paperclip",
+    "displayName": "Create Issue Interaction Ui"
+  }
+}

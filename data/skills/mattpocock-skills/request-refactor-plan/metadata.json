@@ -1,0 +1,17 @@
+{
+  "skillId": "request-refactor-plan",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "request-refactor-plan",
+    "name": "request-refactor-plan",
+    "installs": 144650,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Request Refactor Plan"
+  }
+}

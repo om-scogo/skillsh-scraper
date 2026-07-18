@@ -1,0 +1,17 @@
+{
+  "skillId": "rails-expert",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "rails-expert",
+    "name": "rails-expert",
+    "installs": 3417,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Rails Expert"
+  }
+}

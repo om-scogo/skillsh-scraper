@@ -1,0 +1,17 @@
+{
+  "skillId": "cors-cross-origin-misconfiguration",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "cors-cross-origin-misconfiguration",
+    "name": "cors-cross-origin-misconfiguration",
+    "installs": 1973,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Cors Cross Origin Misconfiguration"
+  }
+}

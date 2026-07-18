@@ -1,0 +1,17 @@
+{
+  "skillId": "product-brainstorming",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "product-brainstorming",
+    "name": "product-brainstorming",
+    "installs": 3721,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Product Brainstorming"
+  }
+}

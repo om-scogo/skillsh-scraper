@@ -1,0 +1,17 @@
+{
+  "skillId": "apple-reminders",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "apple-reminders",
+    "name": "apple-reminders",
+    "installs": 3312,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Apple Reminders"
+  }
+}

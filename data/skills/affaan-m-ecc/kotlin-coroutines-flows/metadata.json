@@ -1,0 +1,17 @@
+{
+  "skillId": "kotlin-coroutines-flows",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "kotlin-coroutines-flows",
+    "name": "kotlin-coroutines-flows",
+    "installs": 1103,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Kotlin Coroutines Flows"
+  }
+}

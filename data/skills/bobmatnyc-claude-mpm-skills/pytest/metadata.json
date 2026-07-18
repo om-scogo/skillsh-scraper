@@ -1,0 +1,17 @@
+{
+  "skillId": "pytest",
+  "source": "bobmatnyc/claude-mpm-skills",
+  "owner": "bobmatnyc",
+  "repo": "claude-mpm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bobmatnyc/claude-mpm-skills",
+    "skillId": "pytest",
+    "name": "pytest",
+    "installs": 1118,
+    "owner": "bobmatnyc",
+    "repo": "claude-mpm-skills",
+    "githubUrl": "https://github.com/bobmatnyc/claude-mpm-skills",
+    "displayName": "Pytest"
+  }
+}

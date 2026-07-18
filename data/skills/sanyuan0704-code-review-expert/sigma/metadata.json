@@ -1,0 +1,17 @@
+{
+  "skillId": "sigma",
+  "source": "sanyuan0704/code-review-expert",
+  "owner": "sanyuan0704",
+  "repo": "code-review-expert",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sanyuan0704/code-review-expert",
+    "skillId": "sigma",
+    "name": "sigma",
+    "installs": 1139,
+    "owner": "sanyuan0704",
+    "repo": "code-review-expert",
+    "githubUrl": "https://github.com/sanyuan0704/code-review-expert",
+    "displayName": "Sigma"
+  }
+}

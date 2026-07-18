@@ -1,0 +1,17 @@
+{
+  "skillId": "clanker-discipline",
+  "source": "gbasin/clanker-discipline",
+  "owner": "gbasin",
+  "repo": "clanker-discipline",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gbasin/clanker-discipline",
+    "skillId": "clanker-discipline",
+    "name": "clanker-discipline",
+    "installs": 1844,
+    "owner": "gbasin",
+    "repo": "clanker-discipline",
+    "githubUrl": "https://github.com/gbasin/clanker-discipline",
+    "displayName": "Clanker Discipline"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "typst-paper",
+  "source": "bahayonghang/academic-writing-skills",
+  "owner": "bahayonghang",
+  "repo": "academic-writing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bahayonghang/academic-writing-skills",
+    "skillId": "typst-paper",
+    "name": "typst-paper",
+    "installs": 1033,
+    "owner": "bahayonghang",
+    "repo": "academic-writing-skills",
+    "githubUrl": "https://github.com/bahayonghang/academic-writing-skills",
+    "displayName": "Typst Paper"
+  }
+}

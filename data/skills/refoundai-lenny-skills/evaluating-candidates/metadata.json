@@ -1,0 +1,17 @@
+{
+  "skillId": "evaluating-candidates",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "evaluating-candidates",
+    "name": "evaluating-candidates",
+    "installs": 1606,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Evaluating Candidates"
+  }
+}

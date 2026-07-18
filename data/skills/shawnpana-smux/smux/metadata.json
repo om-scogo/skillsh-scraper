@@ -1,0 +1,17 @@
+{
+  "skillId": "smux",
+  "source": "shawnpana/smux",
+  "owner": "shawnpana",
+  "repo": "smux",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shawnpana/smux",
+    "skillId": "smux",
+    "name": "smux",
+    "installs": 2431,
+    "owner": "shawnpana",
+    "repo": "smux",
+    "githubUrl": "https://github.com/shawnpana/smux",
+    "displayName": "Smux"
+  }
+}

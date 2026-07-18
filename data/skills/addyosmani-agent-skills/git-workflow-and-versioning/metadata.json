@@ -1,0 +1,17 @@
+{
+  "skillId": "git-workflow-and-versioning",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "git-workflow-and-versioning",
+    "name": "git-workflow-and-versioning",
+    "installs": 11455,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Git Workflow And Versioning"
+  }
+}

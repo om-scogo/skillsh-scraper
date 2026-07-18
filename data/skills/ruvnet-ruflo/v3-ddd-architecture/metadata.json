@@ -1,0 +1,17 @@
+{
+  "skillId": "v3-ddd-architecture",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "v3-ddd-architecture",
+    "name": "v3 ddd architecture",
+    "installs": 975,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "V3 Ddd Architecture"
+  }
+}

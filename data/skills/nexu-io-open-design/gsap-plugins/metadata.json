@@ -1,0 +1,17 @@
+{
+  "skillId": "gsap-plugins",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "gsap-plugins",
+    "name": "gsap-plugins",
+    "installs": 951,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Gsap Plugins"
+  }
+}

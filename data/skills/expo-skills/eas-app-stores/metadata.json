@@ -1,0 +1,17 @@
+{
+  "skillId": "eas-app-stores",
+  "source": "expo/skills",
+  "owner": "expo",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "expo/skills",
+    "skillId": "eas-app-stores",
+    "name": "eas-app-stores",
+    "installs": 1469,
+    "owner": "expo",
+    "repo": "skills",
+    "githubUrl": "https://github.com/expo/skills",
+    "displayName": "Eas App Stores"
+  }
+}

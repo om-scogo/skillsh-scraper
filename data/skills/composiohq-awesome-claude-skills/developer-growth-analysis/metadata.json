@@ -1,0 +1,17 @@
+{
+  "skillId": "developer-growth-analysis",
+  "source": "composiohq/awesome-claude-skills",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "composiohq/awesome-claude-skills",
+    "skillId": "developer-growth-analysis",
+    "name": "developer-growth-analysis",
+    "installs": 3126,
+    "owner": "composiohq",
+    "repo": "awesome-claude-skills",
+    "githubUrl": "https://github.com/composiohq/awesome-claude-skills",
+    "displayName": "Developer Growth Analysis"
+  }
+}

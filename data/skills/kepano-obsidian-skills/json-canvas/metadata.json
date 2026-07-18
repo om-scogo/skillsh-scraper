@@ -1,0 +1,17 @@
+{
+  "skillId": "json-canvas",
+  "source": "kepano/obsidian-skills",
+  "owner": "kepano",
+  "repo": "obsidian-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kepano/obsidian-skills",
+    "skillId": "json-canvas",
+    "name": "json-canvas",
+    "installs": 45332,
+    "owner": "kepano",
+    "repo": "obsidian-skills",
+    "githubUrl": "https://github.com/kepano/obsidian-skills",
+    "displayName": "Json Canvas"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "drizzle-orm",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "drizzle-orm",
+    "name": "drizzle-orm",
+    "installs": 793,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Drizzle Orm"
+  }
+}

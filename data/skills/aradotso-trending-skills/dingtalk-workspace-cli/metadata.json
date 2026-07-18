@@ -1,0 +1,17 @@
+{
+  "skillId": "dingtalk-workspace-cli",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "dingtalk-workspace-cli",
+    "name": "dingtalk-workspace-cli",
+    "installs": 943,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Dingtalk Workspace Cli"
+  }
+}

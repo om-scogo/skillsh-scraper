@@ -1,0 +1,17 @@
+{
+  "skillId": "effect-best-practices",
+  "source": "makisuo/skills",
+  "owner": "makisuo",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "makisuo/skills",
+    "skillId": "effect-best-practices",
+    "name": "effect-best-practices",
+    "installs": 779,
+    "owner": "makisuo",
+    "repo": "skills",
+    "githubUrl": "https://github.com/makisuo/skills",
+    "displayName": "Effect Best Practices"
+  }
+}

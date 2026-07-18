@@ -1,0 +1,17 @@
+{
+  "skillId": "experience-cms-brand-apply",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "experience-cms-brand-apply",
+    "name": "experience-cms-brand-apply",
+    "installs": 1305,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Experience Cms Brand Apply"
+  }
+}

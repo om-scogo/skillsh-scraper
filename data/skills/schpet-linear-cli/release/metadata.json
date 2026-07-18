@@ -1,0 +1,17 @@
+{
+  "skillId": "release",
+  "source": "schpet/linear-cli",
+  "owner": "schpet",
+  "repo": "linear-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "schpet/linear-cli",
+    "skillId": "release",
+    "name": "release",
+    "installs": 3231,
+    "owner": "schpet",
+    "repo": "linear-cli",
+    "githubUrl": "https://github.com/schpet/linear-cli",
+    "displayName": "Release"
+  }
+}

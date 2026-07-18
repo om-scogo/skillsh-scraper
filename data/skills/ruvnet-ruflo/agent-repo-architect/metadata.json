@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-repo-architect",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-repo-architect",
+    "name": "agent-repo-architect",
+    "installs": 1022,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Repo Architect"
+  }
+}

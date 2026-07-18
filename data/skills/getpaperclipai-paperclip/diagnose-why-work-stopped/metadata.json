@@ -1,0 +1,17 @@
+{
+  "skillId": "diagnose-why-work-stopped",
+  "source": "getpaperclipai/paperclip",
+  "owner": "getpaperclipai",
+  "repo": "paperclip",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getpaperclipai/paperclip",
+    "skillId": "diagnose-why-work-stopped",
+    "name": "diagnose-why-work-stopped",
+    "installs": 1427,
+    "owner": "getpaperclipai",
+    "repo": "paperclip",
+    "githubUrl": "https://github.com/getpaperclipai/paperclip",
+    "displayName": "Diagnose Why Work Stopped"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "svelte5-best-practices",
+  "source": "ejirocodes/agent-skills",
+  "owner": "ejirocodes",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ejirocodes/agent-skills",
+    "skillId": "svelte5-best-practices",
+    "name": "svelte5-best-practices",
+    "installs": 4374,
+    "owner": "ejirocodes",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/ejirocodes/agent-skills",
+    "displayName": "Svelte5 Best Practices"
+  }
+}

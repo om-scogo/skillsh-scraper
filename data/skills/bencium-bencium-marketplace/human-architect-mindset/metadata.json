@@ -1,0 +1,17 @@
+{
+  "skillId": "human-architect-mindset",
+  "source": "bencium/bencium-marketplace",
+  "owner": "bencium",
+  "repo": "bencium-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bencium/bencium-marketplace",
+    "skillId": "human-architect-mindset",
+    "name": "human-architect-mindset",
+    "installs": 1604,
+    "owner": "bencium",
+    "repo": "bencium-marketplace",
+    "githubUrl": "https://github.com/bencium/bencium-marketplace",
+    "displayName": "Human Architect Mindset"
+  }
+}

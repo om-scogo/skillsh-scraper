@@ -1,0 +1,17 @@
+{
+  "skillId": "python-mcp-server-generator",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "python-mcp-server-generator",
+    "name": "python-mcp-server-generator",
+    "installs": 9931,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Python Mcp Server Generator"
+  }
+}

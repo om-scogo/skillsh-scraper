@@ -1,0 +1,17 @@
+{
+  "skillId": "hotkey",
+  "source": "lobehub/lobehub",
+  "owner": "lobehub",
+  "repo": "lobehub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobehub",
+    "skillId": "hotkey",
+    "name": "hotkey",
+    "installs": 1588,
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "githubUrl": "https://github.com/lobehub/lobehub",
+    "displayName": "Hotkey"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "stock-monitor",
+  "source": "chjm-ai/stock-monitor-skill",
+  "owner": "chjm-ai",
+  "repo": "stock-monitor-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chjm-ai/stock-monitor-skill",
+    "skillId": "stock-monitor",
+    "name": "stock-monitor",
+    "installs": 1308,
+    "owner": "chjm-ai",
+    "repo": "stock-monitor-skill",
+    "githubUrl": "https://github.com/chjm-ai/stock-monitor-skill",
+    "displayName": "Stock Monitor"
+  }
+}

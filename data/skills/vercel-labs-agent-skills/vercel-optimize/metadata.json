@@ -1,0 +1,17 @@
+{
+  "skillId": "vercel-optimize",
+  "source": "vercel-labs/agent-skills",
+  "owner": "vercel-labs",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/agent-skills",
+    "skillId": "vercel-optimize",
+    "name": "vercel-optimize",
+    "installs": 35940,
+    "owner": "vercel-labs",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/vercel-labs/agent-skills",
+    "displayName": "Vercel Optimize"
+  }
+}

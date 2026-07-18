@@ -1,0 +1,17 @@
+{
+  "skillId": "build-zoom-meeting-sdk-app",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "build-zoom-meeting-sdk-app",
+    "name": "build-zoom-meeting-sdk-app",
+    "installs": 1304,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Build Zoom Meeting Sdk App"
+  }
+}

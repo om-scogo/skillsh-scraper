@@ -1,0 +1,17 @@
+{
+  "skillId": "m09-domain",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "m09-domain",
+    "name": "m09-domain",
+    "installs": 1362,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "M09 Domain"
+  }
+}

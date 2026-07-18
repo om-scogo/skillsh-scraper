@@ -1,0 +1,17 @@
+{
+  "skillId": "lark-attendance",
+  "source": "larksuite/cli",
+  "owner": "larksuite",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "larksuite/cli",
+    "skillId": "lark-attendance",
+    "name": "lark-attendance",
+    "installs": 313251,
+    "owner": "larksuite",
+    "repo": "cli",
+    "githubUrl": "https://github.com/larksuite/cli",
+    "displayName": "Lark Attendance"
+  }
+}

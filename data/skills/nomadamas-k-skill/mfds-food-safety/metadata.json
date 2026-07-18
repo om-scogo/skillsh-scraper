@@ -1,0 +1,17 @@
+{
+  "skillId": "mfds-food-safety",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "mfds-food-safety",
+    "name": "mfds-food-safety",
+    "installs": 2575,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Mfds Food Safety"
+  }
+}

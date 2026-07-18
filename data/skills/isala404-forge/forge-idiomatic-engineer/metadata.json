@@ -1,0 +1,17 @@
+{
+  "skillId": "forge-idiomatic-engineer",
+  "source": "isala404/forge",
+  "owner": "isala404",
+  "repo": "forge",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "isala404/forge",
+    "skillId": "forge-idiomatic-engineer",
+    "name": "forge-idiomatic-engineer",
+    "installs": 927,
+    "owner": "isala404",
+    "repo": "forge",
+    "githubUrl": "https://github.com/isala404/forge",
+    "displayName": "Forge Idiomatic Engineer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "liquid-glass-design",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "liquid-glass-design",
+    "name": "liquid-glass-design",
+    "installs": 1143,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Liquid Glass Design"
+  }
+}

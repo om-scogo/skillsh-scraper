@@ -1,0 +1,17 @@
+{
+  "skillId": "aws-lambda-java-integration",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "aws-lambda-java-integration",
+    "name": "aws-lambda-java-integration",
+    "installs": 1359,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Aws Lambda Java Integration"
+  }
+}

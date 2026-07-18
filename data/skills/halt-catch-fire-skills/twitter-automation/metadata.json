@@ -1,0 +1,17 @@
+{
+  "skillId": "twitter-automation",
+  "source": "halt-catch-fire/skills",
+  "owner": "halt-catch-fire",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "halt-catch-fire/skills",
+    "skillId": "twitter-automation",
+    "name": "twitter-automation",
+    "installs": 12,
+    "owner": "halt-catch-fire",
+    "repo": "skills",
+    "githubUrl": "https://github.com/halt-catch-fire/skills",
+    "displayName": "Twitter Automation"
+  }
+}

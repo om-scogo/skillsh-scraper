@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-wall-submit",
+  "source": "rudrankriyam/asc-skills",
+  "owner": "rudrankriyam",
+  "repo": "asc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rudrankriyam/asc-skills",
+    "skillId": "asc-wall-submit",
+    "name": "asc-wall-submit",
+    "installs": 1006,
+    "owner": "rudrankriyam",
+    "repo": "asc-skills",
+    "githubUrl": "https://github.com/rudrankriyam/asc-skills",
+    "displayName": "Asc Wall Submit"
+  }
+}

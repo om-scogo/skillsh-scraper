@@ -1,0 +1,17 @@
+{
+  "skillId": "impeccable",
+  "source": "pbakaus/impeccable",
+  "owner": "pbakaus",
+  "repo": "impeccable",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pbakaus/impeccable",
+    "skillId": "impeccable",
+    "name": "impeccable",
+    "installs": 195762,
+    "owner": "pbakaus",
+    "repo": "impeccable",
+    "githubUrl": "https://github.com/pbakaus/impeccable",
+    "displayName": "Impeccable"
+  }
+}

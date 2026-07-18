@@ -1,0 +1,17 @@
+{
+  "skillId": "create-agent-adapter",
+  "source": "getpaperclipai/paperclip",
+  "owner": "getpaperclipai",
+  "repo": "paperclip",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getpaperclipai/paperclip",
+    "skillId": "create-agent-adapter",
+    "name": "create-agent-adapter",
+    "installs": 1427,
+    "owner": "getpaperclipai",
+    "repo": "paperclip",
+    "githubUrl": "https://github.com/getpaperclipai/paperclip",
+    "displayName": "Create Agent Adapter"
+  }
+}

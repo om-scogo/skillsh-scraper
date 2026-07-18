@@ -1,0 +1,17 @@
+{
+  "skillId": "chatgpt-app-builder",
+  "source": "alpic-ai/skybridge",
+  "owner": "alpic-ai",
+  "repo": "skybridge",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alpic-ai/skybridge",
+    "skillId": "chatgpt-app-builder",
+    "name": "chatgpt-app-builder",
+    "installs": 3511,
+    "owner": "alpic-ai",
+    "repo": "skybridge",
+    "githubUrl": "https://github.com/alpic-ai/skybridge",
+    "displayName": "Chatgpt App Builder"
+  }
+}

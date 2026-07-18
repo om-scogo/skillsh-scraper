@@ -1,0 +1,17 @@
+{
+  "skillId": "loki-label-analyzer",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "loki-label-analyzer",
+    "name": "loki-label-analyzer",
+    "installs": 1406,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Loki Label Analyzer"
+  }
+}

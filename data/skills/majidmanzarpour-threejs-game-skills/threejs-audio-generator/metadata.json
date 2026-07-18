@@ -1,0 +1,17 @@
+{
+  "skillId": "threejs-audio-generator",
+  "source": "majidmanzarpour/threejs-game-skills",
+  "owner": "majidmanzarpour",
+  "repo": "threejs-game-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "majidmanzarpour/threejs-game-skills",
+    "skillId": "threejs-audio-generator",
+    "name": "threejs-audio-generator",
+    "installs": 746,
+    "owner": "majidmanzarpour",
+    "repo": "threejs-game-skills",
+    "githubUrl": "https://github.com/majidmanzarpour/threejs-game-skills",
+    "displayName": "Threejs Audio Generator"
+  }
+}

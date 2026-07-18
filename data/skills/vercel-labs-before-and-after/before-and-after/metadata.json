@@ -1,0 +1,17 @@
+{
+  "skillId": "before-and-after",
+  "source": "vercel-labs/before-and-after",
+  "owner": "vercel-labs",
+  "repo": "before-and-after",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/before-and-after",
+    "skillId": "before-and-after",
+    "name": "before-and-after",
+    "installs": 1278,
+    "owner": "vercel-labs",
+    "repo": "before-and-after",
+    "githubUrl": "https://github.com/vercel-labs/before-and-after",
+    "displayName": "Before And After"
+  }
+}

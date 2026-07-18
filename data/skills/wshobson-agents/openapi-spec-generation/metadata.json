@@ -1,0 +1,17 @@
+{
+  "skillId": "openapi-spec-generation",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "openapi-spec-generation",
+    "name": "openapi-spec-generation",
+    "installs": 12968,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Openapi Spec Generation"
+  }
+}

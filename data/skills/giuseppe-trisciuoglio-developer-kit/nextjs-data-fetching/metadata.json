@@ -1,0 +1,17 @@
+{
+  "skillId": "nextjs-data-fetching",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "nextjs-data-fetching",
+    "name": "nextjs-data-fetching",
+    "installs": 1455,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Nextjs Data Fetching"
+  }
+}

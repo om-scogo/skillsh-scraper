@@ -1,0 +1,17 @@
+{
+  "skillId": "msw-packages",
+  "source": "msw-git/msw-ai-coding-plugins-official",
+  "owner": "msw-git",
+  "repo": "msw-ai-coding-plugins-official",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "msw-git/msw-ai-coding-plugins-official",
+    "skillId": "msw-packages",
+    "name": "msw-packages",
+    "installs": 3116,
+    "owner": "msw-git",
+    "repo": "msw-ai-coding-plugins-official",
+    "githubUrl": "https://github.com/msw-git/msw-ai-coding-plugins-official",
+    "displayName": "Msw Packages"
+  }
+}

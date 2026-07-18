@@ -1,0 +1,17 @@
+{
+  "skillId": "java-refactoring-extract-method",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "java-refactoring-extract-method",
+    "name": "java-refactoring-extract-method",
+    "installs": 9021,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Java Refactoring Extract Method"
+  }
+}

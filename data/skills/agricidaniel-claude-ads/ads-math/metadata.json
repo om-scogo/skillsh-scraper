@@ -1,0 +1,17 @@
+{
+  "skillId": "ads-math",
+  "source": "agricidaniel/claude-ads",
+  "owner": "agricidaniel",
+  "repo": "claude-ads",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-ads",
+    "skillId": "ads-math",
+    "name": "ads-math",
+    "installs": 1713,
+    "owner": "agricidaniel",
+    "repo": "claude-ads",
+    "githubUrl": "https://github.com/agricidaniel/claude-ads",
+    "displayName": "Ads Math"
+  }
+}

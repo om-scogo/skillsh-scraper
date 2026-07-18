@@ -1,0 +1,17 @@
+{
+  "skillId": "fal-image-edit",
+  "source": "fal-ai-community/skills",
+  "owner": "fal-ai-community",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "fal-ai-community/skills",
+    "skillId": "fal-image-edit",
+    "name": "fal-image-edit",
+    "installs": 862,
+    "owner": "fal-ai-community",
+    "repo": "skills",
+    "githubUrl": "https://github.com/fal-ai-community/skills",
+    "displayName": "Fal Image Edit"
+  }
+}

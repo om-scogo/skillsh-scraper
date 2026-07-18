@@ -1,0 +1,17 @@
+{
+  "skillId": "aoti-debug",
+  "source": "pytorch/pytorch",
+  "owner": "pytorch",
+  "repo": "pytorch",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pytorch/pytorch",
+    "skillId": "aoti-debug",
+    "name": "aoti-debug",
+    "installs": 1907,
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "githubUrl": "https://github.com/pytorch/pytorch",
+    "displayName": "Aoti Debug"
+  }
+}

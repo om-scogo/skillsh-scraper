@@ -1,0 +1,17 @@
+{
+  "skillId": "logo-generator",
+  "source": "op7418/logo-generator-skill",
+  "owner": "op7418",
+  "repo": "logo-generator-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "op7418/logo-generator-skill",
+    "skillId": "logo-generator",
+    "name": "logo-generator",
+    "installs": 1719,
+    "owner": "op7418",
+    "repo": "logo-generator-skill",
+    "githubUrl": "https://github.com/op7418/logo-generator-skill",
+    "displayName": "Logo Generator"
+  }
+}

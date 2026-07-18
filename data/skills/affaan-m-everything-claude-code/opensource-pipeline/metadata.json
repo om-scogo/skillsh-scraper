@@ -1,0 +1,17 @@
+{
+  "skillId": "opensource-pipeline",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "opensource-pipeline",
+    "name": "opensource-pipeline",
+    "installs": 3700,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Opensource Pipeline"
+  }
+}

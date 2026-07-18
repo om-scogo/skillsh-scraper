@@ -1,0 +1,17 @@
+{
+  "skillId": "alpha-porno-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "alpha-porno-downloader",
+    "name": "alpha-porno-downloader",
+    "installs": 958,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Alpha Porno Downloader"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "trading-expert",
+  "source": "personamanagmentlayer/pcl",
+  "owner": "personamanagmentlayer",
+  "repo": "pcl",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "personamanagmentlayer/pcl",
+    "skillId": "trading-expert",
+    "name": "trading-expert",
+    "installs": 905,
+    "owner": "personamanagmentlayer",
+    "repo": "pcl",
+    "githubUrl": "https://github.com/personamanagmentlayer/pcl",
+    "displayName": "Trading Expert"
+  }
+}

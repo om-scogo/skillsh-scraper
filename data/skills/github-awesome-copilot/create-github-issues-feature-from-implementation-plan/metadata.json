@@ -1,0 +1,17 @@
+{
+  "skillId": "create-github-issues-feature-from-implementation-plan",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "create-github-issues-feature-from-implementation-plan",
+    "name": "create-github-issues-feature-from-implementation-plan",
+    "installs": 8946,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Create Github Issues Feature From Implementation Plan"
+  }
+}

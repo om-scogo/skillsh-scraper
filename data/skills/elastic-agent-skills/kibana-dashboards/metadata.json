@@ -1,0 +1,17 @@
+{
+  "skillId": "kibana-dashboards",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "kibana-dashboards",
+    "name": "kibana-dashboards",
+    "installs": 2077,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Kibana Dashboards"
+  }
+}

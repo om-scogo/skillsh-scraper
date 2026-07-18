@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-in-chrome-troubleshooting",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "claude-in-chrome-troubleshooting",
+    "name": "claude-in-chrome-troubleshooting",
+    "installs": 2597,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Claude In Chrome Troubleshooting"
+  }
+}

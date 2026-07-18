@@ -1,0 +1,17 @@
+{
+  "skillId": "prediction-market-oracle-research",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "prediction-market-oracle-research",
+    "name": "prediction-market-oracle-research",
+    "installs": 1005,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Prediction Market Oracle Research"
+  }
+}

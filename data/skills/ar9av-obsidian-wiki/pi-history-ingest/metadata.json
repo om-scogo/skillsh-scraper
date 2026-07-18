@@ -1,0 +1,17 @@
+{
+  "skillId": "pi-history-ingest",
+  "source": "ar9av/obsidian-wiki",
+  "owner": "ar9av",
+  "repo": "obsidian-wiki",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ar9av/obsidian-wiki",
+    "skillId": "pi-history-ingest",
+    "name": "pi-history-ingest",
+    "installs": 776,
+    "owner": "ar9av",
+    "repo": "obsidian-wiki",
+    "githubUrl": "https://github.com/ar9av/obsidian-wiki",
+    "displayName": "Pi History Ingest"
+  }
+}

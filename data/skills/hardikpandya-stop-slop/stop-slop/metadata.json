@@ -1,0 +1,17 @@
+{
+  "skillId": "stop-slop",
+  "source": "hardikpandya/stop-slop",
+  "owner": "hardikpandya",
+  "repo": "stop-slop",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hardikpandya/stop-slop",
+    "skillId": "stop-slop",
+    "name": "stop-slop",
+    "installs": 7381,
+    "owner": "hardikpandya",
+    "repo": "stop-slop",
+    "githubUrl": "https://github.com/hardikpandya/stop-slop",
+    "displayName": "Stop Slop"
+  }
+}

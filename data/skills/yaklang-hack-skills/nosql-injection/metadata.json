@@ -1,0 +1,17 @@
+{
+  "skillId": "nosql-injection",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "nosql-injection",
+    "name": "nosql-injection",
+    "installs": 1861,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Nosql Injection"
+  }
+}

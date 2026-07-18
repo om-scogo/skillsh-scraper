@@ -1,0 +1,17 @@
+{
+  "skillId": "react-devtools",
+  "source": "callstackincubator/agent-device",
+  "owner": "callstackincubator",
+  "repo": "agent-device",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "callstackincubator/agent-device",
+    "skillId": "react-devtools",
+    "name": "react-devtools",
+    "installs": 1315,
+    "owner": "callstackincubator",
+    "repo": "agent-device",
+    "githubUrl": "https://github.com/callstackincubator/agent-device",
+    "displayName": "React Devtools"
+  }
+}

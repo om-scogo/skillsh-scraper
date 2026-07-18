@@ -1,0 +1,17 @@
+{
+  "skillId": "houdini",
+  "source": "sfkislev/flue",
+  "owner": "sfkislev",
+  "repo": "flue",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sfkislev/flue",
+    "skillId": "houdini",
+    "name": "houdini",
+    "installs": 1816,
+    "owner": "sfkislev",
+    "repo": "flue",
+    "githubUrl": "https://github.com/sfkislev/flue",
+    "displayName": "Houdini"
+  }
+}

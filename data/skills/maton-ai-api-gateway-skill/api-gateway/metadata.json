@@ -1,0 +1,17 @@
+{
+  "skillId": "api-gateway",
+  "source": "maton-ai/api-gateway-skill",
+  "owner": "maton-ai",
+  "repo": "api-gateway-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "maton-ai/api-gateway-skill",
+    "skillId": "api-gateway",
+    "name": "api-gateway",
+    "installs": 1254,
+    "owner": "maton-ai",
+    "repo": "api-gateway-skill",
+    "githubUrl": "https://github.com/maton-ai/api-gateway-skill",
+    "displayName": "Api Gateway"
+  }
+}

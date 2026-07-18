@@ -1,0 +1,17 @@
+{
+  "skillId": "sharp-edges",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "sharp-edges",
+    "name": "sharp-edges",
+    "installs": 4336,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Sharp Edges"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "venice-audio-speech",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "venice-audio-speech",
+    "name": "venice-audio-speech",
+    "installs": 1568,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Venice Audio Speech"
+  }
+}

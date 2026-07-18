@@ -1,0 +1,17 @@
+{
+  "skillId": "repo-story-time",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "repo-story-time",
+    "name": "repo-story-time",
+    "installs": 8805,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Repo Story Time"
+  }
+}

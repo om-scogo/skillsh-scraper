@@ -1,0 +1,17 @@
+{
+  "skillId": "baoyu-translate",
+  "source": "jimliu/baoyu-skills",
+  "owner": "jimliu",
+  "repo": "baoyu-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jimliu/baoyu-skills",
+    "skillId": "baoyu-translate",
+    "name": "baoyu-translate",
+    "installs": 22029,
+    "owner": "jimliu",
+    "repo": "baoyu-skills",
+    "githubUrl": "https://github.com/jimliu/baoyu-skills",
+    "displayName": "Baoyu Translate"
+  }
+}

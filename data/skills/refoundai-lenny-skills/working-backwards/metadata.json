@@ -1,0 +1,17 @@
+{
+  "skillId": "working-backwards",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "working-backwards",
+    "name": "working-backwards",
+    "installs": 1620,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Working Backwards"
+  }
+}

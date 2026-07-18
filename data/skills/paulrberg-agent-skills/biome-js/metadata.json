@@ -1,0 +1,17 @@
+{
+  "skillId": "biome-js",
+  "source": "paulrberg/agent-skills",
+  "owner": "paulrberg",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paulrberg/agent-skills",
+    "skillId": "biome-js",
+    "name": "biome-js",
+    "installs": 1068,
+    "owner": "paulrberg",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/paulrberg/agent-skills",
+    "displayName": "Biome Js"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ios-design-guidelines",
+  "source": "ehmo/platform-design-skills",
+  "owner": "ehmo",
+  "repo": "platform-design-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ehmo/platform-design-skills",
+    "skillId": "ios-design-guidelines",
+    "name": "ios-design-guidelines",
+    "installs": 1230,
+    "owner": "ehmo",
+    "repo": "platform-design-skills",
+    "githubUrl": "https://github.com/ehmo/platform-design-skills",
+    "displayName": "Ios Design Guidelines"
+  }
+}

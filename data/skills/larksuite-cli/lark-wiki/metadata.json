@@ -1,0 +1,17 @@
+{
+  "skillId": "lark-wiki",
+  "source": "larksuite/cli",
+  "owner": "larksuite",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "larksuite/cli",
+    "skillId": "lark-wiki",
+    "name": "lark-wiki",
+    "installs": 362866,
+    "owner": "larksuite",
+    "repo": "cli",
+    "githubUrl": "https://github.com/larksuite/cli",
+    "displayName": "Lark Wiki"
+  }
+}

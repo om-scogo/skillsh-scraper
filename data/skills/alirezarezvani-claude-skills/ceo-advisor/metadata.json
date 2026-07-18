@@ -1,0 +1,17 @@
+{
+  "skillId": "ceo-advisor",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "ceo-advisor",
+    "name": "ceo-advisor",
+    "installs": 906,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Ceo Advisor"
+  }
+}

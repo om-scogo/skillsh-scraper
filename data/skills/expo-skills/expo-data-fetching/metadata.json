@@ -1,0 +1,17 @@
+{
+  "skillId": "expo-data-fetching",
+  "source": "expo/skills",
+  "owner": "expo",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "expo/skills",
+    "skillId": "expo-data-fetching",
+    "name": "expo-data-fetching",
+    "installs": 1789,
+    "owner": "expo",
+    "repo": "skills",
+    "githubUrl": "https://github.com/expo/skills",
+    "displayName": "Expo Data Fetching"
+  }
+}

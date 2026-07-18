@@ -1,0 +1,17 @@
+{
+  "skillId": "stripe-best-practices",
+  "source": "stripe/ai",
+  "owner": "stripe",
+  "repo": "ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "stripe/ai",
+    "skillId": "stripe-best-practices",
+    "name": "stripe-best-practices",
+    "installs": 58104,
+    "owner": "stripe",
+    "repo": "ai",
+    "githubUrl": "https://github.com/stripe/ai",
+    "displayName": "Stripe Best Practices"
+  }
+}

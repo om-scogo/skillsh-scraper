@@ -1,0 +1,17 @@
+{
+  "skillId": "tax-season-organizer",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "tax-season-organizer",
+    "name": "tax-season-organizer",
+    "installs": 823,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Tax Season Organizer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "validate-idea",
+  "source": "slavingia/skills",
+  "owner": "slavingia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "slavingia/skills",
+    "skillId": "validate-idea",
+    "name": "validate-idea",
+    "installs": 1371,
+    "owner": "slavingia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/slavingia/skills",
+    "displayName": "Validate Idea"
+  }
+}

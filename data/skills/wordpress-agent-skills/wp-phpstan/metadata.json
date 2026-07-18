@@ -1,0 +1,17 @@
+{
+  "skillId": "wp-phpstan",
+  "source": "wordpress/agent-skills",
+  "owner": "wordpress",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wordpress/agent-skills",
+    "skillId": "wp-phpstan",
+    "name": "wp-phpstan",
+    "installs": 2288,
+    "owner": "wordpress",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/wordpress/agent-skills",
+    "displayName": "Wp Phpstan"
+  }
+}

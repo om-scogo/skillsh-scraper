@@ -1,0 +1,17 @@
+{
+  "skillId": "querying-aws-s3",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "querying-aws-s3",
+    "name": "querying-aws-s3",
+    "installs": 757,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Querying Aws S3"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "antv-s2-expert",
+  "source": "antvis/chart-visualization-skills",
+  "owner": "antvis",
+  "repo": "chart-visualization-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antvis/chart-visualization-skills",
+    "skillId": "antv-s2-expert",
+    "name": "antv-s2-expert",
+    "installs": 1057,
+    "owner": "antvis",
+    "repo": "chart-visualization-skills",
+    "githubUrl": "https://github.com/antvis/chart-visualization-skills",
+    "displayName": "Antv S2 Expert"
+  }
+}

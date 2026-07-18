@@ -1,0 +1,17 @@
+{
+  "skillId": "app-sizzle",
+  "source": "pika-labs/pika-plugins",
+  "owner": "pika-labs",
+  "repo": "pika-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pika-labs/pika-plugins",
+    "skillId": "app-sizzle",
+    "name": "app-sizzle",
+    "installs": 1246,
+    "owner": "pika-labs",
+    "repo": "pika-plugins",
+    "githubUrl": "https://github.com/pika-labs/pika-plugins",
+    "displayName": "App Sizzle"
+  }
+}

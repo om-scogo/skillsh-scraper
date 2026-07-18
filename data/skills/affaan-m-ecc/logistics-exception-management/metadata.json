@@ -1,0 +1,17 @@
+{
+  "skillId": "logistics-exception-management",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "logistics-exception-management",
+    "name": "logistics-exception-management",
+    "installs": 1096,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Logistics Exception Management"
+  }
+}

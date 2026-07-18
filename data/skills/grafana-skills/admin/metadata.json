@@ -1,0 +1,17 @@
+{
+  "skillId": "admin",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "admin",
+    "name": "admin",
+    "installs": 1459,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Admin"
+  }
+}

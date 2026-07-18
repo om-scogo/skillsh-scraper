@@ -1,0 +1,17 @@
+{
+  "skillId": "ssrf-server-side-request-forgery",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "ssrf-server-side-request-forgery",
+    "name": "ssrf-server-side-request-forgery",
+    "installs": 2041,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Ssrf Server Side Request Forgery"
+  }
+}

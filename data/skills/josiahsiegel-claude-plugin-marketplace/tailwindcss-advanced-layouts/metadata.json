@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwindcss-advanced-layouts",
+  "source": "josiahsiegel/claude-plugin-marketplace",
+  "owner": "josiahsiegel",
+  "repo": "claude-plugin-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "josiahsiegel/claude-plugin-marketplace",
+    "skillId": "tailwindcss-advanced-layouts",
+    "name": "tailwindcss-advanced-layouts",
+    "installs": 7575,
+    "owner": "josiahsiegel",
+    "repo": "claude-plugin-marketplace",
+    "githubUrl": "https://github.com/josiahsiegel/claude-plugin-marketplace",
+    "displayName": "Tailwindcss Advanced Layouts"
+  }
+}

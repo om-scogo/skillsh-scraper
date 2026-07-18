@@ -1,0 +1,17 @@
+{
+  "skillId": "lead-research-assistant",
+  "source": "composiohq/awesome-claude-skills",
+  "owner": "composiohq",
+  "repo": "awesome-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "composiohq/awesome-claude-skills",
+    "skillId": "lead-research-assistant",
+    "name": "lead-research-assistant",
+    "installs": 4090,
+    "owner": "composiohq",
+    "repo": "awesome-claude-skills",
+    "githubUrl": "https://github.com/composiohq/awesome-claude-skills",
+    "displayName": "Lead Research Assistant"
+  }
+}

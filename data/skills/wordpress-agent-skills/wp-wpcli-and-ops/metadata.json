@@ -1,0 +1,17 @@
+{
+  "skillId": "wp-wpcli-and-ops",
+  "source": "wordpress/agent-skills",
+  "owner": "wordpress",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wordpress/agent-skills",
+    "skillId": "wp-wpcli-and-ops",
+    "name": "wp-wpcli-and-ops",
+    "installs": 2646,
+    "owner": "wordpress",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/wordpress/agent-skills",
+    "displayName": "Wp Wpcli And Ops"
+  }
+}

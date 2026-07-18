@@ -1,0 +1,17 @@
+{
+  "skillId": "woocommerce-backend-dev",
+  "source": "woocommerce/woocommerce",
+  "owner": "woocommerce",
+  "repo": "woocommerce",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "woocommerce/woocommerce",
+    "skillId": "woocommerce-backend-dev",
+    "name": "woocommerce-backend-dev",
+    "installs": 1341,
+    "owner": "woocommerce",
+    "repo": "woocommerce",
+    "githubUrl": "https://github.com/woocommerce/woocommerce",
+    "displayName": "Woocommerce Backend Dev"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "nv-reason-cxr",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nv-reason-cxr",
+    "name": "nv-reason-cxr",
+    "installs": 1471,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nv Reason Cxr"
+  }
+}

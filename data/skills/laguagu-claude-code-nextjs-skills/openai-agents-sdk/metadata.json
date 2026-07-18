@@ -1,0 +1,17 @@
+{
+  "skillId": "openai-agents-sdk",
+  "source": "laguagu/claude-code-nextjs-skills",
+  "owner": "laguagu",
+  "repo": "claude-code-nextjs-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "laguagu/claude-code-nextjs-skills",
+    "skillId": "openai-agents-sdk",
+    "name": "openai-agents-sdk",
+    "installs": 1023,
+    "owner": "laguagu",
+    "repo": "claude-code-nextjs-skills",
+    "githubUrl": "https://github.com/laguagu/claude-code-nextjs-skills",
+    "displayName": "Openai Agents Sdk"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "cx-data-pipeline",
+  "source": "coralogix/cx-cli",
+  "owner": "coralogix",
+  "repo": "cx-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coralogix/cx-cli",
+    "skillId": "cx-data-pipeline",
+    "name": "cx-data-pipeline",
+    "installs": 1079,
+    "owner": "coralogix",
+    "repo": "cx-cli",
+    "githubUrl": "https://github.com/coralogix/cx-cli",
+    "displayName": "Cx Data Pipeline"
+  }
+}

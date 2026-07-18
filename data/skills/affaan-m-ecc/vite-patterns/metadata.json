@@ -1,0 +1,17 @@
+{
+  "skillId": "vite-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "vite-patterns",
+    "name": "vite-patterns",
+    "installs": 1149,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Vite Patterns"
+  }
+}

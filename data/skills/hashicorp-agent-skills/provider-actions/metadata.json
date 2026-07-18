@@ -1,0 +1,17 @@
+{
+  "skillId": "provider-actions",
+  "source": "hashicorp/agent-skills",
+  "owner": "hashicorp",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hashicorp/agent-skills",
+    "skillId": "provider-actions",
+    "name": "provider-actions",
+    "installs": 2475,
+    "owner": "hashicorp",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/hashicorp/agent-skills",
+    "displayName": "Provider Actions"
+  }
+}

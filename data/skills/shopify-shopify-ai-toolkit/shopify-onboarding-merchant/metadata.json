@@ -1,0 +1,17 @@
+{
+  "skillId": "shopify-onboarding-merchant",
+  "source": "shopify/shopify-ai-toolkit",
+  "owner": "shopify",
+  "repo": "shopify-ai-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shopify/shopify-ai-toolkit",
+    "skillId": "shopify-onboarding-merchant",
+    "name": "shopify-onboarding-merchant",
+    "installs": 4901,
+    "owner": "shopify",
+    "repo": "shopify-ai-toolkit",
+    "githubUrl": "https://github.com/shopify/shopify-ai-toolkit",
+    "displayName": "Shopify Onboarding Merchant"
+  }
+}

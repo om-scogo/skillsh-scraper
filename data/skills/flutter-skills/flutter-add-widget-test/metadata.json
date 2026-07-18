@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-add-widget-test",
+  "source": "flutter/skills",
+  "owner": "flutter",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "flutter/skills",
+    "skillId": "flutter-add-widget-test",
+    "name": "flutter-add-widget-test",
+    "installs": 21999,
+    "owner": "flutter",
+    "repo": "skills",
+    "githubUrl": "https://github.com/flutter/skills",
+    "displayName": "Flutter Add Widget Test"
+  }
+}

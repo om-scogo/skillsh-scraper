@@ -1,0 +1,17 @@
+{
+  "skillId": "nuxt",
+  "source": "antfu/skills",
+  "owner": "antfu",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antfu/skills",
+    "skillId": "nuxt",
+    "name": "nuxt",
+    "installs": 19545,
+    "owner": "antfu",
+    "repo": "skills",
+    "githubUrl": "https://github.com/antfu/skills",
+    "displayName": "Nuxt"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "mmx-cli",
+  "source": "minimax-ai/cli",
+  "owner": "minimax-ai",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "minimax-ai/cli",
+    "skillId": "mmx-cli",
+    "name": "mmx-cli",
+    "installs": 23739,
+    "owner": "minimax-ai",
+    "repo": "cli",
+    "githubUrl": "https://github.com/minimax-ai/cli",
+    "displayName": "Mmx Cli"
+  }
+}

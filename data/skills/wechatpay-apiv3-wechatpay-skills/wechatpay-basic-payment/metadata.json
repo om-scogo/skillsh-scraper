@@ -1,0 +1,17 @@
+{
+  "skillId": "wechatpay-basic-payment",
+  "source": "wechatpay-apiv3/wechatpay-skills",
+  "owner": "wechatpay-apiv3",
+  "repo": "wechatpay-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wechatpay-apiv3/wechatpay-skills",
+    "skillId": "wechatpay-basic-payment",
+    "name": "wechatpay-basic-payment",
+    "installs": 892,
+    "owner": "wechatpay-apiv3",
+    "repo": "wechatpay-skills",
+    "githubUrl": "https://github.com/wechatpay-apiv3/wechatpay-skills",
+    "displayName": "Wechatpay Basic Payment"
+  }
+}

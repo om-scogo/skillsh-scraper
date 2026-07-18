@@ -1,0 +1,17 @@
+{
+  "skillId": "databricks-core",
+  "source": "databricks/databricks-agent-skills",
+  "owner": "databricks",
+  "repo": "databricks-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "databricks/databricks-agent-skills",
+    "skillId": "databricks-core",
+    "name": "databricks-core",
+    "installs": 1052,
+    "owner": "databricks",
+    "repo": "databricks-agent-skills",
+    "githubUrl": "https://github.com/databricks/databricks-agent-skills",
+    "displayName": "Databricks Core"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "cargo-fuzz",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "cargo-fuzz",
+    "name": "cargo-fuzz",
+    "installs": 3712,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Cargo Fuzz"
+  }
+}

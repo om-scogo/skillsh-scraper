@@ -1,0 +1,17 @@
+{
+  "skillId": "pyroscope",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "pyroscope",
+    "name": "pyroscope",
+    "installs": 1831,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Pyroscope"
+  }
+}

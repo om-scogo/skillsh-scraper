@@ -1,0 +1,17 @@
+{
+  "skillId": "glab",
+  "source": "henricook/claude-glab-skill",
+  "owner": "henricook",
+  "repo": "claude-glab-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "henricook/claude-glab-skill",
+    "skillId": "glab",
+    "name": "glab",
+    "installs": 876,
+    "owner": "henricook",
+    "repo": "claude-glab-skill",
+    "githubUrl": "https://github.com/henricook/claude-glab-skill",
+    "displayName": "Glab"
+  }
+}

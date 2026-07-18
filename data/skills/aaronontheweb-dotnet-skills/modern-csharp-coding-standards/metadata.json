@@ -1,0 +1,17 @@
+{
+  "skillId": "modern-csharp-coding-standards",
+  "source": "aaronontheweb/dotnet-skills",
+  "owner": "aaronontheweb",
+  "repo": "dotnet-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aaronontheweb/dotnet-skills",
+    "skillId": "modern-csharp-coding-standards",
+    "name": "modern-csharp-coding-standards",
+    "installs": 1641,
+    "owner": "aaronontheweb",
+    "repo": "dotnet-skills",
+    "githubUrl": "https://github.com/aaronontheweb/dotnet-skills",
+    "displayName": "Modern Csharp Coding Standards"
+  }
+}

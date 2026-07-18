@@ -1,0 +1,17 @@
+{
+  "skillId": "justforfans-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "justforfans-downloader",
+    "name": "justforfans-downloader",
+    "installs": 957,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Justforfans Downloader"
+  }
+}

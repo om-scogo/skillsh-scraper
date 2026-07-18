@@ -1,0 +1,17 @@
+{
+  "skillId": "observability-and-instrumentation",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "observability-and-instrumentation",
+    "name": "observability-and-instrumentation",
+    "installs": 6594,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Observability And Instrumentation"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "v3-core-implementation",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "v3-core-implementation",
+    "name": "v3 core implementation",
+    "installs": 972,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "V3 Core Implementation"
+  }
+}

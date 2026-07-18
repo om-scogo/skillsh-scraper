@@ -1,0 +1,17 @@
+{
+  "skillId": "aws-solution-architect",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "aws-solution-architect",
+    "name": "aws-solution-architect",
+    "installs": 1504,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Aws Solution Architect"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "flowstudio-power-automate-debug",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "flowstudio-power-automate-debug",
+    "name": "flowstudio-power-automate-debug",
+    "installs": 1753,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Flowstudio Power Automate Debug"
+  }
+}

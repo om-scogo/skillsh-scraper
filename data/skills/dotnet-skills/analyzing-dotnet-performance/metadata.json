@@ -1,0 +1,17 @@
+{
+  "skillId": "analyzing-dotnet-performance",
+  "source": "dotnet/skills",
+  "owner": "dotnet",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dotnet/skills",
+    "skillId": "analyzing-dotnet-performance",
+    "name": "analyzing-dotnet-performance",
+    "installs": 1163,
+    "owner": "dotnet",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dotnet/skills",
+    "displayName": "Analyzing Dotnet Performance"
+  }
+}

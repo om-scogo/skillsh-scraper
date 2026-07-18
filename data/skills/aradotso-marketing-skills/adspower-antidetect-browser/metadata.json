@@ -1,0 +1,17 @@
+{
+  "skillId": "adspower-antidetect-browser",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "adspower-antidetect-browser",
+    "name": "adspower-antidetect-browser",
+    "installs": 781,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Adspower Antidetect Browser"
+  }
+}

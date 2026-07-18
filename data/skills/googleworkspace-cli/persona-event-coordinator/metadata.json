@@ -1,0 +1,17 @@
+{
+  "skillId": "persona-event-coordinator",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "persona-event-coordinator",
+    "name": "persona-event-coordinator",
+    "installs": 22073,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Persona Event Coordinator"
+  }
+}

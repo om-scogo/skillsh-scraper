@@ -1,0 +1,17 @@
+{
+  "skillId": "dataverse-python-production-code",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "dataverse-python-production-code",
+    "name": "dataverse-python-production-code",
+    "installs": 9552,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Dataverse Python Production Code"
+  }
+}

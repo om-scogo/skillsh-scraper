@@ -1,0 +1,17 @@
+{
+  "skillId": "swiftui-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "swiftui-patterns",
+    "name": "swiftui-patterns",
+    "installs": 1105,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Swiftui Patterns"
+  }
+}

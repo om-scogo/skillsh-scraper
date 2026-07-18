@@ -1,0 +1,17 @@
+{
+  "skillId": "grimoire-morpho-blue",
+  "source": "franalgaba/grimoire",
+  "owner": "franalgaba",
+  "repo": "grimoire",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "franalgaba/grimoire",
+    "skillId": "grimoire-morpho-blue",
+    "name": "grimoire-morpho-blue",
+    "installs": 1045,
+    "owner": "franalgaba",
+    "repo": "grimoire",
+    "githubUrl": "https://github.com/franalgaba/grimoire",
+    "displayName": "Grimoire Morpho Blue"
+  }
+}

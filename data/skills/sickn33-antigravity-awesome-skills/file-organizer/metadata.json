@@ -1,0 +1,17 @@
+{
+  "skillId": "file-organizer",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "file-organizer",
+    "name": "file-organizer",
+    "installs": 976,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "File Organizer"
+  }
+}

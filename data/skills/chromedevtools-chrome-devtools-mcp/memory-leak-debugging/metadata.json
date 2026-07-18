@@ -1,0 +1,17 @@
+{
+  "skillId": "memory-leak-debugging",
+  "source": "chromedevtools/chrome-devtools-mcp",
+  "owner": "chromedevtools",
+  "repo": "chrome-devtools-mcp",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chromedevtools/chrome-devtools-mcp",
+    "skillId": "memory-leak-debugging",
+    "name": "memory-leak-debugging",
+    "installs": 1229,
+    "owner": "chromedevtools",
+    "repo": "chrome-devtools-mcp",
+    "githubUrl": "https://github.com/chromedevtools/chrome-devtools-mcp",
+    "displayName": "Memory Leak Debugging"
+  }
+}

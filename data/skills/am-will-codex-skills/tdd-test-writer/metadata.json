@@ -1,0 +1,17 @@
+{
+  "skillId": "tdd-test-writer",
+  "source": "am-will/codex-skills",
+  "owner": "am-will",
+  "repo": "codex-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "am-will/codex-skills",
+    "skillId": "tdd-test-writer",
+    "name": "tdd-test-writer",
+    "installs": 857,
+    "owner": "am-will",
+    "repo": "codex-skills",
+    "githubUrl": "https://github.com/am-will/codex-skills",
+    "displayName": "Tdd Test Writer"
+  }
+}

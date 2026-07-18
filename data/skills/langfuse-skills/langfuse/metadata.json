@@ -1,0 +1,17 @@
+{
+  "skillId": "langfuse",
+  "source": "langfuse/skills",
+  "owner": "langfuse",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langfuse/skills",
+    "skillId": "langfuse",
+    "name": "langfuse",
+    "installs": 9443,
+    "owner": "langfuse",
+    "repo": "skills",
+    "githubUrl": "https://github.com/langfuse/skills",
+    "displayName": "Langfuse"
+  }
+}

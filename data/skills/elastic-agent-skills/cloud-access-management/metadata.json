@@ -1,0 +1,17 @@
+{
+  "skillId": "cloud-access-management",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "cloud-access-management",
+    "name": "cloud-access-management",
+    "installs": 1667,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Cloud Access Management"
+  }
+}

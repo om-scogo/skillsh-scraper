@@ -1,0 +1,17 @@
+{
+  "skillId": "data-throughput-accelerator",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "data-throughput-accelerator",
+    "name": "data-throughput-accelerator",
+    "installs": 829,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Data Throughput Accelerator"
+  }
+}

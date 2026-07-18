@@ -1,0 +1,17 @@
+{
+  "skillId": "belt",
+  "source": "belt-sh/cli",
+  "owner": "belt-sh",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "belt-sh/cli",
+    "skillId": "belt",
+    "name": "belt",
+    "installs": 3418,
+    "owner": "belt-sh",
+    "repo": "cli",
+    "githubUrl": "https://github.com/belt-sh/cli",
+    "displayName": "Belt"
+  }
+}

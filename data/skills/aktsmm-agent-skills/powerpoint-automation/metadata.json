@@ -1,0 +1,17 @@
+{
+  "skillId": "powerpoint-automation",
+  "source": "aktsmm/agent-skills",
+  "owner": "aktsmm",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aktsmm/agent-skills",
+    "skillId": "powerpoint-automation",
+    "name": "powerpoint-automation",
+    "installs": 1811,
+    "owner": "aktsmm",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/aktsmm/agent-skills",
+    "displayName": "Powerpoint Automation"
+  }
+}

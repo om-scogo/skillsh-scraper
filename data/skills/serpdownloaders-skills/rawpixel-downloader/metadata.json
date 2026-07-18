@@ -1,0 +1,17 @@
+{
+  "skillId": "rawpixel-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "rawpixel-downloader",
+    "name": "rawpixel-downloader",
+    "installs": 961,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Rawpixel Downloader"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "harness-writing",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "harness-writing",
+    "name": "harness-writing",
+    "installs": 3756,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Harness Writing"
+  }
+}

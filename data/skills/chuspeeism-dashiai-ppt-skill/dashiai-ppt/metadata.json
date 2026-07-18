@@ -1,0 +1,17 @@
+{
+  "skillId": "dashiai-ppt",
+  "source": "chuspeeism/dashiai-ppt-skill",
+  "owner": "chuspeeism",
+  "repo": "dashiai-ppt-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chuspeeism/dashiai-ppt-skill",
+    "skillId": "dashiai-ppt",
+    "name": "dashiai-ppt",
+    "installs": 971,
+    "owner": "chuspeeism",
+    "repo": "dashiai-ppt-skill",
+    "githubUrl": "https://github.com/chuspeeism/dashiai-ppt-skill",
+    "displayName": "Dashiai Ppt"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "deep-productivity",
+  "source": "hexbee/hello-skills",
+  "owner": "hexbee",
+  "repo": "hello-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hexbee/hello-skills",
+    "skillId": "deep-productivity",
+    "name": "deep-productivity",
+    "installs": 953,
+    "owner": "hexbee",
+    "repo": "hello-skills",
+    "githubUrl": "https://github.com/hexbee/hello-skills",
+    "displayName": "Deep Productivity"
+  }
+}

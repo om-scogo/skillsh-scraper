@@ -1,0 +1,17 @@
+{
+  "skillId": "liteparse",
+  "source": "run-llama/llamaparse-agent-skills",
+  "owner": "run-llama",
+  "repo": "llamaparse-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "run-llama/llamaparse-agent-skills",
+    "skillId": "liteparse",
+    "name": "liteparse",
+    "installs": 2704,
+    "owner": "run-llama",
+    "repo": "llamaparse-agent-skills",
+    "githubUrl": "https://github.com/run-llama/llamaparse-agent-skills",
+    "displayName": "Liteparse"
+  }
+}

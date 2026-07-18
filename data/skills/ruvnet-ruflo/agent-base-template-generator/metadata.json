@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-base-template-generator",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-base-template-generator",
+    "name": "agent-base-template-generator",
+    "installs": 972,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Base Template Generator"
+  }
+}

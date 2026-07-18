@@ -1,0 +1,17 @@
+{
+  "skillId": "desktop",
+  "source": "lobehub/lobehub",
+  "owner": "lobehub",
+  "repo": "lobehub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobehub",
+    "skillId": "desktop",
+    "name": "desktop",
+    "installs": 1676,
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "githubUrl": "https://github.com/lobehub/lobehub",
+    "displayName": "Desktop"
+  }
+}

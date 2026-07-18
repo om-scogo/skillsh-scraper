@@ -1,0 +1,17 @@
+{
+  "skillId": "fixing-metadata",
+  "source": "ibelick/ui-skills",
+  "owner": "ibelick",
+  "repo": "ui-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ibelick/ui-skills",
+    "skillId": "fixing-metadata",
+    "name": "fixing-metadata",
+    "installs": 12846,
+    "owner": "ibelick",
+    "repo": "ui-skills",
+    "githubUrl": "https://github.com/ibelick/ui-skills",
+    "displayName": "Fixing Metadata"
+  }
+}

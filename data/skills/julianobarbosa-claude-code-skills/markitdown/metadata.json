@@ -1,0 +1,17 @@
+{
+  "skillId": "markitdown",
+  "source": "julianobarbosa/claude-code-skills",
+  "owner": "julianobarbosa",
+  "repo": "claude-code-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "julianobarbosa/claude-code-skills",
+    "skillId": "markitdown",
+    "name": "markitdown",
+    "installs": 1360,
+    "owner": "julianobarbosa",
+    "repo": "claude-code-skills",
+    "githubUrl": "https://github.com/julianobarbosa/claude-code-skills",
+    "displayName": "Markitdown"
+  }
+}

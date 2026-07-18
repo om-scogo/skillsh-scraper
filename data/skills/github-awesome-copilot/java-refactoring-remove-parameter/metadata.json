@@ -1,0 +1,17 @@
+{
+  "skillId": "java-refactoring-remove-parameter",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "java-refactoring-remove-parameter",
+    "name": "java-refactoring-remove-parameter",
+    "installs": 8735,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Java Refactoring Remove Parameter"
+  }
+}

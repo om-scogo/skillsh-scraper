@@ -1,0 +1,17 @@
+{
+  "skillId": "bencium-innovative-ux-designer",
+  "source": "bencium/bencium-marketplace",
+  "owner": "bencium",
+  "repo": "bencium-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bencium/bencium-marketplace",
+    "skillId": "bencium-innovative-ux-designer",
+    "name": "bencium-innovative-ux-designer",
+    "installs": 2900,
+    "owner": "bencium",
+    "repo": "bencium-marketplace",
+    "githubUrl": "https://github.com/bencium/bencium-marketplace",
+    "displayName": "Bencium Innovative Ux Designer"
+  }
+}

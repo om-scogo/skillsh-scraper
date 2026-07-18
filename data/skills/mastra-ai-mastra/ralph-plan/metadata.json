@@ -1,0 +1,17 @@
+{
+  "skillId": "ralph-plan",
+  "source": "mastra-ai/mastra",
+  "owner": "mastra-ai",
+  "repo": "mastra",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mastra-ai/mastra",
+    "skillId": "ralph-plan",
+    "name": "ralph-plan",
+    "installs": 1557,
+    "owner": "mastra-ai",
+    "repo": "mastra",
+    "githubUrl": "https://github.com/mastra-ai/mastra",
+    "displayName": "Ralph Plan"
+  }
+}

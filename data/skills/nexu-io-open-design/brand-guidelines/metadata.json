@@ -1,0 +1,17 @@
+{
+  "skillId": "brand-guidelines",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "brand-guidelines",
+    "name": "brand-guidelines",
+    "installs": 1690,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Brand Guidelines"
+  }
+}

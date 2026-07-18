@@ -1,0 +1,17 @@
+{
+  "skillId": "systemverilog",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "systemverilog",
+    "name": "systemverilog",
+    "installs": 812,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Systemverilog"
+  }
+}

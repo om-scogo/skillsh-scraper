@@ -1,0 +1,17 @@
+{
+  "skillId": "security-audit",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "security-audit",
+    "name": "security-audit",
+    "installs": 1207,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Security Audit"
+  }
+}

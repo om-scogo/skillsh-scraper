@@ -1,0 +1,17 @@
+{
+  "skillId": "agently-mail",
+  "source": "tencent/agentlymail",
+  "owner": "tencent",
+  "repo": "agentlymail",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tencent/agentlymail",
+    "skillId": "agently-mail",
+    "name": "agently-mail",
+    "installs": 5711,
+    "owner": "tencent",
+    "repo": "agentlymail",
+    "githubUrl": "https://github.com/tencent/agentlymail",
+    "displayName": "Agently Mail"
+  }
+}

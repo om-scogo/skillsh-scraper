@@ -1,0 +1,17 @@
+{
+  "skillId": "web-artifacts-builder",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "web-artifacts-builder",
+    "name": "web-artifacts-builder",
+    "installs": 1646,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Web Artifacts Builder"
+  }
+}

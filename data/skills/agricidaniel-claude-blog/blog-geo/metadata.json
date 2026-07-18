@@ -1,0 +1,17 @@
+{
+  "skillId": "blog-geo",
+  "source": "agricidaniel/claude-blog",
+  "owner": "agricidaniel",
+  "repo": "claude-blog",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-blog",
+    "skillId": "blog-geo",
+    "name": "blog-geo",
+    "installs": 1053,
+    "owner": "agricidaniel",
+    "repo": "claude-blog",
+    "githubUrl": "https://github.com/agricidaniel/claude-blog",
+    "displayName": "Blog Geo"
+  }
+}

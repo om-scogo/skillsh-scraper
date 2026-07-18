@@ -1,0 +1,17 @@
+{
+  "skillId": "migrate-radix-to-base",
+  "source": "shadcn/ui",
+  "owner": "shadcn",
+  "repo": "ui",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shadcn/ui",
+    "skillId": "migrate-radix-to-base",
+    "name": "migrate-radix-to-base",
+    "installs": 5981,
+    "owner": "shadcn",
+    "repo": "ui",
+    "githubUrl": "https://github.com/shadcn/ui",
+    "displayName": "Migrate Radix To Base"
+  }
+}

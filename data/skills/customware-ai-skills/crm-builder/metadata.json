@@ -1,0 +1,17 @@
+{
+  "skillId": "crm-builder",
+  "source": "customware-ai/skills",
+  "owner": "customware-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "customware-ai/skills",
+    "skillId": "crm-builder",
+    "name": "crm-builder",
+    "installs": 1243,
+    "owner": "customware-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/customware-ai/skills",
+    "displayName": "Crm Builder"
+  }
+}

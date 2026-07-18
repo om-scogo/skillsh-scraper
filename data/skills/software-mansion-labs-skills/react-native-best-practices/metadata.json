@@ -1,0 +1,17 @@
+{
+  "skillId": "react-native-best-practices",
+  "source": "software-mansion-labs/skills",
+  "owner": "software-mansion-labs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "software-mansion-labs/skills",
+    "skillId": "react-native-best-practices",
+    "name": "react-native-best-practices",
+    "installs": 2779,
+    "owner": "software-mansion-labs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/software-mansion-labs/skills",
+    "displayName": "React Native Best Practices"
+  }
+}

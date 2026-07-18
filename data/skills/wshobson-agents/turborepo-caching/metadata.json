@@ -1,0 +1,17 @@
+{
+  "skillId": "turborepo-caching",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "turborepo-caching",
+    "name": "turborepo-caching",
+    "installs": 8003,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Turborepo Caching"
+  }
+}

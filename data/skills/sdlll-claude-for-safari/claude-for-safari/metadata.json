@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-for-safari",
+  "source": "sdlll/claude-for-safari",
+  "owner": "sdlll",
+  "repo": "claude-for-safari",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sdlll/claude-for-safari",
+    "skillId": "claude-for-safari",
+    "name": "claude-for-safari",
+    "installs": 785,
+    "owner": "sdlll",
+    "repo": "claude-for-safari",
+    "githubUrl": "https://github.com/sdlll/claude-for-safari",
+    "displayName": "Claude For Safari"
+  }
+}

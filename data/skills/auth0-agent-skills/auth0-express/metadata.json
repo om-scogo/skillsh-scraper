@@ -1,0 +1,17 @@
+{
+  "skillId": "auth0-express",
+  "source": "auth0/agent-skills",
+  "owner": "auth0",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "auth0/agent-skills",
+    "skillId": "auth0-express",
+    "name": "auth0-express",
+    "installs": 821,
+    "owner": "auth0",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/auth0/agent-skills",
+    "displayName": "Auth0 Express"
+  }
+}

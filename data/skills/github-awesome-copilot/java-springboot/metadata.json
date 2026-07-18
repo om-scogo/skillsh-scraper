@@ -1,0 +1,17 @@
+{
+  "skillId": "java-springboot",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "java-springboot",
+    "name": "java-springboot",
+    "installs": 17985,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Java Springboot"
+  }
+}

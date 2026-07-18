@@ -1,0 +1,17 @@
+{
+  "skillId": "mongodb-search-and-ai",
+  "source": "mongodb/agent-skills",
+  "owner": "mongodb",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mongodb/agent-skills",
+    "skillId": "mongodb-search-and-ai",
+    "name": "mongodb-search-and-ai",
+    "installs": 2467,
+    "owner": "mongodb",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/mongodb/agent-skills",
+    "displayName": "Mongodb Search And Ai"
+  }
+}

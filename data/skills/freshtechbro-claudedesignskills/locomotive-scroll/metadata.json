@@ -1,0 +1,17 @@
+{
+  "skillId": "locomotive-scroll",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "locomotive-scroll",
+    "name": "locomotive-scroll",
+    "installs": 1321,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Locomotive Scroll"
+  }
+}

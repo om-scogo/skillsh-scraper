@@ -1,0 +1,17 @@
+{
+  "skillId": "viral-instagram-reels",
+  "source": "vyralcontent/content-skills",
+  "owner": "vyralcontent",
+  "repo": "content-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vyralcontent/content-skills",
+    "skillId": "viral-instagram-reels",
+    "name": "viral-instagram-reels",
+    "installs": 11,
+    "owner": "vyralcontent",
+    "repo": "content-skills",
+    "githubUrl": "https://github.com/vyralcontent/content-skills",
+    "displayName": "Viral Instagram Reels"
+  }
+}

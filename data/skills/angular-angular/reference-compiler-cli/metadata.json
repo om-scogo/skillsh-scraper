@@ -1,0 +1,17 @@
+{
+  "skillId": "reference-compiler-cli",
+  "source": "angular/angular",
+  "owner": "angular",
+  "repo": "angular",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "angular/angular",
+    "skillId": "reference-compiler-cli",
+    "name": "reference-compiler-cli",
+    "installs": 905,
+    "owner": "angular",
+    "repo": "angular",
+    "githubUrl": "https://github.com/angular/angular",
+    "displayName": "Reference Compiler Cli"
+  }
+}

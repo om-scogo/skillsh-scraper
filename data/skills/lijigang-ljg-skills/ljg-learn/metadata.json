@@ -1,0 +1,17 @@
+{
+  "skillId": "ljg-learn",
+  "source": "lijigang/ljg-skills",
+  "owner": "lijigang",
+  "repo": "ljg-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lijigang/ljg-skills",
+    "skillId": "ljg-learn",
+    "name": "ljg-learn",
+    "installs": 5662,
+    "owner": "lijigang",
+    "repo": "ljg-skills",
+    "githubUrl": "https://github.com/lijigang/ljg-skills",
+    "displayName": "Ljg Learn"
+  }
+}

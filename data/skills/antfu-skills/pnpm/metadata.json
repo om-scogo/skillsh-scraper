@@ -1,0 +1,17 @@
+{
+  "skillId": "pnpm",
+  "source": "antfu/skills",
+  "owner": "antfu",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antfu/skills",
+    "skillId": "pnpm",
+    "name": "pnpm",
+    "installs": 17168,
+    "owner": "antfu",
+    "repo": "skills",
+    "githubUrl": "https://github.com/antfu/skills",
+    "displayName": "Pnpm"
+  }
+}

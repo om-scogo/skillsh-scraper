@@ -1,0 +1,17 @@
+{
+  "skillId": "create-technical-spike",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "create-technical-spike",
+    "name": "create-technical-spike",
+    "installs": 8816,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Create Technical Spike"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "product-requirements",
+  "source": "cexll/myclaude",
+  "owner": "cexll",
+  "repo": "myclaude",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cexll/myclaude",
+    "skillId": "product-requirements",
+    "name": "product-requirements",
+    "installs": 1048,
+    "owner": "cexll",
+    "repo": "myclaude",
+    "githubUrl": "https://github.com/cexll/myclaude",
+    "displayName": "Product Requirements"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "web-access",
+  "source": "eze-is/web-access",
+  "owner": "eze-is",
+  "repo": "web-access",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eze-is/web-access",
+    "skillId": "web-access",
+    "name": "web-access",
+    "installs": 14357,
+    "owner": "eze-is",
+    "repo": "web-access",
+    "githubUrl": "https://github.com/eze-is/web-access",
+    "displayName": "Web Access"
+  }
+}

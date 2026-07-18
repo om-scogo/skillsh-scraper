@@ -1,0 +1,17 @@
+{
+  "skillId": "using-superpowers",
+  "source": "jnmetacode/superpowers-zh",
+  "owner": "jnmetacode",
+  "repo": "superpowers-zh",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jnmetacode/superpowers-zh",
+    "skillId": "using-superpowers",
+    "name": "using-superpowers",
+    "installs": 924,
+    "owner": "jnmetacode",
+    "repo": "superpowers-zh",
+    "githubUrl": "https://github.com/jnmetacode/superpowers-zh",
+    "displayName": "Using Superpowers"
+  }
+}

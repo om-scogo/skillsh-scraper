@@ -1,0 +1,17 @@
+{
+  "skillId": "self-learning",
+  "source": "philschmid/self-learning-skill",
+  "owner": "philschmid",
+  "repo": "self-learning-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "philschmid/self-learning-skill",
+    "skillId": "self-learning",
+    "name": "self-learning",
+    "installs": 3299,
+    "owner": "philschmid",
+    "repo": "self-learning-skill",
+    "githubUrl": "https://github.com/philschmid/self-learning-skill",
+    "displayName": "Self Learning"
+  }
+}

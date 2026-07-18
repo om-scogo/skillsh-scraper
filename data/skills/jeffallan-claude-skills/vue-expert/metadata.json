@@ -1,0 +1,17 @@
+{
+  "skillId": "vue-expert",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "vue-expert",
+    "name": "vue-expert",
+    "installs": 3183,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Vue Expert"
+  }
+}

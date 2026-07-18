@@ -1,0 +1,17 @@
+{
+  "skillId": "china-stock-analysis",
+  "source": "sugarforever/01coder-agent-skills",
+  "owner": "sugarforever",
+  "repo": "01coder-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sugarforever/01coder-agent-skills",
+    "skillId": "china-stock-analysis",
+    "name": "china-stock-analysis",
+    "installs": 12608,
+    "owner": "sugarforever",
+    "repo": "01coder-agent-skills",
+    "githubUrl": "https://github.com/sugarforever/01coder-agent-skills",
+    "displayName": "China Stock Analysis"
+  }
+}

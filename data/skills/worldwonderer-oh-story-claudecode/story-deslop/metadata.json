@@ -1,0 +1,17 @@
+{
+  "skillId": "story-deslop",
+  "source": "worldwonderer/oh-story-claudecode",
+  "owner": "worldwonderer",
+  "repo": "oh-story-claudecode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "worldwonderer/oh-story-claudecode",
+    "skillId": "story-deslop",
+    "name": "story-deslop",
+    "installs": 8536,
+    "owner": "worldwonderer",
+    "repo": "oh-story-claudecode",
+    "githubUrl": "https://github.com/worldwonderer/oh-story-claudecode",
+    "displayName": "Story Deslop"
+  }
+}

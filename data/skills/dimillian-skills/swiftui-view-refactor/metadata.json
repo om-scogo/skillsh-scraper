@@ -1,0 +1,17 @@
+{
+  "skillId": "swiftui-view-refactor",
+  "source": "dimillian/skills",
+  "owner": "dimillian",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dimillian/skills",
+    "skillId": "swiftui-view-refactor",
+    "name": "swiftui-view-refactor",
+    "installs": 1886,
+    "owner": "dimillian",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dimillian/skills",
+    "displayName": "Swiftui View Refactor"
+  }
+}

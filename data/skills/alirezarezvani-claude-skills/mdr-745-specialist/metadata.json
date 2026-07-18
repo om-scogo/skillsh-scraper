@@ -1,0 +1,17 @@
+{
+  "skillId": "mdr-745-specialist",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "mdr-745-specialist",
+    "name": "mdr-745-specialist",
+    "installs": 741,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Mdr 745 Specialist"
+  }
+}

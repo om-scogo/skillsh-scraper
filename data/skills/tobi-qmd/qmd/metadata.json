@@ -1,0 +1,17 @@
+{
+  "skillId": "qmd",
+  "source": "tobi/qmd",
+  "owner": "tobi",
+  "repo": "qmd",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tobi/qmd",
+    "skillId": "qmd",
+    "name": "qmd",
+    "installs": 3250,
+    "owner": "tobi",
+    "repo": "qmd",
+    "githubUrl": "https://github.com/tobi/qmd",
+    "displayName": "Qmd"
+  }
+}

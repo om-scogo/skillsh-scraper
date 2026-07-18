@@ -1,0 +1,17 @@
+{
+  "skillId": "cloud-network-security",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "cloud-network-security",
+    "name": "cloud-network-security",
+    "installs": 1712,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Cloud Network Security"
+  }
+}

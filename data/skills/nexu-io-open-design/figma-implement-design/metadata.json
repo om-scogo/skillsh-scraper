@@ -1,0 +1,17 @@
+{
+  "skillId": "figma-implement-design",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "figma-implement-design",
+    "name": "figma-implement-design",
+    "installs": 1635,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Figma Implement Design"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "redesign-existing-projects",
+  "source": "leonxlnx/taste-skill",
+  "owner": "leonxlnx",
+  "repo": "taste-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "leonxlnx/taste-skill",
+    "skillId": "redesign-existing-projects",
+    "name": "redesign-existing-projects",
+    "installs": 201354,
+    "owner": "leonxlnx",
+    "repo": "taste-skill",
+    "githubUrl": "https://github.com/leonxlnx/taste-skill",
+    "displayName": "Redesign Existing Projects"
+  }
+}

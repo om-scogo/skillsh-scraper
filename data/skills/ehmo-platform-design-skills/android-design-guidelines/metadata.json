@@ -1,0 +1,17 @@
+{
+  "skillId": "android-design-guidelines",
+  "source": "ehmo/platform-design-skills",
+  "owner": "ehmo",
+  "repo": "platform-design-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ehmo/platform-design-skills",
+    "skillId": "android-design-guidelines",
+    "name": "android-design-guidelines",
+    "installs": 1000,
+    "owner": "ehmo",
+    "repo": "platform-design-skills",
+    "githubUrl": "https://github.com/ehmo/platform-design-skills",
+    "displayName": "Android Design Guidelines"
+  }
+}

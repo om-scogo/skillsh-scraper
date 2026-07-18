@@ -1,0 +1,17 @@
+{
+  "skillId": "k-skill-setup",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "k-skill-setup",
+    "name": "k-skill-setup",
+    "installs": 3757,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "K Skill Setup"
+  }
+}

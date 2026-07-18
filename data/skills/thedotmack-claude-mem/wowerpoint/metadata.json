@@ -1,0 +1,17 @@
+{
+  "skillId": "wowerpoint",
+  "source": "thedotmack/claude-mem",
+  "owner": "thedotmack",
+  "repo": "claude-mem",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thedotmack/claude-mem",
+    "skillId": "wowerpoint",
+    "name": "wowerpoint",
+    "installs": 2470,
+    "owner": "thedotmack",
+    "repo": "claude-mem",
+    "githubUrl": "https://github.com/thedotmack/claude-mem",
+    "displayName": "Wowerpoint"
+  }
+}

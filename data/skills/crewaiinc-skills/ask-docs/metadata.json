@@ -1,0 +1,17 @@
+{
+  "skillId": "ask-docs",
+  "source": "crewaiinc/skills",
+  "owner": "crewaiinc",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "crewaiinc/skills",
+    "skillId": "ask-docs",
+    "name": "ask-docs",
+    "installs": 3905,
+    "owner": "crewaiinc",
+    "repo": "skills",
+    "githubUrl": "https://github.com/crewaiinc/skills",
+    "displayName": "Ask Docs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-judge",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "skill-judge",
+    "name": "skill-judge",
+    "installs": 3929,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Skill Judge"
+  }
+}

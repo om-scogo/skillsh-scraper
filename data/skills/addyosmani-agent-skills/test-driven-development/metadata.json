@@ -1,0 +1,17 @@
+{
+  "skillId": "test-driven-development",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "test-driven-development",
+    "name": "test-driven-development",
+    "installs": 12091,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Test Driven Development"
+  }
+}

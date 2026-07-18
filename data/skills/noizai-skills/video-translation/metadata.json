@@ -1,0 +1,17 @@
+{
+  "skillId": "video-translation",
+  "source": "noizai/skills",
+  "owner": "noizai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "noizai/skills",
+    "skillId": "video-translation",
+    "name": "video-translation",
+    "installs": 1965,
+    "owner": "noizai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/noizai/skills",
+    "displayName": "Video Translation"
+  }
+}

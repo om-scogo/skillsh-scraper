@@ -1,0 +1,17 @@
+{
+  "skillId": "tushare-finance",
+  "source": "stanleychanh/tushare-finance-skill-for-claude-code",
+  "owner": "stanleychanh",
+  "repo": "tushare-finance-skill-for-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "stanleychanh/tushare-finance-skill-for-claude-code",
+    "skillId": "tushare-finance",
+    "name": "tushare-finance",
+    "installs": 5004,
+    "owner": "stanleychanh",
+    "repo": "tushare-finance-skill-for-claude-code",
+    "githubUrl": "https://github.com/stanleychanh/tushare-finance-skill-for-claude-code",
+    "displayName": "Tushare Finance"
+  }
+}

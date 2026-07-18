@@ -1,0 +1,17 @@
+{
+  "skillId": "refero-design",
+  "source": "referodesign/refero_skill",
+  "owner": "referodesign",
+  "repo": "refero_skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "referodesign/refero_skill",
+    "skillId": "refero-design",
+    "name": "refero-design",
+    "installs": 4576,
+    "owner": "referodesign",
+    "repo": "refero_skill",
+    "githubUrl": "https://github.com/referodesign/refero_skill",
+    "displayName": "Refero Design"
+  }
+}

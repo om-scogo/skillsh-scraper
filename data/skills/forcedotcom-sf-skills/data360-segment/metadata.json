@@ -1,0 +1,17 @@
+{
+  "skillId": "data360-segment",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "data360-segment",
+    "name": "data360-segment",
+    "installs": 1276,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Data360 Segment"
+  }
+}

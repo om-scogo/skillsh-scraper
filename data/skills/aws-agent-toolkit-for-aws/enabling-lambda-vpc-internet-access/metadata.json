@@ -1,0 +1,17 @@
+{
+  "skillId": "enabling-lambda-vpc-internet-access",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "enabling-lambda-vpc-internet-access",
+    "name": "enabling-lambda-vpc-internet-access",
+    "installs": 1693,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Enabling Lambda Vpc Internet Access"
+  }
+}

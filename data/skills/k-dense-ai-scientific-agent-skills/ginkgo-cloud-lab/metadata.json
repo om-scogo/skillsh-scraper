@@ -1,0 +1,17 @@
+{
+  "skillId": "ginkgo-cloud-lab",
+  "source": "k-dense-ai/scientific-agent-skills",
+  "owner": "k-dense-ai",
+  "repo": "scientific-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "k-dense-ai/scientific-agent-skills",
+    "skillId": "ginkgo-cloud-lab",
+    "name": "ginkgo-cloud-lab",
+    "installs": 752,
+    "owner": "k-dense-ai",
+    "repo": "scientific-agent-skills",
+    "githubUrl": "https://github.com/k-dense-ai/scientific-agent-skills",
+    "displayName": "Ginkgo Cloud Lab"
+  }
+}

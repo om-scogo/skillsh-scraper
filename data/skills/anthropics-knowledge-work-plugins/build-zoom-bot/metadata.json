@@ -1,0 +1,17 @@
+{
+  "skillId": "build-zoom-bot",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "build-zoom-bot",
+    "name": "build-zoom-bot",
+    "installs": 1296,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Build Zoom Bot"
+  }
+}

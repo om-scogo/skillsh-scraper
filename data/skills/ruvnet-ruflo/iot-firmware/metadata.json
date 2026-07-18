@@ -1,0 +1,17 @@
+{
+  "skillId": "iot-firmware",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "iot-firmware",
+    "name": "iot-firmware",
+    "installs": 791,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Iot Firmware"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "cloud-integrations",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "cloud-integrations",
+    "name": "cloud-integrations",
+    "installs": 1515,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Cloud Integrations"
+  }
+}

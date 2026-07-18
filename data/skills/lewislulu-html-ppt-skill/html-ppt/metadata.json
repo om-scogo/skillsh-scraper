@@ -1,0 +1,17 @@
+{
+  "skillId": "html-ppt",
+  "source": "lewislulu/html-ppt-skill",
+  "owner": "lewislulu",
+  "repo": "html-ppt-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lewislulu/html-ppt-skill",
+    "skillId": "html-ppt",
+    "name": "html-ppt",
+    "installs": 16277,
+    "owner": "lewislulu",
+    "repo": "html-ppt-skill",
+    "githubUrl": "https://github.com/lewislulu/html-ppt-skill",
+    "displayName": "Html Ppt"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "video-spec-builder",
+  "source": "feicaiclub/video-spec-builder",
+  "owner": "feicaiclub",
+  "repo": "video-spec-builder",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "feicaiclub/video-spec-builder",
+    "skillId": "video-spec-builder",
+    "name": "video-spec-builder",
+    "installs": 2979,
+    "owner": "feicaiclub",
+    "repo": "video-spec-builder",
+    "githubUrl": "https://github.com/feicaiclub/video-spec-builder",
+    "displayName": "Video Spec Builder"
+  }
+}

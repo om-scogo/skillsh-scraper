@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-nuxt-patterns",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-nuxt-patterns",
+    "name": "clerk-nuxt-patterns",
+    "installs": 6741,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk Nuxt Patterns"
+  }
+}

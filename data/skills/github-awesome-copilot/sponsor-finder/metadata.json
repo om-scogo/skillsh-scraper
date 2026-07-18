@@ -1,0 +1,17 @@
+{
+  "skillId": "sponsor-finder",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "sponsor-finder",
+    "name": "sponsor-finder",
+    "installs": 8587,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Sponsor Finder"
+  }
+}

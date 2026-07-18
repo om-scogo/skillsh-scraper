@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-cli",
+  "source": "sentry/dev",
+  "owner": "sentry",
+  "repo": "dev",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sentry/dev",
+    "skillId": "sentry-cli",
+    "name": "sentry-cli",
+    "installs": 106874,
+    "owner": "sentry",
+    "repo": "dev",
+    "githubUrl": "https://github.com/sentry/dev",
+    "displayName": "Sentry Cli"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "tts",
+  "source": "marswaveai/skills",
+  "owner": "marswaveai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "marswaveai/skills",
+    "skillId": "tts",
+    "name": "tts",
+    "installs": 1277,
+    "owner": "marswaveai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/marswaveai/skills",
+    "displayName": "Tts"
+  }
+}

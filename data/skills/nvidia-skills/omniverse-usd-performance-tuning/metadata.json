@@ -1,0 +1,17 @@
+{
+  "skillId": "omniverse-usd-performance-tuning",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "omniverse-usd-performance-tuning",
+    "name": "omniverse-usd-performance-tuning",
+    "installs": 1677,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Omniverse Usd Performance Tuning"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "cx-dashboards",
+  "source": "coralogix/cx-cli",
+  "owner": "coralogix",
+  "repo": "cx-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coralogix/cx-cli",
+    "skillId": "cx-dashboards",
+    "name": "cx-dashboards",
+    "installs": 936,
+    "owner": "coralogix",
+    "repo": "cx-cli",
+    "githubUrl": "https://github.com/coralogix/cx-cli",
+    "displayName": "Cx Dashboards"
+  }
+}

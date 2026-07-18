@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-analyze-gaps-vlm-bcq",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-analyze-gaps-vlm-bcq",
+    "name": "tao-analyze-gaps-vlm-bcq",
+    "installs": 1276,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Analyze Gaps Vlm Bcq"
+  }
+}

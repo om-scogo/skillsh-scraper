@@ -1,0 +1,17 @@
+{
+  "skillId": "healthcheck",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "healthcheck",
+    "name": "healthcheck",
+    "installs": 2958,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Healthcheck"
+  }
+}

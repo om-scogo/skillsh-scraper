@@ -1,0 +1,17 @@
+{
+  "skillId": "javascript-typescript-jest",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "javascript-typescript-jest",
+    "name": "javascript-typescript-jest",
+    "installs": 11758,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Javascript Typescript Jest"
+  }
+}

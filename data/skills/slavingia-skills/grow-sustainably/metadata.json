@@ -1,0 +1,17 @@
+{
+  "skillId": "grow-sustainably",
+  "source": "slavingia/skills",
+  "owner": "slavingia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "slavingia/skills",
+    "skillId": "grow-sustainably",
+    "name": "grow-sustainably",
+    "installs": 1100,
+    "owner": "slavingia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/slavingia/skills",
+    "displayName": "Grow Sustainably"
+  }
+}

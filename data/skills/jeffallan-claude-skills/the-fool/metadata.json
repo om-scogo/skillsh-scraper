@@ -1,0 +1,17 @@
+{
+  "skillId": "the-fool",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "the-fool",
+    "name": "the-fool",
+    "installs": 2875,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "The Fool"
+  }
+}

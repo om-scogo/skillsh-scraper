@@ -1,0 +1,17 @@
+{
+  "skillId": "videodb",
+  "source": "video-db/skills",
+  "owner": "video-db",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "video-db/skills",
+    "skillId": "videodb",
+    "name": "videodb",
+    "installs": 817,
+    "owner": "video-db",
+    "repo": "skills",
+    "githubUrl": "https://github.com/video-db/skills",
+    "displayName": "Videodb"
+  }
+}

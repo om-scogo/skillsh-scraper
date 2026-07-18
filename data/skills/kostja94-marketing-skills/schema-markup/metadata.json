@@ -1,0 +1,17 @@
+{
+  "skillId": "schema-markup",
+  "source": "kostja94/marketing-skills",
+  "owner": "kostja94",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kostja94/marketing-skills",
+    "skillId": "schema-markup",
+    "name": "schema-markup",
+    "installs": 953,
+    "owner": "kostja94",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/kostja94/marketing-skills",
+    "displayName": "Schema Markup"
+  }
+}

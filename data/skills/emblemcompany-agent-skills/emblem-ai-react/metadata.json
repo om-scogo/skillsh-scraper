@@ -1,0 +1,17 @@
+{
+  "skillId": "emblem-ai-react",
+  "source": "emblemcompany/agent-skills",
+  "owner": "emblemcompany",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "emblemcompany/agent-skills",
+    "skillId": "emblem-ai-react",
+    "name": "emblem-ai-react",
+    "installs": 8751,
+    "owner": "emblemcompany",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/emblemcompany/agent-skills",
+    "displayName": "Emblem Ai React"
+  }
+}

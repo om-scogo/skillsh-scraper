@@ -1,0 +1,17 @@
+{
+  "skillId": "inspired-product",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "inspired-product",
+    "name": "inspired-product",
+    "installs": 2851,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Inspired Product"
+  }
+}

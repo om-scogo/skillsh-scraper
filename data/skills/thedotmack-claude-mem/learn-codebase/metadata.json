@@ -1,0 +1,17 @@
+{
+  "skillId": "learn-codebase",
+  "source": "thedotmack/claude-mem",
+  "owner": "thedotmack",
+  "repo": "claude-mem",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thedotmack/claude-mem",
+    "skillId": "learn-codebase",
+    "name": "learn-codebase",
+    "installs": 3108,
+    "owner": "thedotmack",
+    "repo": "claude-mem",
+    "githubUrl": "https://github.com/thedotmack/claude-mem",
+    "displayName": "Learn Codebase"
+  }
+}

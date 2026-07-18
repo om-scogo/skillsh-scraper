@@ -1,0 +1,17 @@
+{
+  "skillId": "derivatives-trading-portfolio-margin-pro",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "derivatives-trading-portfolio-margin-pro",
+    "name": "derivatives-trading-portfolio-margin-pro",
+    "installs": 1153,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Derivatives Trading Portfolio Margin Pro"
+  }
+}

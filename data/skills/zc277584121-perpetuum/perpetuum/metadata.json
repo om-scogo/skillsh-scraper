@@ -1,0 +1,17 @@
+{
+  "skillId": "perpetuum",
+  "source": "zc277584121/perpetuum",
+  "owner": "zc277584121",
+  "repo": "perpetuum",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zc277584121/perpetuum",
+    "skillId": "perpetuum",
+    "name": "perpetuum",
+    "installs": 1356,
+    "owner": "zc277584121",
+    "repo": "perpetuum",
+    "githubUrl": "https://github.com/zc277584121/perpetuum",
+    "displayName": "Perpetuum"
+  }
+}

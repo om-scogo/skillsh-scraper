@@ -1,0 +1,17 @@
+{
+  "skillId": "vscode-ext-commands",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "vscode-ext-commands",
+    "name": "vscode-ext-commands",
+    "installs": 8887,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Vscode Ext Commands"
+  }
+}

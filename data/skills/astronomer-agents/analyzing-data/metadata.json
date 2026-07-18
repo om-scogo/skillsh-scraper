@@ -1,0 +1,17 @@
+{
+  "skillId": "analyzing-data",
+  "source": "astronomer/agents",
+  "owner": "astronomer",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astronomer/agents",
+    "skillId": "analyzing-data",
+    "name": "analyzing-data",
+    "installs": 1206,
+    "owner": "astronomer",
+    "repo": "agents",
+    "githubUrl": "https://github.com/astronomer/agents",
+    "displayName": "Analyzing Data"
+  }
+}

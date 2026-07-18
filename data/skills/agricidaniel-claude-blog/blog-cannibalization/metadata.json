@@ -1,0 +1,17 @@
+{
+  "skillId": "blog-cannibalization",
+  "source": "agricidaniel/claude-blog",
+  "owner": "agricidaniel",
+  "repo": "claude-blog",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-blog",
+    "skillId": "blog-cannibalization",
+    "name": "blog-cannibalization",
+    "installs": 1031,
+    "owner": "agricidaniel",
+    "repo": "claude-blog",
+    "githubUrl": "https://github.com/agricidaniel/claude-blog",
+    "displayName": "Blog Cannibalization"
+  }
+}

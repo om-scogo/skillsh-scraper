@@ -1,0 +1,17 @@
+{
+  "skillId": "customware-support-widget",
+  "source": "customware-ai/skills",
+  "owner": "customware-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "customware-ai/skills",
+    "skillId": "customware-support-widget",
+    "name": "customware-support-widget",
+    "installs": 1078,
+    "owner": "customware-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/customware-ai/skills",
+    "displayName": "Customware Support Widget"
+  }
+}

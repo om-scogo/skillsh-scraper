@@ -1,0 +1,17 @@
+{
+  "skillId": "aws-billing-and-cost-management",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "aws-billing-and-cost-management",
+    "name": "aws-billing-and-cost-management",
+    "installs": 2837,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Aws Billing And Cost Management"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "feishu-bitable",
+  "source": "alextangson/feishu_skills",
+  "owner": "alextangson",
+  "repo": "feishu_skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alextangson/feishu_skills",
+    "skillId": "feishu-bitable",
+    "name": "feishu-bitable",
+    "installs": 838,
+    "owner": "alextangson",
+    "repo": "feishu_skills",
+    "githubUrl": "https://github.com/alextangson/feishu_skills",
+    "displayName": "Feishu Bitable"
+  }
+}

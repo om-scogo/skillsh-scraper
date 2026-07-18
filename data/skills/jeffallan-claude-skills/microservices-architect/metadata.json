@@ -1,0 +1,17 @@
+{
+  "skillId": "microservices-architect",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "microservices-architect",
+    "name": "microservices-architect",
+    "installs": 3501,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Microservices Architect"
+  }
+}

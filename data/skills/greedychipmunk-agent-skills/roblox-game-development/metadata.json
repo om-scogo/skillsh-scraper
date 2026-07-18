@@ -1,0 +1,17 @@
+{
+  "skillId": "roblox-game-development",
+  "source": "greedychipmunk/agent-skills",
+  "owner": "greedychipmunk",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "greedychipmunk/agent-skills",
+    "skillId": "roblox-game-development",
+    "name": "roblox-game-development",
+    "installs": 1264,
+    "owner": "greedychipmunk",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/greedychipmunk/agent-skills",
+    "displayName": "Roblox Game Development"
+  }
+}

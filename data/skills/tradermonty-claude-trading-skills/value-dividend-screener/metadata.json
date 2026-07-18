@@ -1,0 +1,17 @@
+{
+  "skillId": "value-dividend-screener",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "value-dividend-screener",
+    "name": "value-dividend-screener",
+    "installs": 1227,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Value Dividend Screener"
+  }
+}

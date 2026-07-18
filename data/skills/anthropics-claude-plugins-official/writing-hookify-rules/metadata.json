@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-hookify-rules",
+  "source": "anthropics/claude-plugins-official",
+  "owner": "anthropics",
+  "repo": "claude-plugins-official",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/claude-plugins-official",
+    "skillId": "writing-hookify-rules",
+    "name": "writing-hookify-rules",
+    "installs": 3967,
+    "owner": "anthropics",
+    "repo": "claude-plugins-official",
+    "githubUrl": "https://github.com/anthropics/claude-plugins-official",
+    "displayName": "Writing Hookify Rules"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "high-perf-browser",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "high-perf-browser",
+    "name": "high-perf-browser",
+    "installs": 2940,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "High Perf Browser"
+  }
+}

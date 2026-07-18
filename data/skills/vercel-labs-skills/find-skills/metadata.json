@@ -1,0 +1,17 @@
+{
+  "skillId": "find-skills",
+  "source": "vercel-labs/skills",
+  "owner": "vercel-labs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/skills",
+    "skillId": "find-skills",
+    "name": "find-skills",
+    "installs": 2532731,
+    "owner": "vercel-labs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/vercel-labs/skills",
+    "displayName": "Find Skills"
+  }
+}

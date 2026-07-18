@@ -1,0 +1,17 @@
+{
+  "skillId": "launchdarkly-flag-targeting",
+  "source": "launchdarkly/agent-skills",
+  "owner": "launchdarkly",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "launchdarkly/agent-skills",
+    "skillId": "launchdarkly-flag-targeting",
+    "name": "launchdarkly-flag-targeting",
+    "installs": 2661,
+    "owner": "launchdarkly",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/launchdarkly/agent-skills",
+    "displayName": "Launchdarkly Flag Targeting"
+  }
+}

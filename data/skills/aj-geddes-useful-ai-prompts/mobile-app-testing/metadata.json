@@ -1,0 +1,17 @@
+{
+  "skillId": "mobile-app-testing",
+  "source": "aj-geddes/useful-ai-prompts",
+  "owner": "aj-geddes",
+  "repo": "useful-ai-prompts",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aj-geddes/useful-ai-prompts",
+    "skillId": "mobile-app-testing",
+    "name": "mobile-app-testing",
+    "installs": 739,
+    "owner": "aj-geddes",
+    "repo": "useful-ai-prompts",
+    "githubUrl": "https://github.com/aj-geddes/useful-ai-prompts",
+    "displayName": "Mobile App Testing"
+  }
+}

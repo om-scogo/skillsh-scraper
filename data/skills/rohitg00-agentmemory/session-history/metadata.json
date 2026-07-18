@@ -1,0 +1,17 @@
+{
+  "skillId": "session-history",
+  "source": "rohitg00/agentmemory",
+  "owner": "rohitg00",
+  "repo": "agentmemory",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rohitg00/agentmemory",
+    "skillId": "session-history",
+    "name": "session-history",
+    "installs": 7502,
+    "owner": "rohitg00",
+    "repo": "agentmemory",
+    "githubUrl": "https://github.com/rohitg00/agentmemory",
+    "displayName": "Session History"
+  }
+}

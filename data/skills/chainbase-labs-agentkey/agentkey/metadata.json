@@ -1,0 +1,17 @@
+{
+  "skillId": "agentkey",
+  "source": "chainbase-labs/agentkey",
+  "owner": "chainbase-labs",
+  "repo": "agentkey",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chainbase-labs/agentkey",
+    "skillId": "agentkey",
+    "name": "agentkey",
+    "installs": 864,
+    "owner": "chainbase-labs",
+    "repo": "agentkey",
+    "githubUrl": "https://github.com/chainbase-labs/agentkey",
+    "displayName": "Agentkey"
+  }
+}

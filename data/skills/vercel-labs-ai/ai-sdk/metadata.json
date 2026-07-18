@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-sdk",
+  "source": "vercel-labs/ai",
+  "owner": "vercel-labs",
+  "repo": "ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/ai",
+    "skillId": "ai-sdk",
+    "name": "ai-sdk",
+    "installs": 2264,
+    "owner": "vercel-labs",
+    "repo": "ai",
+    "githubUrl": "https://github.com/vercel-labs/ai",
+    "displayName": "Ai Sdk"
+  }
+}

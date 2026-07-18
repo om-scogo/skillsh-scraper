@@ -1,0 +1,17 @@
+{
+  "skillId": "code-tour",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "code-tour",
+    "name": "code-tour",
+    "installs": 1130,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Code Tour"
+  }
+}

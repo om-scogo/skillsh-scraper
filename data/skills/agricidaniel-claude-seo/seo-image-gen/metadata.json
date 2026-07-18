@@ -1,0 +1,17 @@
+{
+  "skillId": "seo-image-gen",
+  "source": "agricidaniel/claude-seo",
+  "owner": "agricidaniel",
+  "repo": "claude-seo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-seo",
+    "skillId": "seo-image-gen",
+    "name": "seo-image-gen",
+    "installs": 2981,
+    "owner": "agricidaniel",
+    "repo": "claude-seo",
+    "githubUrl": "https://github.com/agricidaniel/claude-seo",
+    "displayName": "Seo Image Gen"
+  }
+}

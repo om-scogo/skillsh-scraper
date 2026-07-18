@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwind-v4-shadcn",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "tailwind-v4-shadcn",
+    "name": "tailwind-v4-shadcn",
+    "installs": 2693,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Tailwind V4 Shadcn"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "pp-flight-goat",
+  "source": "mvanhorn/printing-press-library",
+  "owner": "mvanhorn",
+  "repo": "printing-press-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mvanhorn/printing-press-library",
+    "skillId": "pp-flight-goat",
+    "name": "pp-flight-goat",
+    "installs": 3299,
+    "owner": "mvanhorn",
+    "repo": "printing-press-library",
+    "githubUrl": "https://github.com/mvanhorn/printing-press-library",
+    "displayName": "Pp Flight Goat"
+  }
+}

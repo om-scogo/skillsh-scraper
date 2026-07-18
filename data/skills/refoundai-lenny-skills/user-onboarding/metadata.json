@@ -1,0 +1,17 @@
+{
+  "skillId": "user-onboarding",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "user-onboarding",
+    "name": "user-onboarding",
+    "installs": 1833,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "User Onboarding"
+  }
+}

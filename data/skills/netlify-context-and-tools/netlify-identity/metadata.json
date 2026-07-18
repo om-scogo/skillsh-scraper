@@ -1,0 +1,17 @@
+{
+  "skillId": "netlify-identity",
+  "source": "netlify/context-and-tools",
+  "owner": "netlify",
+  "repo": "context-and-tools",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "netlify/context-and-tools",
+    "skillId": "netlify-identity",
+    "name": "netlify-identity",
+    "installs": 997,
+    "owner": "netlify",
+    "repo": "context-and-tools",
+    "githubUrl": "https://github.com/netlify/context-and-tools",
+    "displayName": "Netlify Identity"
+  }
+}

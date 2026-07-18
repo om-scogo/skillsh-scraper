@@ -1,0 +1,17 @@
+{
+  "skillId": "yes",
+  "source": "tanweai/pua",
+  "owner": "tanweai",
+  "repo": "pua",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tanweai/pua",
+    "skillId": "yes",
+    "name": "yes",
+    "installs": 1540,
+    "owner": "tanweai",
+    "repo": "pua",
+    "githubUrl": "https://github.com/tanweai/pua",
+    "displayName": "Yes"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "playcanvas-engine",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "playcanvas-engine",
+    "name": "playcanvas-engine",
+    "installs": 1208,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Playcanvas Engine"
+  }
+}

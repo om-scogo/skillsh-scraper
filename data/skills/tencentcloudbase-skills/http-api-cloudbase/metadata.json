@@ -1,0 +1,17 @@
+{
+  "skillId": "http-api-cloudbase",
+  "source": "tencentcloudbase/skills",
+  "owner": "tencentcloudbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tencentcloudbase/skills",
+    "skillId": "http-api-cloudbase",
+    "name": "http-api-cloudbase",
+    "installs": 877,
+    "owner": "tencentcloudbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/tencentcloudbase/skills",
+    "displayName": "Http Api Cloudbase"
+  }
+}

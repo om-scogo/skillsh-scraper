@@ -1,0 +1,17 @@
+{
+  "skillId": "find-skills",
+  "source": "kimyx0207/findskill",
+  "owner": "kimyx0207",
+  "repo": "findskill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kimyx0207/findskill",
+    "skillId": "find-skills",
+    "name": "find-skills",
+    "installs": 1094,
+    "owner": "kimyx0207",
+    "repo": "findskill",
+    "githubUrl": "https://github.com/kimyx0207/findskill",
+    "displayName": "Find Skills"
+  }
+}

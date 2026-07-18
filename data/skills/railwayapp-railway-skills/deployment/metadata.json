@@ -1,0 +1,17 @@
+{
+  "skillId": "deployment",
+  "source": "railwayapp/railway-skills",
+  "owner": "railwayapp",
+  "repo": "railway-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "railwayapp/railway-skills",
+    "skillId": "deployment",
+    "name": "deployment",
+    "installs": 1054,
+    "owner": "railwayapp",
+    "repo": "railway-skills",
+    "githubUrl": "https://github.com/railwayapp/railway-skills",
+    "displayName": "Deployment"
+  }
+}

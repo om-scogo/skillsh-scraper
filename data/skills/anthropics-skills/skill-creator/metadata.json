@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-creator",
+  "source": "anthropics/skills",
+  "owner": "anthropics",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/skills",
+    "skillId": "skill-creator",
+    "name": "skill-creator",
+    "installs": 316788,
+    "owner": "anthropics",
+    "repo": "skills",
+    "githubUrl": "https://github.com/anthropics/skills",
+    "displayName": "Skill Creator"
+  }
+}

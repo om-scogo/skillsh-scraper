@@ -1,0 +1,17 @@
+{
+  "skillId": "migrate-oai-app",
+  "source": "modelcontextprotocol/ext-apps",
+  "owner": "modelcontextprotocol",
+  "repo": "ext-apps",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "modelcontextprotocol/ext-apps",
+    "skillId": "migrate-oai-app",
+    "name": "migrate-oai-app",
+    "installs": 745,
+    "owner": "modelcontextprotocol",
+    "repo": "ext-apps",
+    "githubUrl": "https://github.com/modelcontextprotocol/ext-apps",
+    "displayName": "Migrate Oai App"
+  }
+}

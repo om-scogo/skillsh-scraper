@@ -1,0 +1,17 @@
+{
+  "skillId": "angular-developer",
+  "source": "angular/skills",
+  "owner": "angular",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "angular/skills",
+    "skillId": "angular-developer",
+    "name": "angular-developer",
+    "installs": 22657,
+    "owner": "angular",
+    "repo": "skills",
+    "githubUrl": "https://github.com/angular/skills",
+    "displayName": "Angular Developer"
+  }
+}

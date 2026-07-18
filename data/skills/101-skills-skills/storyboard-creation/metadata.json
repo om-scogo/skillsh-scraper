@@ -1,0 +1,17 @@
+{
+  "skillId": "storyboard-creation",
+  "source": "101-skills/skills",
+  "owner": "101-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "101-skills/skills",
+    "skillId": "storyboard-creation",
+    "name": "storyboard-creation",
+    "installs": 11016,
+    "owner": "101-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/101-skills/skills",
+    "displayName": "Storyboard Creation"
+  }
+}

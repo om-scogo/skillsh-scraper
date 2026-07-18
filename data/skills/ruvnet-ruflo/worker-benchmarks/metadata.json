@@ -1,0 +1,17 @@
+{
+  "skillId": "worker-benchmarks",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "worker-benchmarks",
+    "name": "worker-benchmarks",
+    "installs": 979,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Worker Benchmarks"
+  }
+}

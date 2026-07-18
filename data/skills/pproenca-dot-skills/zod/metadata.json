@@ -1,0 +1,17 @@
+{
+  "skillId": "zod",
+  "source": "pproenca/dot-skills",
+  "owner": "pproenca",
+  "repo": "dot-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pproenca/dot-skills",
+    "skillId": "zod",
+    "name": "zod",
+    "installs": 4334,
+    "owner": "pproenca",
+    "repo": "dot-skills",
+    "githubUrl": "https://github.com/pproenca/dot-skills",
+    "displayName": "Zod"
+  }
+}

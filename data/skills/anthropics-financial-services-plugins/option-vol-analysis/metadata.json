@@ -1,0 +1,17 @@
+{
+  "skillId": "option-vol-analysis",
+  "source": "anthropics/financial-services-plugins",
+  "owner": "anthropics",
+  "repo": "financial-services-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/financial-services-plugins",
+    "skillId": "option-vol-analysis",
+    "name": "option-vol-analysis",
+    "installs": 1027,
+    "owner": "anthropics",
+    "repo": "financial-services-plugins",
+    "githubUrl": "https://github.com/anthropics/financial-services-plugins",
+    "displayName": "Option Vol Analysis"
+  }
+}

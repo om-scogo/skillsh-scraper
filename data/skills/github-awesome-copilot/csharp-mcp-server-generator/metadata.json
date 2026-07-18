@@ -1,0 +1,17 @@
+{
+  "skillId": "csharp-mcp-server-generator",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "csharp-mcp-server-generator",
+    "name": "csharp-mcp-server-generator",
+    "installs": 8403,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Csharp Mcp Server Generator"
+  }
+}

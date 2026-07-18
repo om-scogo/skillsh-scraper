@@ -1,0 +1,17 @@
+{
+  "skillId": "vue-router-best-practices",
+  "source": "vuejs-ai/skills",
+  "owner": "vuejs-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vuejs-ai/skills",
+    "skillId": "vue-router-best-practices",
+    "name": "vue-router-best-practices",
+    "installs": 8138,
+    "owner": "vuejs-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/vuejs-ai/skills",
+    "displayName": "Vue Router Best Practices"
+  }
+}

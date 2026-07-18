@@ -1,0 +1,17 @@
+{
+  "skillId": "brand",
+  "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+  "owner": "nextlevelbuilder",
+  "repo": "ui-ux-pro-max-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "skillId": "brand",
+    "name": "brand",
+    "installs": 7744,
+    "owner": "nextlevelbuilder",
+    "repo": "ui-ux-pro-max-skill",
+    "githubUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "displayName": "Brand"
+  }
+}

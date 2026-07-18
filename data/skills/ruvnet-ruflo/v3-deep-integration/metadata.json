@@ -1,0 +1,17 @@
+{
+  "skillId": "v3-deep-integration",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "v3-deep-integration",
+    "name": "v3 deep integration",
+    "installs": 970,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "V3 Deep Integration"
+  }
+}

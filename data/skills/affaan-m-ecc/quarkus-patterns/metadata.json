@@ -1,0 +1,17 @@
+{
+  "skillId": "quarkus-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "quarkus-patterns",
+    "name": "quarkus-patterns",
+    "installs": 1093,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Quarkus Patterns"
+  }
+}

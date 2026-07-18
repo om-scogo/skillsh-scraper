@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-owasp-compliance",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "agent-owasp-compliance",
+    "name": "agent-owasp-compliance",
+    "installs": 1132,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Agent Owasp Compliance"
+  }
+}

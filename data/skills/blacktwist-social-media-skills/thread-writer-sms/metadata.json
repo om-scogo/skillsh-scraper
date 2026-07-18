@@ -1,0 +1,17 @@
+{
+  "skillId": "thread-writer-sms",
+  "source": "blacktwist/social-media-skills",
+  "owner": "blacktwist",
+  "repo": "social-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "blacktwist/social-media-skills",
+    "skillId": "thread-writer-sms",
+    "name": "thread-writer-sms",
+    "installs": 906,
+    "owner": "blacktwist",
+    "repo": "social-media-skills",
+    "githubUrl": "https://github.com/blacktwist/social-media-skills",
+    "displayName": "Thread Writer Sms"
+  }
+}

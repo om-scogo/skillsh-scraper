@@ -1,0 +1,17 @@
+{
+  "skillId": "shopify-polaris-app-home",
+  "source": "shopify/shopify-ai-toolkit",
+  "owner": "shopify",
+  "repo": "shopify-ai-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shopify/shopify-ai-toolkit",
+    "skillId": "shopify-polaris-app-home",
+    "name": "shopify-polaris-app-home",
+    "installs": 6551,
+    "owner": "shopify",
+    "repo": "shopify-ai-toolkit",
+    "githubUrl": "https://github.com/shopify/shopify-ai-toolkit",
+    "displayName": "Shopify Polaris App Home"
+  }
+}

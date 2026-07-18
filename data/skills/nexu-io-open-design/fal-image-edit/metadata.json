@@ -1,0 +1,17 @@
+{
+  "skillId": "fal-image-edit",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "fal-image-edit",
+    "name": "fal-image-edit",
+    "installs": 1592,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Fal Image Edit"
+  }
+}

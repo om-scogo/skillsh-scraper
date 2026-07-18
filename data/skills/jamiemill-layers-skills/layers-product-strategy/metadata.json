@@ -1,0 +1,17 @@
+{
+  "skillId": "layers-product-strategy",
+  "source": "jamiemill/layers-skills",
+  "owner": "jamiemill",
+  "repo": "layers-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jamiemill/layers-skills",
+    "skillId": "layers-product-strategy",
+    "name": "layers-product-strategy",
+    "installs": 1258,
+    "owner": "jamiemill",
+    "repo": "layers-skills",
+    "githubUrl": "https://github.com/jamiemill/layers-skills",
+    "displayName": "Layers Product Strategy"
+  }
+}

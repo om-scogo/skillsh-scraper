@@ -1,0 +1,17 @@
+{
+  "skillId": "typescript-write",
+  "source": "metabase/metabase",
+  "owner": "metabase",
+  "repo": "metabase",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "metabase/metabase",
+    "skillId": "typescript-write",
+    "name": "typescript-write",
+    "installs": 1280,
+    "owner": "metabase",
+    "repo": "metabase",
+    "githubUrl": "https://github.com/metabase/metabase",
+    "displayName": "Typescript Write"
+  }
+}

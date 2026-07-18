@@ -1,0 +1,17 @@
+{
+  "skillId": "explore-recipes",
+  "source": "signerlabs/shipswift-skills",
+  "owner": "signerlabs",
+  "repo": "shipswift-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "signerlabs/shipswift-skills",
+    "skillId": "explore-recipes",
+    "name": "explore-recipes",
+    "installs": 782,
+    "owner": "signerlabs",
+    "repo": "shipswift-skills",
+    "githubUrl": "https://github.com/signerlabs/shipswift-skills",
+    "displayName": "Explore Recipes"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "laravel-11-12-app-guidelines",
+  "source": "thienanblog/awesome-ai-agent-skills",
+  "owner": "thienanblog",
+  "repo": "awesome-ai-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thienanblog/awesome-ai-agent-skills",
+    "skillId": "laravel-11-12-app-guidelines",
+    "name": "laravel-11-12-app-guidelines",
+    "installs": 862,
+    "owner": "thienanblog",
+    "repo": "awesome-ai-agent-skills",
+    "githubUrl": "https://github.com/thienanblog/awesome-ai-agent-skills",
+    "displayName": "Laravel 11 12 App Guidelines"
+  }
+}

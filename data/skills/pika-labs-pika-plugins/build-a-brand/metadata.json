@@ -1,0 +1,17 @@
+{
+  "skillId": "build-a-brand",
+  "source": "pika-labs/pika-plugins",
+  "owner": "pika-labs",
+  "repo": "pika-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pika-labs/pika-plugins",
+    "skillId": "build-a-brand",
+    "name": "build-a-brand",
+    "installs": 1256,
+    "owner": "pika-labs",
+    "repo": "pika-plugins",
+    "githubUrl": "https://github.com/pika-labs/pika-plugins",
+    "displayName": "Build A Brand"
+  }
+}

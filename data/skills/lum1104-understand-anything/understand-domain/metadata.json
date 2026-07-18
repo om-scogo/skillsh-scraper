@@ -1,0 +1,17 @@
+{
+  "skillId": "understand-domain",
+  "source": "lum1104/understand-anything",
+  "owner": "lum1104",
+  "repo": "understand-anything",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lum1104/understand-anything",
+    "skillId": "understand-domain",
+    "name": "understand-domain",
+    "installs": 1042,
+    "owner": "lum1104",
+    "repo": "understand-anything",
+    "githubUrl": "https://github.com/lum1104/understand-anything",
+    "displayName": "Understand Domain"
+  }
+}

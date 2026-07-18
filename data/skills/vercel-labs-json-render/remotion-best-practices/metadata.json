@@ -1,0 +1,17 @@
+{
+  "skillId": "remotion-best-practices",
+  "source": "vercel-labs/json-render",
+  "owner": "vercel-labs",
+  "repo": "json-render",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/json-render",
+    "skillId": "remotion-best-practices",
+    "name": "remotion-best-practices",
+    "installs": 968,
+    "owner": "vercel-labs",
+    "repo": "json-render",
+    "githubUrl": "https://github.com/vercel-labs/json-render",
+    "displayName": "Remotion Best Practices"
+  }
+}

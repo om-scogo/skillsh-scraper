@@ -1,0 +1,17 @@
+{
+  "skillId": "mkdocs-translations",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "mkdocs-translations",
+    "name": "mkdocs-translations",
+    "installs": 8693,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Mkdocs Translations"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "page-import",
+  "source": "adobe/skills",
+  "owner": "adobe",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adobe/skills",
+    "skillId": "page-import",
+    "name": "page-import",
+    "installs": 910,
+    "owner": "adobe",
+    "repo": "skills",
+    "githubUrl": "https://github.com/adobe/skills",
+    "displayName": "Page Import"
+  }
+}

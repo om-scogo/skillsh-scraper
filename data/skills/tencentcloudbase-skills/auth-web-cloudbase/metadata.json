@@ -1,0 +1,17 @@
+{
+  "skillId": "auth-web-cloudbase",
+  "source": "tencentcloudbase/skills",
+  "owner": "tencentcloudbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tencentcloudbase/skills",
+    "skillId": "auth-web-cloudbase",
+    "name": "auth-web-cloudbase",
+    "installs": 851,
+    "owner": "tencentcloudbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/tencentcloudbase/skills",
+    "displayName": "Auth Web Cloudbase"
+  }
+}

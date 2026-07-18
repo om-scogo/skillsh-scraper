@@ -1,0 +1,17 @@
+{
+  "skillId": "secrets-management",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "secrets-management",
+    "name": "secrets-management",
+    "installs": 9854,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Secrets Management"
+  }
+}

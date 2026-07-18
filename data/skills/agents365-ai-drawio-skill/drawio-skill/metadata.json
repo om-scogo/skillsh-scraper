@@ -1,0 +1,17 @@
+{
+  "skillId": "drawio-skill",
+  "source": "agents365-ai/drawio-skill",
+  "owner": "agents365-ai",
+  "repo": "drawio-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agents365-ai/drawio-skill",
+    "skillId": "drawio-skill",
+    "name": "drawio-skill",
+    "installs": 1299,
+    "owner": "agents365-ai",
+    "repo": "drawio-skill",
+    "githubUrl": "https://github.com/agents365-ai/drawio-skill",
+    "displayName": "Drawio Skill"
+  }
+}

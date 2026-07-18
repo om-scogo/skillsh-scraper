@@ -1,0 +1,17 @@
+{
+  "skillId": "extract",
+  "source": "actionbook/actionbook",
+  "owner": "actionbook",
+  "repo": "actionbook",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/actionbook",
+    "skillId": "extract",
+    "name": "extract",
+    "installs": 1201,
+    "owner": "actionbook",
+    "repo": "actionbook",
+    "githubUrl": "https://github.com/actionbook/actionbook",
+    "displayName": "Extract"
+  }
+}

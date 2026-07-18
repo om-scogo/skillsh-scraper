@@ -1,0 +1,17 @@
+{
+  "skillId": "jetson-print-bsp-info",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "jetson-print-bsp-info",
+    "name": "jetson-print-bsp-info",
+    "installs": 817,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Jetson Print Bsp Info"
+  }
+}

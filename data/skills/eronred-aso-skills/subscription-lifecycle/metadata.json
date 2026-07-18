@@ -1,0 +1,17 @@
+{
+  "skillId": "subscription-lifecycle",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "subscription-lifecycle",
+    "name": "subscription-lifecycle",
+    "installs": 1460,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "Subscription Lifecycle"
+  }
+}

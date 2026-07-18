@@ -1,0 +1,17 @@
+{
+  "skillId": "running-decision-processes",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "running-decision-processes",
+    "name": "running-decision-processes",
+    "installs": 1675,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Running Decision Processes"
+  }
+}

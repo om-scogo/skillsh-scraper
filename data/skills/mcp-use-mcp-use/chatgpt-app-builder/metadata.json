@@ -1,0 +1,17 @@
+{
+  "skillId": "chatgpt-app-builder",
+  "source": "mcp-use/mcp-use",
+  "owner": "mcp-use",
+  "repo": "mcp-use",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mcp-use/mcp-use",
+    "skillId": "chatgpt-app-builder",
+    "name": "chatgpt-app-builder",
+    "installs": 9148,
+    "owner": "mcp-use",
+    "repo": "mcp-use",
+    "githubUrl": "https://github.com/mcp-use/mcp-use",
+    "displayName": "Chatgpt App Builder"
+  }
+}

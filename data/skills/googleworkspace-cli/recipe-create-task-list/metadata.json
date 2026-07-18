@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-create-task-list",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-create-task-list",
+    "name": "recipe-create-task-list",
+    "installs": 22320,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Create Task List"
+  }
+}

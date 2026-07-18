@@ -1,0 +1,17 @@
+{
+  "skillId": "uni-app",
+  "source": "uni-helper/skills",
+  "owner": "uni-helper",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "uni-helper/skills",
+    "skillId": "uni-app",
+    "name": "uni-app",
+    "installs": 1571,
+    "owner": "uni-helper",
+    "repo": "skills",
+    "githubUrl": "https://github.com/uni-helper/skills",
+    "displayName": "Uni App"
+  }
+}

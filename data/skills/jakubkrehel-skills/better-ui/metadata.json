@@ -1,0 +1,17 @@
+{
+  "skillId": "better-ui",
+  "source": "jakubkrehel/skills",
+  "owner": "jakubkrehel",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jakubkrehel/skills",
+    "skillId": "better-ui",
+    "name": "better-ui",
+    "installs": 1194,
+    "owner": "jakubkrehel",
+    "repo": "skills",
+    "githubUrl": "https://github.com/jakubkrehel/skills",
+    "displayName": "Better Ui"
+  }
+}

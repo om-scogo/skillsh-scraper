@@ -1,0 +1,17 @@
+{
+  "skillId": "typescript-advanced-types",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "typescript-advanced-types",
+    "name": "typescript-advanced-types",
+    "installs": 53740,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Typescript Advanced Types"
+  }
+}

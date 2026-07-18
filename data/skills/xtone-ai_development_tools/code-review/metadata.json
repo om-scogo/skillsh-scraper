@@ -1,0 +1,17 @@
+{
+  "skillId": "code-review",
+  "source": "xtone/ai_development_tools",
+  "owner": "xtone",
+  "repo": "ai_development_tools",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "xtone/ai_development_tools",
+    "skillId": "code-review",
+    "name": "code-review",
+    "installs": 2191,
+    "owner": "xtone",
+    "repo": "ai_development_tools",
+    "githubUrl": "https://github.com/xtone/ai_development_tools",
+    "displayName": "Code Review"
+  }
+}

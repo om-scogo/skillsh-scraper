@@ -1,0 +1,17 @@
+{
+  "skillId": "extension-camera",
+  "source": "caffeinelabs/skills",
+  "owner": "caffeinelabs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "caffeinelabs/skills",
+    "skillId": "extension-camera",
+    "name": "extension-camera",
+    "installs": 6556,
+    "owner": "caffeinelabs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/caffeinelabs/skills",
+    "displayName": "Extension Camera"
+  }
+}

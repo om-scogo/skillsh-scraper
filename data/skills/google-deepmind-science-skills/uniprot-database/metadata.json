@@ -1,0 +1,17 @@
+{
+  "skillId": "uniprot-database",
+  "source": "google-deepmind/science-skills",
+  "owner": "google-deepmind",
+  "repo": "science-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-deepmind/science-skills",
+    "skillId": "uniprot-database",
+    "name": "uniprot-database",
+    "installs": 989,
+    "owner": "google-deepmind",
+    "repo": "science-skills",
+    "githubUrl": "https://github.com/google-deepmind/science-skills",
+    "displayName": "Uniprot Database"
+  }
+}

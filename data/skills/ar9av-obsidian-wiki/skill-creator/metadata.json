@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-creator",
+  "source": "ar9av/obsidian-wiki",
+  "owner": "ar9av",
+  "repo": "obsidian-wiki",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ar9av/obsidian-wiki",
+    "skillId": "skill-creator",
+    "name": "skill-creator",
+    "installs": 2430,
+    "owner": "ar9av",
+    "repo": "obsidian-wiki",
+    "githubUrl": "https://github.com/ar9av/obsidian-wiki",
+    "displayName": "Skill Creator"
+  }
+}

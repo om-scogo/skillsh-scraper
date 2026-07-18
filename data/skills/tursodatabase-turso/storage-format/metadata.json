@@ -1,0 +1,17 @@
+{
+  "skillId": "storage-format",
+  "source": "tursodatabase/turso",
+  "owner": "tursodatabase",
+  "repo": "turso",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tursodatabase/turso",
+    "skillId": "storage-format",
+    "name": "storage-format",
+    "installs": 883,
+    "owner": "tursodatabase",
+    "repo": "turso",
+    "githubUrl": "https://github.com/tursodatabase/turso",
+    "displayName": "Storage Format"
+  }
+}

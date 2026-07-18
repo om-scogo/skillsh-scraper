@@ -1,0 +1,17 @@
+{
+  "skillId": "next-browser",
+  "source": "vercel-labs/next-browser",
+  "owner": "vercel-labs",
+  "repo": "next-browser",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/next-browser",
+    "skillId": "next-browser",
+    "name": "next-browser",
+    "installs": 4673,
+    "owner": "vercel-labs",
+    "repo": "next-browser",
+    "githubUrl": "https://github.com/vercel-labs/next-browser",
+    "displayName": "Next Browser"
+  }
+}

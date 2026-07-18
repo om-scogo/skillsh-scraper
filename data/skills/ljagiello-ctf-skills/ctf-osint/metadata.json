@@ -1,0 +1,17 @@
+{
+  "skillId": "ctf-osint",
+  "source": "ljagiello/ctf-skills",
+  "owner": "ljagiello",
+  "repo": "ctf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ljagiello/ctf-skills",
+    "skillId": "ctf-osint",
+    "name": "ctf-osint",
+    "installs": 5745,
+    "owner": "ljagiello",
+    "repo": "ctf-skills",
+    "githubUrl": "https://github.com/ljagiello/ctf-skills",
+    "displayName": "Ctf Osint"
+  }
+}

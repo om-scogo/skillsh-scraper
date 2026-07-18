@@ -1,0 +1,17 @@
+{
+  "skillId": "beads",
+  "source": "steveyegge/beads",
+  "owner": "steveyegge",
+  "repo": "beads",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steveyegge/beads",
+    "skillId": "beads",
+    "name": "beads",
+    "installs": 1266,
+    "owner": "steveyegge",
+    "repo": "beads",
+    "githubUrl": "https://github.com/steveyegge/beads",
+    "displayName": "Beads"
+  }
+}

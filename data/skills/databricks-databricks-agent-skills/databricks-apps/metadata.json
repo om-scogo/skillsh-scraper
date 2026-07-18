@@ -1,0 +1,17 @@
+{
+  "skillId": "databricks-apps",
+  "source": "databricks/databricks-agent-skills",
+  "owner": "databricks",
+  "repo": "databricks-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "databricks/databricks-agent-skills",
+    "skillId": "databricks-apps",
+    "name": "databricks-apps",
+    "installs": 771,
+    "owner": "databricks",
+    "repo": "databricks-agent-skills",
+    "githubUrl": "https://github.com/databricks/databricks-agent-skills",
+    "displayName": "Databricks Apps"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "generative-engine-optimization",
+  "source": "kostja94/marketing-skills",
+  "owner": "kostja94",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kostja94/marketing-skills",
+    "skillId": "generative-engine-optimization",
+    "name": "generative-engine-optimization",
+    "installs": 918,
+    "owner": "kostja94",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/kostja94/marketing-skills",
+    "displayName": "Generative Engine Optimization"
+  }
+}

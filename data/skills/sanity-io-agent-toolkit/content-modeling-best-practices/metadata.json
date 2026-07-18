@@ -1,0 +1,17 @@
+{
+  "skillId": "content-modeling-best-practices",
+  "source": "sanity-io/agent-toolkit",
+  "owner": "sanity-io",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sanity-io/agent-toolkit",
+    "skillId": "content-modeling-best-practices",
+    "name": "content-modeling-best-practices",
+    "installs": 3025,
+    "owner": "sanity-io",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/sanity-io/agent-toolkit",
+    "displayName": "Content Modeling Best Practices"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "figma-implement-design",
+  "source": "figma/mcp-server-guide",
+  "owner": "figma",
+  "repo": "mcp-server-guide",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "figma/mcp-server-guide",
+    "skillId": "figma-implement-design",
+    "name": "figma-implement-design",
+    "installs": 4049,
+    "owner": "figma",
+    "repo": "mcp-server-guide",
+    "githubUrl": "https://github.com/figma/mcp-server-guide",
+    "displayName": "Figma Implement Design"
+  }
+}

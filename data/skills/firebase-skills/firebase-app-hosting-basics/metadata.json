@@ -1,0 +1,17 @@
+{
+  "skillId": "firebase-app-hosting-basics",
+  "source": "firebase/skills",
+  "owner": "firebase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firebase/skills",
+    "skillId": "firebase-app-hosting-basics",
+    "name": "firebase-app-hosting-basics",
+    "installs": 983,
+    "owner": "firebase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/firebase/skills",
+    "displayName": "Firebase App Hosting Basics"
+  }
+}

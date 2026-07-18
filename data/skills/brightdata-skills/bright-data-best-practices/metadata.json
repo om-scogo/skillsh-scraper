@@ -1,0 +1,17 @@
+{
+  "skillId": "bright-data-best-practices",
+  "source": "brightdata/skills",
+  "owner": "brightdata",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "brightdata/skills",
+    "skillId": "bright-data-best-practices",
+    "name": "bright-data-best-practices",
+    "installs": 1597,
+    "owner": "brightdata",
+    "repo": "skills",
+    "githubUrl": "https://github.com/brightdata/skills",
+    "displayName": "Bright Data Best Practices"
+  }
+}

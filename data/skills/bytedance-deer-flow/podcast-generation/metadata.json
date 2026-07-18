@@ -1,0 +1,17 @@
+{
+  "skillId": "podcast-generation",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "podcast-generation",
+    "name": "podcast-generation",
+    "installs": 1749,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Podcast Generation"
+  }
+}

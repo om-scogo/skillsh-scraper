@@ -1,0 +1,17 @@
+{
+  "skillId": "tavily-search",
+  "source": "framix-team/openclaw-tavily",
+  "owner": "framix-team",
+  "repo": "openclaw-tavily",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "framix-team/openclaw-tavily",
+    "skillId": "tavily-search",
+    "name": "tavily-search",
+    "installs": 813,
+    "owner": "framix-team",
+    "repo": "openclaw-tavily",
+    "githubUrl": "https://github.com/framix-team/openclaw-tavily",
+    "displayName": "Tavily Search"
+  }
+}

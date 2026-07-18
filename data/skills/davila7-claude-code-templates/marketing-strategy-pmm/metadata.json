@@ -1,0 +1,17 @@
+{
+  "skillId": "marketing-strategy-pmm",
+  "source": "davila7/claude-code-templates",
+  "owner": "davila7",
+  "repo": "claude-code-templates",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "davila7/claude-code-templates",
+    "skillId": "marketing-strategy-pmm",
+    "name": "marketing-strategy-pmm",
+    "installs": 1155,
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "githubUrl": "https://github.com/davila7/claude-code-templates",
+    "displayName": "Marketing Strategy Pmm"
+  }
+}

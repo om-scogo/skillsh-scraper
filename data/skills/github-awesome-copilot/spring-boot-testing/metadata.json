@@ -1,0 +1,17 @@
+{
+  "skillId": "spring-boot-testing",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "spring-boot-testing",
+    "name": "spring-boot-testing",
+    "installs": 1773,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Spring Boot Testing"
+  }
+}

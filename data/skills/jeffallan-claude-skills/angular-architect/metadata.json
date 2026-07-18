@@ -1,0 +1,17 @@
+{
+  "skillId": "angular-architect",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "angular-architect",
+    "name": "angular-architect",
+    "installs": 3422,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Angular Architect"
+  }
+}

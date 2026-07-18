@@ -1,0 +1,17 @@
+{
+  "skillId": "agentation",
+  "source": "benjitaylor/agentation",
+  "owner": "benjitaylor",
+  "repo": "agentation",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "benjitaylor/agentation",
+    "skillId": "agentation",
+    "name": "agentation",
+    "installs": 11225,
+    "owner": "benjitaylor",
+    "repo": "agentation",
+    "githubUrl": "https://github.com/benjitaylor/agentation",
+    "displayName": "Agentation"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-chat",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "gws-chat",
+    "name": "gws-chat",
+    "installs": 24380,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Gws Chat"
+  }
+}

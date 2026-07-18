@@ -1,0 +1,17 @@
+{
+  "skillId": "phoenix-evals",
+  "source": "arize-ai/phoenix",
+  "owner": "arize-ai",
+  "repo": "phoenix",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "arize-ai/phoenix",
+    "skillId": "phoenix-evals",
+    "name": "phoenix-evals",
+    "installs": 900,
+    "owner": "arize-ai",
+    "repo": "phoenix",
+    "githubUrl": "https://github.com/arize-ai/phoenix",
+    "displayName": "Phoenix Evals"
+  }
+}

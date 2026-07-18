@@ -1,0 +1,17 @@
+{
+  "skillId": "rive-interactive",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "rive-interactive",
+    "name": "rive-interactive",
+    "installs": 1331,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Rive Interactive"
+  }
+}

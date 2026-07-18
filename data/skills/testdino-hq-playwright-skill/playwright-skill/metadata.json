@@ -1,0 +1,17 @@
+{
+  "skillId": "playwright-skill",
+  "source": "testdino-hq/playwright-skill",
+  "owner": "testdino-hq",
+  "repo": "playwright-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "testdino-hq/playwright-skill",
+    "skillId": "playwright-skill",
+    "name": "playwright-skill",
+    "installs": 4529,
+    "owner": "testdino-hq",
+    "repo": "playwright-skill",
+    "githubUrl": "https://github.com/testdino-hq/playwright-skill",
+    "displayName": "Playwright Skill"
+  }
+}

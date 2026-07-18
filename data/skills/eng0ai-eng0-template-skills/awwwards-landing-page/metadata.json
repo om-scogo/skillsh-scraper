@@ -1,0 +1,17 @@
+{
+  "skillId": "awwwards-landing-page",
+  "source": "eng0ai/eng0-template-skills",
+  "owner": "eng0ai",
+  "repo": "eng0-template-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eng0ai/eng0-template-skills",
+    "skillId": "awwwards-landing-page",
+    "name": "awwwards-landing-page",
+    "installs": 1010,
+    "owner": "eng0ai",
+    "repo": "eng0-template-skills",
+    "githubUrl": "https://github.com/eng0ai/eng0-template-skills",
+    "displayName": "Awwwards Landing Page"
+  }
+}

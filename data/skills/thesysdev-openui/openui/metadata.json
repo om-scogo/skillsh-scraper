@@ -1,0 +1,17 @@
+{
+  "skillId": "openui",
+  "source": "thesysdev/openui",
+  "owner": "thesysdev",
+  "repo": "openui",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thesysdev/openui",
+    "skillId": "openui",
+    "name": "openui",
+    "installs": 1236,
+    "owner": "thesysdev",
+    "repo": "openui",
+    "githubUrl": "https://github.com/thesysdev/openui",
+    "displayName": "Openui"
+  }
+}

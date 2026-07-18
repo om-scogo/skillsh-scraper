@@ -1,0 +1,17 @@
+{
+  "skillId": "printing-press-import",
+  "source": "mvanhorn/cli-printing-press",
+  "owner": "mvanhorn",
+  "repo": "cli-printing-press",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mvanhorn/cli-printing-press",
+    "skillId": "printing-press-import",
+    "name": "printing-press-import",
+    "installs": 4389,
+    "owner": "mvanhorn",
+    "repo": "cli-printing-press",
+    "githubUrl": "https://github.com/mvanhorn/cli-printing-press",
+    "displayName": "Printing Press Import"
+  }
+}

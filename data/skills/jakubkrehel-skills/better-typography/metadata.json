@@ -1,0 +1,17 @@
+{
+  "skillId": "better-typography",
+  "source": "jakubkrehel/skills",
+  "owner": "jakubkrehel",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jakubkrehel/skills",
+    "skillId": "better-typography",
+    "name": "better-typography",
+    "installs": 1190,
+    "owner": "jakubkrehel",
+    "repo": "skills",
+    "githubUrl": "https://github.com/jakubkrehel/skills",
+    "displayName": "Better Typography"
+  }
+}

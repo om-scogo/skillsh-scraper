@@ -1,0 +1,17 @@
+{
+  "skillId": "lean-startup",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "lean-startup",
+    "name": "lean-startup",
+    "installs": 3296,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Lean Startup"
+  }
+}

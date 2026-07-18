@@ -1,0 +1,17 @@
+{
+  "skillId": "building-storefronts",
+  "source": "medusajs/medusa-agent-skills",
+  "owner": "medusajs",
+  "repo": "medusa-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "medusajs/medusa-agent-skills",
+    "skillId": "building-storefronts",
+    "name": "building-storefronts",
+    "installs": 2589,
+    "owner": "medusajs",
+    "repo": "medusa-agent-skills",
+    "githubUrl": "https://github.com/medusajs/medusa-agent-skills",
+    "displayName": "Building Storefronts"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "seo-content-marketing-skill-factory",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "seo-content-marketing-skill-factory",
+    "name": "seo-content-marketing-skill-factory",
+    "installs": 932,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Seo Content Marketing Skill Factory"
+  }
+}

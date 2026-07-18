@@ -1,0 +1,17 @@
+{
+  "skillId": "react",
+  "source": "lobehub/lobe-chat",
+  "owner": "lobehub",
+  "repo": "lobe-chat",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobe-chat",
+    "skillId": "react",
+    "name": "react",
+    "installs": 1396,
+    "owner": "lobehub",
+    "repo": "lobe-chat",
+    "githubUrl": "https://github.com/lobehub/lobe-chat",
+    "displayName": "React"
+  }
+}

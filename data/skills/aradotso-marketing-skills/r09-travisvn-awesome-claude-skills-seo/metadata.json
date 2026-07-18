@@ -1,0 +1,17 @@
+{
+  "skillId": "r09-travisvn-awesome-claude-skills-seo",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "r09-travisvn-awesome-claude-skills-seo",
+    "name": "r09-travisvn-awesome-claude-skills-seo",
+    "installs": 924,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "R09 Travisvn Awesome Claude Skills Seo"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-demo-walkthrough",
+  "source": "firecrawl/firecrawl-workflows",
+  "owner": "firecrawl",
+  "repo": "firecrawl-workflows",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/firecrawl-workflows",
+    "skillId": "firecrawl-demo-walkthrough",
+    "name": "firecrawl-demo-walkthrough",
+    "installs": 28917,
+    "owner": "firecrawl",
+    "repo": "firecrawl-workflows",
+    "githubUrl": "https://github.com/firecrawl/firecrawl-workflows",
+    "displayName": "Firecrawl Demo Walkthrough"
+  }
+}

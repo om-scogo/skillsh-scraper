@@ -1,0 +1,17 @@
+{
+  "skillId": "founder-product-video",
+  "source": "pika-labs/pika-plugins",
+  "owner": "pika-labs",
+  "repo": "pika-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pika-labs/pika-plugins",
+    "skillId": "founder-product-video",
+    "name": "founder-product-video",
+    "installs": 1248,
+    "owner": "pika-labs",
+    "repo": "pika-plugins",
+    "githubUrl": "https://github.com/pika-labs/pika-plugins",
+    "displayName": "Founder Product Video"
+  }
+}

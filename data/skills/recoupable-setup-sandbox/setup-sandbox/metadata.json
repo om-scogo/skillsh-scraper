@@ -1,0 +1,17 @@
+{
+  "skillId": "setup-sandbox",
+  "source": "recoupable/setup-sandbox",
+  "owner": "recoupable",
+  "repo": "setup-sandbox",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "recoupable/setup-sandbox",
+    "skillId": "setup-sandbox",
+    "name": "setup-sandbox",
+    "installs": 1613,
+    "owner": "recoupable",
+    "repo": "setup-sandbox",
+    "githubUrl": "https://github.com/recoupable/setup-sandbox",
+    "displayName": "Setup Sandbox"
+  }
+}

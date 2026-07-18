@@ -1,0 +1,17 @@
+{
+  "skillId": "sdf",
+  "source": "earthtojake/text-to-cad",
+  "owner": "earthtojake",
+  "repo": "text-to-cad",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "earthtojake/text-to-cad",
+    "skillId": "sdf",
+    "name": "sdf",
+    "installs": 4258,
+    "owner": "earthtojake",
+    "repo": "text-to-cad",
+    "githubUrl": "https://github.com/earthtojake/text-to-cad",
+    "displayName": "Sdf"
+  }
+}

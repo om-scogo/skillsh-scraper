@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-production-validator",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-production-validator",
+    "name": "agent-production-validator",
+    "installs": 986,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Production Validator"
+  }
+}

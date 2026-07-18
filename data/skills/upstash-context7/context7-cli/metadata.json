@@ -1,0 +1,17 @@
+{
+  "skillId": "context7-cli",
+  "source": "upstash/context7",
+  "owner": "upstash",
+  "repo": "context7",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "upstash/context7",
+    "skillId": "context7-cli",
+    "name": "context7-cli",
+    "installs": 4123,
+    "owner": "upstash",
+    "repo": "context7",
+    "githubUrl": "https://github.com/upstash/context7",
+    "displayName": "Context7 Cli"
+  }
+}

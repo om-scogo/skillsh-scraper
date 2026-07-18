@@ -1,0 +1,17 @@
+{
+  "skillId": "recsys-pipeline-architect",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "recsys-pipeline-architect",
+    "name": "recsys-pipeline-architect",
+    "installs": 1317,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Recsys Pipeline Architect"
+  }
+}

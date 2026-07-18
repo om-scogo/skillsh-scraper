@@ -1,0 +1,17 @@
+{
+  "skillId": "kotlin-backend-jpa-entity-mapping",
+  "source": "kotlin/kotlin-agent-skills",
+  "owner": "kotlin",
+  "repo": "kotlin-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kotlin/kotlin-agent-skills",
+    "skillId": "kotlin-backend-jpa-entity-mapping",
+    "name": "kotlin-backend-jpa-entity-mapping",
+    "installs": 769,
+    "owner": "kotlin",
+    "repo": "kotlin-agent-skills",
+    "githubUrl": "https://github.com/kotlin/kotlin-agent-skills",
+    "displayName": "Kotlin Backend Jpa Entity Mapping"
+  }
+}

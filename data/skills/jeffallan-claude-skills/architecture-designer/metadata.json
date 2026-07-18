@@ -1,0 +1,17 @@
+{
+  "skillId": "architecture-designer",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "architecture-designer",
+    "name": "architecture-designer",
+    "installs": 5337,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Architecture Designer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-save-email-to-doc",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-save-email-to-doc",
+    "name": "recipe-save-email-to-doc",
+    "installs": 22424,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Save Email To Doc"
+  }
+}

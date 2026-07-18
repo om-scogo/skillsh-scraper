@@ -1,0 +1,17 @@
+{
+  "skillId": "sync",
+  "source": "october-academy/agent-plugins",
+  "owner": "october-academy",
+  "repo": "agent-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "october-academy/agent-plugins",
+    "skillId": "sync",
+    "name": "sync",
+    "installs": 1194,
+    "owner": "october-academy",
+    "repo": "agent-plugins",
+    "githubUrl": "https://github.com/october-academy/agent-plugins",
+    "displayName": "Sync"
+  }
+}

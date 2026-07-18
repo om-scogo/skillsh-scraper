@@ -1,0 +1,17 @@
+{
+  "skillId": "kotlin-coroutines-flows",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "kotlin-coroutines-flows",
+    "name": "kotlin-coroutines-flows",
+    "installs": 5266,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Kotlin Coroutines Flows"
+  }
+}

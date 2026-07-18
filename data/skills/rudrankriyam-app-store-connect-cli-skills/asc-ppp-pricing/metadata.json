@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-ppp-pricing",
+  "source": "rudrankriyam/app-store-connect-cli-skills",
+  "owner": "rudrankriyam",
+  "repo": "app-store-connect-cli-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rudrankriyam/app-store-connect-cli-skills",
+    "skillId": "asc-ppp-pricing",
+    "name": "asc-ppp-pricing",
+    "installs": 2284,
+    "owner": "rudrankriyam",
+    "repo": "app-store-connect-cli-skills",
+    "githubUrl": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+    "displayName": "Asc Ppp Pricing"
+  }
+}

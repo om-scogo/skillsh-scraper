@@ -1,0 +1,17 @@
+{
+  "skillId": "frida-17",
+  "source": "yfe404/frida-17-skill",
+  "owner": "yfe404",
+  "repo": "frida-17-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yfe404/frida-17-skill",
+    "skillId": "frida-17",
+    "name": "frida-17",
+    "installs": 1485,
+    "owner": "yfe404",
+    "repo": "frida-17-skill",
+    "githubUrl": "https://github.com/yfe404/frida-17-skill",
+    "displayName": "Frida 17"
+  }
+}

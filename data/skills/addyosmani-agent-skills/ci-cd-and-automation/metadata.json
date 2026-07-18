@@ -1,0 +1,17 @@
+{
+  "skillId": "ci-cd-and-automation",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "ci-cd-and-automation",
+    "name": "ci-cd-and-automation",
+    "installs": 11359,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Ci Cd And Automation"
+  }
+}

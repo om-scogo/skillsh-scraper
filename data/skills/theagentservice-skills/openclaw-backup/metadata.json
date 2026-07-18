@@ -1,0 +1,17 @@
+{
+  "skillId": "openclaw-backup",
+  "source": "theagentservice/skills",
+  "owner": "theagentservice",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "theagentservice/skills",
+    "skillId": "openclaw-backup",
+    "name": "openclaw-backup",
+    "installs": 3046,
+    "owner": "theagentservice",
+    "repo": "skills",
+    "githubUrl": "https://github.com/theagentservice/skills",
+    "displayName": "Openclaw Backup"
+  }
+}

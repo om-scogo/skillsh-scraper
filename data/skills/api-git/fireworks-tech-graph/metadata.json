@@ -1,0 +1,17 @@
+{
+  "skillId": "fireworks-tech-graph",
+  "source": "api/git",
+  "owner": "api",
+  "repo": "git",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "api/git",
+    "skillId": "fireworks-tech-graph",
+    "name": "fireworks-tech-graph",
+    "installs": 1327,
+    "owner": "api",
+    "repo": "git",
+    "githubUrl": "https://github.com/api/git",
+    "displayName": "Fireworks Tech Graph"
+  }
+}

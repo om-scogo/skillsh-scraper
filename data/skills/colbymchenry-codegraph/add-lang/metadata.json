@@ -1,0 +1,17 @@
+{
+  "skillId": "add-lang",
+  "source": "colbymchenry/codegraph",
+  "owner": "colbymchenry",
+  "repo": "codegraph",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "colbymchenry/codegraph",
+    "skillId": "add-lang",
+    "name": "add-lang",
+    "installs": 802,
+    "owner": "colbymchenry",
+    "repo": "codegraph",
+    "githubUrl": "https://github.com/colbymchenry/codegraph",
+    "displayName": "Add Lang"
+  }
+}

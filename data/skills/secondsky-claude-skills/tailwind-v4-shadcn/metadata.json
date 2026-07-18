@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwind-v4-shadcn",
+  "source": "secondsky/claude-skills",
+  "owner": "secondsky",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "secondsky/claude-skills",
+    "skillId": "tailwind-v4-shadcn",
+    "name": "tailwind-v4-shadcn",
+    "installs": 6291,
+    "owner": "secondsky",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/secondsky/claude-skills",
+    "displayName": "Tailwind V4 Shadcn"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "anti-render",
+  "source": "lionad-morotar/anti-render-skill",
+  "owner": "lionad-morotar",
+  "repo": "anti-render-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lionad-morotar/anti-render-skill",
+    "skillId": "anti-render",
+    "name": "anti-render",
+    "installs": 1250,
+    "owner": "lionad-morotar",
+    "repo": "anti-render-skill",
+    "githubUrl": "https://github.com/lionad-morotar/anti-render-skill",
+    "displayName": "Anti Render"
+  }
+}

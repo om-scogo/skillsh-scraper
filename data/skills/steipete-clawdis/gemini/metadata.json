@@ -1,0 +1,17 @@
+{
+  "skillId": "gemini",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "gemini",
+    "name": "gemini",
+    "installs": 2646,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Gemini"
+  }
+}

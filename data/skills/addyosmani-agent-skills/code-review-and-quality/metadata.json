@@ -1,0 +1,17 @@
+{
+  "skillId": "code-review-and-quality",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "code-review-and-quality",
+    "name": "code-review-and-quality",
+    "installs": 15482,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Code Review And Quality"
+  }
+}

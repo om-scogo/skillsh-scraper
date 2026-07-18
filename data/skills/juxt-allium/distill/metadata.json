@@ -1,0 +1,17 @@
+{
+  "skillId": "distill",
+  "source": "juxt/allium",
+  "owner": "juxt",
+  "repo": "allium",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juxt/allium",
+    "skillId": "distill",
+    "name": "distill",
+    "installs": 1815,
+    "owner": "juxt",
+    "repo": "allium",
+    "githubUrl": "https://github.com/juxt/allium",
+    "displayName": "Distill"
+  }
+}

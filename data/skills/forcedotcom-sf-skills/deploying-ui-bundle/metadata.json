@@ -1,0 +1,17 @@
+{
+  "skillId": "deploying-ui-bundle",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "deploying-ui-bundle",
+    "name": "deploying-ui-bundle",
+    "installs": 2198,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Deploying Ui Bundle"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "obsidian-vault",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "obsidian-vault",
+    "name": "obsidian-vault",
+    "installs": 137516,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Obsidian Vault"
+  }
+}

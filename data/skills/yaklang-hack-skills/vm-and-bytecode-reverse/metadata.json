@@ -1,0 +1,17 @@
+{
+  "skillId": "vm-and-bytecode-reverse",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "vm-and-bytecode-reverse",
+    "name": "vm-and-bytecode-reverse",
+    "installs": 1935,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Vm And Bytecode Reverse"
+  }
+}

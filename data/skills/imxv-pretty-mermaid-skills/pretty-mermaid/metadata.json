@@ -1,0 +1,17 @@
+{
+  "skillId": "pretty-mermaid",
+  "source": "imxv/pretty-mermaid-skills",
+  "owner": "imxv",
+  "repo": "pretty-mermaid-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "imxv/pretty-mermaid-skills",
+    "skillId": "pretty-mermaid",
+    "name": "pretty-mermaid",
+    "installs": 3219,
+    "owner": "imxv",
+    "repo": "pretty-mermaid-skills",
+    "githubUrl": "https://github.com/imxv/pretty-mermaid-skills",
+    "displayName": "Pretty Mermaid"
+  }
+}

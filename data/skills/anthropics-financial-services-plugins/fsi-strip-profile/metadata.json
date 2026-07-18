@@ -1,0 +1,17 @@
+{
+  "skillId": "fsi-strip-profile",
+  "source": "anthropics/financial-services-plugins",
+  "owner": "anthropics",
+  "repo": "financial-services-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/financial-services-plugins",
+    "skillId": "fsi-strip-profile",
+    "name": "fsi-strip-profile",
+    "installs": 830,
+    "owner": "anthropics",
+    "repo": "financial-services-plugins",
+    "githubUrl": "https://github.com/anthropics/financial-services-plugins",
+    "displayName": "Fsi Strip Profile"
+  }
+}

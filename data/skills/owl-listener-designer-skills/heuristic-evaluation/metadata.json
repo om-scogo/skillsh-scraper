@@ -1,0 +1,17 @@
+{
+  "skillId": "heuristic-evaluation",
+  "source": "owl-listener/designer-skills",
+  "owner": "owl-listener",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "owl-listener/designer-skills",
+    "skillId": "heuristic-evaluation",
+    "name": "heuristic-evaluation",
+    "installs": 892,
+    "owner": "owl-listener",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/owl-listener/designer-skills",
+    "displayName": "Heuristic Evaluation"
+  }
+}

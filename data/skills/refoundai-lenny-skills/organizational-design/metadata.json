@@ -1,0 +1,17 @@
+{
+  "skillId": "organizational-design",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "organizational-design",
+    "name": "organizational-design",
+    "installs": 1607,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Organizational Design"
+  }
+}

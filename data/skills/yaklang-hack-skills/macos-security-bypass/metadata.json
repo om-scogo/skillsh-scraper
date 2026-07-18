@@ -1,0 +1,17 @@
+{
+  "skillId": "macos-security-bypass",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "macos-security-bypass",
+    "name": "macos-security-bypass",
+    "installs": 1876,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Macos Security Bypass"
+  }
+}

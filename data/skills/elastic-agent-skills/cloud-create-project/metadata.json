@@ -1,0 +1,17 @@
+{
+  "skillId": "cloud-create-project",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "cloud-create-project",
+    "name": "cloud-create-project",
+    "installs": 1680,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Cloud Create Project"
+  }
+}

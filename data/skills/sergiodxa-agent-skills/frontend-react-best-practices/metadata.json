@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-react-best-practices",
+  "source": "sergiodxa/agent-skills",
+  "owner": "sergiodxa",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sergiodxa/agent-skills",
+    "skillId": "frontend-react-best-practices",
+    "name": "frontend-react-best-practices",
+    "installs": 975,
+    "owner": "sergiodxa",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/sergiodxa/agent-skills",
+    "displayName": "Frontend React Best Practices"
+  }
+}

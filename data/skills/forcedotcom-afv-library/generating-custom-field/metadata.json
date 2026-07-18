@@ -1,0 +1,17 @@
+{
+  "skillId": "generating-custom-field",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "generating-custom-field",
+    "name": "generating-custom-field",
+    "installs": 1564,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Generating Custom Field"
+  }
+}

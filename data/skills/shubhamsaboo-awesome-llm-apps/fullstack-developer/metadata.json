@@ -1,0 +1,17 @@
+{
+  "skillId": "fullstack-developer",
+  "source": "shubhamsaboo/awesome-llm-apps",
+  "owner": "shubhamsaboo",
+  "repo": "awesome-llm-apps",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shubhamsaboo/awesome-llm-apps",
+    "skillId": "fullstack-developer",
+    "name": "fullstack-developer",
+    "installs": 7962,
+    "owner": "shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "githubUrl": "https://github.com/shubhamsaboo/awesome-llm-apps",
+    "displayName": "Fullstack Developer"
+  }
+}

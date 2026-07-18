@@ -1,0 +1,17 @@
+{
+  "skillId": "apify-generate-output-schema",
+  "source": "apify/agent-skills",
+  "owner": "apify",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apify/agent-skills",
+    "skillId": "apify-generate-output-schema",
+    "name": "apify-generate-output-schema",
+    "installs": 6220,
+    "owner": "apify",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/apify/agent-skills",
+    "displayName": "Apify Generate Output Schema"
+  }
+}

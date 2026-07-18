@@ -1,0 +1,17 @@
+{
+  "skillId": "presentation-design",
+  "source": "jwynia/agent-skills",
+  "owner": "jwynia",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jwynia/agent-skills",
+    "skillId": "presentation-design",
+    "name": "presentation-design",
+    "installs": 1792,
+    "owner": "jwynia",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/jwynia/agent-skills",
+    "displayName": "Presentation Design"
+  }
+}

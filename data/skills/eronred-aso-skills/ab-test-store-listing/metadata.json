@@ -1,0 +1,17 @@
+{
+  "skillId": "ab-test-store-listing",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "ab-test-store-listing",
+    "name": "ab-test-store-listing",
+    "installs": 2132,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "Ab Test Store Listing"
+  }
+}

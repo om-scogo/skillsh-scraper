@@ -1,0 +1,17 @@
+{
+  "skillId": "weekly-review",
+  "source": "cursor/plugins",
+  "owner": "cursor",
+  "repo": "plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cursor/plugins",
+    "skillId": "weekly-review",
+    "name": "weekly-review",
+    "installs": 857,
+    "owner": "cursor",
+    "repo": "plugins",
+    "githubUrl": "https://github.com/cursor/plugins",
+    "displayName": "Weekly Review"
+  }
+}

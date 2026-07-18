@@ -1,0 +1,17 @@
+{
+  "skillId": "data-engineering-patterns-fabric-databricks",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "data-engineering-patterns-fabric-databricks",
+    "name": "data-engineering-patterns-fabric-databricks",
+    "installs": 1173,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Data Engineering Patterns Fabric Databricks"
+  }
+}

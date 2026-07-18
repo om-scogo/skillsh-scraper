@@ -1,0 +1,17 @@
+{
+  "skillId": "qodo-get-rules",
+  "source": "qodo-ai/qodo-skills",
+  "owner": "qodo-ai",
+  "repo": "qodo-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qodo-ai/qodo-skills",
+    "skillId": "qodo-get-rules",
+    "name": "qodo-get-rules",
+    "installs": 2175,
+    "owner": "qodo-ai",
+    "repo": "qodo-skills",
+    "githubUrl": "https://github.com/qodo-ai/qodo-skills",
+    "displayName": "Qodo Get Rules"
+  }
+}

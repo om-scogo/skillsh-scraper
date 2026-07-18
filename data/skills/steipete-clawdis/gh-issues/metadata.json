@@ -1,0 +1,17 @@
+{
+  "skillId": "gh-issues",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "gh-issues",
+    "name": "gh-issues",
+    "installs": 2682,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Gh Issues"
+  }
+}

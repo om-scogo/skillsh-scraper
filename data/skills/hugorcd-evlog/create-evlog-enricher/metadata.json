@@ -1,0 +1,17 @@
+{
+  "skillId": "create-evlog-enricher",
+  "source": "hugorcd/evlog",
+  "owner": "hugorcd",
+  "repo": "evlog",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hugorcd/evlog",
+    "skillId": "create-evlog-enricher",
+    "name": "create-evlog-enricher",
+    "installs": 744,
+    "owner": "hugorcd",
+    "repo": "evlog",
+    "githubUrl": "https://github.com/hugorcd/evlog",
+    "displayName": "Create Evlog Enricher"
+  }
+}

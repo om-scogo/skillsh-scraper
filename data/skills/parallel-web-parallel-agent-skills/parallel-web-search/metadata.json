@@ -1,0 +1,17 @@
+{
+  "skillId": "parallel-web-search",
+  "source": "parallel-web/parallel-agent-skills",
+  "owner": "parallel-web",
+  "repo": "parallel-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "parallel-web/parallel-agent-skills",
+    "skillId": "parallel-web-search",
+    "name": "parallel-web-search",
+    "installs": 10836,
+    "owner": "parallel-web",
+    "repo": "parallel-agent-skills",
+    "githubUrl": "https://github.com/parallel-web/parallel-agent-skills",
+    "displayName": "Parallel Web Search"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "domain-modeling",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "domain-modeling",
+    "name": "domain-modeling",
+    "installs": 185520,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Domain Modeling"
+  }
+}

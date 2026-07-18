@@ -1,0 +1,17 @@
+{
+  "skillId": "make-plan",
+  "source": "thedotmack/claude-mem",
+  "owner": "thedotmack",
+  "repo": "claude-mem",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thedotmack/claude-mem",
+    "skillId": "make-plan",
+    "name": "make-plan",
+    "installs": 5049,
+    "owner": "thedotmack",
+    "repo": "claude-mem",
+    "githubUrl": "https://github.com/thedotmack/claude-mem",
+    "displayName": "Make Plan"
+  }
+}

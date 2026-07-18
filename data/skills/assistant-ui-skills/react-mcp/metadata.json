@@ -1,0 +1,17 @@
+{
+  "skillId": "react-mcp",
+  "source": "assistant-ui/skills",
+  "owner": "assistant-ui",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "assistant-ui/skills",
+    "skillId": "react-mcp",
+    "name": "react-mcp",
+    "installs": 1422,
+    "owner": "assistant-ui",
+    "repo": "skills",
+    "githubUrl": "https://github.com/assistant-ui/skills",
+    "displayName": "React Mcp"
+  }
+}

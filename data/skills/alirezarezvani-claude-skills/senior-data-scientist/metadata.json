@@ -1,0 +1,17 @@
+{
+  "skillId": "senior-data-scientist",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "senior-data-scientist",
+    "name": "senior-data-scientist",
+    "installs": 845,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Senior Data Scientist"
+  }
+}

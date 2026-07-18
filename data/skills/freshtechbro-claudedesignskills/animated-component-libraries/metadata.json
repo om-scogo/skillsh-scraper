@@ -1,0 +1,17 @@
+{
+  "skillId": "animated-component-libraries",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "animated-component-libraries",
+    "name": "animated-component-libraries",
+    "installs": 1524,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Animated Component Libraries"
+  }
+}

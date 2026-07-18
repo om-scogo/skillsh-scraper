@@ -1,0 +1,17 @@
+{
+  "skillId": "deepstream-dev",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "deepstream-dev",
+    "name": "deepstream-dev",
+    "installs": 1782,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Deepstream Dev"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "configs-variations",
+  "source": "launchdarkly/agent-skills",
+  "owner": "launchdarkly",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "launchdarkly/agent-skills",
+    "skillId": "configs-variations",
+    "name": "configs-variations",
+    "installs": 1379,
+    "owner": "launchdarkly",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/launchdarkly/agent-skills",
+    "displayName": "Configs Variations"
+  }
+}

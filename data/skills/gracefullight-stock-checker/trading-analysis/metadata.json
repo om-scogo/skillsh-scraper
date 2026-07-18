@@ -1,0 +1,17 @@
+{
+  "skillId": "trading-analysis",
+  "source": "gracefullight/stock-checker",
+  "owner": "gracefullight",
+  "repo": "stock-checker",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gracefullight/stock-checker",
+    "skillId": "trading-analysis",
+    "name": "trading-analysis",
+    "installs": 2683,
+    "owner": "gracefullight",
+    "repo": "stock-checker",
+    "githubUrl": "https://github.com/gracefullight/stock-checker",
+    "displayName": "Trading Analysis"
+  }
+}

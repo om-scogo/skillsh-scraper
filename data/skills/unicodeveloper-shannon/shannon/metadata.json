@@ -1,0 +1,17 @@
+{
+  "skillId": "shannon",
+  "source": "unicodeveloper/shannon",
+  "owner": "unicodeveloper",
+  "repo": "shannon",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "unicodeveloper/shannon",
+    "skillId": "shannon",
+    "name": "shannon",
+    "installs": 2491,
+    "owner": "unicodeveloper",
+    "repo": "shannon",
+    "githubUrl": "https://github.com/unicodeveloper/shannon",
+    "displayName": "Shannon"
+  }
+}

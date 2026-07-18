@@ -1,0 +1,17 @@
+{
+  "skillId": "opencli-operate",
+  "source": "jackwener/opencli",
+  "owner": "jackwener",
+  "repo": "opencli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jackwener/opencli",
+    "skillId": "opencli-operate",
+    "name": "opencli-operate",
+    "installs": 1943,
+    "owner": "jackwener",
+    "repo": "opencli",
+    "githubUrl": "https://github.com/jackwener/opencli",
+    "displayName": "Opencli Operate"
+  }
+}

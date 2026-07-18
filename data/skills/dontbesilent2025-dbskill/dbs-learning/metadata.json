@@ -1,0 +1,17 @@
+{
+  "skillId": "dbs-learning",
+  "source": "dontbesilent2025/dbskill",
+  "owner": "dontbesilent2025",
+  "repo": "dbskill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dontbesilent2025/dbskill",
+    "skillId": "dbs-learning",
+    "name": "dbs-learning",
+    "installs": 9321,
+    "owner": "dontbesilent2025",
+    "repo": "dbskill",
+    "githubUrl": "https://github.com/dontbesilent2025/dbskill",
+    "displayName": "Dbs Learning"
+  }
+}

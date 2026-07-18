@@ -1,0 +1,17 @@
+{
+  "skillId": "wp-abilities-audit",
+  "source": "wordpress/agent-skills",
+  "owner": "wordpress",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wordpress/agent-skills",
+    "skillId": "wp-abilities-audit",
+    "name": "wp-abilities-audit",
+    "installs": 872,
+    "owner": "wordpress",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/wordpress/agent-skills",
+    "displayName": "Wp Abilities Audit"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "temporal-python-testing",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "temporal-python-testing",
+    "name": "temporal-python-testing",
+    "installs": 8272,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Temporal Python Testing"
+  }
+}

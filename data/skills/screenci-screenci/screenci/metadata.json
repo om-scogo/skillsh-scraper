@@ -1,0 +1,17 @@
+{
+  "skillId": "screenci",
+  "source": "screenci/screenci",
+  "owner": "screenci",
+  "repo": "screenci",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "screenci/screenci",
+    "skillId": "screenci",
+    "name": "screenci",
+    "installs": 1320,
+    "owner": "screenci",
+    "repo": "screenci",
+    "githubUrl": "https://github.com/screenci/screenci",
+    "displayName": "Screenci"
+  }
+}

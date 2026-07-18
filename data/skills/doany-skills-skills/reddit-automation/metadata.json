@@ -1,0 +1,17 @@
+{
+  "skillId": "reddit-automation",
+  "source": "doany-skills/skills",
+  "owner": "doany-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "doany-skills/skills",
+    "skillId": "reddit-automation",
+    "name": "reddit-automation",
+    "installs": 4037,
+    "owner": "doany-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/doany-skills/skills",
+    "displayName": "Reddit Automation"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "bright-data-mcp",
+  "source": "brightdata/skills",
+  "owner": "brightdata",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "brightdata/skills",
+    "skillId": "bright-data-mcp",
+    "name": "bright-data-mcp",
+    "installs": 921,
+    "owner": "brightdata",
+    "repo": "skills",
+    "githubUrl": "https://github.com/brightdata/skills",
+    "displayName": "Bright Data Mcp"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "clean-code",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "clean-code",
+    "name": "clean-code",
+    "installs": 3524,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Clean Code"
+  }
+}

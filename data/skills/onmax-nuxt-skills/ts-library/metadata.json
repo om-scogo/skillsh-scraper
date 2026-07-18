@@ -1,0 +1,17 @@
+{
+  "skillId": "ts-library",
+  "source": "onmax/nuxt-skills",
+  "owner": "onmax",
+  "repo": "nuxt-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "onmax/nuxt-skills",
+    "skillId": "ts-library",
+    "name": "ts-library",
+    "installs": 1716,
+    "owner": "onmax",
+    "repo": "nuxt-skills",
+    "githubUrl": "https://github.com/onmax/nuxt-skills",
+    "displayName": "Ts Library"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "cs-trick",
+  "source": "liuzhengdongfortest/codestable",
+  "owner": "liuzhengdongfortest",
+  "repo": "codestable",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "liuzhengdongfortest/codestable",
+    "skillId": "cs-trick",
+    "name": "cs-trick",
+    "installs": 1059,
+    "owner": "liuzhengdongfortest",
+    "repo": "codestable",
+    "githubUrl": "https://github.com/liuzhengdongfortest/codestable",
+    "displayName": "Cs Trick"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-great-skills",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "writing-great-skills",
+    "name": "writing-great-skills",
+    "installs": 178869,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Writing Great Skills"
+  }
+}

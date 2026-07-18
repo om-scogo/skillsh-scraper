@@ -1,0 +1,17 @@
+{
+  "skillId": "verification-&-quality-assurance",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "verification-&-quality-assurance",
+    "name": "verification & quality assurance",
+    "installs": 967,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Verification & Quality Assurance"
+  }
+}

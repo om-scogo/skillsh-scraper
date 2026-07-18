@@ -1,0 +1,17 @@
+{
+  "skillId": "design-patterns",
+  "source": "rtk-ai/rtk",
+  "owner": "rtk-ai",
+  "repo": "rtk",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rtk-ai/rtk",
+    "skillId": "design-patterns",
+    "name": "design-patterns",
+    "installs": 847,
+    "owner": "rtk-ai",
+    "repo": "rtk",
+    "githubUrl": "https://github.com/rtk-ai/rtk",
+    "displayName": "Design Patterns"
+  }
+}

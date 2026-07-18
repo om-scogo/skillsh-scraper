@@ -1,0 +1,17 @@
+{
+  "skillId": "swiftui-expert-skill",
+  "source": "avdlee/swiftui-agent-skill",
+  "owner": "avdlee",
+  "repo": "swiftui-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "avdlee/swiftui-agent-skill",
+    "skillId": "swiftui-expert-skill",
+    "name": "swiftui-expert-skill",
+    "installs": 26548,
+    "owner": "avdlee",
+    "repo": "swiftui-agent-skill",
+    "githubUrl": "https://github.com/avdlee/swiftui-agent-skill",
+    "displayName": "Swiftui Expert Skill"
+  }
+}

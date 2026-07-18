@@ -1,0 +1,17 @@
+{
+  "skillId": "recharts",
+  "source": "ansanabria/skills",
+  "owner": "ansanabria",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ansanabria/skills",
+    "skillId": "recharts",
+    "name": "recharts",
+    "installs": 850,
+    "owner": "ansanabria",
+    "repo": "skills",
+    "githubUrl": "https://github.com/ansanabria/skills",
+    "displayName": "Recharts"
+  }
+}

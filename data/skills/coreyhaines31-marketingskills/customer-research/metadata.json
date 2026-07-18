@@ -1,0 +1,17 @@
+{
+  "skillId": "customer-research",
+  "source": "coreyhaines31/marketingskills",
+  "owner": "coreyhaines31",
+  "repo": "marketingskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coreyhaines31/marketingskills",
+    "skillId": "customer-research",
+    "name": "customer-research",
+    "installs": 65000,
+    "owner": "coreyhaines31",
+    "repo": "marketingskills",
+    "githubUrl": "https://github.com/coreyhaines31/marketingskills",
+    "displayName": "Customer Research"
+  }
+}

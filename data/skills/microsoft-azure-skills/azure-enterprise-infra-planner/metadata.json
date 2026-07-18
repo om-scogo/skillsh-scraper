@@ -1,0 +1,17 @@
+{
+  "skillId": "azure-enterprise-infra-planner",
+  "source": "microsoft/azure-skills",
+  "owner": "microsoft",
+  "repo": "azure-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/azure-skills",
+    "skillId": "azure-enterprise-infra-planner",
+    "name": "azure-enterprise-infra-planner",
+    "installs": 291476,
+    "owner": "microsoft",
+    "repo": "azure-skills",
+    "githubUrl": "https://github.com/microsoft/azure-skills",
+    "displayName": "Azure Enterprise Infra Planner"
+  }
+}

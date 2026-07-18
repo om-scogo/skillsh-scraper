@@ -1,0 +1,17 @@
+{
+  "skillId": "finlab",
+  "source": "koreal6803/finlab-ai",
+  "owner": "koreal6803",
+  "repo": "finlab-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "koreal6803/finlab-ai",
+    "skillId": "finlab",
+    "name": "finlab",
+    "installs": 1585,
+    "owner": "koreal6803",
+    "repo": "finlab-ai",
+    "githubUrl": "https://github.com/koreal6803/finlab-ai",
+    "displayName": "Finlab"
+  }
+}

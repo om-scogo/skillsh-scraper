@@ -1,0 +1,17 @@
+{
+  "skillId": "risk-metrics-calculation",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "risk-metrics-calculation",
+    "name": "risk-metrics-calculation",
+    "installs": 8253,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Risk Metrics Calculation"
+  }
+}

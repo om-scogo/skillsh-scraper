@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-issue-tracker",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-issue-tracker",
+    "name": "agent-issue-tracker",
+    "installs": 1001,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Issue Tracker"
+  }
+}

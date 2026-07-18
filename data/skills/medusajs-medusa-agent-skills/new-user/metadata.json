@@ -1,0 +1,17 @@
+{
+  "skillId": "new-user",
+  "source": "medusajs/medusa-agent-skills",
+  "owner": "medusajs",
+  "repo": "medusa-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "medusajs/medusa-agent-skills",
+    "skillId": "new-user",
+    "name": "new-user",
+    "installs": 1765,
+    "owner": "medusajs",
+    "repo": "medusa-agent-skills",
+    "githubUrl": "https://github.com/medusajs/medusa-agent-skills",
+    "displayName": "New User"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-python-sdk",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-python-sdk",
+    "name": "sentry-python-sdk",
+    "installs": 1994,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry Python Sdk"
+  }
+}

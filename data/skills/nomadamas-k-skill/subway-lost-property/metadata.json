@@ -1,0 +1,17 @@
+{
+  "skillId": "subway-lost-property",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "subway-lost-property",
+    "name": "subway-lost-property",
+    "installs": 2547,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Subway Lost Property"
+  }
+}

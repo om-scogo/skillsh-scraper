@@ -1,0 +1,17 @@
+{
+  "skillId": "longbridge-quant",
+  "source": "longbridge/skills",
+  "owner": "longbridge",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "longbridge/skills",
+    "skillId": "longbridge-quant",
+    "name": "longbridge-quant",
+    "installs": 2088,
+    "owner": "longbridge",
+    "repo": "skills",
+    "githubUrl": "https://github.com/longbridge/skills",
+    "displayName": "Longbridge Quant"
+  }
+}

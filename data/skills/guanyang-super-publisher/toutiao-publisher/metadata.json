@@ -1,0 +1,17 @@
+{
+  "skillId": "toutiao-publisher",
+  "source": "guanyang/super-publisher",
+  "owner": "guanyang",
+  "repo": "super-publisher",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "guanyang/super-publisher",
+    "skillId": "toutiao-publisher",
+    "name": "toutiao-publisher",
+    "installs": 996,
+    "owner": "guanyang",
+    "repo": "super-publisher",
+    "githubUrl": "https://github.com/guanyang/super-publisher",
+    "displayName": "Toutiao Publisher"
+  }
+}

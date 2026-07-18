@@ -1,0 +1,17 @@
+{
+  "skillId": "openclaw-security-hardening",
+  "source": "aradotso/security-skills",
+  "owner": "aradotso",
+  "repo": "security-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/security-skills",
+    "skillId": "openclaw-security-hardening",
+    "name": "openclaw-security-hardening",
+    "installs": 978,
+    "owner": "aradotso",
+    "repo": "security-skills",
+    "githubUrl": "https://github.com/aradotso/security-skills",
+    "displayName": "Openclaw Security Hardening"
+  }
+}

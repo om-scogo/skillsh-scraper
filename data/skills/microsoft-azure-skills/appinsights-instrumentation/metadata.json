@@ -1,0 +1,17 @@
+{
+  "skillId": "appinsights-instrumentation",
+  "source": "microsoft/azure-skills",
+  "owner": "microsoft",
+  "repo": "azure-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/azure-skills",
+    "skillId": "appinsights-instrumentation",
+    "name": "appinsights-instrumentation",
+    "installs": 455021,
+    "owner": "microsoft",
+    "repo": "azure-skills",
+    "githubUrl": "https://github.com/microsoft/azure-skills",
+    "displayName": "Appinsights Instrumentation"
+  }
+}

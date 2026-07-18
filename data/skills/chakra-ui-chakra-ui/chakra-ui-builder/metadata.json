@@ -1,0 +1,17 @@
+{
+  "skillId": "chakra-ui-builder",
+  "source": "chakra-ui/chakra-ui",
+  "owner": "chakra-ui",
+  "repo": "chakra-ui",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chakra-ui/chakra-ui",
+    "skillId": "chakra-ui-builder",
+    "name": "chakra-ui-builder",
+    "installs": 1784,
+    "owner": "chakra-ui",
+    "repo": "chakra-ui",
+    "githubUrl": "https://github.com/chakra-ui/chakra-ui",
+    "displayName": "Chakra Ui Builder"
+  }
+}

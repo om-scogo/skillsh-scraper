@@ -1,0 +1,17 @@
+{
+  "skillId": "svelte-core-bestpractices",
+  "source": "sveltejs/ai-tools",
+  "owner": "sveltejs",
+  "repo": "ai-tools",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sveltejs/ai-tools",
+    "skillId": "svelte-core-bestpractices",
+    "name": "svelte-core-bestpractices",
+    "installs": 3067,
+    "owner": "sveltejs",
+    "repo": "ai-tools",
+    "githubUrl": "https://github.com/sveltejs/ai-tools",
+    "displayName": "Svelte Core Bestpractices"
+  }
+}

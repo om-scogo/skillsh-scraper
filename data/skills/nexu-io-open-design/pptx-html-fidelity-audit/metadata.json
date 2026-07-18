@@ -1,0 +1,17 @@
+{
+  "skillId": "pptx-html-fidelity-audit",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "pptx-html-fidelity-audit",
+    "name": "pptx-html-fidelity-audit",
+    "installs": 1977,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Pptx Html Fidelity Audit"
+  }
+}

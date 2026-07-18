@@ -1,0 +1,17 @@
+{
+  "skillId": "read-arxiv-paper",
+  "source": "karpathy/nanochat",
+  "owner": "karpathy",
+  "repo": "nanochat",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "karpathy/nanochat",
+    "skillId": "read-arxiv-paper",
+    "name": "read-arxiv-paper",
+    "installs": 2283,
+    "owner": "karpathy",
+    "repo": "nanochat",
+    "githubUrl": "https://github.com/karpathy/nanochat",
+    "displayName": "Read Arxiv Paper"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-ui-engineering",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "frontend-ui-engineering",
+    "name": "frontend-ui-engineering",
+    "installs": 13673,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Frontend Ui Engineering"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "platform-strategy-sms",
+  "source": "blacktwist/social-media-skills",
+  "owner": "blacktwist",
+  "repo": "social-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "blacktwist/social-media-skills",
+    "skillId": "platform-strategy-sms",
+    "name": "platform-strategy-sms",
+    "installs": 921,
+    "owner": "blacktwist",
+    "repo": "social-media-skills",
+    "githubUrl": "https://github.com/blacktwist/social-media-skills",
+    "displayName": "Platform Strategy Sms"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "mem-search",
+  "source": "thedotmack/claude-mem",
+  "owner": "thedotmack",
+  "repo": "claude-mem",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thedotmack/claude-mem",
+    "skillId": "mem-search",
+    "name": "mem-search",
+    "installs": 6158,
+    "owner": "thedotmack",
+    "repo": "claude-mem",
+    "githubUrl": "https://github.com/thedotmack/claude-mem",
+    "displayName": "Mem Search"
+  }
+}

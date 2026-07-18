@@ -1,0 +1,17 @@
+{
+  "skillId": "fal-realtime",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "fal-realtime",
+    "name": "fal-realtime",
+    "installs": 1563,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Fal Realtime"
+  }
+}

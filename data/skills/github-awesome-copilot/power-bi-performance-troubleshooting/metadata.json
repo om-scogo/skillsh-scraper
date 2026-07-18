@@ -1,0 +1,17 @@
+{
+  "skillId": "power-bi-performance-troubleshooting",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "power-bi-performance-troubleshooting",
+    "name": "power-bi-performance-troubleshooting",
+    "installs": 8693,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Power Bi Performance Troubleshooting"
+  }
+}

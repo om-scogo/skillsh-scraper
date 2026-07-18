@@ -1,0 +1,17 @@
+{
+  "skillId": "swiftui-design",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "swiftui-design",
+    "name": "swiftui-design",
+    "installs": 1641,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Swiftui Design"
+  }
+}

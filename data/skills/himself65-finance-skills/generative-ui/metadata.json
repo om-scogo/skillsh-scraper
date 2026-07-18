@@ -1,0 +1,17 @@
+{
+  "skillId": "generative-ui",
+  "source": "himself65/finance-skills",
+  "owner": "himself65",
+  "repo": "finance-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "himself65/finance-skills",
+    "skillId": "generative-ui",
+    "name": "generative-ui",
+    "installs": 1217,
+    "owner": "himself65",
+    "repo": "finance-skills",
+    "githubUrl": "https://github.com/himself65/finance-skills",
+    "displayName": "Generative Ui"
+  }
+}

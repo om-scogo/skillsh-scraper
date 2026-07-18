@@ -1,0 +1,17 @@
+{
+  "skillId": "ralph-loop",
+  "source": "andrelandgraf/fullstackrecipes",
+  "owner": "andrelandgraf",
+  "repo": "fullstackrecipes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "andrelandgraf/fullstackrecipes",
+    "skillId": "ralph-loop",
+    "name": "ralph-loop",
+    "installs": 3537,
+    "owner": "andrelandgraf",
+    "repo": "fullstackrecipes",
+    "githubUrl": "https://github.com/andrelandgraf/fullstackrecipes",
+    "displayName": "Ralph Loop"
+  }
+}

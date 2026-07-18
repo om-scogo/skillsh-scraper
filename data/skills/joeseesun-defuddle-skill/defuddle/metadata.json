@@ -1,0 +1,17 @@
+{
+  "skillId": "defuddle",
+  "source": "joeseesun/defuddle-skill",
+  "owner": "joeseesun",
+  "repo": "defuddle-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "joeseesun/defuddle-skill",
+    "skillId": "defuddle",
+    "name": "defuddle",
+    "installs": 1135,
+    "owner": "joeseesun",
+    "repo": "defuddle-skill",
+    "githubUrl": "https://github.com/joeseesun/defuddle-skill",
+    "displayName": "Defuddle"
+  }
+}

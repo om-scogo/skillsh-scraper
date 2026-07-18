@@ -1,0 +1,17 @@
+{
+  "skillId": "bluebubbles",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "bluebubbles",
+    "name": "bluebubbles",
+    "installs": 1070,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Bluebubbles"
+  }
+}

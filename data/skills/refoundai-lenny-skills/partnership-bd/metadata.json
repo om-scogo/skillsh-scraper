@@ -1,0 +1,17 @@
+{
+  "skillId": "partnership-bd",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "partnership-bd",
+    "name": "partnership-bd",
+    "installs": 1566,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Partnership Bd"
+  }
+}

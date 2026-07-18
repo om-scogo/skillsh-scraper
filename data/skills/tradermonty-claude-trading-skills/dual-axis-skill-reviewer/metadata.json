@@ -1,0 +1,17 @@
+{
+  "skillId": "dual-axis-skill-reviewer",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "dual-axis-skill-reviewer",
+    "name": "dual-axis-skill-reviewer",
+    "installs": 740,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Dual Axis Skill Reviewer"
+  }
+}

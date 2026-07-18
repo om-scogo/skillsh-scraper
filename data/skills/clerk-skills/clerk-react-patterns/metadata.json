@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-react-patterns",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-react-patterns",
+    "name": "clerk-react-patterns",
+    "installs": 9512,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk React Patterns"
+  }
+}

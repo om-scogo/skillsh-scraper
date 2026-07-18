@@ -1,0 +1,17 @@
+{
+  "skillId": "pdf",
+  "source": "tfriedel/claude-office-skills",
+  "owner": "tfriedel",
+  "repo": "claude-office-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tfriedel/claude-office-skills",
+    "skillId": "pdf",
+    "name": "pdf",
+    "installs": 828,
+    "owner": "tfriedel",
+    "repo": "claude-office-skills",
+    "githubUrl": "https://github.com/tfriedel/claude-office-skills",
+    "displayName": "Pdf"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "generating-permission-set",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "generating-permission-set",
+    "name": "generating-permission-set",
+    "installs": 2471,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Generating Permission Set"
+  }
+}

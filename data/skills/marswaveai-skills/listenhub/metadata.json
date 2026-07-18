@@ -1,0 +1,17 @@
+{
+  "skillId": "listenhub",
+  "source": "marswaveai/skills",
+  "owner": "marswaveai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "marswaveai/skills",
+    "skillId": "listenhub",
+    "name": "listenhub",
+    "installs": 1391,
+    "owner": "marswaveai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/marswaveai/skills",
+    "displayName": "Listenhub"
+  }
+}

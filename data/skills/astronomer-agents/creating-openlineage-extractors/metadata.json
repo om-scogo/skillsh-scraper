@@ -1,0 +1,17 @@
+{
+  "skillId": "creating-openlineage-extractors",
+  "source": "astronomer/agents",
+  "owner": "astronomer",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astronomer/agents",
+    "skillId": "creating-openlineage-extractors",
+    "name": "creating-openlineage-extractors",
+    "installs": 769,
+    "owner": "astronomer",
+    "repo": "agents",
+    "githubUrl": "https://github.com/astronomer/agents",
+    "displayName": "Creating Openlineage Extractors"
+  }
+}

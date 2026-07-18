@@ -1,0 +1,17 @@
+{
+  "skillId": "crypto-market-rank",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "crypto-market-rank",
+    "name": "crypto-market-rank",
+    "installs": 7055,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Crypto Market Rank"
+  }
+}

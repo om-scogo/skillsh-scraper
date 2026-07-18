@@ -1,0 +1,17 @@
+{
+  "skillId": "ios-localization",
+  "source": "dpearson2699/swift-ios-skills",
+  "owner": "dpearson2699",
+  "repo": "swift-ios-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dpearson2699/swift-ios-skills",
+    "skillId": "ios-localization",
+    "name": "ios-localization",
+    "installs": 2748,
+    "owner": "dpearson2699",
+    "repo": "swift-ios-skills",
+    "githubUrl": "https://github.com/dpearson2699/swift-ios-skills",
+    "displayName": "Ios Localization"
+  }
+}

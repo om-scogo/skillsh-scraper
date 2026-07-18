@@ -1,0 +1,17 @@
+{
+  "skillId": "solana-dev",
+  "source": "solana-foundation/solana-dev-skill",
+  "owner": "solana-foundation",
+  "repo": "solana-dev-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "solana-foundation/solana-dev-skill",
+    "skillId": "solana-dev",
+    "name": "solana-dev",
+    "installs": 45031,
+    "owner": "solana-foundation",
+    "repo": "solana-dev-skill",
+    "githubUrl": "https://github.com/solana-foundation/solana-dev-skill",
+    "displayName": "Solana Dev"
+  }
+}

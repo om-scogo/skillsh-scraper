@@ -1,0 +1,17 @@
+{
+  "skillId": "architecture-decision-records",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "architecture-decision-records",
+    "name": "architecture-decision-records",
+    "installs": 4867,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Architecture Decision Records"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-name",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "skill-name",
+    "name": "skill-name",
+    "installs": 3362,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Skill Name"
+  }
+}

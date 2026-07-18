@@ -1,0 +1,17 @@
+{
+  "skillId": "gh-axi",
+  "source": "kunchenguid/gh-axi",
+  "owner": "kunchenguid",
+  "repo": "gh-axi",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kunchenguid/gh-axi",
+    "skillId": "gh-axi",
+    "name": "gh-axi",
+    "installs": 1607,
+    "owner": "kunchenguid",
+    "repo": "gh-axi",
+    "githubUrl": "https://github.com/kunchenguid/gh-axi",
+    "displayName": "Gh Axi"
+  }
+}

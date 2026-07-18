@@ -1,0 +1,17 @@
+{
+  "skillId": "base44-cli",
+  "source": "base44/skills",
+  "owner": "base44",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "base44/skills",
+    "skillId": "base44-cli",
+    "name": "base44-cli",
+    "installs": 2692,
+    "owner": "base44",
+    "repo": "skills",
+    "githubUrl": "https://github.com/base44/skills",
+    "displayName": "Base44 Cli"
+  }
+}

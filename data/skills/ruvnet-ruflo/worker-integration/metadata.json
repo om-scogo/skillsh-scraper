@@ -1,0 +1,17 @@
+{
+  "skillId": "worker-integration",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "worker-integration",
+    "name": "worker-integration",
+    "installs": 980,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Worker Integration"
+  }
+}

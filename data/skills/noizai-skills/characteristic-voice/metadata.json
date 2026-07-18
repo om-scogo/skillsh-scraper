@@ -1,0 +1,17 @@
+{
+  "skillId": "characteristic-voice",
+  "source": "noizai/skills",
+  "owner": "noizai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "noizai/skills",
+    "skillId": "characteristic-voice",
+    "name": "characteristic-voice",
+    "installs": 2676,
+    "owner": "noizai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/noizai/skills",
+    "displayName": "Characteristic Voice"
+  }
+}

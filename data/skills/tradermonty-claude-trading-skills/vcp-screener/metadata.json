@@ -1,0 +1,17 @@
+{
+  "skillId": "vcp-screener",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "vcp-screener",
+    "name": "vcp-screener",
+    "installs": 861,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Vcp Screener"
+  }
+}

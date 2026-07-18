@@ -1,0 +1,17 @@
+{
+  "skillId": "managing-imposter-syndrome",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "managing-imposter-syndrome",
+    "name": "managing-imposter-syndrome",
+    "installs": 1533,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Managing Imposter Syndrome"
+  }
+}

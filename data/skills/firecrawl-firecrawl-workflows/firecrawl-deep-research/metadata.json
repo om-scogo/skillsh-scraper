@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-deep-research",
+  "source": "firecrawl/firecrawl-workflows",
+  "owner": "firecrawl",
+  "repo": "firecrawl-workflows",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/firecrawl-workflows",
+    "skillId": "firecrawl-deep-research",
+    "name": "firecrawl-deep-research",
+    "installs": 30401,
+    "owner": "firecrawl",
+    "repo": "firecrawl-workflows",
+    "githubUrl": "https://github.com/firecrawl/firecrawl-workflows",
+    "displayName": "Firecrawl Deep Research"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-train-centerpose",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-train-centerpose",
+    "name": "tao-train-centerpose",
+    "installs": 1278,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Train Centerpose"
+  }
+}

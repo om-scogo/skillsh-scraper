@@ -1,0 +1,17 @@
+{
+  "skillId": "security-compliance",
+  "source": "davila7/claude-code-templates",
+  "owner": "davila7",
+  "repo": "claude-code-templates",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "davila7/claude-code-templates",
+    "skillId": "security-compliance",
+    "name": "security-compliance",
+    "installs": 774,
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "githubUrl": "https://github.com/davila7/claude-code-templates",
+    "displayName": "Security Compliance"
+  }
+}

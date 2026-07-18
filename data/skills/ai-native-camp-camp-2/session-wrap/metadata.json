@@ -1,0 +1,17 @@
+{
+  "skillId": "session-wrap",
+  "source": "ai-native-camp/camp-2",
+  "owner": "ai-native-camp",
+  "repo": "camp-2",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ai-native-camp/camp-2",
+    "skillId": "session-wrap",
+    "name": "session-wrap",
+    "installs": 1237,
+    "owner": "ai-native-camp",
+    "repo": "camp-2",
+    "githubUrl": "https://github.com/ai-native-camp/camp-2",
+    "displayName": "Session Wrap"
+  }
+}

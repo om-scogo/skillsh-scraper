@@ -1,0 +1,17 @@
+{
+  "skillId": "web-search",
+  "source": "qu-skills/skills",
+  "owner": "qu-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qu-skills/skills",
+    "skillId": "web-search",
+    "name": "web-search",
+    "installs": 10,
+    "owner": "qu-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/qu-skills/skills",
+    "displayName": "Web Search"
+  }
+}

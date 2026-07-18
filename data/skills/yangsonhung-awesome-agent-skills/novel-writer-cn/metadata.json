@@ -1,0 +1,17 @@
+{
+  "skillId": "novel-writer-cn",
+  "source": "yangsonhung/awesome-agent-skills",
+  "owner": "yangsonhung",
+  "repo": "awesome-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yangsonhung/awesome-agent-skills",
+    "skillId": "novel-writer-cn",
+    "name": "novel-writer-cn",
+    "installs": 2070,
+    "owner": "yangsonhung",
+    "repo": "awesome-agent-skills",
+    "githubUrl": "https://github.com/yangsonhung/awesome-agent-skills",
+    "displayName": "Novel Writer Cn"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "bilibili-analyzer",
+  "source": "aidotnet/moyucode",
+  "owner": "aidotnet",
+  "repo": "moyucode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aidotnet/moyucode",
+    "skillId": "bilibili-analyzer",
+    "name": "bilibili-analyzer",
+    "installs": 1003,
+    "owner": "aidotnet",
+    "repo": "moyucode",
+    "githubUrl": "https://github.com/aidotnet/moyucode",
+    "displayName": "Bilibili Analyzer"
+  }
+}

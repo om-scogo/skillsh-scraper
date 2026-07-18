@@ -1,0 +1,17 @@
+{
+  "skillId": "compose-multiplatform-patterns",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "compose-multiplatform-patterns",
+    "name": "compose-multiplatform-patterns",
+    "installs": 4994,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Compose Multiplatform Patterns"
+  }
+}

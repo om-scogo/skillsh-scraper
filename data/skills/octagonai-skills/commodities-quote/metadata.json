@@ -1,0 +1,17 @@
+{
+  "skillId": "commodities-quote",
+  "source": "octagonai/skills",
+  "owner": "octagonai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "octagonai/skills",
+    "skillId": "commodities-quote",
+    "name": "commodities-quote",
+    "installs": 761,
+    "owner": "octagonai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/octagonai/skills",
+    "displayName": "Commodities Quote"
+  }
+}

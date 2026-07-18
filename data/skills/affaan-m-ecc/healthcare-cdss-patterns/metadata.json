@@ -1,0 +1,17 @@
+{
+  "skillId": "healthcare-cdss-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "healthcare-cdss-patterns",
+    "name": "healthcare-cdss-patterns",
+    "installs": 1097,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Healthcare Cdss Patterns"
+  }
+}

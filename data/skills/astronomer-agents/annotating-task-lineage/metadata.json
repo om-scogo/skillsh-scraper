@@ -1,0 +1,17 @@
+{
+  "skillId": "annotating-task-lineage",
+  "source": "astronomer/agents",
+  "owner": "astronomer",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astronomer/agents",
+    "skillId": "annotating-task-lineage",
+    "name": "annotating-task-lineage",
+    "installs": 792,
+    "owner": "astronomer",
+    "repo": "agents",
+    "githubUrl": "https://github.com/astronomer/agents",
+    "displayName": "Annotating Task Lineage"
+  }
+}

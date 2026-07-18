@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-scanner",
+  "source": "getsentry/skills",
+  "owner": "getsentry",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/skills",
+    "skillId": "skill-scanner",
+    "name": "skill-scanner",
+    "installs": 2082,
+    "owner": "getsentry",
+    "repo": "skills",
+    "githubUrl": "https://github.com/getsentry/skills",
+    "displayName": "Skill Scanner"
+  }
+}

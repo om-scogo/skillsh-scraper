@@ -1,0 +1,17 @@
+{
+  "skillId": "presentation-creator",
+  "source": "getsentry/skills",
+  "owner": "getsentry",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/skills",
+    "skillId": "presentation-creator",
+    "name": "presentation-creator",
+    "installs": 1631,
+    "owner": "getsentry",
+    "repo": "skills",
+    "githubUrl": "https://github.com/getsentry/skills",
+    "displayName": "Presentation Creator"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gen-specs-as-issues",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "gen-specs-as-issues",
+    "name": "gen-specs-as-issues",
+    "installs": 8654,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Gen Specs As Issues"
+  }
+}

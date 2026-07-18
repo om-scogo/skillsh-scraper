@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-dart-code-review",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "flutter-dart-code-review",
+    "name": "flutter-dart-code-review",
+    "installs": 4742,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Flutter Dart Code Review"
+  }
+}

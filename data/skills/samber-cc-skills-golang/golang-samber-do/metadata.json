@@ -1,0 +1,17 @@
+{
+  "skillId": "golang-samber-do",
+  "source": "samber/cc-skills-golang",
+  "owner": "samber",
+  "repo": "cc-skills-golang",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills-golang",
+    "skillId": "golang-samber-do",
+    "name": "golang-samber-do",
+    "installs": 32565,
+    "owner": "samber",
+    "repo": "cc-skills-golang",
+    "githubUrl": "https://github.com/samber/cc-skills-golang",
+    "displayName": "Golang Samber Do"
+  }
+}

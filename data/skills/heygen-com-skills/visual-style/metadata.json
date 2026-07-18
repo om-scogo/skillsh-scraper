@@ -1,0 +1,17 @@
+{
+  "skillId": "visual-style",
+  "source": "heygen-com/skills",
+  "owner": "heygen-com",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/skills",
+    "skillId": "visual-style",
+    "name": "visual-style",
+    "installs": 922,
+    "owner": "heygen-com",
+    "repo": "skills",
+    "githubUrl": "https://github.com/heygen-com/skills",
+    "displayName": "Visual Style"
+  }
+}

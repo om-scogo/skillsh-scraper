@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-opus-4-5-migration",
+  "source": "anthropics/claude-code",
+  "owner": "anthropics",
+  "repo": "claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/claude-code",
+    "skillId": "claude-opus-4-5-migration",
+    "name": "claude-opus-4-5-migration",
+    "installs": 8839,
+    "owner": "anthropics",
+    "repo": "claude-code",
+    "githubUrl": "https://github.com/anthropics/claude-code",
+    "displayName": "Claude Opus 4 5 Migration"
+  }
+}

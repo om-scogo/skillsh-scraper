@@ -1,0 +1,17 @@
+{
+  "skillId": "gke-app-onboarding",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "gke-app-onboarding",
+    "name": "gke-app-onboarding",
+    "installs": 930,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Gke App Onboarding"
+  }
+}

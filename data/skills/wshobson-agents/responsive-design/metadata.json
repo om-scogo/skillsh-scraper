@@ -1,0 +1,17 @@
+{
+  "skillId": "responsive-design",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "responsive-design",
+    "name": "responsive-design",
+    "installs": 14868,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Responsive Design"
+  }
+}

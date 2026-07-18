@@ -1,0 +1,17 @@
+{
+  "skillId": "wiki-stage-commit",
+  "source": "ar9av/obsidian-wiki",
+  "owner": "ar9av",
+  "repo": "obsidian-wiki",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ar9av/obsidian-wiki",
+    "skillId": "wiki-stage-commit",
+    "name": "wiki-stage-commit",
+    "installs": 1118,
+    "owner": "ar9av",
+    "repo": "obsidian-wiki",
+    "githubUrl": "https://github.com/ar9av/obsidian-wiki",
+    "displayName": "Wiki Stage Commit"
+  }
+}

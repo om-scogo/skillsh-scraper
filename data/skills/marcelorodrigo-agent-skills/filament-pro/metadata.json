@@ -1,0 +1,17 @@
+{
+  "skillId": "filament-pro",
+  "source": "marcelorodrigo/agent-skills",
+  "owner": "marcelorodrigo",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "marcelorodrigo/agent-skills",
+    "skillId": "filament-pro",
+    "name": "filament-pro",
+    "installs": 868,
+    "owner": "marcelorodrigo",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/marcelorodrigo/agent-skills",
+    "displayName": "Filament Pro"
+  }
+}

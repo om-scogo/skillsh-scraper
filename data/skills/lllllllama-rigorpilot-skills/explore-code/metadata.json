@@ -1,0 +1,17 @@
+{
+  "skillId": "explore-code",
+  "source": "lllllllama/rigorpilot-skills",
+  "owner": "lllllllama",
+  "repo": "rigorpilot-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lllllllama/rigorpilot-skills",
+    "skillId": "explore-code",
+    "name": "explore-code",
+    "installs": 136089,
+    "owner": "lllllllama",
+    "repo": "rigorpilot-skills",
+    "githubUrl": "https://github.com/lllllllama/rigorpilot-skills",
+    "displayName": "Explore Code"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "npm-security-best-practices",
+  "source": "aradotso/security-skills",
+  "owner": "aradotso",
+  "repo": "security-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/security-skills",
+    "skillId": "npm-security-best-practices",
+    "name": "npm-security-best-practices",
+    "installs": 777,
+    "owner": "aradotso",
+    "repo": "security-skills",
+    "githubUrl": "https://github.com/aradotso/security-skills",
+    "displayName": "Npm Security Best Practices"
+  }
+}

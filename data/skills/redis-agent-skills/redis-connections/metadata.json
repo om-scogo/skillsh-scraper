@@ -1,0 +1,17 @@
+{
+  "skillId": "redis-connections",
+  "source": "redis/agent-skills",
+  "owner": "redis",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "redis/agent-skills",
+    "skillId": "redis-connections",
+    "name": "redis-connections",
+    "installs": 893,
+    "owner": "redis",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/redis/agent-skills",
+    "displayName": "Redis Connections"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "automation-audit-ops",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "automation-audit-ops",
+    "name": "automation-audit-ops",
+    "installs": 3579,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Automation Audit Ops"
+  }
+}

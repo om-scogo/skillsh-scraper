@@ -1,0 +1,17 @@
+{
+  "skillId": "auth-implementation-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "auth-implementation-patterns",
+    "name": "auth-implementation-patterns",
+    "installs": 10352,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Auth Implementation Patterns"
+  }
+}

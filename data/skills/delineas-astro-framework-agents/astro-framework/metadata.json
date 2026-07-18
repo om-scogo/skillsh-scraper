@@ -1,0 +1,17 @@
+{
+  "skillId": "astro-framework",
+  "source": "delineas/astro-framework-agents",
+  "owner": "delineas",
+  "repo": "astro-framework-agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "delineas/astro-framework-agents",
+    "skillId": "astro-framework",
+    "name": "astro-framework",
+    "installs": 1697,
+    "owner": "delineas",
+    "repo": "astro-framework-agents",
+    "githubUrl": "https://github.com/delineas/astro-framework-agents",
+    "displayName": "Astro Framework"
+  }
+}

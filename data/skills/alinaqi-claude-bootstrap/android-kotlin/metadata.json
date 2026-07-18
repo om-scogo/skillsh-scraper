@@ -1,0 +1,17 @@
+{
+  "skillId": "android-kotlin",
+  "source": "alinaqi/claude-bootstrap",
+  "owner": "alinaqi",
+  "repo": "claude-bootstrap",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alinaqi/claude-bootstrap",
+    "skillId": "android-kotlin",
+    "name": "android-kotlin",
+    "installs": 2717,
+    "owner": "alinaqi",
+    "repo": "claude-bootstrap",
+    "githubUrl": "https://github.com/alinaqi/claude-bootstrap",
+    "displayName": "Android Kotlin"
+  }
+}

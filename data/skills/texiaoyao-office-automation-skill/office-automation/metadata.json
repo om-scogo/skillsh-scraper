@@ -1,0 +1,17 @@
+{
+  "skillId": "office-automation",
+  "source": "texiaoyao/office-automation-skill",
+  "owner": "texiaoyao",
+  "repo": "office-automation-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "texiaoyao/office-automation-skill",
+    "skillId": "office-automation",
+    "name": "office-automation",
+    "installs": 2953,
+    "owner": "texiaoyao",
+    "repo": "office-automation-skill",
+    "githubUrl": "https://github.com/texiaoyao/office-automation-skill",
+    "displayName": "Office Automation"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-supply-chain",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "agent-supply-chain",
+    "name": "agent-supply-chain",
+    "installs": 899,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Agent Supply Chain"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "fastify-best-practices",
+  "source": "mcollina/skills",
+  "owner": "mcollina",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mcollina/skills",
+    "skillId": "fastify-best-practices",
+    "name": "fastify-best-practices",
+    "installs": 25626,
+    "owner": "mcollina",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mcollina/skills",
+    "displayName": "Fastify Best Practices"
+  }
+}

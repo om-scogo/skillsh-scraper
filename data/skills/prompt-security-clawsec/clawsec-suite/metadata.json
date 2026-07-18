@@ -1,0 +1,17 @@
+{
+  "skillId": "clawsec-suite",
+  "source": "prompt-security/clawsec",
+  "owner": "prompt-security",
+  "repo": "clawsec",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "prompt-security/clawsec",
+    "skillId": "clawsec-suite",
+    "name": "clawsec-suite",
+    "installs": 748,
+    "owner": "prompt-security",
+    "repo": "clawsec",
+    "githubUrl": "https://github.com/prompt-security/clawsec",
+    "displayName": "Clawsec Suite"
+  }
+}

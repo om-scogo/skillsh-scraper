@@ -1,0 +1,17 @@
+{
+  "skillId": "adr-skill",
+  "source": "vercel/ai",
+  "owner": "vercel",
+  "repo": "ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/ai",
+    "skillId": "adr-skill",
+    "name": "adr-skill",
+    "installs": 1300,
+    "owner": "vercel",
+    "repo": "ai",
+    "githubUrl": "https://github.com/vercel/ai",
+    "displayName": "Adr Skill"
+  }
+}

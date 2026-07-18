@@ -1,0 +1,17 @@
+{
+  "skillId": "indexing",
+  "source": "kostja94/marketing-skills",
+  "owner": "kostja94",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kostja94/marketing-skills",
+    "skillId": "indexing",
+    "name": "indexing",
+    "installs": 861,
+    "owner": "kostja94",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/kostja94/marketing-skills",
+    "displayName": "Indexing"
+  }
+}

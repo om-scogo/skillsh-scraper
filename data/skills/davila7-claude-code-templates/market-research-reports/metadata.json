@@ -1,0 +1,17 @@
+{
+  "skillId": "market-research-reports",
+  "source": "davila7/claude-code-templates",
+  "owner": "davila7",
+  "repo": "claude-code-templates",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "davila7/claude-code-templates",
+    "skillId": "market-research-reports",
+    "name": "market-research-reports",
+    "installs": 1587,
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "githubUrl": "https://github.com/davila7/claude-code-templates",
+    "displayName": "Market Research Reports"
+  }
+}

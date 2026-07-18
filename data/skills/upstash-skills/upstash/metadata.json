@@ -1,0 +1,17 @@
+{
+  "skillId": "upstash",
+  "source": "upstash/skills",
+  "owner": "upstash",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "upstash/skills",
+    "skillId": "upstash",
+    "name": "upstash",
+    "installs": 912,
+    "owner": "upstash",
+    "repo": "skills",
+    "githubUrl": "https://github.com/upstash/skills",
+    "displayName": "Upstash"
+  }
+}

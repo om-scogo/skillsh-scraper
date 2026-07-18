@@ -1,0 +1,17 @@
+{
+  "skillId": "react-native-ease-refactor",
+  "source": "appandflow/react-native-ease",
+  "owner": "appandflow",
+  "repo": "react-native-ease",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "appandflow/react-native-ease",
+    "skillId": "react-native-ease-refactor",
+    "name": "react-native-ease-refactor",
+    "installs": 747,
+    "owner": "appandflow",
+    "repo": "react-native-ease",
+    "githubUrl": "https://github.com/appandflow/react-native-ease",
+    "displayName": "React Native Ease Refactor"
+  }
+}

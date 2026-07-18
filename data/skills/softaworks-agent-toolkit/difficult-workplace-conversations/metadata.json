@@ -1,0 +1,17 @@
+{
+  "skillId": "difficult-workplace-conversations",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "difficult-workplace-conversations",
+    "name": "difficult-workplace-conversations",
+    "installs": 3748,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Difficult Workplace Conversations"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "nemotron-policy-generator",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemotron-policy-generator",
+    "name": "nemotron-policy-generator",
+    "installs": 1442,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemotron Policy Generator"
+  }
+}

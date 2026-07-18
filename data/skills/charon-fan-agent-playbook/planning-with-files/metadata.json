@@ -1,0 +1,17 @@
+{
+  "skillId": "planning-with-files",
+  "source": "charon-fan/agent-playbook",
+  "owner": "charon-fan",
+  "repo": "agent-playbook",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "charon-fan/agent-playbook",
+    "skillId": "planning-with-files",
+    "name": "planning-with-files",
+    "installs": 1085,
+    "owner": "charon-fan",
+    "repo": "agent-playbook",
+    "githubUrl": "https://github.com/charon-fan/agent-playbook",
+    "displayName": "Planning With Files"
+  }
+}

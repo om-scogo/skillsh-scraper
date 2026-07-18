@@ -1,0 +1,17 @@
+{
+  "skillId": "make-repo-contribution",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "make-repo-contribution",
+    "name": "make-repo-contribution",
+    "installs": 10454,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Make Repo Contribution"
+  }
+}

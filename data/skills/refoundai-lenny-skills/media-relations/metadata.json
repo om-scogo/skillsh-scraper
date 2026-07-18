@@ -1,0 +1,17 @@
+{
+  "skillId": "media-relations",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "media-relations",
+    "name": "media-relations",
+    "installs": 1528,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Media Relations"
+  }
+}

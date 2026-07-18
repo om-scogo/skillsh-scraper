@@ -1,0 +1,17 @@
+{
+  "skillId": "ui",
+  "source": "tw93/waza",
+  "owner": "tw93",
+  "repo": "waza",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tw93/waza",
+    "skillId": "ui",
+    "name": "ui",
+    "installs": 1113,
+    "owner": "tw93",
+    "repo": "waza",
+    "githubUrl": "https://github.com/tw93/waza",
+    "displayName": "Ui"
+  }
+}

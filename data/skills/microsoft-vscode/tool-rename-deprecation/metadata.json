@@ -1,0 +1,17 @@
+{
+  "skillId": "tool-rename-deprecation",
+  "source": "microsoft/vscode",
+  "owner": "microsoft",
+  "repo": "vscode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/vscode",
+    "skillId": "tool-rename-deprecation",
+    "name": "tool-rename-deprecation",
+    "installs": 1860,
+    "owner": "microsoft",
+    "repo": "vscode",
+    "githubUrl": "https://github.com/microsoft/vscode",
+    "displayName": "Tool Rename Deprecation"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-elements",
+  "source": "vercel/ai-elements",
+  "owner": "vercel",
+  "repo": "ai-elements",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/ai-elements",
+    "skillId": "ai-elements",
+    "name": "ai-elements",
+    "installs": 13620,
+    "owner": "vercel",
+    "repo": "ai-elements",
+    "githubUrl": "https://github.com/vercel/ai-elements",
+    "displayName": "Ai Elements"
+  }
+}

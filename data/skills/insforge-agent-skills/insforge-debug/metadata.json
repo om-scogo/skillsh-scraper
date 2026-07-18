@@ -1,0 +1,17 @@
+{
+  "skillId": "insforge-debug",
+  "source": "insforge/agent-skills",
+  "owner": "insforge",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "insforge/agent-skills",
+    "skillId": "insforge-debug",
+    "name": "insforge-debug",
+    "installs": 16291,
+    "owner": "insforge",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/insforge/agent-skills",
+    "displayName": "Insforge Debug"
+  }
+}

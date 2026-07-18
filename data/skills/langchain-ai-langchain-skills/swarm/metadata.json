@@ -1,0 +1,17 @@
+{
+  "skillId": "swarm",
+  "source": "langchain-ai/langchain-skills",
+  "owner": "langchain-ai",
+  "repo": "langchain-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langchain-ai/langchain-skills",
+    "skillId": "swarm",
+    "name": "swarm",
+    "installs": 3311,
+    "owner": "langchain-ai",
+    "repo": "langchain-skills",
+    "githubUrl": "https://github.com/langchain-ai/langchain-skills",
+    "displayName": "Swarm"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "feature-forge",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "feature-forge",
+    "name": "feature-forge",
+    "installs": 2931,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Feature Forge"
+  }
+}

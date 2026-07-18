@@ -1,0 +1,17 @@
+{
+  "skillId": "active-directory-certificate-services",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "active-directory-certificate-services",
+    "name": "active-directory-certificate-services",
+    "installs": 1917,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Active Directory Certificate Services"
+  }
+}

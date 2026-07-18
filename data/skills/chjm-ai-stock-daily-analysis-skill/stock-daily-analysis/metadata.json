@@ -1,0 +1,17 @@
+{
+  "skillId": "stock-daily-analysis",
+  "source": "chjm-ai/stock-daily-analysis-skill",
+  "owner": "chjm-ai",
+  "repo": "stock-daily-analysis-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chjm-ai/stock-daily-analysis-skill",
+    "skillId": "stock-daily-analysis",
+    "name": "stock-daily-analysis",
+    "installs": 1287,
+    "owner": "chjm-ai",
+    "repo": "stock-daily-analysis-skill",
+    "githubUrl": "https://github.com/chjm-ai/stock-daily-analysis-skill",
+    "displayName": "Stock Daily Analysis"
+  }
+}

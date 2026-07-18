@@ -1,0 +1,17 @@
+{
+  "skillId": "insecure-source-code-management",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "insecure-source-code-management",
+    "name": "insecure-source-code-management",
+    "installs": 1944,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Insecure Source Code Management"
+  }
+}

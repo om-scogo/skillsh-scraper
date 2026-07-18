@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-scout",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "skill-scout",
+    "name": "skill-scout",
+    "installs": 1128,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Skill Scout"
+  }
+}

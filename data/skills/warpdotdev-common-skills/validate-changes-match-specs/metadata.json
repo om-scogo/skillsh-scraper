@@ -1,0 +1,17 @@
+{
+  "skillId": "validate-changes-match-specs",
+  "source": "warpdotdev/common-skills",
+  "owner": "warpdotdev",
+  "repo": "common-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "warpdotdev/common-skills",
+    "skillId": "validate-changes-match-specs",
+    "name": "validate-changes-match-specs",
+    "installs": 10012,
+    "owner": "warpdotdev",
+    "repo": "common-skills",
+    "githubUrl": "https://github.com/warpdotdev/common-skills",
+    "displayName": "Validate Changes Match Specs"
+  }
+}

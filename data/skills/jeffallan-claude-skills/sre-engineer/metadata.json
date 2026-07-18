@@ -1,0 +1,17 @@
+{
+  "skillId": "sre-engineer",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "sre-engineer",
+    "name": "sre-engineer",
+    "installs": 3377,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Sre Engineer"
+  }
+}

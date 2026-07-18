@@ -1,0 +1,17 @@
+{
+  "skillId": "baoyu-danger-gemini-web",
+  "source": "jimliu/baoyu-skills",
+  "owner": "jimliu",
+  "repo": "baoyu-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jimliu/baoyu-skills",
+    "skillId": "baoyu-danger-gemini-web",
+    "name": "baoyu-danger-gemini-web",
+    "installs": 25240,
+    "owner": "jimliu",
+    "repo": "baoyu-skills",
+    "githubUrl": "https://github.com/jimliu/baoyu-skills",
+    "displayName": "Baoyu Danger Gemini Web"
+  }
+}

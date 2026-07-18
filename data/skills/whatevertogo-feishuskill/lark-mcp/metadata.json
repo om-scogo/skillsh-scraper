@@ -1,0 +1,17 @@
+{
+  "skillId": "lark-mcp",
+  "source": "whatevertogo/feishuskill",
+  "owner": "whatevertogo",
+  "repo": "feishuskill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "whatevertogo/feishuskill",
+    "skillId": "lark-mcp",
+    "name": "lark-mcp",
+    "installs": 3093,
+    "owner": "whatevertogo",
+    "repo": "feishuskill",
+    "githubUrl": "https://github.com/whatevertogo/feishuskill",
+    "displayName": "Lark Mcp"
+  }
+}

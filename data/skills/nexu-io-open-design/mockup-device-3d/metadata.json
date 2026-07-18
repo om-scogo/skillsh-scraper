@@ -1,0 +1,17 @@
+{
+  "skillId": "mockup-device-3d",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "mockup-device-3d",
+    "name": "mockup-device-3d",
+    "installs": 1512,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Mockup Device 3d"
+  }
+}

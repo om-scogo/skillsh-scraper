@@ -1,0 +1,17 @@
+{
+  "skillId": "git-commit-pr",
+  "source": "zc277584121/mygitplugin",
+  "owner": "zc277584121",
+  "repo": "mygitplugin",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zc277584121/mygitplugin",
+    "skillId": "git-commit-pr",
+    "name": "git-commit-pr",
+    "installs": 1787,
+    "owner": "zc277584121",
+    "repo": "mygitplugin",
+    "githubUrl": "https://github.com/zc277584121/mygitplugin",
+    "displayName": "Git Commit Pr"
+  }
+}

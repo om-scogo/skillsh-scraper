@@ -1,0 +1,17 @@
+{
+  "skillId": "faster-whisper",
+  "source": "theplasmak/faster-whisper",
+  "owner": "theplasmak",
+  "repo": "faster-whisper",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "theplasmak/faster-whisper",
+    "skillId": "faster-whisper",
+    "name": "faster-whisper",
+    "installs": 1460,
+    "owner": "theplasmak",
+    "repo": "faster-whisper",
+    "githubUrl": "https://github.com/theplasmak/faster-whisper",
+    "displayName": "Faster Whisper"
+  }
+}

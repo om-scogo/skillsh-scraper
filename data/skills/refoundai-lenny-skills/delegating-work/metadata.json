@@ -1,0 +1,17 @@
+{
+  "skillId": "delegating-work",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "delegating-work",
+    "name": "delegating-work",
+    "installs": 1566,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Delegating Work"
+  }
+}

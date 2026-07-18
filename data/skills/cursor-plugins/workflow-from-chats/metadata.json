@@ -1,0 +1,17 @@
+{
+  "skillId": "workflow-from-chats",
+  "source": "cursor/plugins",
+  "owner": "cursor",
+  "repo": "plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cursor/plugins",
+    "skillId": "workflow-from-chats",
+    "name": "workflow-from-chats",
+    "installs": 798,
+    "owner": "cursor",
+    "repo": "plugins",
+    "githubUrl": "https://github.com/cursor/plugins",
+    "displayName": "Workflow From Chats"
+  }
+}

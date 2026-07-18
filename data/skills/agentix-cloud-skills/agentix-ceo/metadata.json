@@ -1,0 +1,17 @@
+{
+  "skillId": "agentix-ceo",
+  "source": "agentix-cloud/skills",
+  "owner": "agentix-cloud",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agentix-cloud/skills",
+    "skillId": "agentix-ceo",
+    "name": "agentix-ceo",
+    "installs": 44916,
+    "owner": "agentix-cloud",
+    "repo": "skills",
+    "githubUrl": "https://github.com/agentix-cloud/skills",
+    "displayName": "Agentix Ceo"
+  }
+}

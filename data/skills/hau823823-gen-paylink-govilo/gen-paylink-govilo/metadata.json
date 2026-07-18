@@ -1,0 +1,17 @@
+{
+  "skillId": "gen-paylink-govilo",
+  "source": "hau823823/gen-paylink-govilo",
+  "owner": "hau823823",
+  "repo": "gen-paylink-govilo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hau823823/gen-paylink-govilo",
+    "skillId": "gen-paylink-govilo",
+    "name": "gen-paylink-govilo",
+    "installs": 3018,
+    "owner": "hau823823",
+    "repo": "gen-paylink-govilo",
+    "githubUrl": "https://github.com/hau823823/gen-paylink-govilo",
+    "displayName": "Gen Paylink Govilo"
+  }
+}

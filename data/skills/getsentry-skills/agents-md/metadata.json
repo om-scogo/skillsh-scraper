@@ -1,0 +1,17 @@
+{
+  "skillId": "agents-md",
+  "source": "getsentry/skills",
+  "owner": "getsentry",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/skills",
+    "skillId": "agents-md",
+    "name": "agents-md",
+    "installs": 3861,
+    "owner": "getsentry",
+    "repo": "skills",
+    "githubUrl": "https://github.com/getsentry/skills",
+    "displayName": "Agents Md"
+  }
+}

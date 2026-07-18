@@ -1,0 +1,17 @@
+{
+  "skillId": "argent-vega",
+  "source": "software-mansion/argent",
+  "owner": "software-mansion",
+  "repo": "argent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "software-mansion/argent",
+    "skillId": "argent-vega",
+    "name": "argent-vega",
+    "installs": 760,
+    "owner": "software-mansion",
+    "repo": "argent",
+    "githubUrl": "https://github.com/software-mansion/argent",
+    "displayName": "Argent Vega"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "safe-action-client",
+  "source": "next-safe-action/skills",
+  "owner": "next-safe-action",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "next-safe-action/skills",
+    "skillId": "safe-action-client",
+    "name": "safe-action-client",
+    "installs": 962,
+    "owner": "next-safe-action",
+    "repo": "skills",
+    "githubUrl": "https://github.com/next-safe-action/skills",
+    "displayName": "Safe Action Client"
+  }
+}

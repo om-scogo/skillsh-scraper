@@ -1,0 +1,17 @@
+{
+  "skillId": "argent-create-flow",
+  "source": "software-mansion/argent",
+  "owner": "software-mansion",
+  "repo": "argent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "software-mansion/argent",
+    "skillId": "argent-create-flow",
+    "name": "argent-create-flow",
+    "installs": 6793,
+    "owner": "software-mansion",
+    "repo": "argent",
+    "githubUrl": "https://github.com/software-mansion/argent",
+    "displayName": "Argent Create Flow"
+  }
+}

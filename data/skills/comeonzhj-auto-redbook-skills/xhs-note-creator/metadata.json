@@ -1,0 +1,17 @@
+{
+  "skillId": "xhs-note-creator",
+  "source": "comeonzhj/auto-redbook-skills",
+  "owner": "comeonzhj",
+  "repo": "auto-redbook-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "comeonzhj/auto-redbook-skills",
+    "skillId": "xhs-note-creator",
+    "name": "xhs-note-creator",
+    "installs": 1047,
+    "owner": "comeonzhj",
+    "repo": "auto-redbook-skills",
+    "githubUrl": "https://github.com/comeonzhj/auto-redbook-skills",
+    "displayName": "Xhs Note Creator"
+  }
+}

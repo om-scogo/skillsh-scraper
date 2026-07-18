@@ -1,0 +1,17 @@
+{
+  "skillId": "hand-drawn-diagrams",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "hand-drawn-diagrams",
+    "name": "hand-drawn-diagrams",
+    "installs": 1620,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Hand Drawn Diagrams"
+  }
+}

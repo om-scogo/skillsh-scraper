@@ -1,0 +1,17 @@
+{
+  "skillId": "axiom-sre",
+  "source": "axiomhq/skills",
+  "owner": "axiomhq",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "axiomhq/skills",
+    "skillId": "axiom-sre",
+    "name": "axiom-sre",
+    "installs": 1767,
+    "owner": "axiomhq",
+    "repo": "skills",
+    "githubUrl": "https://github.com/axiomhq/skills",
+    "displayName": "Axiom Sre"
+  }
+}

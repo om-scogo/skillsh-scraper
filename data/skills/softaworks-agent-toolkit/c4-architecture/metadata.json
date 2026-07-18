@@ -1,0 +1,17 @@
+{
+  "skillId": "c4-architecture",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "c4-architecture",
+    "name": "c4-architecture",
+    "installs": 3896,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "C4 Architecture"
+  }
+}

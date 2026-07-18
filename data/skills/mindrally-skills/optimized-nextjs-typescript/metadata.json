@@ -1,0 +1,17 @@
+{
+  "skillId": "optimized-nextjs-typescript",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "optimized-nextjs-typescript",
+    "name": "optimized-nextjs-typescript",
+    "installs": 824,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Optimized Nextjs Typescript"
+  }
+}

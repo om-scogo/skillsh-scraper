@@ -1,0 +1,17 @@
+{
+  "skillId": "code-review",
+  "source": "llama-farm/llamafarm",
+  "owner": "llama-farm",
+  "repo": "llamafarm",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "llama-farm/llamafarm",
+    "skillId": "code-review",
+    "name": "code-review",
+    "installs": 1207,
+    "owner": "llama-farm",
+    "repo": "llamafarm",
+    "githubUrl": "https://github.com/llama-farm/llamafarm",
+    "displayName": "Code Review"
+  }
+}

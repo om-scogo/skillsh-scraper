@@ -1,0 +1,17 @@
+{
+  "skillId": "azure-cloud-migrate",
+  "source": "microsoft/azure-skills",
+  "owner": "microsoft",
+  "repo": "azure-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/azure-skills",
+    "skillId": "azure-cloud-migrate",
+    "name": "azure-cloud-migrate",
+    "installs": 388424,
+    "owner": "microsoft",
+    "repo": "azure-skills",
+    "githubUrl": "https://github.com/microsoft/azure-skills",
+    "displayName": "Azure Cloud Migrate"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "senior-data-scientist",
+  "source": "davila7/claude-code-templates",
+  "owner": "davila7",
+  "repo": "claude-code-templates",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "davila7/claude-code-templates",
+    "skillId": "senior-data-scientist",
+    "name": "senior-data-scientist",
+    "installs": 2898,
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "githubUrl": "https://github.com/davila7/claude-code-templates",
+    "displayName": "Senior Data Scientist"
+  }
+}

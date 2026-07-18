@@ -1,0 +1,17 @@
+{
+  "skillId": "cupynumeric-hdf5",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "cupynumeric-hdf5",
+    "name": "cupynumeric-hdf5",
+    "installs": 1549,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Cupynumeric Hdf5"
+  }
+}

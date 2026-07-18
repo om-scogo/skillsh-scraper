@@ -1,0 +1,17 @@
+{
+  "skillId": "write-coding-standards-from-file",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "write-coding-standards-from-file",
+    "name": "write-coding-standards-from-file",
+    "installs": 9363,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Write Coding Standards From File"
+  }
+}

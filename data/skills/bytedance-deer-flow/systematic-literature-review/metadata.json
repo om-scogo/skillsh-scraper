@@ -1,0 +1,17 @@
+{
+  "skillId": "systematic-literature-review",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "systematic-literature-review",
+    "name": "systematic-literature-review",
+    "installs": 1396,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Systematic Literature Review"
+  }
+}

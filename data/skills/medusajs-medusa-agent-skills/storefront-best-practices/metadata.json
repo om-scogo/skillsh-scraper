@@ -1,0 +1,17 @@
+{
+  "skillId": "storefront-best-practices",
+  "source": "medusajs/medusa-agent-skills",
+  "owner": "medusajs",
+  "repo": "medusa-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "medusajs/medusa-agent-skills",
+    "skillId": "storefront-best-practices",
+    "name": "storefront-best-practices",
+    "installs": 2840,
+    "owner": "medusajs",
+    "repo": "medusa-agent-skills",
+    "githubUrl": "https://github.com/medusajs/medusa-agent-skills",
+    "displayName": "Storefront Best Practices"
+  }
+}

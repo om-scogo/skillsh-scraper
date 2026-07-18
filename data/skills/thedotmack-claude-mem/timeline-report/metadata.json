@@ -1,0 +1,17 @@
+{
+  "skillId": "timeline-report",
+  "source": "thedotmack/claude-mem",
+  "owner": "thedotmack",
+  "repo": "claude-mem",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thedotmack/claude-mem",
+    "skillId": "timeline-report",
+    "name": "timeline-report",
+    "installs": 4661,
+    "owner": "thedotmack",
+    "repo": "claude-mem",
+    "githubUrl": "https://github.com/thedotmack/claude-mem",
+    "displayName": "Timeline Report"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "maishou",
+  "source": "aahl/skills",
+  "owner": "aahl",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aahl/skills",
+    "skillId": "maishou",
+    "name": "maishou",
+    "installs": 2864,
+    "owner": "aahl",
+    "repo": "skills",
+    "githubUrl": "https://github.com/aahl/skills",
+    "displayName": "Maishou"
+  }
+}

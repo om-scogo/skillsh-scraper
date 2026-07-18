@@ -1,0 +1,17 @@
+{
+  "skillId": "design-agent",
+  "source": "crewaiinc/skills",
+  "owner": "crewaiinc",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "crewaiinc/skills",
+    "skillId": "design-agent",
+    "name": "design-agent",
+    "installs": 4006,
+    "owner": "crewaiinc",
+    "repo": "skills",
+    "githubUrl": "https://github.com/crewaiinc/skills",
+    "displayName": "Design Agent"
+  }
+}

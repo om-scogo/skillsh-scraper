@@ -1,0 +1,17 @@
+{
+  "skillId": "pair-programming",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "pair-programming",
+    "name": "pair programming",
+    "installs": 986,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Pair Programming"
+  }
+}

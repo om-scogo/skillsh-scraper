@@ -1,0 +1,17 @@
+{
+  "skillId": "web-video-presentation",
+  "source": "conardli/garden-skills",
+  "owner": "conardli",
+  "repo": "garden-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "conardli/garden-skills",
+    "skillId": "web-video-presentation",
+    "name": "web-video-presentation",
+    "installs": 3015,
+    "owner": "conardli",
+    "repo": "garden-skills",
+    "githubUrl": "https://github.com/conardli/garden-skills",
+    "displayName": "Web Video Presentation"
+  }
+}

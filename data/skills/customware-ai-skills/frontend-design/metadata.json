@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-design",
+  "source": "customware-ai/skills",
+  "owner": "customware-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "customware-ai/skills",
+    "skillId": "frontend-design",
+    "name": "frontend-design",
+    "installs": 1293,
+    "owner": "customware-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/customware-ai/skills",
+    "displayName": "Frontend Design"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "prisma-orm-v7-skills",
+  "source": "gocallum/nextjs16-agent-skills",
+  "owner": "gocallum",
+  "repo": "nextjs16-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gocallum/nextjs16-agent-skills",
+    "skillId": "prisma-orm-v7-skills",
+    "name": "prisma-orm-v7-skills",
+    "installs": 947,
+    "owner": "gocallum",
+    "repo": "nextjs16-agent-skills",
+    "githubUrl": "https://github.com/gocallum/nextjs16-agent-skills",
+    "displayName": "Prisma Orm V7 Skills"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "blender-mcp",
+  "source": "vladmdgolam/agent-skills",
+  "owner": "vladmdgolam",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vladmdgolam/agent-skills",
+    "skillId": "blender-mcp",
+    "name": "blender-mcp",
+    "installs": 1352,
+    "owner": "vladmdgolam",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/vladmdgolam/agent-skills",
+    "displayName": "Blender Mcp"
+  }
+}

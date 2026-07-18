@@ -1,0 +1,17 @@
+{
+  "skillId": "omnistudio-integration-procedure-generate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "omnistudio-integration-procedure-generate",
+    "name": "omnistudio-integration-procedure-generate",
+    "installs": 1256,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Omnistudio Integration Procedure Generate"
+  }
+}

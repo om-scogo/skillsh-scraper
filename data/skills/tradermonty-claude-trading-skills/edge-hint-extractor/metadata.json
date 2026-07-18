@@ -1,0 +1,17 @@
+{
+  "skillId": "edge-hint-extractor",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "edge-hint-extractor",
+    "name": "edge-hint-extractor",
+    "installs": 746,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Edge Hint Extractor"
+  }
+}

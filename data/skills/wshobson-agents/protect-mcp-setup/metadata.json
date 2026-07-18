@@ -1,0 +1,17 @@
+{
+  "skillId": "protect-mcp-setup",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "protect-mcp-setup",
+    "name": "protect-mcp-setup",
+    "installs": 3406,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Protect Mcp Setup"
+  }
+}

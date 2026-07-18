@@ -1,0 +1,17 @@
+{
+  "skillId": "serenity-aleabitoreddit",
+  "source": "yan-labs/serenity-aleabitoreddit",
+  "owner": "yan-labs",
+  "repo": "serenity-aleabitoreddit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yan-labs/serenity-aleabitoreddit",
+    "skillId": "serenity-aleabitoreddit",
+    "name": "serenity-aleabitoreddit",
+    "installs": 1859,
+    "owner": "yan-labs",
+    "repo": "serenity-aleabitoreddit",
+    "githubUrl": "https://github.com/yan-labs/serenity-aleabitoreddit",
+    "displayName": "Serenity Aleabitoreddit"
+  }
+}

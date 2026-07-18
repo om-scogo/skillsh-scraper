@@ -1,0 +1,17 @@
+{
+  "skillId": "nanochat-llm-training",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "nanochat-llm-training",
+    "name": "nanochat-llm-training",
+    "installs": 1290,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Nanochat Llm Training"
+  }
+}

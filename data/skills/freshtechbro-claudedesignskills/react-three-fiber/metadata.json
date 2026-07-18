@@ -1,0 +1,17 @@
+{
+  "skillId": "react-three-fiber",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "react-three-fiber",
+    "name": "react-three-fiber",
+    "installs": 1649,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "React Three Fiber"
+  }
+}

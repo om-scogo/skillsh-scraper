@@ -1,0 +1,17 @@
+{
+  "skillId": "architecture-blueprint-generator",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "architecture-blueprint-generator",
+    "name": "architecture-blueprint-generator",
+    "installs": 11351,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Architecture Blueprint Generator"
+  }
+}

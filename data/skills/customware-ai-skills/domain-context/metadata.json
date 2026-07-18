@@ -1,0 +1,17 @@
+{
+  "skillId": "domain-context",
+  "source": "customware-ai/skills",
+  "owner": "customware-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "customware-ai/skills",
+    "skillId": "domain-context",
+    "name": "domain-context",
+    "installs": 1189,
+    "owner": "customware-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/customware-ai/skills",
+    "displayName": "Domain Context"
+  }
+}

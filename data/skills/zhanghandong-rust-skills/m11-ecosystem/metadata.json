@@ -1,0 +1,17 @@
+{
+  "skillId": "m11-ecosystem",
+  "source": "zhanghandong/rust-skills",
+  "owner": "zhanghandong",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zhanghandong/rust-skills",
+    "skillId": "m11-ecosystem",
+    "name": "m11-ecosystem",
+    "installs": 748,
+    "owner": "zhanghandong",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/zhanghandong/rust-skills",
+    "displayName": "M11 Ecosystem"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gitops-workflow",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "gitops-workflow",
+    "name": "gitops-workflow",
+    "installs": 8737,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Gitops Workflow"
+  }
+}

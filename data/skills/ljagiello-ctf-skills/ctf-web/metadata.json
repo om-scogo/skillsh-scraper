@@ -1,0 +1,17 @@
+{
+  "skillId": "ctf-web",
+  "source": "ljagiello/ctf-skills",
+  "owner": "ljagiello",
+  "repo": "ctf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ljagiello/ctf-skills",
+    "skillId": "ctf-web",
+    "name": "ctf-web",
+    "installs": 6101,
+    "owner": "ljagiello",
+    "repo": "ctf-skills",
+    "githubUrl": "https://github.com/ljagiello/ctf-skills",
+    "displayName": "Ctf Web"
+  }
+}

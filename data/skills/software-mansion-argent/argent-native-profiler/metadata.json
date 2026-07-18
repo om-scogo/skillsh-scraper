@@ -1,0 +1,17 @@
+{
+  "skillId": "argent-native-profiler",
+  "source": "software-mansion/argent",
+  "owner": "software-mansion",
+  "repo": "argent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "software-mansion/argent",
+    "skillId": "argent-native-profiler",
+    "name": "argent-native-profiler",
+    "installs": 6802,
+    "owner": "software-mansion",
+    "repo": "argent",
+    "githubUrl": "https://github.com/software-mansion/argent",
+    "displayName": "Argent Native Profiler"
+  }
+}

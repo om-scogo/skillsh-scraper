@@ -1,0 +1,17 @@
+{
+  "skillId": "domain-name-brainstormer",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "domain-name-brainstormer",
+    "name": "domain-name-brainstormer",
+    "installs": 3762,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Domain Name Brainstormer"
+  }
+}

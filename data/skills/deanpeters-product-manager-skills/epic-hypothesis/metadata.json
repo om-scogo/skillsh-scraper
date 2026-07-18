@@ -1,0 +1,17 @@
+{
+  "skillId": "epic-hypothesis",
+  "source": "deanpeters/product-manager-skills",
+  "owner": "deanpeters",
+  "repo": "product-manager-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "deanpeters/product-manager-skills",
+    "skillId": "epic-hypothesis",
+    "name": "epic-hypothesis",
+    "installs": 1578,
+    "owner": "deanpeters",
+    "repo": "product-manager-skills",
+    "githubUrl": "https://github.com/deanpeters/product-manager-skills",
+    "displayName": "Epic Hypothesis"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "write-tech-spec",
+  "source": "warpdotdev/common-skills",
+  "owner": "warpdotdev",
+  "repo": "common-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "warpdotdev/common-skills",
+    "skillId": "write-tech-spec",
+    "name": "write-tech-spec",
+    "installs": 13447,
+    "owner": "warpdotdev",
+    "repo": "common-skills",
+    "githubUrl": "https://github.com/warpdotdev/common-skills",
+    "displayName": "Write Tech Spec"
+  }
+}

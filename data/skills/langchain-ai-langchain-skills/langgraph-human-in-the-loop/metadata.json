@@ -1,0 +1,17 @@
+{
+  "skillId": "langgraph-human-in-the-loop",
+  "source": "langchain-ai/langchain-skills",
+  "owner": "langchain-ai",
+  "repo": "langchain-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langchain-ai/langchain-skills",
+    "skillId": "langgraph-human-in-the-loop",
+    "name": "langgraph-human-in-the-loop",
+    "installs": 10817,
+    "owner": "langchain-ai",
+    "repo": "langchain-skills",
+    "githubUrl": "https://github.com/langchain-ai/langchain-skills",
+    "displayName": "Langgraph Human In The Loop"
+  }
+}

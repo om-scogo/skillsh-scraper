@@ -1,0 +1,17 @@
+{
+  "skillId": "get-api-docs",
+  "source": "andrewyng/context-hub",
+  "owner": "andrewyng",
+  "repo": "context-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "andrewyng/context-hub",
+    "skillId": "get-api-docs",
+    "name": "get-api-docs",
+    "installs": 1096,
+    "owner": "andrewyng",
+    "repo": "context-hub",
+    "githubUrl": "https://github.com/andrewyng/context-hub",
+    "displayName": "Get Api Docs"
+  }
+}

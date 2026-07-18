@@ -1,0 +1,17 @@
+{
+  "skillId": "baoyu-compress-image",
+  "source": "jimliu/baoyu-skills",
+  "owner": "jimliu",
+  "repo": "baoyu-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jimliu/baoyu-skills",
+    "skillId": "baoyu-compress-image",
+    "name": "baoyu-compress-image",
+    "installs": 25334,
+    "owner": "jimliu",
+    "repo": "baoyu-skills",
+    "githubUrl": "https://github.com/jimliu/baoyu-skills",
+    "displayName": "Baoyu Compress Image"
+  }
+}

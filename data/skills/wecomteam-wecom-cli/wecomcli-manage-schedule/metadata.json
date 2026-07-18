@@ -1,0 +1,17 @@
+{
+  "skillId": "wecomcli-manage-schedule",
+  "source": "wecomteam/wecom-cli",
+  "owner": "wecomteam",
+  "repo": "wecom-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wecomteam/wecom-cli",
+    "skillId": "wecomcli-manage-schedule",
+    "name": "wecomcli-manage-schedule",
+    "installs": 2441,
+    "owner": "wecomteam",
+    "repo": "wecom-cli",
+    "githubUrl": "https://github.com/wecomteam/wecom-cli",
+    "displayName": "Wecomcli Manage Schedule"
+  }
+}

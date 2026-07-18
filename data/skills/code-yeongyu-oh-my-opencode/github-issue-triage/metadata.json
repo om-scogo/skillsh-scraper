@@ -1,0 +1,17 @@
+{
+  "skillId": "github-issue-triage",
+  "source": "code-yeongyu/oh-my-opencode",
+  "owner": "code-yeongyu",
+  "repo": "oh-my-opencode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "code-yeongyu/oh-my-opencode",
+    "skillId": "github-issue-triage",
+    "name": "github-issue-triage",
+    "installs": 1305,
+    "owner": "code-yeongyu",
+    "repo": "oh-my-opencode",
+    "githubUrl": "https://github.com/code-yeongyu/oh-my-opencode",
+    "displayName": "Github Issue Triage"
+  }
+}

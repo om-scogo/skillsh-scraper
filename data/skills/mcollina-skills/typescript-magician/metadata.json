@@ -1,0 +1,17 @@
+{
+  "skillId": "typescript-magician",
+  "source": "mcollina/skills",
+  "owner": "mcollina",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mcollina/skills",
+    "skillId": "typescript-magician",
+    "name": "typescript-magician",
+    "installs": 1863,
+    "owner": "mcollina",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mcollina/skills",
+    "displayName": "Typescript Magician"
+  }
+}

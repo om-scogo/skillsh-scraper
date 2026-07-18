@@ -1,0 +1,17 @@
+{
+  "skillId": "powerpoint-ppt",
+  "source": "practicalswan/agent-skills",
+  "owner": "practicalswan",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "practicalswan/agent-skills",
+    "skillId": "powerpoint-ppt",
+    "name": "powerpoint-ppt",
+    "installs": 1140,
+    "owner": "practicalswan",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/practicalswan/agent-skills",
+    "displayName": "Powerpoint Ppt"
+  }
+}

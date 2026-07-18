@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-calendar",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "gws-calendar",
+    "name": "gws-calendar",
+    "installs": 45487,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Gws Calendar"
+  }
+}

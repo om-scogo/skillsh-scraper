@@ -1,0 +1,17 @@
+{
+  "skillId": "playwright-dev",
+  "source": "microsoft/playwright",
+  "owner": "microsoft",
+  "repo": "playwright",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/playwright",
+    "skillId": "playwright-dev",
+    "name": "playwright-dev",
+    "installs": 2618,
+    "owner": "microsoft",
+    "repo": "playwright",
+    "githubUrl": "https://github.com/microsoft/playwright",
+    "displayName": "Playwright Dev"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "speech-to-text",
+  "source": "elevenlabs/skills",
+  "owner": "elevenlabs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elevenlabs/skills",
+    "skillId": "speech-to-text",
+    "name": "speech-to-text",
+    "installs": 5741,
+    "owner": "elevenlabs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/elevenlabs/skills",
+    "displayName": "Speech To Text"
+  }
+}

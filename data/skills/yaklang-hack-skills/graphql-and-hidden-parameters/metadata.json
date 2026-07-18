@@ -1,0 +1,17 @@
+{
+  "skillId": "graphql-and-hidden-parameters",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "graphql-and-hidden-parameters",
+    "name": "graphql-and-hidden-parameters",
+    "installs": 1958,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Graphql And Hidden Parameters"
+  }
+}

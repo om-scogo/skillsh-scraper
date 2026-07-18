@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-convert-dataset-format",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-convert-dataset-format",
+    "name": "tao-convert-dataset-format",
+    "installs": 1289,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Convert Dataset Format"
+  }
+}

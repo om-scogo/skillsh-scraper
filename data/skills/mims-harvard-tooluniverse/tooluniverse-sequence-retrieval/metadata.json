@@ -1,0 +1,17 @@
+{
+  "skillId": "tooluniverse-sequence-retrieval",
+  "source": "mims-harvard/tooluniverse",
+  "owner": "mims-harvard",
+  "repo": "tooluniverse",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mims-harvard/tooluniverse",
+    "skillId": "tooluniverse-sequence-retrieval",
+    "name": "tooluniverse-sequence-retrieval",
+    "installs": 1525,
+    "owner": "mims-harvard",
+    "repo": "tooluniverse",
+    "githubUrl": "https://github.com/mims-harvard/tooluniverse",
+    "displayName": "Tooluniverse Sequence Retrieval"
+  }
+}

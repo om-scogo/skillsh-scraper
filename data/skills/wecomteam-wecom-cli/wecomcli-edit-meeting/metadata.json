@@ -1,0 +1,17 @@
+{
+  "skillId": "wecomcli-edit-meeting",
+  "source": "wecomteam/wecom-cli",
+  "owner": "wecomteam",
+  "repo": "wecom-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wecomteam/wecom-cli",
+    "skillId": "wecomcli-edit-meeting",
+    "name": "wecomcli-edit-meeting",
+    "installs": 2446,
+    "owner": "wecomteam",
+    "repo": "wecom-cli",
+    "githubUrl": "https://github.com/wecomteam/wecom-cli",
+    "displayName": "Wecomcli Edit Meeting"
+  }
+}

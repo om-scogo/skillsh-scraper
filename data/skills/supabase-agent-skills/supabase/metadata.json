@@ -1,0 +1,17 @@
+{
+  "skillId": "supabase",
+  "source": "supabase/agent-skills",
+  "owner": "supabase",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "supabase/agent-skills",
+    "skillId": "supabase",
+    "name": "supabase",
+    "installs": 169681,
+    "owner": "supabase",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/supabase/agent-skills",
+    "displayName": "Supabase"
+  }
+}

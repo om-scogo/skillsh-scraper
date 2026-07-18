@@ -1,0 +1,17 @@
+{
+  "skillId": "uplifting-components-to-slds2",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "uplifting-components-to-slds2",
+    "name": "uplifting-components-to-slds2",
+    "installs": 2152,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Uplifting Components To Slds2"
+  }
+}

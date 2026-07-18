@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-writer",
+  "source": "pytorch/pytorch",
+  "owner": "pytorch",
+  "repo": "pytorch",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pytorch/pytorch",
+    "skillId": "skill-writer",
+    "name": "skill-writer",
+    "installs": 2297,
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "githubUrl": "https://github.com/pytorch/pytorch",
+    "displayName": "Skill Writer"
+  }
+}

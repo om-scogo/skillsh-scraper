@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-settings-audit",
+  "source": "getsentry/skills",
+  "owner": "getsentry",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/skills",
+    "skillId": "claude-settings-audit",
+    "name": "claude-settings-audit",
+    "installs": 3120,
+    "owner": "getsentry",
+    "repo": "skills",
+    "githubUrl": "https://github.com/getsentry/skills",
+    "displayName": "Claude Settings Audit"
+  }
+}

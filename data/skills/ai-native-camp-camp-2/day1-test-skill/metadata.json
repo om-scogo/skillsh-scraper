@@ -1,0 +1,17 @@
+{
+  "skillId": "day1-test-skill",
+  "source": "ai-native-camp/camp-2",
+  "owner": "ai-native-camp",
+  "repo": "camp-2",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ai-native-camp/camp-2",
+    "skillId": "day1-test-skill",
+    "name": "day1-test-skill",
+    "installs": 1381,
+    "owner": "ai-native-camp",
+    "repo": "camp-2",
+    "githubUrl": "https://github.com/ai-native-camp/camp-2",
+    "displayName": "Day1 Test Skill"
+  }
+}

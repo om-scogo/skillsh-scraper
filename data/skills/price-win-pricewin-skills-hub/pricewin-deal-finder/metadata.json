@@ -1,0 +1,17 @@
+{
+  "skillId": "pricewin-deal-finder",
+  "source": "price-win/pricewin-skills-hub",
+  "owner": "price-win",
+  "repo": "pricewin-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "price-win/pricewin-skills-hub",
+    "skillId": "pricewin-deal-finder",
+    "name": "pricewin-deal-finder",
+    "installs": 6875,
+    "owner": "price-win",
+    "repo": "pricewin-skills-hub",
+    "githubUrl": "https://github.com/price-win/pricewin-skills-hub",
+    "displayName": "Pricewin Deal Finder"
+  }
+}

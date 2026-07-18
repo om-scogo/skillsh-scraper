@@ -1,0 +1,17 @@
+{
+  "skillId": "safe-action-validation-errors",
+  "source": "next-safe-action/skills",
+  "owner": "next-safe-action",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "next-safe-action/skills",
+    "skillId": "safe-action-validation-errors",
+    "name": "safe-action-validation-errors",
+    "installs": 951,
+    "owner": "next-safe-action",
+    "repo": "skills",
+    "githubUrl": "https://github.com/next-safe-action/skills",
+    "displayName": "Safe Action Validation Errors"
+  }
+}

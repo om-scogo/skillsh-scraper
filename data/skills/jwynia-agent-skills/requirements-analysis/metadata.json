@@ -1,0 +1,17 @@
+{
+  "skillId": "requirements-analysis",
+  "source": "jwynia/agent-skills",
+  "owner": "jwynia",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jwynia/agent-skills",
+    "skillId": "requirements-analysis",
+    "name": "requirements-analysis",
+    "installs": 2164,
+    "owner": "jwynia",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/jwynia/agent-skills",
+    "displayName": "Requirements Analysis"
+  }
+}

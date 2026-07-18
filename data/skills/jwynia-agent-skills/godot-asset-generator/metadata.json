@@ -1,0 +1,17 @@
+{
+  "skillId": "godot-asset-generator",
+  "source": "jwynia/agent-skills",
+  "owner": "jwynia",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jwynia/agent-skills",
+    "skillId": "godot-asset-generator",
+    "name": "godot-asset-generator",
+    "installs": 869,
+    "owner": "jwynia",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/jwynia/agent-skills",
+    "displayName": "Godot Asset Generator"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "resume-tailor",
+  "source": "paramchoudhary/resumeskills",
+  "owner": "paramchoudhary",
+  "repo": "resumeskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paramchoudhary/resumeskills",
+    "skillId": "resume-tailor",
+    "name": "resume tailor",
+    "installs": 1898,
+    "owner": "paramchoudhary",
+    "repo": "resumeskills",
+    "githubUrl": "https://github.com/paramchoudhary/resumeskills",
+    "displayName": "Resume Tailor"
+  }
+}

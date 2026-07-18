@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-architecture",
+  "source": "madteacher/mad-agents-skills",
+  "owner": "madteacher",
+  "repo": "mad-agents-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "madteacher/mad-agents-skills",
+    "skillId": "flutter-architecture",
+    "name": "flutter-architecture",
+    "installs": 1596,
+    "owner": "madteacher",
+    "repo": "mad-agents-skills",
+    "githubUrl": "https://github.com/madteacher/mad-agents-skills",
+    "displayName": "Flutter Architecture"
+  }
+}

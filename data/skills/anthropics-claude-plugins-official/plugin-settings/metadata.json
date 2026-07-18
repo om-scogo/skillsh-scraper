@@ -1,0 +1,17 @@
+{
+  "skillId": "plugin-settings",
+  "source": "anthropics/claude-plugins-official",
+  "owner": "anthropics",
+  "repo": "claude-plugins-official",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/claude-plugins-official",
+    "skillId": "plugin-settings",
+    "name": "plugin-settings",
+    "installs": 3869,
+    "owner": "anthropics",
+    "repo": "claude-plugins-official",
+    "githubUrl": "https://github.com/anthropics/claude-plugins-official",
+    "displayName": "Plugin Settings"
+  }
+}

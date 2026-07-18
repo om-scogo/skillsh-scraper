@@ -1,0 +1,17 @@
+{
+  "skillId": "superwall",
+  "source": "superwall/skills",
+  "owner": "superwall",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "superwall/skills",
+    "skillId": "superwall",
+    "name": "superwall",
+    "installs": 2234,
+    "owner": "superwall",
+    "repo": "skills",
+    "githubUrl": "https://github.com/superwall/skills",
+    "displayName": "Superwall"
+  }
+}

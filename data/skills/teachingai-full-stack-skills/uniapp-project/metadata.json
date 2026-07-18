@@ -1,0 +1,17 @@
+{
+  "skillId": "uniapp-project",
+  "source": "teachingai/full-stack-skills",
+  "owner": "teachingai",
+  "repo": "full-stack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "teachingai/full-stack-skills",
+    "skillId": "uniapp-project",
+    "name": "uniapp-project",
+    "installs": 864,
+    "owner": "teachingai",
+    "repo": "full-stack-skills",
+    "githubUrl": "https://github.com/teachingai/full-stack-skills",
+    "displayName": "Uniapp Project"
+  }
+}

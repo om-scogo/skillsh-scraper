@@ -1,0 +1,17 @@
+{
+  "skillId": "cmux-shared-behavior",
+  "source": "manaflow-ai/cmux",
+  "owner": "manaflow-ai",
+  "repo": "cmux",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "manaflow-ai/cmux",
+    "skillId": "cmux-shared-behavior",
+    "name": "cmux-shared-behavior",
+    "installs": 1605,
+    "owner": "manaflow-ai",
+    "repo": "cmux",
+    "githubUrl": "https://github.com/manaflow-ai/cmux",
+    "displayName": "Cmux Shared Behavior"
+  }
+}

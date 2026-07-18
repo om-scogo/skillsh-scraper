@@ -1,0 +1,17 @@
+{
+  "skillId": "agentic-os",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "agentic-os",
+    "name": "agentic-os",
+    "installs": 1126,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Agentic Os"
+  }
+}

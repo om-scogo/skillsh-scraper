@@ -1,0 +1,17 @@
+{
+  "skillId": "deep-learning-pytorch",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "deep-learning-pytorch",
+    "name": "deep-learning-pytorch",
+    "installs": 1419,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Deep Learning Pytorch"
+  }
+}

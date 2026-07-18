@@ -1,0 +1,17 @@
+{
+  "skillId": "migrate-ai-sdk-v6-to-v7",
+  "source": "vercel/ai",
+  "owner": "vercel",
+  "repo": "ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/ai",
+    "skillId": "migrate-ai-sdk-v6-to-v7",
+    "name": "migrate-ai-sdk-v6-to-v7",
+    "installs": 1680,
+    "owner": "vercel",
+    "repo": "ai",
+    "githubUrl": "https://github.com/vercel/ai",
+    "displayName": "Migrate Ai Sdk V6 To V7"
+  }
+}

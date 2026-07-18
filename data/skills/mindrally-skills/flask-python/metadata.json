@@ -1,0 +1,17 @@
+{
+  "skillId": "flask-python",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "flask-python",
+    "name": "flask-python",
+    "installs": 888,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Flask Python"
+  }
+}

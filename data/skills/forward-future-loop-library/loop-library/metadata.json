@@ -1,0 +1,17 @@
+{
+  "skillId": "loop-library",
+  "source": "forward-future/loop-library",
+  "owner": "forward-future",
+  "repo": "loop-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forward-future/loop-library",
+    "skillId": "loop-library",
+    "name": "loop-library",
+    "installs": 1713,
+    "owner": "forward-future",
+    "repo": "loop-library",
+    "githubUrl": "https://github.com/forward-future/loop-library",
+    "displayName": "Loop Library"
+  }
+}

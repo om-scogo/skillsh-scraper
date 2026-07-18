@@ -1,0 +1,17 @@
+{
+  "skillId": "10x-cli-setup",
+  "source": "przeprogramowani/10x-cli",
+  "owner": "przeprogramowani",
+  "repo": "10x-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "przeprogramowani/10x-cli",
+    "skillId": "10x-cli-setup",
+    "name": "10x-cli-setup",
+    "installs": 1992,
+    "owner": "przeprogramowani",
+    "repo": "10x-cli",
+    "githubUrl": "https://github.com/przeprogramowani/10x-cli",
+    "displayName": "10x Cli Setup"
+  }
+}

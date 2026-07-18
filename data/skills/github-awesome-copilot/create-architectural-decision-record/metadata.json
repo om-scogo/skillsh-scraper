@@ -1,0 +1,17 @@
+{
+  "skillId": "create-architectural-decision-record",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "create-architectural-decision-record",
+    "name": "create-architectural-decision-record",
+    "installs": 9562,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Create Architectural Decision Record"
+  }
+}

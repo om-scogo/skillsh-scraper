@@ -1,0 +1,17 @@
+{
+  "skillId": "ab-test-setup",
+  "source": "coreyhaines31/marketingskills",
+  "owner": "coreyhaines31",
+  "repo": "marketingskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coreyhaines31/marketingskills",
+    "skillId": "ab-test-setup",
+    "name": "ab-test-setup",
+    "installs": 52521,
+    "owner": "coreyhaines31",
+    "repo": "marketingskills",
+    "githubUrl": "https://github.com/coreyhaines31/marketingskills",
+    "displayName": "Ab Test Setup"
+  }
+}

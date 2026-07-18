@@ -1,0 +1,17 @@
+{
+  "skillId": "opentui",
+  "source": "anomalyco/opentui",
+  "owner": "anomalyco",
+  "repo": "opentui",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anomalyco/opentui",
+    "skillId": "opentui",
+    "name": "opentui",
+    "installs": 1901,
+    "owner": "anomalyco",
+    "repo": "opentui",
+    "githubUrl": "https://github.com/anomalyco/opentui",
+    "displayName": "Opentui"
+  }
+}

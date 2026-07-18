@@ -1,0 +1,17 @@
+{
+  "skillId": "plan-design-review",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "plan-design-review",
+    "name": "plan-design-review",
+    "installs": 1618,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Plan Design Review"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "paper-writing",
+  "source": "vishalsachdev/claude-code-skills",
+  "owner": "vishalsachdev",
+  "repo": "claude-code-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vishalsachdev/claude-code-skills",
+    "skillId": "paper-writing",
+    "name": "paper-writing",
+    "installs": 1187,
+    "owner": "vishalsachdev",
+    "repo": "claude-code-skills",
+    "githubUrl": "https://github.com/vishalsachdev/claude-code-skills",
+    "displayName": "Paper Writing"
+  }
+}

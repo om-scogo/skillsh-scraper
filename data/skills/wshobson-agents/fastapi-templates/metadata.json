@@ -1,0 +1,17 @@
+{
+  "skillId": "fastapi-templates",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "fastapi-templates",
+    "name": "fastapi-templates",
+    "installs": 21406,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Fastapi Templates"
+  }
+}

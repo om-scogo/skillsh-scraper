@@ -1,0 +1,17 @@
+{
+  "skillId": "qodo-pr-resolver",
+  "source": "qodo-ai/qodo-skills",
+  "owner": "qodo-ai",
+  "repo": "qodo-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qodo-ai/qodo-skills",
+    "skillId": "qodo-pr-resolver",
+    "name": "qodo-pr-resolver",
+    "installs": 2219,
+    "owner": "qodo-ai",
+    "repo": "qodo-skills",
+    "githubUrl": "https://github.com/qodo-ai/qodo-skills",
+    "displayName": "Qodo Pr Resolver"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "talking-head-recut",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "talking-head-recut",
+    "name": "talking-head-recut",
+    "installs": 70424,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Talking Head Recut"
+  }
+}

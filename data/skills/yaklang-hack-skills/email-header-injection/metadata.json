@@ -1,0 +1,17 @@
+{
+  "skillId": "email-header-injection",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "email-header-injection",
+    "name": "email-header-injection",
+    "installs": 1903,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Email Header Injection"
+  }
+}

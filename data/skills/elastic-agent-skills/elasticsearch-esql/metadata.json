@@ -1,0 +1,17 @@
+{
+  "skillId": "elasticsearch-esql",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "elasticsearch-esql",
+    "name": "elasticsearch-esql",
+    "installs": 2430,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Elasticsearch Esql"
+  }
+}

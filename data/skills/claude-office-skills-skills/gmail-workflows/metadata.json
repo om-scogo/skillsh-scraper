@@ -1,0 +1,17 @@
+{
+  "skillId": "gmail-workflows",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "gmail-workflows",
+    "name": "gmail-workflows",
+    "installs": 3742,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Gmail Workflows"
+  }
+}

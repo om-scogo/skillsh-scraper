@@ -1,0 +1,17 @@
+{
+  "skillId": "social",
+  "source": "coreyhaines31/marketingskills",
+  "owner": "coreyhaines31",
+  "repo": "marketingskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coreyhaines31/marketingskills",
+    "skillId": "social",
+    "name": "social",
+    "installs": 36284,
+    "owner": "coreyhaines31",
+    "repo": "marketingskills",
+    "githubUrl": "https://github.com/coreyhaines31/marketingskills",
+    "displayName": "Social"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-demo",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "ui-demo",
+    "name": "ui-demo",
+    "installs": 1150,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Ui Demo"
+  }
+}

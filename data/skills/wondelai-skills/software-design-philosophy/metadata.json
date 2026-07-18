@@ -1,0 +1,17 @@
+{
+  "skillId": "software-design-philosophy",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "software-design-philosophy",
+    "name": "software-design-philosophy",
+    "installs": 3468,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Software Design Philosophy"
+  }
+}

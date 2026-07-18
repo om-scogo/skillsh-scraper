@@ -1,0 +1,17 @@
+{
+  "skillId": "allium",
+  "source": "juxt/allium",
+  "owner": "juxt",
+  "repo": "allium",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juxt/allium",
+    "skillId": "allium",
+    "name": "allium",
+    "installs": 2676,
+    "owner": "juxt",
+    "repo": "allium",
+    "githubUrl": "https://github.com/juxt/allium",
+    "displayName": "Allium"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "composio",
+  "source": "composiohq/skills",
+  "owner": "composiohq",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "composiohq/skills",
+    "skillId": "composio",
+    "name": "composio",
+    "installs": 5318,
+    "owner": "composiohq",
+    "repo": "skills",
+    "githubUrl": "https://github.com/composiohq/skills",
+    "displayName": "Composio"
+  }
+}

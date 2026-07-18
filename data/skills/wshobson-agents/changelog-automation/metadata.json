@@ -1,0 +1,17 @@
+{
+  "skillId": "changelog-automation",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "changelog-automation",
+    "name": "changelog-automation",
+    "installs": 10565,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Changelog Automation"
+  }
+}

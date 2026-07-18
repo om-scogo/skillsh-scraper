@@ -1,0 +1,17 @@
+{
+  "skillId": "bailian-cli",
+  "source": "modelstudioai/skills",
+  "owner": "modelstudioai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "modelstudioai/skills",
+    "skillId": "bailian-cli",
+    "name": "bailian-cli",
+    "installs": 1247,
+    "owner": "modelstudioai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/modelstudioai/skills",
+    "displayName": "Bailian Cli"
+  }
+}

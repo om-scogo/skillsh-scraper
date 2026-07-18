@@ -1,0 +1,17 @@
+{
+  "skillId": "minimax-pdf",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "minimax-pdf",
+    "name": "minimax-pdf",
+    "installs": 1606,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Minimax Pdf"
+  }
+}

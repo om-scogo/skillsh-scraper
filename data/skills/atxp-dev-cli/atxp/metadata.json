@@ -1,0 +1,17 @@
+{
+  "skillId": "atxp",
+  "source": "atxp-dev/cli",
+  "owner": "atxp-dev",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "atxp-dev/cli",
+    "skillId": "atxp",
+    "name": "atxp",
+    "installs": 1683,
+    "owner": "atxp-dev",
+    "repo": "cli",
+    "githubUrl": "https://github.com/atxp-dev/cli",
+    "displayName": "Atxp"
+  }
+}

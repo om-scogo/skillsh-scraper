@@ -1,0 +1,17 @@
+{
+  "skillId": "linkedin-ghostwriting",
+  "source": "samber/cc-skills",
+  "owner": "samber",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills",
+    "skillId": "linkedin-ghostwriting",
+    "name": "linkedin-ghostwriting",
+    "installs": 2032,
+    "owner": "samber",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/samber/cc-skills",
+    "displayName": "Linkedin Ghostwriting"
+  }
+}

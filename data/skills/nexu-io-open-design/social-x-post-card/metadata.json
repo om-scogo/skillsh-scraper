@@ -1,0 +1,17 @@
+{
+  "skillId": "social-x-post-card",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "social-x-post-card",
+    "name": "social-x-post-card",
+    "installs": 1445,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Social X Post Card"
+  }
+}

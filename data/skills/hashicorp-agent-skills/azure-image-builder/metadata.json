@@ -1,0 +1,17 @@
+{
+  "skillId": "azure-image-builder",
+  "source": "hashicorp/agent-skills",
+  "owner": "hashicorp",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hashicorp/agent-skills",
+    "skillId": "azure-image-builder",
+    "name": "azure-image-builder",
+    "installs": 1621,
+    "owner": "hashicorp",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/hashicorp/agent-skills",
+    "displayName": "Azure Image Builder"
+  }
+}

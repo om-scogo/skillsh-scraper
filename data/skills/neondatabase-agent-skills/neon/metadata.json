@@ -1,0 +1,17 @@
+{
+  "skillId": "neon",
+  "source": "neondatabase/agent-skills",
+  "owner": "neondatabase",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "neondatabase/agent-skills",
+    "skillId": "neon",
+    "name": "neon",
+    "installs": 7555,
+    "owner": "neondatabase",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/neondatabase/agent-skills",
+    "displayName": "Neon"
+  }
+}

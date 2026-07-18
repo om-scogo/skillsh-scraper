@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-create-events-from-sheet",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-create-events-from-sheet",
+    "name": "recipe-create-events-from-sheet",
+    "installs": 22158,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Create Events From Sheet"
+  }
+}

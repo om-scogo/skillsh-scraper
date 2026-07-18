@@ -1,0 +1,17 @@
+{
+  "skillId": "cmake",
+  "source": "mohitmishra786/low-level-dev-skills",
+  "owner": "mohitmishra786",
+  "repo": "low-level-dev-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mohitmishra786/low-level-dev-skills",
+    "skillId": "cmake",
+    "name": "cmake",
+    "installs": 1079,
+    "owner": "mohitmishra786",
+    "repo": "low-level-dev-skills",
+    "githubUrl": "https://github.com/mohitmishra786/low-level-dev-skills",
+    "displayName": "Cmake"
+  }
+}

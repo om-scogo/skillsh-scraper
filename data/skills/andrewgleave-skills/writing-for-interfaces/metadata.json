@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-for-interfaces",
+  "source": "andrewgleave/skills",
+  "owner": "andrewgleave",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "andrewgleave/skills",
+    "skillId": "writing-for-interfaces",
+    "name": "writing-for-interfaces",
+    "installs": 742,
+    "owner": "andrewgleave",
+    "repo": "skills",
+    "githubUrl": "https://github.com/andrewgleave/skills",
+    "displayName": "Writing For Interfaces"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "x-twitter-scraper",
+  "source": "xquik-dev/x-twitter-scraper",
+  "owner": "xquik-dev",
+  "repo": "x-twitter-scraper",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "xquik-dev/x-twitter-scraper",
+    "skillId": "x-twitter-scraper",
+    "name": "x-twitter-scraper",
+    "installs": 907,
+    "owner": "xquik-dev",
+    "repo": "x-twitter-scraper",
+    "githubUrl": "https://github.com/xquik-dev/x-twitter-scraper",
+    "displayName": "X Twitter Scraper"
+  }
+}

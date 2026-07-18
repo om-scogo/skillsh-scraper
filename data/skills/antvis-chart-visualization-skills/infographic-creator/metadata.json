@@ -1,0 +1,17 @@
+{
+  "skillId": "infographic-creator",
+  "source": "antvis/chart-visualization-skills",
+  "owner": "antvis",
+  "repo": "chart-visualization-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antvis/chart-visualization-skills",
+    "skillId": "infographic-creator",
+    "name": "infographic-creator",
+    "installs": 1776,
+    "owner": "antvis",
+    "repo": "chart-visualization-skills",
+    "githubUrl": "https://github.com/antvis/chart-visualization-skills",
+    "displayName": "Infographic Creator"
+  }
+}

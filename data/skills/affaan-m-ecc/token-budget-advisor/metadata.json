@@ -1,0 +1,17 @@
+{
+  "skillId": "token-budget-advisor",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "token-budget-advisor",
+    "name": "token-budget-advisor",
+    "installs": 1124,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Token Budget Advisor"
+  }
+}

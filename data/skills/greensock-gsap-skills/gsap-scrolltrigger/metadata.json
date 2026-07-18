@@ -1,0 +1,17 @@
+{
+  "skillId": "gsap-scrolltrigger",
+  "source": "greensock/gsap-skills",
+  "owner": "greensock",
+  "repo": "gsap-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "greensock/gsap-skills",
+    "skillId": "gsap-scrolltrigger",
+    "name": "gsap-scrolltrigger",
+    "installs": 33887,
+    "owner": "greensock",
+    "repo": "gsap-skills",
+    "githubUrl": "https://github.com/greensock/gsap-skills",
+    "displayName": "Gsap Scrolltrigger"
+  }
+}

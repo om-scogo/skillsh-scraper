@@ -1,0 +1,17 @@
+{
+  "skillId": "pexo-agent",
+  "source": "pexoai/pexo-skills",
+  "owner": "pexoai",
+  "repo": "pexo-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pexoai/pexo-skills",
+    "skillId": "pexo-agent",
+    "name": "pexo-agent",
+    "installs": 38933,
+    "owner": "pexoai",
+    "repo": "pexo-skills",
+    "githubUrl": "https://github.com/pexoai/pexo-skills",
+    "displayName": "Pexo Agent"
+  }
+}

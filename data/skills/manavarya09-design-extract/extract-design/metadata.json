@@ -1,0 +1,17 @@
+{
+  "skillId": "extract-design",
+  "source": "manavarya09/design-extract",
+  "owner": "manavarya09",
+  "repo": "design-extract",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "manavarya09/design-extract",
+    "skillId": "extract-design",
+    "name": "extract-design",
+    "installs": 2509,
+    "owner": "manavarya09",
+    "repo": "design-extract",
+    "githubUrl": "https://github.com/manavarya09/design-extract",
+    "displayName": "Extract Design"
+  }
+}

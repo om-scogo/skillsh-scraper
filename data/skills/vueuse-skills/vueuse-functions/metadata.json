@@ -1,0 +1,17 @@
+{
+  "skillId": "vueuse-functions",
+  "source": "vueuse/skills",
+  "owner": "vueuse",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vueuse/skills",
+    "skillId": "vueuse-functions",
+    "name": "vueuse-functions",
+    "installs": 2229,
+    "owner": "vueuse",
+    "repo": "skills",
+    "githubUrl": "https://github.com/vueuse/skills",
+    "displayName": "Vueuse Functions"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "product-manager",
+  "source": "aj-geddes/claude-code-bmad-skills",
+  "owner": "aj-geddes",
+  "repo": "claude-code-bmad-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aj-geddes/claude-code-bmad-skills",
+    "skillId": "product-manager",
+    "name": "product-manager",
+    "installs": 917,
+    "owner": "aj-geddes",
+    "repo": "claude-code-bmad-skills",
+    "githubUrl": "https://github.com/aj-geddes/claude-code-bmad-skills",
+    "displayName": "Product Manager"
+  }
+}

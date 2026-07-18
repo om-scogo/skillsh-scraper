@@ -1,0 +1,17 @@
+{
+  "skillId": "unity-developer",
+  "source": "rmyndharis/antigravity-skills",
+  "owner": "rmyndharis",
+  "repo": "antigravity-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rmyndharis/antigravity-skills",
+    "skillId": "unity-developer",
+    "name": "unity-developer",
+    "installs": 2401,
+    "owner": "rmyndharis",
+    "repo": "antigravity-skills",
+    "githubUrl": "https://github.com/rmyndharis/antigravity-skills",
+    "displayName": "Unity Developer"
+  }
+}

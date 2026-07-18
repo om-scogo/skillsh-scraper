@@ -1,0 +1,17 @@
+{
+  "skillId": "resume-quantifier",
+  "source": "paramchoudhary/resumeskills",
+  "owner": "paramchoudhary",
+  "repo": "resumeskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paramchoudhary/resumeskills",
+    "skillId": "resume-quantifier",
+    "name": "resume quantifier",
+    "installs": 1678,
+    "owner": "paramchoudhary",
+    "repo": "resumeskills",
+    "githubUrl": "https://github.com/paramchoudhary/resumeskills",
+    "displayName": "Resume Quantifier"
+  }
+}

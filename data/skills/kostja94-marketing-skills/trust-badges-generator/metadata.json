@@ -1,0 +1,17 @@
+{
+  "skillId": "trust-badges-generator",
+  "source": "kostja94/marketing-skills",
+  "owner": "kostja94",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kostja94/marketing-skills",
+    "skillId": "trust-badges-generator",
+    "name": "trust-badges-generator",
+    "installs": 763,
+    "owner": "kostja94",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/kostja94/marketing-skills",
+    "displayName": "Trust Badges Generator"
+  }
+}

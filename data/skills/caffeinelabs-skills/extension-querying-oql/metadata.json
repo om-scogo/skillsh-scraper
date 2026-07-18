@@ -1,0 +1,17 @@
+{
+  "skillId": "extension-querying-oql",
+  "source": "caffeinelabs/skills",
+  "owner": "caffeinelabs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "caffeinelabs/skills",
+    "skillId": "extension-querying-oql",
+    "name": "extension-querying-oql",
+    "installs": 3324,
+    "owner": "caffeinelabs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/caffeinelabs/skills",
+    "displayName": "Extension Querying Oql"
+  }
+}

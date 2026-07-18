@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-ci",
+  "source": "redwoodjs/agent-ci",
+  "owner": "redwoodjs",
+  "repo": "agent-ci",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "redwoodjs/agent-ci",
+    "skillId": "agent-ci",
+    "name": "agent-ci",
+    "installs": 1336,
+    "owner": "redwoodjs",
+    "repo": "agent-ci",
+    "githubUrl": "https://github.com/redwoodjs/agent-ci",
+    "displayName": "Agent Ci"
+  }
+}

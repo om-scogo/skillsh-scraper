@@ -1,0 +1,17 @@
+{
+  "skillId": "swiftui-pro",
+  "source": "twostraws/swiftui-agent-skill",
+  "owner": "twostraws",
+  "repo": "swiftui-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "twostraws/swiftui-agent-skill",
+    "skillId": "swiftui-pro",
+    "name": "swiftui-pro",
+    "installs": 23141,
+    "owner": "twostraws",
+    "repo": "swiftui-agent-skill",
+    "githubUrl": "https://github.com/twostraws/swiftui-agent-skill",
+    "displayName": "Swiftui Pro"
+  }
+}

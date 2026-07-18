@@ -1,0 +1,17 @@
+{
+  "skillId": "deck-swiss-international",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "deck-swiss-international",
+    "name": "deck-swiss-international",
+    "installs": 1501,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Deck Swiss International"
+  }
+}

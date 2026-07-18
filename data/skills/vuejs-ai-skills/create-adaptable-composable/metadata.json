@@ -1,0 +1,17 @@
+{
+  "skillId": "create-adaptable-composable",
+  "source": "vuejs-ai/skills",
+  "owner": "vuejs-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vuejs-ai/skills",
+    "skillId": "create-adaptable-composable",
+    "name": "create-adaptable-composable",
+    "installs": 8085,
+    "owner": "vuejs-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/vuejs-ai/skills",
+    "displayName": "Create Adaptable Composable"
+  }
+}

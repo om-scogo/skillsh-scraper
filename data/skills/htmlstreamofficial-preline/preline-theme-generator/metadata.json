@@ -1,0 +1,17 @@
+{
+  "skillId": "preline-theme-generator",
+  "source": "htmlstreamofficial/preline",
+  "owner": "htmlstreamofficial",
+  "repo": "preline",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "htmlstreamofficial/preline",
+    "skillId": "preline-theme-generator",
+    "name": "preline-theme-generator",
+    "installs": 827,
+    "owner": "htmlstreamofficial",
+    "repo": "preline",
+    "githubUrl": "https://github.com/htmlstreamofficial/preline",
+    "displayName": "Preline Theme Generator"
+  }
+}

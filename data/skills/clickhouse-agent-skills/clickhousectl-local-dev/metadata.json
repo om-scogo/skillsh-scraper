@@ -1,0 +1,17 @@
+{
+  "skillId": "clickhousectl-local-dev",
+  "source": "clickhouse/agent-skills",
+  "owner": "clickhouse",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clickhouse/agent-skills",
+    "skillId": "clickhousectl-local-dev",
+    "name": "clickhousectl-local-dev",
+    "installs": 3102,
+    "owner": "clickhouse",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/clickhouse/agent-skills",
+    "displayName": "Clickhousectl Local Dev"
+  }
+}

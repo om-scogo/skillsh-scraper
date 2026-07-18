@@ -1,0 +1,17 @@
+{
+  "skillId": "app-sdk-concepts",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "app-sdk-concepts",
+    "name": "app-sdk-concepts",
+    "installs": 1515,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "App Sdk Concepts"
+  }
+}

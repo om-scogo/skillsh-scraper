@@ -1,0 +1,17 @@
+{
+  "skillId": "stripe-payments",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "stripe-payments",
+    "name": "stripe-payments",
+    "installs": 864,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Stripe Payments"
+  }
+}

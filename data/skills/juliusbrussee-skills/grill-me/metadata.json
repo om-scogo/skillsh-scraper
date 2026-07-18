@@ -1,0 +1,17 @@
+{
+  "skillId": "grill-me",
+  "source": "juliusbrussee/skills",
+  "owner": "juliusbrussee",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juliusbrussee/skills",
+    "skillId": "grill-me",
+    "name": "grill-me",
+    "installs": 1600,
+    "owner": "juliusbrussee",
+    "repo": "skills",
+    "githubUrl": "https://github.com/juliusbrussee/skills",
+    "displayName": "Grill Me"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-plan-weekly-schedule",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-plan-weekly-schedule",
+    "name": "recipe-plan-weekly-schedule",
+    "installs": 22733,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Plan Weekly Schedule"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "github-actions",
+  "source": "callstackincubator/agent-skills",
+  "owner": "callstackincubator",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "callstackincubator/agent-skills",
+    "skillId": "github-actions",
+    "name": "github-actions",
+    "installs": 5317,
+    "owner": "callstackincubator",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/callstackincubator/agent-skills",
+    "displayName": "Github Actions"
+  }
+}

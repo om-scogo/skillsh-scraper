@@ -1,0 +1,17 @@
+{
+  "skillId": "sf-ai-agentforce-observability",
+  "source": "jaganpro/sf-skills",
+  "owner": "jaganpro",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jaganpro/sf-skills",
+    "skillId": "sf-ai-agentforce-observability",
+    "name": "sf-ai-agentforce-observability",
+    "installs": 1170,
+    "owner": "jaganpro",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/jaganpro/sf-skills",
+    "displayName": "Sf Ai Agentforce Observability"
+  }
+}

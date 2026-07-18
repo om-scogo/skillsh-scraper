@@ -1,0 +1,17 @@
+{
+  "skillId": "jest-react-testing",
+  "source": "manutej/luxor-claude-marketplace",
+  "owner": "manutej",
+  "repo": "luxor-claude-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "manutej/luxor-claude-marketplace",
+    "skillId": "jest-react-testing",
+    "name": "jest-react-testing",
+    "installs": 950,
+    "owner": "manutej",
+    "repo": "luxor-claude-marketplace",
+    "githubUrl": "https://github.com/manutej/luxor-claude-marketplace",
+    "displayName": "Jest React Testing"
+  }
+}

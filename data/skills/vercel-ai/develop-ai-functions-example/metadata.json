@@ -1,0 +1,17 @@
+{
+  "skillId": "develop-ai-functions-example",
+  "source": "vercel/ai",
+  "owner": "vercel",
+  "repo": "ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/ai",
+    "skillId": "develop-ai-functions-example",
+    "name": "develop-ai-functions-example",
+    "installs": 1327,
+    "owner": "vercel",
+    "repo": "ai",
+    "githubUrl": "https://github.com/vercel/ai",
+    "displayName": "Develop Ai Functions Example"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "flox-environments",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "flox-environments",
+    "name": "flox-environments",
+    "installs": 1090,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Flox Environments"
+  }
+}

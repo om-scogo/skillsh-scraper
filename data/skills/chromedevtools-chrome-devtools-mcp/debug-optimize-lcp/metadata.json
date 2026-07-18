@@ -1,0 +1,17 @@
+{
+  "skillId": "debug-optimize-lcp",
+  "source": "chromedevtools/chrome-devtools-mcp",
+  "owner": "chromedevtools",
+  "repo": "chrome-devtools-mcp",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chromedevtools/chrome-devtools-mcp",
+    "skillId": "debug-optimize-lcp",
+    "name": "debug-optimize-lcp",
+    "installs": 1515,
+    "owner": "chromedevtools",
+    "repo": "chrome-devtools-mcp",
+    "githubUrl": "https://github.com/chromedevtools/chrome-devtools-mcp",
+    "displayName": "Debug Optimize Lcp"
+  }
+}

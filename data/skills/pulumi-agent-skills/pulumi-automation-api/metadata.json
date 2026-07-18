@@ -1,0 +1,17 @@
+{
+  "skillId": "pulumi-automation-api",
+  "source": "pulumi/agent-skills",
+  "owner": "pulumi",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pulumi/agent-skills",
+    "skillId": "pulumi-automation-api",
+    "name": "pulumi-automation-api",
+    "installs": 903,
+    "owner": "pulumi",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/pulumi/agent-skills",
+    "displayName": "Pulumi Automation Api"
+  }
+}

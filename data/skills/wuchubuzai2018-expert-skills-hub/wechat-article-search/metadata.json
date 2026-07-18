@@ -1,0 +1,17 @@
+{
+  "skillId": "wechat-article-search",
+  "source": "wuchubuzai2018/expert-skills-hub",
+  "owner": "wuchubuzai2018",
+  "repo": "expert-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wuchubuzai2018/expert-skills-hub",
+    "skillId": "wechat-article-search",
+    "name": "wechat-article-search",
+    "installs": 1460,
+    "owner": "wuchubuzai2018",
+    "repo": "expert-skills-hub",
+    "githubUrl": "https://github.com/wuchubuzai2018/expert-skills-hub",
+    "displayName": "Wechat Article Search"
+  }
+}

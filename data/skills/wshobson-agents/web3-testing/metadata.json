@@ -1,0 +1,17 @@
+{
+  "skillId": "web3-testing",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "web3-testing",
+    "name": "web3-testing",
+    "installs": 8190,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Web3 Testing"
+  }
+}

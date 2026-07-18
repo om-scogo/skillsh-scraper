@@ -1,0 +1,17 @@
+{
+  "skillId": "mobile-responsiveness",
+  "source": "hoodini/ai-agents-skills",
+  "owner": "hoodini",
+  "repo": "ai-agents-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hoodini/ai-agents-skills",
+    "skillId": "mobile-responsiveness",
+    "name": "mobile-responsiveness",
+    "installs": 980,
+    "owner": "hoodini",
+    "repo": "ai-agents-skills",
+    "githubUrl": "https://github.com/hoodini/ai-agents-skills",
+    "displayName": "Mobile Responsiveness"
+  }
+}

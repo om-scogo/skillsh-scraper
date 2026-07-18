@@ -1,0 +1,17 @@
+{
+  "skillId": "engineering-culture",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "engineering-culture",
+    "name": "engineering-culture",
+    "installs": 1551,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Engineering Culture"
+  }
+}

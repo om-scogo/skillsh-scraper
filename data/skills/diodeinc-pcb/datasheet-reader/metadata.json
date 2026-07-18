@@ -1,0 +1,17 @@
+{
+  "skillId": "datasheet-reader",
+  "source": "diodeinc/pcb",
+  "owner": "diodeinc",
+  "repo": "pcb",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "diodeinc/pcb",
+    "skillId": "datasheet-reader",
+    "name": "datasheet-reader",
+    "installs": 1498,
+    "owner": "diodeinc",
+    "repo": "pcb",
+    "githubUrl": "https://github.com/diodeinc/pcb",
+    "displayName": "Datasheet Reader"
+  }
+}

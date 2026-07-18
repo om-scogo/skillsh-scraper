@@ -1,0 +1,17 @@
+{
+  "skillId": "kotlin-multiplatform-expect-actual",
+  "source": "chrisbanes/skills",
+  "owner": "chrisbanes",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chrisbanes/skills",
+    "skillId": "kotlin-multiplatform-expect-actual",
+    "name": "kotlin-multiplatform-expect-actual",
+    "installs": 802,
+    "owner": "chrisbanes",
+    "repo": "skills",
+    "githubUrl": "https://github.com/chrisbanes/skills",
+    "displayName": "Kotlin Multiplatform Expect Actual"
+  }
+}

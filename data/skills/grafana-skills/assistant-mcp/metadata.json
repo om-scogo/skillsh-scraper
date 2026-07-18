@@ -1,0 +1,17 @@
+{
+  "skillId": "assistant-mcp",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "assistant-mcp",
+    "name": "assistant-mcp",
+    "installs": 1572,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Assistant Mcp"
+  }
+}

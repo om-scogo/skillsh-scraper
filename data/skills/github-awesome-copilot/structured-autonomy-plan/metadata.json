@@ -1,0 +1,17 @@
+{
+  "skillId": "structured-autonomy-plan",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "structured-autonomy-plan",
+    "name": "structured-autonomy-plan",
+    "installs": 8726,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Structured Autonomy Plan"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "meticulous-simulate-and-diff",
+  "source": "alwaysmeticulous/skills",
+  "owner": "alwaysmeticulous",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alwaysmeticulous/skills",
+    "skillId": "meticulous-simulate-and-diff",
+    "name": "meticulous-simulate-and-diff",
+    "installs": 2613,
+    "owner": "alwaysmeticulous",
+    "repo": "skills",
+    "githubUrl": "https://github.com/alwaysmeticulous/skills",
+    "displayName": "Meticulous Simulate And Diff"
+  }
+}

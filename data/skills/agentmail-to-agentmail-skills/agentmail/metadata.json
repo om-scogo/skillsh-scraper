@@ -1,0 +1,17 @@
+{
+  "skillId": "agentmail",
+  "source": "agentmail-to/agentmail-skills",
+  "owner": "agentmail-to",
+  "repo": "agentmail-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agentmail-to/agentmail-skills",
+    "skillId": "agentmail",
+    "name": "agentmail",
+    "installs": 2096,
+    "owner": "agentmail-to",
+    "repo": "agentmail-skills",
+    "githubUrl": "https://github.com/agentmail-to/agentmail-skills",
+    "displayName": "Agentmail"
+  }
+}

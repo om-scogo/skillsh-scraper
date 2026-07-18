@@ -1,0 +1,17 @@
+{
+  "skillId": "social-media",
+  "source": "langchain-ai/deepagents",
+  "owner": "langchain-ai",
+  "repo": "deepagents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langchain-ai/deepagents",
+    "skillId": "social-media",
+    "name": "social-media",
+    "installs": 2180,
+    "owner": "langchain-ai",
+    "repo": "deepagents",
+    "githubUrl": "https://github.com/langchain-ai/deepagents",
+    "displayName": "Social Media"
+  }
+}

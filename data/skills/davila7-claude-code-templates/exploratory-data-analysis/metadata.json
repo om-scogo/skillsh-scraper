@@ -1,0 +1,17 @@
+{
+  "skillId": "exploratory-data-analysis",
+  "source": "davila7/claude-code-templates",
+  "owner": "davila7",
+  "repo": "claude-code-templates",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "davila7/claude-code-templates",
+    "skillId": "exploratory-data-analysis",
+    "name": "exploratory-data-analysis",
+    "installs": 1518,
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "githubUrl": "https://github.com/davila7/claude-code-templates",
+    "displayName": "Exploratory Data Analysis"
+  }
+}

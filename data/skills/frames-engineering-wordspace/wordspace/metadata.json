@@ -1,0 +1,17 @@
+{
+  "skillId": "wordspace",
+  "source": "frames-engineering/wordspace",
+  "owner": "frames-engineering",
+  "repo": "wordspace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "frames-engineering/wordspace",
+    "skillId": "wordspace",
+    "name": "wordspace",
+    "installs": 1026,
+    "owner": "frames-engineering",
+    "repo": "wordspace",
+    "githubUrl": "https://github.com/frames-engineering/wordspace",
+    "displayName": "Wordspace"
+  }
+}

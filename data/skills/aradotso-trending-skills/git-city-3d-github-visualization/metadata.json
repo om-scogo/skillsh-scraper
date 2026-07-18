@@ -1,0 +1,17 @@
+{
+  "skillId": "git-city-3d-github-visualization",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "git-city-3d-github-visualization",
+    "name": "git-city-3d-github-visualization",
+    "installs": 1290,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Git City 3d Github Visualization"
+  }
+}

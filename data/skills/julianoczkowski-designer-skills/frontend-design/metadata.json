@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-design",
+  "source": "julianoczkowski/designer-skills",
+  "owner": "julianoczkowski",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "julianoczkowski/designer-skills",
+    "skillId": "frontend-design",
+    "name": "frontend-design",
+    "installs": 3706,
+    "owner": "julianoczkowski",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/julianoczkowski/designer-skills",
+    "displayName": "Frontend Design"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "pitch-deck",
+  "source": "anthropics/financial-services-plugins",
+  "owner": "anthropics",
+  "repo": "financial-services-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/financial-services-plugins",
+    "skillId": "pitch-deck",
+    "name": "pitch-deck",
+    "installs": 1110,
+    "owner": "anthropics",
+    "repo": "financial-services-plugins",
+    "githubUrl": "https://github.com/anthropics/financial-services-plugins",
+    "displayName": "Pitch Deck"
+  }
+}

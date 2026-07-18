@@ -1,0 +1,17 @@
+{
+  "skillId": "implementing-ui-bundle-agentforce-conversation-client",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "implementing-ui-bundle-agentforce-conversation-client",
+    "name": "implementing-ui-bundle-agentforce-conversation-client",
+    "installs": 1471,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Implementing Ui Bundle Agentforce Conversation Client"
+  }
+}

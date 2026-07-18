@@ -1,0 +1,17 @@
+{
+  "skillId": "github-issues",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "github-issues",
+    "name": "github-issues",
+    "installs": 13024,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Github Issues"
+  }
+}

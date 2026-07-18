@@ -1,0 +1,17 @@
+{
+  "skillId": "wechat-article-extractor",
+  "source": "freestylefly/wechat-article-extractor-skill",
+  "owner": "freestylefly",
+  "repo": "wechat-article-extractor-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freestylefly/wechat-article-extractor-skill",
+    "skillId": "wechat-article-extractor",
+    "name": "wechat-article-extractor",
+    "installs": 3590,
+    "owner": "freestylefly",
+    "repo": "wechat-article-extractor-skill",
+    "githubUrl": "https://github.com/freestylefly/wechat-article-extractor-skill",
+    "displayName": "Wechat Article Extractor"
+  }
+}

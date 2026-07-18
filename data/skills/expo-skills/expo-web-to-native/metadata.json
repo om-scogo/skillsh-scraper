@@ -1,0 +1,17 @@
+{
+  "skillId": "expo-web-to-native",
+  "source": "expo/skills",
+  "owner": "expo",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "expo/skills",
+    "skillId": "expo-web-to-native",
+    "name": "expo-web-to-native",
+    "installs": 1390,
+    "owner": "expo",
+    "repo": "skills",
+    "githubUrl": "https://github.com/expo/skills",
+    "displayName": "Expo Web To Native"
+  }
+}

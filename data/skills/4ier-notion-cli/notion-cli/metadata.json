@@ -1,0 +1,17 @@
+{
+  "skillId": "notion-cli",
+  "source": "4ier/notion-cli",
+  "owner": "4ier",
+  "repo": "notion-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "4ier/notion-cli",
+    "skillId": "notion-cli",
+    "name": "notion-cli",
+    "installs": 1411,
+    "owner": "4ier",
+    "repo": "notion-cli",
+    "githubUrl": "https://github.com/4ier/notion-cli",
+    "displayName": "Notion Cli"
+  }
+}

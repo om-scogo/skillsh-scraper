@@ -1,0 +1,17 @@
+{
+  "skillId": "akshare",
+  "source": "succ985/openclaw-akshare-skill",
+  "owner": "succ985",
+  "repo": "openclaw-akshare-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "succ985/openclaw-akshare-skill",
+    "skillId": "akshare",
+    "name": "akshare",
+    "installs": 1687,
+    "owner": "succ985",
+    "repo": "openclaw-akshare-skill",
+    "githubUrl": "https://github.com/succ985/openclaw-akshare-skill",
+    "displayName": "Akshare"
+  }
+}

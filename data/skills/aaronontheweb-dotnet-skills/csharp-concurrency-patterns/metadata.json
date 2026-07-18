@@ -1,0 +1,17 @@
+{
+  "skillId": "csharp-concurrency-patterns",
+  "source": "aaronontheweb/dotnet-skills",
+  "owner": "aaronontheweb",
+  "repo": "dotnet-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aaronontheweb/dotnet-skills",
+    "skillId": "csharp-concurrency-patterns",
+    "name": "csharp-concurrency-patterns",
+    "installs": 1220,
+    "owner": "aaronontheweb",
+    "repo": "dotnet-skills",
+    "githubUrl": "https://github.com/aaronontheweb/dotnet-skills",
+    "displayName": "Csharp Concurrency Patterns"
+  }
+}

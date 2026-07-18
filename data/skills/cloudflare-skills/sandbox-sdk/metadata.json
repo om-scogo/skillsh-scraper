@@ -1,0 +1,17 @@
+{
+  "skillId": "sandbox-sdk",
+  "source": "cloudflare/skills",
+  "owner": "cloudflare",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudflare/skills",
+    "skillId": "sandbox-sdk",
+    "name": "sandbox-sdk",
+    "installs": 19428,
+    "owner": "cloudflare",
+    "repo": "skills",
+    "githubUrl": "https://github.com/cloudflare/skills",
+    "displayName": "Sandbox Sdk"
+  }
+}

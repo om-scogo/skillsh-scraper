@@ -1,0 +1,17 @@
+{
+  "skillId": "creating-data-lake-table",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "creating-data-lake-table",
+    "name": "creating-data-lake-table",
+    "installs": 1982,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Creating Data Lake Table"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "second-brain-lint",
+  "source": "nicholasspisak/second-brain",
+  "owner": "nicholasspisak",
+  "repo": "second-brain",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nicholasspisak/second-brain",
+    "skillId": "second-brain-lint",
+    "name": "second-brain-lint",
+    "installs": 1952,
+    "owner": "nicholasspisak",
+    "repo": "second-brain",
+    "githubUrl": "https://github.com/nicholasspisak/second-brain",
+    "displayName": "Second Brain Lint"
+  }
+}

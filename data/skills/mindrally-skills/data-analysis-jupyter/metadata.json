@@ -1,0 +1,17 @@
+{
+  "skillId": "data-analysis-jupyter",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "data-analysis-jupyter",
+    "name": "data-analysis-jupyter",
+    "installs": 1171,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Data Analysis Jupyter"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "scorecard-marketing",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "scorecard-marketing",
+    "name": "scorecard-marketing",
+    "installs": 2987,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Scorecard Marketing"
+  }
+}

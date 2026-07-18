@@ -1,0 +1,17 @@
+{
+  "skillId": "trading-strategies",
+  "source": "agentmc15/polymarket-trader",
+  "owner": "agentmc15",
+  "repo": "polymarket-trader",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agentmc15/polymarket-trader",
+    "skillId": "trading-strategies",
+    "name": "trading-strategies",
+    "installs": 1159,
+    "owner": "agentmc15",
+    "repo": "polymarket-trader",
+    "githubUrl": "https://github.com/agentmc15/polymarket-trader",
+    "displayName": "Trading Strategies"
+  }
+}

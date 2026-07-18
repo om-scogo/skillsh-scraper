@@ -1,0 +1,17 @@
+{
+  "skillId": "three-best-practices",
+  "source": "emalorenzo/three-agent-skills",
+  "owner": "emalorenzo",
+  "repo": "three-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "emalorenzo/three-agent-skills",
+    "skillId": "three-best-practices",
+    "name": "three-best-practices",
+    "installs": 745,
+    "owner": "emalorenzo",
+    "repo": "three-agent-skills",
+    "githubUrl": "https://github.com/emalorenzo/three-agent-skills",
+    "displayName": "Three Best Practices"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ml-paper-writing",
+  "source": "zechenzhangagi/ai-research-skills",
+  "owner": "zechenzhangagi",
+  "repo": "ai-research-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zechenzhangagi/ai-research-skills",
+    "skillId": "ml-paper-writing",
+    "name": "ml-paper-writing",
+    "installs": 926,
+    "owner": "zechenzhangagi",
+    "repo": "ai-research-skills",
+    "githubUrl": "https://github.com/zechenzhangagi/ai-research-skills",
+    "displayName": "Ml Paper Writing"
+  }
+}

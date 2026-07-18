@@ -1,0 +1,17 @@
+{
+  "skillId": "bencium-impact-designer",
+  "source": "bencium/bencium-marketplace",
+  "owner": "bencium",
+  "repo": "bencium-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bencium/bencium-marketplace",
+    "skillId": "bencium-impact-designer",
+    "name": "bencium-impact-designer",
+    "installs": 2181,
+    "owner": "bencium",
+    "repo": "bencium-marketplace",
+    "githubUrl": "https://github.com/bencium/bencium-marketplace",
+    "displayName": "Bencium Impact Designer"
+  }
+}

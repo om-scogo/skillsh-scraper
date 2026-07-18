@@ -1,0 +1,17 @@
+{
+  "skillId": "investigating-agentforce-d360",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "investigating-agentforce-d360",
+    "name": "investigating-agentforce-d360",
+    "installs": 829,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Investigating Agentforce D360"
+  }
+}

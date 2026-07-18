@@ -1,0 +1,17 @@
+{
+  "skillId": "using-ui-bundle-salesforce-data",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "using-ui-bundle-salesforce-data",
+    "name": "using-ui-bundle-salesforce-data",
+    "installs": 1495,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Using Ui Bundle Salesforce Data"
+  }
+}

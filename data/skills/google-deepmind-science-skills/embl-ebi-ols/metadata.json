@@ -1,0 +1,17 @@
+{
+  "skillId": "embl-ebi-ols",
+  "source": "google-deepmind/science-skills",
+  "owner": "google-deepmind",
+  "repo": "science-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-deepmind/science-skills",
+    "skillId": "embl-ebi-ols",
+    "name": "embl-ebi-ols",
+    "installs": 970,
+    "owner": "google-deepmind",
+    "repo": "science-skills",
+    "githubUrl": "https://github.com/google-deepmind/science-skills",
+    "displayName": "Embl Ebi Ols"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "solid",
+  "source": "ramziddin/solid-skills",
+  "owner": "ramziddin",
+  "repo": "solid-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ramziddin/solid-skills",
+    "skillId": "solid",
+    "name": "solid",
+    "installs": 2319,
+    "owner": "ramziddin",
+    "repo": "solid-skills",
+    "githubUrl": "https://github.com/ramziddin/solid-skills",
+    "displayName": "Solid"
+  }
+}

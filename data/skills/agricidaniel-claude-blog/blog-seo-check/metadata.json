@@ -1,0 +1,17 @@
+{
+  "skillId": "blog-seo-check",
+  "source": "agricidaniel/claude-blog",
+  "owner": "agricidaniel",
+  "repo": "claude-blog",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-blog",
+    "skillId": "blog-seo-check",
+    "name": "blog-seo-check",
+    "installs": 1104,
+    "owner": "agricidaniel",
+    "repo": "claude-blog",
+    "githubUrl": "https://github.com/agricidaniel/claude-blog",
+    "displayName": "Blog Seo Check"
+  }
+}

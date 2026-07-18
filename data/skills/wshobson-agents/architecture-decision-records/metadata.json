@@ -1,0 +1,17 @@
+{
+  "skillId": "architecture-decision-records",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "architecture-decision-records",
+    "name": "architecture-decision-records",
+    "installs": 11315,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Architecture Decision Records"
+  }
+}

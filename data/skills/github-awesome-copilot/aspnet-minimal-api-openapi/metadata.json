@@ -1,0 +1,17 @@
+{
+  "skillId": "aspnet-minimal-api-openapi",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "aspnet-minimal-api-openapi",
+    "name": "aspnet-minimal-api-openapi",
+    "installs": 8920,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Aspnet Minimal Api Openapi"
+  }
+}

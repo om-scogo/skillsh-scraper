@@ -1,0 +1,17 @@
+{
+  "skillId": "paseo-advisor",
+  "source": "getpaseo/paseo",
+  "owner": "getpaseo",
+  "repo": "paseo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getpaseo/paseo",
+    "skillId": "paseo-advisor",
+    "name": "paseo-advisor",
+    "installs": 787,
+    "owner": "getpaseo",
+    "repo": "paseo",
+    "githubUrl": "https://github.com/getpaseo/paseo",
+    "displayName": "Paseo Advisor"
+  }
+}

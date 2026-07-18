@@ -1,0 +1,17 @@
+{
+  "skillId": "cpp-coding-standards",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "cpp-coding-standards",
+    "name": "cpp-coding-standards",
+    "installs": 1134,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Cpp Coding Standards"
+  }
+}

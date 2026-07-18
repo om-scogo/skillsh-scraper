@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-send-team-announcement",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-send-team-announcement",
+    "name": "recipe-send-team-announcement",
+    "installs": 21760,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Send Team Announcement"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "platform-agentexchange-partner-offers-configure",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "platform-agentexchange-partner-offers-configure",
+    "name": "platform-agentexchange-partner-offers-configure",
+    "installs": 1296,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Platform Agentexchange Partner Offers Configure"
+  }
+}

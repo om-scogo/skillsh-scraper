@@ -1,0 +1,17 @@
+{
+  "skillId": "pwa-development",
+  "source": "alinaqi/claude-bootstrap",
+  "owner": "alinaqi",
+  "repo": "claude-bootstrap",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alinaqi/claude-bootstrap",
+    "skillId": "pwa-development",
+    "name": "pwa-development",
+    "installs": 2461,
+    "owner": "alinaqi",
+    "repo": "claude-bootstrap",
+    "githubUrl": "https://github.com/alinaqi/claude-bootstrap",
+    "displayName": "Pwa Development"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "nx-run-tasks",
+  "source": "nrwl/nx-ai-agents-config",
+  "owner": "nrwl",
+  "repo": "nx-ai-agents-config",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nrwl/nx-ai-agents-config",
+    "skillId": "nx-run-tasks",
+    "name": "nx-run-tasks",
+    "installs": 2257,
+    "owner": "nrwl",
+    "repo": "nx-ai-agents-config",
+    "githubUrl": "https://github.com/nrwl/nx-ai-agents-config",
+    "displayName": "Nx Run Tasks"
+  }
+}

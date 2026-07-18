@@ -1,0 +1,17 @@
+{
+  "skillId": "fal-lip-sync",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "fal-lip-sync",
+    "name": "fal-lip-sync",
+    "installs": 1648,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Fal Lip Sync"
+  }
+}

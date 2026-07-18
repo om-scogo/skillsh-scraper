@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-browser",
+  "source": "vercel-labs/agent-browser",
+  "owner": "vercel-labs",
+  "repo": "agent-browser",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/agent-browser",
+    "skillId": "agent-browser",
+    "name": "agent-browser",
+    "installs": 551470,
+    "owner": "vercel-labs",
+    "repo": "agent-browser",
+    "githubUrl": "https://github.com/vercel-labs/agent-browser",
+    "displayName": "Agent Browser"
+  }
+}

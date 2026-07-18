@@ -1,0 +1,17 @@
+{
+  "skillId": "dispatching-parallel-agents",
+  "source": "jnmetacode/superpowers-zh",
+  "owner": "jnmetacode",
+  "repo": "superpowers-zh",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jnmetacode/superpowers-zh",
+    "skillId": "dispatching-parallel-agents",
+    "name": "dispatching-parallel-agents",
+    "installs": 757,
+    "owner": "jnmetacode",
+    "repo": "superpowers-zh",
+    "githubUrl": "https://github.com/jnmetacode/superpowers-zh",
+    "displayName": "Dispatching Parallel Agents"
+  }
+}

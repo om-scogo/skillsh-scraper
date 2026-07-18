@@ -1,0 +1,17 @@
+{
+  "skillId": "printing-press-output-review",
+  "source": "mvanhorn/cli-printing-press",
+  "owner": "mvanhorn",
+  "repo": "cli-printing-press",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mvanhorn/cli-printing-press",
+    "skillId": "printing-press-output-review",
+    "name": "printing-press-output-review",
+    "installs": 4338,
+    "owner": "mvanhorn",
+    "repo": "cli-printing-press",
+    "githubUrl": "https://github.com/mvanhorn/cli-printing-press",
+    "displayName": "Printing Press Output Review"
+  }
+}

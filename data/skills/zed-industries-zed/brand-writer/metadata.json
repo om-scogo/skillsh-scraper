@@ -1,0 +1,17 @@
+{
+  "skillId": "brand-writer",
+  "source": "zed-industries/zed",
+  "owner": "zed-industries",
+  "repo": "zed",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zed-industries/zed",
+    "skillId": "brand-writer",
+    "name": "brand-writer",
+    "installs": 817,
+    "owner": "zed-industries",
+    "repo": "zed",
+    "githubUrl": "https://github.com/zed-industries/zed",
+    "displayName": "Brand Writer"
+  }
+}

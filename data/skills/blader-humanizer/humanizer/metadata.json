@@ -1,0 +1,17 @@
+{
+  "skillId": "humanizer",
+  "source": "blader/humanizer",
+  "owner": "blader",
+  "repo": "humanizer",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "blader/humanizer",
+    "skillId": "humanizer",
+    "name": "humanizer",
+    "installs": 2274,
+    "owner": "blader",
+    "repo": "humanizer",
+    "githubUrl": "https://github.com/blader/humanizer",
+    "displayName": "Humanizer"
+  }
+}

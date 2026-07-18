@@ -1,0 +1,17 @@
+{
+  "skillId": "translate-pdf",
+  "source": "wshuyi/translate-pdf-skill",
+  "owner": "wshuyi",
+  "repo": "translate-pdf-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshuyi/translate-pdf-skill",
+    "skillId": "translate-pdf",
+    "name": "translate-pdf",
+    "installs": 999,
+    "owner": "wshuyi",
+    "repo": "translate-pdf-skill",
+    "githubUrl": "https://github.com/wshuyi/translate-pdf-skill",
+    "displayName": "Translate Pdf"
+  }
+}

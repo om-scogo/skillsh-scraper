@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-events-renew",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "gws-events-renew",
+    "name": "gws-events-renew",
+    "installs": 22682,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Gws Events Renew"
+  }
+}

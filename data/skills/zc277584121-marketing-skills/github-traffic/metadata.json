@@ -1,0 +1,17 @@
+{
+  "skillId": "github-traffic",
+  "source": "zc277584121/marketing-skills",
+  "owner": "zc277584121",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zc277584121/marketing-skills",
+    "skillId": "github-traffic",
+    "name": "github-traffic",
+    "installs": 2210,
+    "owner": "zc277584121",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/zc277584121/marketing-skills",
+    "displayName": "Github Traffic"
+  }
+}

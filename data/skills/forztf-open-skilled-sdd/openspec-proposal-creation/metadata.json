@@ -1,0 +1,17 @@
+{
+  "skillId": "openspec-proposal-creation",
+  "source": "forztf/open-skilled-sdd",
+  "owner": "forztf",
+  "repo": "open-skilled-sdd",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forztf/open-skilled-sdd",
+    "skillId": "openspec-proposal-creation",
+    "name": "openspec-proposal-creation",
+    "installs": 1063,
+    "owner": "forztf",
+    "repo": "open-skilled-sdd",
+    "githubUrl": "https://github.com/forztf/open-skilled-sdd",
+    "displayName": "Openspec Proposal Creation"
+  }
+}

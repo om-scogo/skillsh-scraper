@@ -1,0 +1,17 @@
+{
+  "skillId": "remotion-interactivity",
+  "source": "remotion-dev/skills",
+  "owner": "remotion-dev",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "remotion-dev/skills",
+    "skillId": "remotion-interactivity",
+    "name": "remotion-interactivity",
+    "installs": 6373,
+    "owner": "remotion-dev",
+    "repo": "skills",
+    "githubUrl": "https://github.com/remotion-dev/skills",
+    "displayName": "Remotion Interactivity"
+  }
+}

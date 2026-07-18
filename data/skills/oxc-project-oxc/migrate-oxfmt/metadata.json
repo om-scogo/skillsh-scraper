@@ -1,0 +1,17 @@
+{
+  "skillId": "migrate-oxfmt",
+  "source": "oxc-project/oxc",
+  "owner": "oxc-project",
+  "repo": "oxc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "oxc-project/oxc",
+    "skillId": "migrate-oxfmt",
+    "name": "migrate-oxfmt",
+    "installs": 2795,
+    "owner": "oxc-project",
+    "repo": "oxc",
+    "githubUrl": "https://github.com/oxc-project/oxc",
+    "displayName": "Migrate Oxfmt"
+  }
+}

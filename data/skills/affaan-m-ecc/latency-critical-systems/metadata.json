@@ -1,0 +1,17 @@
+{
+  "skillId": "latency-critical-systems",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "latency-critical-systems",
+    "name": "latency-critical-systems",
+    "installs": 1007,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Latency Critical Systems"
+  }
+}

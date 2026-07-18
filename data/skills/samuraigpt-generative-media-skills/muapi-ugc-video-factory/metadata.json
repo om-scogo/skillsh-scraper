@@ -1,0 +1,17 @@
+{
+  "skillId": "muapi-ugc-video-factory",
+  "source": "samuraigpt/generative-media-skills",
+  "owner": "samuraigpt",
+  "repo": "generative-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samuraigpt/generative-media-skills",
+    "skillId": "muapi-ugc-video-factory",
+    "name": "muapi-ugc-video-factory",
+    "installs": 1026,
+    "owner": "samuraigpt",
+    "repo": "generative-media-skills",
+    "githubUrl": "https://github.com/samuraigpt/generative-media-skills",
+    "displayName": "Muapi Ugc Video Factory"
+  }
+}

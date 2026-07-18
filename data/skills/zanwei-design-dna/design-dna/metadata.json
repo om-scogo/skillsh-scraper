@@ -1,0 +1,17 @@
+{
+  "skillId": "design-dna",
+  "source": "zanwei/design-dna",
+  "owner": "zanwei",
+  "repo": "design-dna",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zanwei/design-dna",
+    "skillId": "design-dna",
+    "name": "design-dna",
+    "installs": 1171,
+    "owner": "zanwei",
+    "repo": "design-dna",
+    "githubUrl": "https://github.com/zanwei/design-dna",
+    "displayName": "Design Dna"
+  }
+}

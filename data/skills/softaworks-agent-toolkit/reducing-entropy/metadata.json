@@ -1,0 +1,17 @@
+{
+  "skillId": "reducing-entropy",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "reducing-entropy",
+    "name": "reducing-entropy",
+    "installs": 3789,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Reducing Entropy"
+  }
+}

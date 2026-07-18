@@ -1,0 +1,17 @@
+{
+  "skillId": "screenshot-optimization",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "screenshot-optimization",
+    "name": "screenshot-optimization",
+    "installs": 2271,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "Screenshot Optimization"
+  }
+}

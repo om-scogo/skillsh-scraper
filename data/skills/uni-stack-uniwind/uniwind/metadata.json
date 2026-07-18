@@ -1,0 +1,17 @@
+{
+  "skillId": "uniwind",
+  "source": "uni-stack/uniwind",
+  "owner": "uni-stack",
+  "repo": "uniwind",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "uni-stack/uniwind",
+    "skillId": "uniwind",
+    "name": "uniwind",
+    "installs": 3136,
+    "owner": "uni-stack",
+    "repo": "uniwind",
+    "githubUrl": "https://github.com/uni-stack/uniwind",
+    "displayName": "Uniwind"
+  }
+}

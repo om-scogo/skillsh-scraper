@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-knowledge-ingest",
+  "source": "firecrawl/firecrawl-workflows",
+  "owner": "firecrawl",
+  "repo": "firecrawl-workflows",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/firecrawl-workflows",
+    "skillId": "firecrawl-knowledge-ingest",
+    "name": "firecrawl-knowledge-ingest",
+    "installs": 28946,
+    "owner": "firecrawl",
+    "repo": "firecrawl-workflows",
+    "githubUrl": "https://github.com/firecrawl/firecrawl-workflows",
+    "displayName": "Firecrawl Knowledge Ingest"
+  }
+}

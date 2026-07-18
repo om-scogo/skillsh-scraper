@@ -1,0 +1,17 @@
+{
+  "skillId": "longbridge-technical",
+  "source": "longbridge/skills",
+  "owner": "longbridge",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "longbridge/skills",
+    "skillId": "longbridge-technical",
+    "name": "longbridge-technical",
+    "installs": 2062,
+    "owner": "longbridge",
+    "repo": "skills",
+    "githubUrl": "https://github.com/longbridge/skills",
+    "displayName": "Longbridge Technical"
+  }
+}

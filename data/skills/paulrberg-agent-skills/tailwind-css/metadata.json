@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwind-css",
+  "source": "paulrberg/agent-skills",
+  "owner": "paulrberg",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paulrberg/agent-skills",
+    "skillId": "tailwind-css",
+    "name": "tailwind-css",
+    "installs": 2180,
+    "owner": "paulrberg",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/paulrberg/agent-skills",
+    "displayName": "Tailwind Css"
+  }
+}

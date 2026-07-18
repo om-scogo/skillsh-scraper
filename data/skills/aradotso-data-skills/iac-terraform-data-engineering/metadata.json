@@ -1,0 +1,17 @@
+{
+  "skillId": "iac-terraform-data-engineering",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "iac-terraform-data-engineering",
+    "name": "iac-terraform-data-engineering",
+    "installs": 1402,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Iac Terraform Data Engineering"
+  }
+}

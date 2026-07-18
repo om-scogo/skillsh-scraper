@@ -1,0 +1,17 @@
+{
+  "skillId": "golang-pro",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "golang-pro",
+    "name": "golang-pro",
+    "installs": 15973,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Golang Pro"
+  }
+}

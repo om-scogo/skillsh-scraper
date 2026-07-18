@@ -1,0 +1,17 @@
+{
+  "skillId": "php-pro",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "php-pro",
+    "name": "php-pro",
+    "installs": 12257,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Php Pro"
+  }
+}

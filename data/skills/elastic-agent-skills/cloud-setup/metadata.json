@@ -1,0 +1,17 @@
+{
+  "skillId": "cloud-setup",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "cloud-setup",
+    "name": "cloud-setup",
+    "installs": 1707,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Cloud Setup"
+  }
+}

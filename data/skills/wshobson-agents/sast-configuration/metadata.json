@@ -1,0 +1,17 @@
+{
+  "skillId": "sast-configuration",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "sast-configuration",
+    "name": "sast-configuration",
+    "installs": 8037,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Sast Configuration"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "md-slides",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "md-slides",
+    "name": "md-slides",
+    "installs": 3491,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Md Slides"
+  }
+}

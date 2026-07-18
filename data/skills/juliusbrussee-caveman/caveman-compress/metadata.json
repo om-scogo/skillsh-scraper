@@ -1,0 +1,17 @@
+{
+  "skillId": "caveman-compress",
+  "source": "juliusbrussee/caveman",
+  "owner": "juliusbrussee",
+  "repo": "caveman",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juliusbrussee/caveman",
+    "skillId": "caveman-compress",
+    "name": "caveman-compress",
+    "installs": 240828,
+    "owner": "juliusbrussee",
+    "repo": "caveman",
+    "githubUrl": "https://github.com/juliusbrussee/caveman",
+    "displayName": "Caveman Compress"
+  }
+}

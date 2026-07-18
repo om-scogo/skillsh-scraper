@@ -1,0 +1,17 @@
+{
+  "skillId": "anthropic-cybersecurity-skills",
+  "source": "aradotso/security-skills",
+  "owner": "aradotso",
+  "repo": "security-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/security-skills",
+    "skillId": "anthropic-cybersecurity-skills",
+    "name": "anthropic-cybersecurity-skills",
+    "installs": 1296,
+    "owner": "aradotso",
+    "repo": "security-skills",
+    "githubUrl": "https://github.com/aradotso/security-skills",
+    "displayName": "Anthropic Cybersecurity Skills"
+  }
+}

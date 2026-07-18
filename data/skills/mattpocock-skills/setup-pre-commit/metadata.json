@@ -1,0 +1,17 @@
+{
+  "skillId": "setup-pre-commit",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "setup-pre-commit",
+    "name": "setup-pre-commit",
+    "installs": 132583,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Setup Pre Commit"
+  }
+}

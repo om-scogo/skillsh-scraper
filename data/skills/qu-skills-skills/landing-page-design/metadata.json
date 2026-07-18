@@ -1,0 +1,17 @@
+{
+  "skillId": "landing-page-design",
+  "source": "qu-skills/skills",
+  "owner": "qu-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qu-skills/skills",
+    "skillId": "landing-page-design",
+    "name": "landing-page-design",
+    "installs": 9,
+    "owner": "qu-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/qu-skills/skills",
+    "displayName": "Landing Page Design"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "pp-espn",
+  "source": "mvanhorn/printing-press-library",
+  "owner": "mvanhorn",
+  "repo": "printing-press-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mvanhorn/printing-press-library",
+    "skillId": "pp-espn",
+    "name": "pp-espn",
+    "installs": 2787,
+    "owner": "mvanhorn",
+    "repo": "printing-press-library",
+    "githubUrl": "https://github.com/mvanhorn/printing-press-library",
+    "displayName": "Pp Espn"
+  }
+}

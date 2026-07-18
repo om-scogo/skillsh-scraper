@@ -1,0 +1,17 @@
+{
+  "skillId": "coaching-pms",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "coaching-pms",
+    "name": "coaching-pms",
+    "installs": 1617,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Coaching Pms"
+  }
+}

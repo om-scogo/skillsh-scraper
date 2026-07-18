@@ -1,0 +1,17 @@
+{
+  "skillId": "build-zoom-virtual-agent",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "build-zoom-virtual-agent",
+    "name": "build-zoom-virtual-agent",
+    "installs": 1292,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Build Zoom Virtual Agent"
+  }
+}

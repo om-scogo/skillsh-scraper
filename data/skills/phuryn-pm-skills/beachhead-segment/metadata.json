@@ -1,0 +1,17 @@
+{
+  "skillId": "beachhead-segment",
+  "source": "phuryn/pm-skills",
+  "owner": "phuryn",
+  "repo": "pm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "phuryn/pm-skills",
+    "skillId": "beachhead-segment",
+    "name": "beachhead-segment",
+    "installs": 1656,
+    "owner": "phuryn",
+    "repo": "pm-skills",
+    "githubUrl": "https://github.com/phuryn/pm-skills",
+    "displayName": "Beachhead Segment"
+  }
+}

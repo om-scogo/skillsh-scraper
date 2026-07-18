@@ -1,0 +1,17 @@
+{
+  "skillId": "contribute-catalog",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "contribute-catalog",
+    "name": "contribute-catalog",
+    "installs": 55828,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Contribute Catalog"
+  }
+}

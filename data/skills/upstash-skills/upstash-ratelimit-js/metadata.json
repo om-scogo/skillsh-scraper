@@ -1,0 +1,17 @@
+{
+  "skillId": "upstash-ratelimit-js",
+  "source": "upstash/skills",
+  "owner": "upstash",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "upstash/skills",
+    "skillId": "upstash-ratelimit-js",
+    "name": "upstash-ratelimit-js",
+    "installs": 1005,
+    "owner": "upstash",
+    "repo": "skills",
+    "githubUrl": "https://github.com/upstash/skills",
+    "displayName": "Upstash Ratelimit Js"
+  }
+}

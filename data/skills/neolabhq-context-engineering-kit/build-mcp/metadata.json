@@ -1,0 +1,17 @@
+{
+  "skillId": "build-mcp",
+  "source": "neolabhq/context-engineering-kit",
+  "owner": "neolabhq",
+  "repo": "context-engineering-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "neolabhq/context-engineering-kit",
+    "skillId": "build-mcp",
+    "name": "build-mcp",
+    "installs": 781,
+    "owner": "neolabhq",
+    "repo": "context-engineering-kit",
+    "githubUrl": "https://github.com/neolabhq/context-engineering-kit",
+    "displayName": "Build Mcp"
+  }
+}

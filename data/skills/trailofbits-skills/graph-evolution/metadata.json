@@ -1,0 +1,17 @@
+{
+  "skillId": "graph-evolution",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "graph-evolution",
+    "name": "graph-evolution",
+    "installs": 2335,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Graph Evolution"
+  }
+}

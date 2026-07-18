@@ -1,0 +1,17 @@
+{
+  "skillId": "arize-prompt-optimization",
+  "source": "arize-ai/arize-skills",
+  "owner": "arize-ai",
+  "repo": "arize-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "arize-ai/arize-skills",
+    "skillId": "arize-prompt-optimization",
+    "name": "arize-prompt-optimization",
+    "installs": 1882,
+    "owner": "arize-ai",
+    "repo": "arize-skills",
+    "githubUrl": "https://github.com/arize-ai/arize-skills",
+    "displayName": "Arize Prompt Optimization"
+  }
+}

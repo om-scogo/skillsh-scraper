@@ -1,0 +1,17 @@
+{
+  "skillId": "ralph-tui-prd",
+  "source": "subsy/ralph-tui",
+  "owner": "subsy",
+  "repo": "ralph-tui",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "subsy/ralph-tui",
+    "skillId": "ralph-tui-prd",
+    "name": "ralph-tui-prd",
+    "installs": 1111,
+    "owner": "subsy",
+    "repo": "ralph-tui",
+    "githubUrl": "https://github.com/subsy/ralph-tui",
+    "displayName": "Ralph Tui Prd"
+  }
+}

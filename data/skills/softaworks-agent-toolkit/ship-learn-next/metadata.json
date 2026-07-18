@@ -1,0 +1,17 @@
+{
+  "skillId": "ship-learn-next",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "ship-learn-next",
+    "name": "ship-learn-next",
+    "installs": 3794,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Ship Learn Next"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "aws-cdk-development",
+  "source": "zxkane/aws-skills",
+  "owner": "zxkane",
+  "repo": "aws-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zxkane/aws-skills",
+    "skillId": "aws-cdk-development",
+    "name": "aws-cdk-development",
+    "installs": 942,
+    "owner": "zxkane",
+    "repo": "aws-skills",
+    "githubUrl": "https://github.com/zxkane/aws-skills",
+    "displayName": "Aws Cdk Development"
+  }
+}

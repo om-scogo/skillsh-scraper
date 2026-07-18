@@ -1,0 +1,17 @@
+{
+  "skillId": "copilot-instructions-blueprint-generator",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "copilot-instructions-blueprint-generator",
+    "name": "copilot-instructions-blueprint-generator",
+    "installs": 8807,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Copilot Instructions Blueprint Generator"
+  }
+}

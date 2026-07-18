@@ -1,0 +1,17 @@
+{
+  "skillId": "bond-relative-value",
+  "source": "anthropics/financial-services-plugins",
+  "owner": "anthropics",
+  "repo": "financial-services-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/financial-services-plugins",
+    "skillId": "bond-relative-value",
+    "name": "bond-relative-value",
+    "installs": 862,
+    "owner": "anthropics",
+    "repo": "financial-services-plugins",
+    "githubUrl": "https://github.com/anthropics/financial-services-plugins",
+    "displayName": "Bond Relative Value"
+  }
+}

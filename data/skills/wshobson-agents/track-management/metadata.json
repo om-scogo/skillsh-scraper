@@ -1,0 +1,17 @@
+{
+  "skillId": "track-management",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "track-management",
+    "name": "track-management",
+    "installs": 7799,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Track Management"
+  }
+}

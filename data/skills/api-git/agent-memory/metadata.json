@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-memory",
+  "source": "api/git",
+  "owner": "api",
+  "repo": "git",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "api/git",
+    "skillId": "agent-memory",
+    "name": "agent-memory",
+    "installs": 1139,
+    "owner": "api",
+    "repo": "git",
+    "githubUrl": "https://github.com/api/git",
+    "displayName": "Agent Memory"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "image-generation",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "image-generation",
+    "name": "image-generation",
+    "installs": 2194,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Image Generation"
+  }
+}

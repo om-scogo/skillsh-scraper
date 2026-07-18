@@ -1,0 +1,17 @@
+{
+  "skillId": "plugin-structure",
+  "source": "anthropics/claude-code",
+  "owner": "anthropics",
+  "repo": "claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/claude-code",
+    "skillId": "plugin-structure",
+    "name": "plugin structure",
+    "installs": 10671,
+    "owner": "anthropics",
+    "repo": "claude-code",
+    "githubUrl": "https://github.com/anthropics/claude-code",
+    "displayName": "Plugin Structure"
+  }
+}

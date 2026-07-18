@@ -1,0 +1,17 @@
+{
+  "skillId": "context-canary",
+  "source": "juliusbrussee/skills",
+  "owner": "juliusbrussee",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juliusbrussee/skills",
+    "skillId": "context-canary",
+    "name": "context-canary",
+    "installs": 1285,
+    "owner": "juliusbrussee",
+    "repo": "skills",
+    "githubUrl": "https://github.com/juliusbrussee/skills",
+    "displayName": "Context Canary"
+  }
+}

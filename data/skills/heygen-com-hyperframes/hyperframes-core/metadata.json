@@ -1,0 +1,17 @@
+{
+  "skillId": "hyperframes-core",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "hyperframes-core",
+    "name": "hyperframes-core",
+    "installs": 121199,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Hyperframes Core"
+  }
+}

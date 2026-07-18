@@ -1,0 +1,17 @@
+{
+  "skillId": "add-provider-doc",
+  "source": "lobehub/lobe-chat",
+  "owner": "lobehub",
+  "repo": "lobe-chat",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobe-chat",
+    "skillId": "add-provider-doc",
+    "name": "add-provider-doc",
+    "installs": 1314,
+    "owner": "lobehub",
+    "repo": "lobe-chat",
+    "githubUrl": "https://github.com/lobehub/lobe-chat",
+    "displayName": "Add Provider Doc"
+  }
+}

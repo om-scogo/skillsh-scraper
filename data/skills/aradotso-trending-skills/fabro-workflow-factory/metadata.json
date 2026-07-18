@@ -1,0 +1,17 @@
+{
+  "skillId": "fabro-workflow-factory",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "fabro-workflow-factory",
+    "name": "fabro-workflow-factory",
+    "installs": 1200,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Fabro Workflow Factory"
+  }
+}

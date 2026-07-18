@@ -1,0 +1,17 @@
+{
+  "skillId": "caveman",
+  "source": "shawnchee/caveman-skill",
+  "owner": "shawnchee",
+  "repo": "caveman-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shawnchee/caveman-skill",
+    "skillId": "caveman",
+    "name": "caveman",
+    "installs": 777,
+    "owner": "shawnchee",
+    "repo": "caveman-skill",
+    "githubUrl": "https://github.com/shawnchee/caveman-skill",
+    "displayName": "Caveman"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "kibana-alerting-rules",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "kibana-alerting-rules",
+    "name": "kibana-alerting-rules",
+    "installs": 1895,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Kibana Alerting Rules"
+  }
+}

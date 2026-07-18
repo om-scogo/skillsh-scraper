@@ -1,0 +1,17 @@
+{
+  "skillId": "banner-creator",
+  "source": "resciencelab/opc-skills",
+  "owner": "resciencelab",
+  "repo": "opc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "resciencelab/opc-skills",
+    "skillId": "banner-creator",
+    "name": "banner-creator",
+    "installs": 1565,
+    "owner": "resciencelab",
+    "repo": "opc-skills",
+    "githubUrl": "https://github.com/resciencelab/opc-skills",
+    "displayName": "Banner Creator"
+  }
+}

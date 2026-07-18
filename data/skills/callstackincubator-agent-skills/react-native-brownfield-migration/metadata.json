@@ -1,0 +1,17 @@
+{
+  "skillId": "react-native-brownfield-migration",
+  "source": "callstackincubator/agent-skills",
+  "owner": "callstackincubator",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "callstackincubator/agent-skills",
+    "skillId": "react-native-brownfield-migration",
+    "name": "react-native-brownfield-migration",
+    "installs": 3032,
+    "owner": "callstackincubator",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/callstackincubator/agent-skills",
+    "displayName": "React Native Brownfield Migration"
+  }
+}

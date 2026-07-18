@@ -1,0 +1,17 @@
+{
+  "skillId": "graphite",
+  "source": "withgraphite/agent-skills",
+  "owner": "withgraphite",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "withgraphite/agent-skills",
+    "skillId": "graphite",
+    "name": "graphite",
+    "installs": 5507,
+    "owner": "withgraphite",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/withgraphite/agent-skills",
+    "displayName": "Graphite"
+  }
+}

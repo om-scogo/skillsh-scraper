@@ -1,0 +1,17 @@
+{
+  "skillId": "secure-workflow-guide",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "secure-workflow-guide",
+    "name": "secure-workflow-guide",
+    "installs": 5298,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Secure Workflow Guide"
+  }
+}

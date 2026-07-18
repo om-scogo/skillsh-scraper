@@ -1,0 +1,17 @@
+{
+  "skillId": "postgresql-table-design",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "postgresql-table-design",
+    "name": "postgresql-table-design",
+    "installs": 21629,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Postgresql Table Design"
+  }
+}

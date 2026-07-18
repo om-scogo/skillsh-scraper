@@ -1,0 +1,17 @@
+{
+  "skillId": "graphify",
+  "source": "safishamsi/graphify",
+  "owner": "safishamsi",
+  "repo": "graphify",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "safishamsi/graphify",
+    "skillId": "graphify",
+    "name": "graphify",
+    "installs": 2223,
+    "owner": "safishamsi",
+    "repo": "graphify",
+    "githubUrl": "https://github.com/safishamsi/graphify",
+    "displayName": "Graphify"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-platform-migrate-from-ai-studio",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "agent-platform-migrate-from-ai-studio",
+    "name": "agent-platform-migrate-from-ai-studio",
+    "installs": 2190,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Agent Platform Migrate From Ai Studio"
+  }
+}

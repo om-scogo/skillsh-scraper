@@ -1,0 +1,17 @@
+{
+  "skillId": "phaser",
+  "source": "opusgamelabs/game-creator",
+  "owner": "opusgamelabs",
+  "repo": "game-creator",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "opusgamelabs/game-creator",
+    "skillId": "phaser",
+    "name": "phaser",
+    "installs": 769,
+    "owner": "opusgamelabs",
+    "repo": "game-creator",
+    "githubUrl": "https://github.com/opusgamelabs/game-creator",
+    "displayName": "Phaser"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "python-design-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "python-design-patterns",
+    "name": "python-design-patterns",
+    "installs": 16536,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Python Design Patterns"
+  }
+}

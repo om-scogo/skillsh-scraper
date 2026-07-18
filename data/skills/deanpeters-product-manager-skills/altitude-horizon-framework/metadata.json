@@ -1,0 +1,17 @@
+{
+  "skillId": "altitude-horizon-framework",
+  "source": "deanpeters/product-manager-skills",
+  "owner": "deanpeters",
+  "repo": "product-manager-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "deanpeters/product-manager-skills",
+    "skillId": "altitude-horizon-framework",
+    "name": "altitude-horizon-framework",
+    "installs": 1428,
+    "owner": "deanpeters",
+    "repo": "product-manager-skills",
+    "githubUrl": "https://github.com/deanpeters/product-manager-skills",
+    "displayName": "Altitude Horizon Framework"
+  }
+}

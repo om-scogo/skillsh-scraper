@@ -1,0 +1,17 @@
+{
+  "skillId": "blender-web-pipeline",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "blender-web-pipeline",
+    "name": "blender-web-pipeline",
+    "installs": 1619,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Blender Web Pipeline"
+  }
+}

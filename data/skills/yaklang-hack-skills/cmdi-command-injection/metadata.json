@@ -1,0 +1,17 @@
+{
+  "skillId": "cmdi-command-injection",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "cmdi-command-injection",
+    "name": "cmdi-command-injection",
+    "installs": 1962,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Cmdi Command Injection"
+  }
+}

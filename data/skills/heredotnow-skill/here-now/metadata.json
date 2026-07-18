@@ -1,0 +1,17 @@
+{
+  "skillId": "here-now",
+  "source": "heredotnow/skill",
+  "owner": "heredotnow",
+  "repo": "skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heredotnow/skill",
+    "skillId": "here-now",
+    "name": "here-now",
+    "installs": 11049,
+    "owner": "heredotnow",
+    "repo": "skill",
+    "githubUrl": "https://github.com/heredotnow/skill",
+    "displayName": "Here Now"
+  }
+}

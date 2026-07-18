@@ -1,0 +1,17 @@
+{
+  "skillId": "update-skills-from-changelog",
+  "source": "elevenlabs/skills",
+  "owner": "elevenlabs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elevenlabs/skills",
+    "skillId": "update-skills-from-changelog",
+    "name": "update-skills-from-changelog",
+    "installs": 830,
+    "owner": "elevenlabs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/elevenlabs/skills",
+    "displayName": "Update Skills From Changelog"
+  }
+}

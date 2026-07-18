@@ -1,0 +1,17 @@
+{
+  "skillId": "generating-validation-rule",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "generating-validation-rule",
+    "name": "generating-validation-rule",
+    "installs": 1530,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Generating Validation Rule"
+  }
+}

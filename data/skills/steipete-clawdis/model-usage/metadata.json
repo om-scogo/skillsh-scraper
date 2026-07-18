@@ -1,0 +1,17 @@
+{
+  "skillId": "model-usage",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "model-usage",
+    "name": "model-usage",
+    "installs": 2821,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Model Usage"
+  }
+}

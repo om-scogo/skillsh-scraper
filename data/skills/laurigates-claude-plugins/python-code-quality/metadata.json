@@ -1,0 +1,17 @@
+{
+  "skillId": "python-code-quality",
+  "source": "laurigates/claude-plugins",
+  "owner": "laurigates",
+  "repo": "claude-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "laurigates/claude-plugins",
+    "skillId": "python-code-quality",
+    "name": "python-code-quality",
+    "installs": 832,
+    "owner": "laurigates",
+    "repo": "claude-plugins",
+    "githubUrl": "https://github.com/laurigates/claude-plugins",
+    "displayName": "Python Code Quality"
+  }
+}

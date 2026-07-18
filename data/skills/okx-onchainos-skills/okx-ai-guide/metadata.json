@@ -1,0 +1,17 @@
+{
+  "skillId": "okx-ai-guide",
+  "source": "okx/onchainos-skills",
+  "owner": "okx",
+  "repo": "onchainos-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "okx/onchainos-skills",
+    "skillId": "okx-ai-guide",
+    "name": "okx-ai-guide",
+    "installs": 1666,
+    "owner": "okx",
+    "repo": "onchainos-skills",
+    "githubUrl": "https://github.com/okx/onchainos-skills",
+    "displayName": "Okx Ai Guide"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "prd-creator",
+  "source": "pageai-pro/ralph-loop",
+  "owner": "pageai-pro",
+  "repo": "ralph-loop",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pageai-pro/ralph-loop",
+    "skillId": "prd-creator",
+    "name": "prd-creator",
+    "installs": 2704,
+    "owner": "pageai-pro",
+    "repo": "ralph-loop",
+    "githubUrl": "https://github.com/pageai-pro/ralph-loop",
+    "displayName": "Prd Creator"
+  }
+}

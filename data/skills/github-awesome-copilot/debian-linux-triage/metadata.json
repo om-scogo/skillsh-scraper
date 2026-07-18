@@ -1,0 +1,17 @@
+{
+  "skillId": "debian-linux-triage",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "debian-linux-triage",
+    "name": "debian-linux-triage",
+    "installs": 8880,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Debian Linux Triage"
+  }
+}

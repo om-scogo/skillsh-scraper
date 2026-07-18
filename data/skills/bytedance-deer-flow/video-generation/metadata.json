@@ -1,0 +1,17 @@
+{
+  "skillId": "video-generation",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "video-generation",
+    "name": "video-generation",
+    "installs": 2320,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Video Generation"
+  }
+}

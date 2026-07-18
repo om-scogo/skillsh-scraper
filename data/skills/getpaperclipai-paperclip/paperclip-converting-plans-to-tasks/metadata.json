@@ -1,0 +1,17 @@
+{
+  "skillId": "paperclip-converting-plans-to-tasks",
+  "source": "getpaperclipai/paperclip",
+  "owner": "getpaperclipai",
+  "repo": "paperclip",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getpaperclipai/paperclip",
+    "skillId": "paperclip-converting-plans-to-tasks",
+    "name": "paperclip-converting-plans-to-tasks",
+    "installs": 67027,
+    "owner": "getpaperclipai",
+    "repo": "paperclip",
+    "githubUrl": "https://github.com/getpaperclipai/paperclip",
+    "displayName": "Paperclip Converting Plans To Tasks"
+  }
+}

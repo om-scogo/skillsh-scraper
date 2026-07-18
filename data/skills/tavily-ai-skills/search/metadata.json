@@ -1,0 +1,17 @@
+{
+  "skillId": "search",
+  "source": "tavily-ai/skills",
+  "owner": "tavily-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tavily-ai/skills",
+    "skillId": "search",
+    "name": "search",
+    "installs": 11981,
+    "owner": "tavily-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/tavily-ai/skills",
+    "displayName": "Search"
+  }
+}

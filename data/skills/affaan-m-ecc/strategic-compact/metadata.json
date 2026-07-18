@@ -1,0 +1,17 @@
+{
+  "skillId": "strategic-compact",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "strategic-compact",
+    "name": "strategic-compact",
+    "installs": 1141,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Strategic Compact"
+  }
+}

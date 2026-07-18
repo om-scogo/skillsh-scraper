@@ -1,0 +1,17 @@
+{
+  "skillId": "elasticsearch-authn",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "elasticsearch-authn",
+    "name": "elasticsearch-authn",
+    "installs": 1960,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Elasticsearch Authn"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "korea-weather",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "korea-weather",
+    "name": "korea-weather",
+    "installs": 3096,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Korea Weather"
+  }
+}

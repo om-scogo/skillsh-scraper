@@ -1,0 +1,17 @@
+{
+  "skillId": "iii-sdk-reference",
+  "source": "iii-hq/iii",
+  "owner": "iii-hq",
+  "repo": "iii",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "iii-hq/iii",
+    "skillId": "iii-sdk-reference",
+    "name": "iii-sdk-reference",
+    "installs": 770,
+    "owner": "iii-hq",
+    "repo": "iii",
+    "githubUrl": "https://github.com/iii-hq/iii",
+    "displayName": "Iii Sdk Reference"
+  }
+}

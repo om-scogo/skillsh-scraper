@@ -1,0 +1,17 @@
+{
+  "skillId": "parallel-execution-optimizer",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "parallel-execution-optimizer",
+    "name": "parallel-execution-optimizer",
+    "installs": 1006,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Parallel Execution Optimizer"
+  }
+}

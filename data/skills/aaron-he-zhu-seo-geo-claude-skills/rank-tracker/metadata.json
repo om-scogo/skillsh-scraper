@@ -1,0 +1,17 @@
+{
+  "skillId": "rank-tracker",
+  "source": "aaron-he-zhu/seo-geo-claude-skills",
+  "owner": "aaron-he-zhu",
+  "repo": "seo-geo-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aaron-he-zhu/seo-geo-claude-skills",
+    "skillId": "rank-tracker",
+    "name": "rank-tracker",
+    "installs": 4731,
+    "owner": "aaron-he-zhu",
+    "repo": "seo-geo-claude-skills",
+    "githubUrl": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+    "displayName": "Rank Tracker"
+  }
+}

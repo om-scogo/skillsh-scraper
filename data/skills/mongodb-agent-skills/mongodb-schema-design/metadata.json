@@ -1,0 +1,17 @@
+{
+  "skillId": "mongodb-schema-design",
+  "source": "mongodb/agent-skills",
+  "owner": "mongodb",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mongodb/agent-skills",
+    "skillId": "mongodb-schema-design",
+    "name": "mongodb-schema-design",
+    "installs": 3206,
+    "owner": "mongodb",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/mongodb/agent-skills",
+    "displayName": "Mongodb Schema Design"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "postgres",
+  "source": "planetscale/database-skills",
+  "owner": "planetscale",
+  "repo": "database-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "planetscale/database-skills",
+    "skillId": "postgres",
+    "name": "postgres",
+    "installs": 5881,
+    "owner": "planetscale",
+    "repo": "database-skills",
+    "githubUrl": "https://github.com/planetscale/database-skills",
+    "displayName": "Postgres"
+  }
+}

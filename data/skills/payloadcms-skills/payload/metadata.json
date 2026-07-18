@@ -1,0 +1,17 @@
+{
+  "skillId": "payload",
+  "source": "payloadcms/skills",
+  "owner": "payloadcms",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "payloadcms/skills",
+    "skillId": "payload",
+    "name": "payload",
+    "installs": 4722,
+    "owner": "payloadcms",
+    "repo": "skills",
+    "githubUrl": "https://github.com/payloadcms/skills",
+    "displayName": "Payload"
+  }
+}

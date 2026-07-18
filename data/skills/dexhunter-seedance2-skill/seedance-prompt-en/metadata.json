@@ -1,0 +1,17 @@
+{
+  "skillId": "seedance-prompt-en",
+  "source": "dexhunter/seedance2-skill",
+  "owner": "dexhunter",
+  "repo": "seedance2-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dexhunter/seedance2-skill",
+    "skillId": "seedance-prompt-en",
+    "name": "seedance-prompt-en",
+    "installs": 1978,
+    "owner": "dexhunter",
+    "repo": "seedance2-skill",
+    "githubUrl": "https://github.com/dexhunter/seedance2-skill",
+    "displayName": "Seedance Prompt En"
+  }
+}

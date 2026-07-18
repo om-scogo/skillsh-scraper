@@ -1,0 +1,17 @@
+{
+  "skillId": "opencli-explorer",
+  "source": "jackwener/opencli",
+  "owner": "jackwener",
+  "repo": "opencli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jackwener/opencli",
+    "skillId": "opencli-explorer",
+    "name": "opencli-explorer",
+    "installs": 4073,
+    "owner": "jackwener",
+    "repo": "opencli",
+    "githubUrl": "https://github.com/jackwener/opencli",
+    "displayName": "Opencli Explorer"
+  }
+}

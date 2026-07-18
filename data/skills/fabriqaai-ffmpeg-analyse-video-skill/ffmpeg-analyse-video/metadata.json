@@ -1,0 +1,17 @@
+{
+  "skillId": "ffmpeg-analyse-video",
+  "source": "fabriqaai/ffmpeg-analyse-video-skill",
+  "owner": "fabriqaai",
+  "repo": "ffmpeg-analyse-video-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "fabriqaai/ffmpeg-analyse-video-skill",
+    "skillId": "ffmpeg-analyse-video",
+    "name": "ffmpeg-analyse-video",
+    "installs": 993,
+    "owner": "fabriqaai",
+    "repo": "ffmpeg-analyse-video-skill",
+    "githubUrl": "https://github.com/fabriqaai/ffmpeg-analyse-video-skill",
+    "displayName": "Ffmpeg Analyse Video"
+  }
+}

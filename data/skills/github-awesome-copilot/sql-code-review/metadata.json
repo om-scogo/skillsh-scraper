@@ -1,0 +1,17 @@
+{
+  "skillId": "sql-code-review",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "sql-code-review",
+    "name": "sql-code-review",
+    "installs": 11898,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Sql Code Review"
+  }
+}

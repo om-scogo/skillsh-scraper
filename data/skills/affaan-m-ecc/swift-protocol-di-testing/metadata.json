@@ -1,0 +1,17 @@
+{
+  "skillId": "swift-protocol-di-testing",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "swift-protocol-di-testing",
+    "name": "swift-protocol-di-testing",
+    "installs": 1090,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Swift Protocol Di Testing"
+  }
+}

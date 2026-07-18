@@ -1,0 +1,17 @@
+{
+  "skillId": "image-ocr",
+  "source": "fearovex/claude-config",
+  "owner": "fearovex",
+  "repo": "claude-config",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "fearovex/claude-config",
+    "skillId": "image-ocr",
+    "name": "image-ocr",
+    "installs": 1233,
+    "owner": "fearovex",
+    "repo": "claude-config",
+    "githubUrl": "https://github.com/fearovex/claude-config",
+    "displayName": "Image Ocr"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ziniao-role",
+  "source": "ziniao-open/skills",
+  "owner": "ziniao-open",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ziniao-open/skills",
+    "skillId": "ziniao-role",
+    "name": "ziniao-role",
+    "installs": 1493,
+    "owner": "ziniao-open",
+    "repo": "skills",
+    "githubUrl": "https://github.com/ziniao-open/skills",
+    "displayName": "Ziniao Role"
+  }
+}

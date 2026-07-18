@@ -1,0 +1,17 @@
+{
+  "skillId": "extension-email-verification",
+  "source": "caffeinelabs/skills",
+  "owner": "caffeinelabs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "caffeinelabs/skills",
+    "skillId": "extension-email-verification",
+    "name": "extension-email-verification",
+    "installs": 6545,
+    "owner": "caffeinelabs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/caffeinelabs/skills",
+    "displayName": "Extension Email Verification"
+  }
+}

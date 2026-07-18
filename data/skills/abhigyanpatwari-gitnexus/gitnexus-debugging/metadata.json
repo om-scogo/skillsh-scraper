@@ -1,0 +1,17 @@
+{
+  "skillId": "gitnexus-debugging",
+  "source": "abhigyanpatwari/gitnexus",
+  "owner": "abhigyanpatwari",
+  "repo": "gitnexus",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "abhigyanpatwari/gitnexus",
+    "skillId": "gitnexus-debugging",
+    "name": "gitnexus-debugging",
+    "installs": 1202,
+    "owner": "abhigyanpatwari",
+    "repo": "gitnexus",
+    "githubUrl": "https://github.com/abhigyanpatwari/gitnexus",
+    "displayName": "Gitnexus Debugging"
+  }
+}

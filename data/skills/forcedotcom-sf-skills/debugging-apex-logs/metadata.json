@@ -1,0 +1,17 @@
+{
+  "skillId": "debugging-apex-logs",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "debugging-apex-logs",
+    "name": "debugging-apex-logs",
+    "installs": 2510,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Debugging Apex Logs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "supabase-postgres-best-practices",
+  "source": "supabase/agent-skills",
+  "owner": "supabase",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "supabase/agent-skills",
+    "skillId": "supabase-postgres-best-practices",
+    "name": "supabase-postgres-best-practices",
+    "installs": 290776,
+    "owner": "supabase",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/supabase/agent-skills",
+    "displayName": "Supabase Postgres Best Practices"
+  }
+}

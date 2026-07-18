@@ -1,0 +1,17 @@
+{
+  "skillId": "switching-org",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "switching-org",
+    "name": "switching-org",
+    "installs": 1489,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Switching Org"
+  }
+}

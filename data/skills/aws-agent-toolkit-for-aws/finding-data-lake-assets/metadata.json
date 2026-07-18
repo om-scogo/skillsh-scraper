@@ -1,0 +1,17 @@
+{
+  "skillId": "finding-data-lake-assets",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "finding-data-lake-assets",
+    "name": "finding-data-lake-assets",
+    "installs": 1976,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Finding Data Lake Assets"
+  }
+}

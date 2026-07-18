@@ -1,0 +1,17 @@
+{
+  "skillId": "m15-anti-pattern",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "m15-anti-pattern",
+    "name": "m15-anti-pattern",
+    "installs": 1362,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "M15 Anti Pattern"
+  }
+}

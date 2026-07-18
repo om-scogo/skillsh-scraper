@@ -1,0 +1,17 @@
+{
+  "skillId": "kibana-streams",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "kibana-streams",
+    "name": "kibana-streams",
+    "installs": 1865,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Kibana Streams"
+  }
+}

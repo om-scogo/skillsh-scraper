@@ -1,0 +1,17 @@
+{
+  "skillId": "nemo-mbridge-perf-moe-optimization-workflow",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemo-mbridge-perf-moe-optimization-workflow",
+    "name": "nemo-mbridge-perf-moe-optimization-workflow",
+    "installs": 1504,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemo Mbridge Perf Moe Optimization Workflow"
+  }
+}

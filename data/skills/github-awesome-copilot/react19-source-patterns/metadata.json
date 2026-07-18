@@ -1,0 +1,17 @@
+{
+  "skillId": "react19-source-patterns",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "react19-source-patterns",
+    "name": "react19-source-patterns",
+    "installs": 841,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "React19 Source Patterns"
+  }
+}

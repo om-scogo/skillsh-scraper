@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-id-resolver",
+  "source": "rudrankriyam/asc-skills",
+  "owner": "rudrankriyam",
+  "repo": "asc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rudrankriyam/asc-skills",
+    "skillId": "asc-id-resolver",
+    "name": "asc-id-resolver",
+    "installs": 1253,
+    "owner": "rudrankriyam",
+    "repo": "asc-skills",
+    "githubUrl": "https://github.com/rudrankriyam/asc-skills",
+    "displayName": "Asc Id Resolver"
+  }
+}

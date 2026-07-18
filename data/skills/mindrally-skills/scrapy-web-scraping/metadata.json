@@ -1,0 +1,17 @@
+{
+  "skillId": "scrapy-web-scraping",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "scrapy-web-scraping",
+    "name": "scrapy-web-scraping",
+    "installs": 1596,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Scrapy Web Scraping"
+  }
+}

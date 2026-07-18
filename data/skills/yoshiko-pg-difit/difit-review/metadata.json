@@ -1,0 +1,17 @@
+{
+  "skillId": "difit-review",
+  "source": "yoshiko-pg/difit",
+  "owner": "yoshiko-pg",
+  "repo": "difit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yoshiko-pg/difit",
+    "skillId": "difit-review",
+    "name": "difit-review",
+    "installs": 1234,
+    "owner": "yoshiko-pg",
+    "repo": "difit",
+    "githubUrl": "https://github.com/yoshiko-pg/difit",
+    "displayName": "Difit Review"
+  }
+}

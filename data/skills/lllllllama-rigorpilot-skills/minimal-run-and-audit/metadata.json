@@ -1,0 +1,17 @@
+{
+  "skillId": "minimal-run-and-audit",
+  "source": "lllllllama/rigorpilot-skills",
+  "owner": "lllllllama",
+  "repo": "rigorpilot-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lllllllama/rigorpilot-skills",
+    "skillId": "minimal-run-and-audit",
+    "name": "minimal-run-and-audit",
+    "installs": 136005,
+    "owner": "lllllllama",
+    "repo": "rigorpilot-skills",
+    "githubUrl": "https://github.com/lllllllama/rigorpilot-skills",
+    "displayName": "Minimal Run And Audit"
+  }
+}

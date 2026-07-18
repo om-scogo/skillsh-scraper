@@ -1,0 +1,17 @@
+{
+  "skillId": "fix-tests",
+  "source": "neolabhq/context-engineering-kit",
+  "owner": "neolabhq",
+  "repo": "context-engineering-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "neolabhq/context-engineering-kit",
+    "skillId": "fix-tests",
+    "name": "fix-tests",
+    "installs": 818,
+    "owner": "neolabhq",
+    "repo": "context-engineering-kit",
+    "githubUrl": "https://github.com/neolabhq/context-engineering-kit",
+    "displayName": "Fix Tests"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-lookup",
+  "source": "f/awesome-chatgpt-prompts",
+  "owner": "f",
+  "repo": "awesome-chatgpt-prompts",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "f/awesome-chatgpt-prompts",
+    "skillId": "skill-lookup",
+    "name": "skill-lookup",
+    "installs": 1655,
+    "owner": "f",
+    "repo": "awesome-chatgpt-prompts",
+    "githubUrl": "https://github.com/f/awesome-chatgpt-prompts",
+    "displayName": "Skill Lookup"
+  }
+}

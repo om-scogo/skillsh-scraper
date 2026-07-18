@@ -1,0 +1,17 @@
+{
+  "skillId": "silicon-paddle-ocr",
+  "source": "aotenjou/silicon-paddleocr",
+  "owner": "aotenjou",
+  "repo": "silicon-paddleocr",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aotenjou/silicon-paddleocr",
+    "skillId": "silicon-paddle-ocr",
+    "name": "silicon-paddle-ocr",
+    "installs": 1081,
+    "owner": "aotenjou",
+    "repo": "silicon-paddleocr",
+    "githubUrl": "https://github.com/aotenjou/silicon-paddleocr",
+    "displayName": "Silicon Paddle Ocr"
+  }
+}

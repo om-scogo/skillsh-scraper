@@ -1,0 +1,17 @@
+{
+  "skillId": "compose-multiplatform-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "compose-multiplatform-patterns",
+    "name": "compose-multiplatform-patterns",
+    "installs": 1111,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Compose Multiplatform Patterns"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-creator",
+  "source": "aiskillstore/marketplace",
+  "owner": "aiskillstore",
+  "repo": "marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aiskillstore/marketplace",
+    "skillId": "skill-creator",
+    "name": "skill-creator",
+    "installs": 824,
+    "owner": "aiskillstore",
+    "repo": "marketplace",
+    "githubUrl": "https://github.com/aiskillstore/marketplace",
+    "displayName": "Skill Creator"
+  }
+}

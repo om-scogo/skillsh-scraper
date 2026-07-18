@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-interact",
+  "source": "firecrawl/cli",
+  "owner": "firecrawl",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/cli",
+    "skillId": "firecrawl-interact",
+    "name": "firecrawl-interact",
+    "installs": 58167,
+    "owner": "firecrawl",
+    "repo": "cli",
+    "githubUrl": "https://github.com/firecrawl/cli",
+    "displayName": "Firecrawl Interact"
+  }
+}

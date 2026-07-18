@@ -1,0 +1,17 @@
+{
+  "skillId": "story-short-scan",
+  "source": "worldwonderer/oh-story-claudecode",
+  "owner": "worldwonderer",
+  "repo": "oh-story-claudecode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "worldwonderer/oh-story-claudecode",
+    "skillId": "story-short-scan",
+    "name": "story-short-scan",
+    "installs": 8327,
+    "owner": "worldwonderer",
+    "repo": "oh-story-claudecode",
+    "githubUrl": "https://github.com/worldwonderer/oh-story-claudecode",
+    "displayName": "Story Short Scan"
+  }
+}

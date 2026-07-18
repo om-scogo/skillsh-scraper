@@ -1,0 +1,17 @@
+{
+  "skillId": "seo",
+  "source": "addyosmani/web-quality-skills",
+  "owner": "addyosmani",
+  "repo": "web-quality-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/web-quality-skills",
+    "skillId": "seo",
+    "name": "seo",
+    "installs": 33176,
+    "owner": "addyosmani",
+    "repo": "web-quality-skills",
+    "githubUrl": "https://github.com/addyosmani/web-quality-skills",
+    "displayName": "Seo"
+  }
+}

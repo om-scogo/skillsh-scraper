@@ -1,0 +1,17 @@
+{
+  "skillId": "video-edit",
+  "source": "doany-ai/skills",
+  "owner": "doany-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "doany-ai/skills",
+    "skillId": "video-edit",
+    "name": "video-edit",
+    "installs": 12,
+    "owner": "doany-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/doany-ai/skills",
+    "displayName": "Video Edit"
+  }
+}

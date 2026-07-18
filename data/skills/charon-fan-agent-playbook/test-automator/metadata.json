@@ -1,0 +1,17 @@
+{
+  "skillId": "test-automator",
+  "source": "charon-fan/agent-playbook",
+  "owner": "charon-fan",
+  "repo": "agent-playbook",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "charon-fan/agent-playbook",
+    "skillId": "test-automator",
+    "name": "test-automator",
+    "installs": 741,
+    "owner": "charon-fan",
+    "repo": "agent-playbook",
+    "githubUrl": "https://github.com/charon-fan/agent-playbook",
+    "displayName": "Test Automator"
+  }
+}

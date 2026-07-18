@@ -1,0 +1,17 @@
+{
+  "skillId": "superdesign",
+  "source": "superdesigndev/superdesign-skill",
+  "owner": "superdesigndev",
+  "repo": "superdesign-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "superdesigndev/superdesign-skill",
+    "skillId": "superdesign",
+    "name": "superdesign",
+    "installs": 6182,
+    "owner": "superdesigndev",
+    "repo": "superdesign-skill",
+    "githubUrl": "https://github.com/superdesigndev/superdesign-skill",
+    "displayName": "Superdesign"
+  }
+}

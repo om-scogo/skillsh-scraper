@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-fix-issues",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-fix-issues",
+    "name": "sentry-fix-issues",
+    "installs": 5512,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry Fix Issues"
+  }
+}

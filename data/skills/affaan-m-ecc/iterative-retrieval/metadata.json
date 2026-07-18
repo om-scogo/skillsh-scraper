@@ -1,0 +1,17 @@
+{
+  "skillId": "iterative-retrieval",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "iterative-retrieval",
+    "name": "iterative-retrieval",
+    "installs": 1106,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Iterative Retrieval"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "structured-autonomy-implement",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "structured-autonomy-implement",
+    "name": "structured-autonomy-implement",
+    "installs": 8675,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Structured Autonomy Implement"
+  }
+}

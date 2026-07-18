@@ -1,0 +1,17 @@
+{
+  "skillId": "quick-mockups",
+  "source": "civitai/civitai",
+  "owner": "civitai",
+  "repo": "civitai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "civitai/civitai",
+    "skillId": "quick-mockups",
+    "name": "quick-mockups",
+    "installs": 874,
+    "owner": "civitai",
+    "repo": "civitai",
+    "githubUrl": "https://github.com/civitai/civitai",
+    "displayName": "Quick Mockups"
+  }
+}

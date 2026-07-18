@@ -1,0 +1,17 @@
+{
+  "skillId": "backend-code-review",
+  "source": "langgenius/dify",
+  "owner": "langgenius",
+  "repo": "dify",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langgenius/dify",
+    "skillId": "backend-code-review",
+    "name": "backend-code-review",
+    "installs": 1361,
+    "owner": "langgenius",
+    "repo": "dify",
+    "githubUrl": "https://github.com/langgenius/dify",
+    "displayName": "Backend Code Review"
+  }
+}

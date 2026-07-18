@@ -1,0 +1,17 @@
+{
+  "skillId": "cross-border-ecommerce",
+  "source": "nexscope-ai/ecommerce-skills",
+  "owner": "nexscope-ai",
+  "repo": "ecommerce-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexscope-ai/ecommerce-skills",
+    "skillId": "cross-border-ecommerce",
+    "name": "cross-border-ecommerce",
+    "installs": 53377,
+    "owner": "nexscope-ai",
+    "repo": "ecommerce-skills",
+    "githubUrl": "https://github.com/nexscope-ai/ecommerce-skills",
+    "displayName": "Cross Border Ecommerce"
+  }
+}

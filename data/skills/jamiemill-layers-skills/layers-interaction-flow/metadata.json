@@ -1,0 +1,17 @@
+{
+  "skillId": "layers-interaction-flow",
+  "source": "jamiemill/layers-skills",
+  "owner": "jamiemill",
+  "repo": "layers-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jamiemill/layers-skills",
+    "skillId": "layers-interaction-flow",
+    "name": "layers-interaction-flow",
+    "installs": 1255,
+    "owner": "jamiemill",
+    "repo": "layers-skills",
+    "githubUrl": "https://github.com/jamiemill/layers-skills",
+    "displayName": "Layers Interaction Flow"
+  }
+}

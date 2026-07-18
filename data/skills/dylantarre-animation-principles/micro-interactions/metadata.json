@@ -1,0 +1,17 @@
+{
+  "skillId": "micro-interactions",
+  "source": "dylantarre/animation-principles",
+  "owner": "dylantarre",
+  "repo": "animation-principles",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dylantarre/animation-principles",
+    "skillId": "micro-interactions",
+    "name": "micro-interactions",
+    "installs": 919,
+    "owner": "dylantarre",
+    "repo": "animation-principles",
+    "githubUrl": "https://github.com/dylantarre/animation-principles",
+    "displayName": "Micro Interactions"
+  }
+}

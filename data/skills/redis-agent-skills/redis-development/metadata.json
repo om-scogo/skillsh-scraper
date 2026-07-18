@@ -1,0 +1,17 @@
+{
+  "skillId": "redis-development",
+  "source": "redis/agent-skills",
+  "owner": "redis",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "redis/agent-skills",
+    "skillId": "redis-development",
+    "name": "redis-development",
+    "installs": 3223,
+    "owner": "redis",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/redis/agent-skills",
+    "displayName": "Redis Development"
+  }
+}

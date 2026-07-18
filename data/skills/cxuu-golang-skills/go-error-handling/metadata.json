@@ -1,0 +1,17 @@
+{
+  "skillId": "go-error-handling",
+  "source": "cxuu/golang-skills",
+  "owner": "cxuu",
+  "repo": "golang-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cxuu/golang-skills",
+    "skillId": "go-error-handling",
+    "name": "go-error-handling",
+    "installs": 844,
+    "owner": "cxuu",
+    "repo": "golang-skills",
+    "githubUrl": "https://github.com/cxuu/golang-skills",
+    "displayName": "Go Error Handling"
+  }
+}

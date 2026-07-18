@@ -1,0 +1,17 @@
+{
+  "skillId": "speakturbo-tts",
+  "source": "emzod/speak-turbo",
+  "owner": "emzod",
+  "repo": "speak-turbo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "emzod/speak-turbo",
+    "skillId": "speakturbo-tts",
+    "name": "speakturbo-tts",
+    "installs": 1010,
+    "owner": "emzod",
+    "repo": "speak-turbo",
+    "githubUrl": "https://github.com/emzod/speak-turbo",
+    "displayName": "Speakturbo Tts"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "book-study",
+  "source": "sanyuan0704/sanyuan-skills",
+  "owner": "sanyuan0704",
+  "repo": "sanyuan-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sanyuan0704/sanyuan-skills",
+    "skillId": "book-study",
+    "name": "book-study",
+    "installs": 1581,
+    "owner": "sanyuan0704",
+    "repo": "sanyuan-skills",
+    "githubUrl": "https://github.com/sanyuan0704/sanyuan-skills",
+    "displayName": "Book Study"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "build-zoom-phone-integration",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "build-zoom-phone-integration",
+    "name": "build-zoom-phone-integration",
+    "installs": 1297,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Build Zoom Phone Integration"
+  }
+}

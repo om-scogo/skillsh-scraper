@@ -1,0 +1,17 @@
+{
+  "skillId": "pnpm",
+  "source": "onmax/nuxt-skills",
+  "owner": "onmax",
+  "repo": "nuxt-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "onmax/nuxt-skills",
+    "skillId": "pnpm",
+    "name": "pnpm",
+    "installs": 1554,
+    "owner": "onmax",
+    "repo": "nuxt-skills",
+    "githubUrl": "https://github.com/onmax/nuxt-skills",
+    "displayName": "Pnpm"
+  }
+}

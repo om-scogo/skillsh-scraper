@@ -1,0 +1,17 @@
+{
+  "skillId": "git-get-notification",
+  "source": "zc277584121/mygitplugin",
+  "owner": "zc277584121",
+  "repo": "mygitplugin",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zc277584121/mygitplugin",
+    "skillId": "git-get-notification",
+    "name": "git-get-notification",
+    "installs": 1773,
+    "owner": "zc277584121",
+    "repo": "mygitplugin",
+    "githubUrl": "https://github.com/zc277584121/mygitplugin",
+    "displayName": "Git Get Notification"
+  }
+}

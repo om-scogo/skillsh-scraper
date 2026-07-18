@@ -1,0 +1,17 @@
+{
+  "skillId": "higgsfield-marketplace-cards",
+  "source": "higgsfield-ai/skills",
+  "owner": "higgsfield-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "higgsfield-ai/skills",
+    "skillId": "higgsfield-marketplace-cards",
+    "name": "higgsfield-marketplace-cards",
+    "installs": 69611,
+    "owner": "higgsfield-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/higgsfield-ai/skills",
+    "displayName": "Higgsfield Marketplace Cards"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "screenshot-to-code",
+  "source": "onewave-ai/claude-skills",
+  "owner": "onewave-ai",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "onewave-ai/claude-skills",
+    "skillId": "screenshot-to-code",
+    "name": "screenshot-to-code",
+    "installs": 805,
+    "owner": "onewave-ai",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/onewave-ai/claude-skills",
+    "displayName": "Screenshot To Code"
+  }
+}

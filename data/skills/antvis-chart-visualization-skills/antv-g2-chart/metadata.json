@@ -1,0 +1,17 @@
+{
+  "skillId": "antv-g2-chart",
+  "source": "antvis/chart-visualization-skills",
+  "owner": "antvis",
+  "repo": "chart-visualization-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antvis/chart-visualization-skills",
+    "skillId": "antv-g2-chart",
+    "name": "antv-g2-chart",
+    "installs": 863,
+    "owner": "antvis",
+    "repo": "chart-visualization-skills",
+    "githubUrl": "https://github.com/antvis/chart-visualization-skills",
+    "displayName": "Antv G2 Chart"
+  }
+}

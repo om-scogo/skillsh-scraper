@@ -1,0 +1,17 @@
+{
+  "skillId": "review",
+  "source": "javascript-mastery-pro/skills",
+  "owner": "javascript-mastery-pro",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "javascript-mastery-pro/skills",
+    "skillId": "review",
+    "name": "review",
+    "installs": 2270,
+    "owner": "javascript-mastery-pro",
+    "repo": "skills",
+    "githubUrl": "https://github.com/javascript-mastery-pro/skills",
+    "displayName": "Review"
+  }
+}

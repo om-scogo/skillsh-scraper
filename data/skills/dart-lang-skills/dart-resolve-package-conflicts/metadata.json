@@ -1,0 +1,17 @@
+{
+  "skillId": "dart-resolve-package-conflicts",
+  "source": "dart-lang/skills",
+  "owner": "dart-lang",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dart-lang/skills",
+    "skillId": "dart-resolve-package-conflicts",
+    "name": "dart-resolve-package-conflicts",
+    "installs": 9598,
+    "owner": "dart-lang",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dart-lang/skills",
+    "displayName": "Dart Resolve Package Conflicts"
+  }
+}

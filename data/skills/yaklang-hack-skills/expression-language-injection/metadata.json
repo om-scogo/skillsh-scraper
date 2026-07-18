@@ -1,0 +1,17 @@
+{
+  "skillId": "expression-language-injection",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "expression-language-injection",
+    "name": "expression-language-injection",
+    "installs": 1937,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Expression Language Injection"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "apple-on-device-ai",
+  "source": "dpearson2699/swift-ios-skills",
+  "owner": "dpearson2699",
+  "repo": "swift-ios-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dpearson2699/swift-ios-skills",
+    "skillId": "apple-on-device-ai",
+    "name": "apple-on-device-ai",
+    "installs": 2633,
+    "owner": "dpearson2699",
+    "repo": "swift-ios-skills",
+    "githubUrl": "https://github.com/dpearson2699/swift-ios-skills",
+    "displayName": "Apple On Device Ai"
+  }
+}

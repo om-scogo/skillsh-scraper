@@ -1,0 +1,17 @@
+{
+  "skillId": "taskfile-automation",
+  "source": "seabbs/claude-code-config",
+  "owner": "seabbs",
+  "repo": "claude-code-config",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "seabbs/claude-code-config",
+    "skillId": "taskfile-automation",
+    "name": "taskfile-automation",
+    "installs": 1200,
+    "owner": "seabbs",
+    "repo": "claude-code-config",
+    "githubUrl": "https://github.com/seabbs/claude-code-config",
+    "displayName": "Taskfile Automation"
+  }
+}

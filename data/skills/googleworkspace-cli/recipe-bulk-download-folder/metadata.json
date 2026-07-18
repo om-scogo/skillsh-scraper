@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-bulk-download-folder",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-bulk-download-folder",
+    "name": "recipe-bulk-download-folder",
+    "installs": 22708,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Bulk Download Folder"
+  }
+}

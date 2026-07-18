@@ -1,0 +1,17 @@
+{
+  "skillId": "gke-observability",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "gke-observability",
+    "name": "gke-observability",
+    "installs": 950,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Gke Observability"
+  }
+}

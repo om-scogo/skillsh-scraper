@@ -1,0 +1,17 @@
+{
+  "skillId": "incremental-implementation",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "incremental-implementation",
+    "name": "incremental-implementation",
+    "installs": 12455,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Incremental Implementation"
+  }
+}

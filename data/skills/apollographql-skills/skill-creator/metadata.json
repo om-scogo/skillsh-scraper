@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-creator",
+  "source": "apollographql/skills",
+  "owner": "apollographql",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apollographql/skills",
+    "skillId": "skill-creator",
+    "name": "skill-creator",
+    "installs": 1307,
+    "owner": "apollographql",
+    "repo": "skills",
+    "githubUrl": "https://github.com/apollographql/skills",
+    "displayName": "Skill Creator"
+  }
+}

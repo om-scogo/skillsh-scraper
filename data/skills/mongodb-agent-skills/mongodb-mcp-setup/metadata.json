@@ -1,0 +1,17 @@
+{
+  "skillId": "mongodb-mcp-setup",
+  "source": "mongodb/agent-skills",
+  "owner": "mongodb",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mongodb/agent-skills",
+    "skillId": "mongodb-mcp-setup",
+    "name": "mongodb-mcp-setup",
+    "installs": 2288,
+    "owner": "mongodb",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/mongodb/agent-skills",
+    "displayName": "Mongodb Mcp Setup"
+  }
+}

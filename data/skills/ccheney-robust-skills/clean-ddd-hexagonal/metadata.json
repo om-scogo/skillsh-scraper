@@ -1,0 +1,17 @@
+{
+  "skillId": "clean-ddd-hexagonal",
+  "source": "ccheney/robust-skills",
+  "owner": "ccheney",
+  "repo": "robust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ccheney/robust-skills",
+    "skillId": "clean-ddd-hexagonal",
+    "name": "clean-ddd-hexagonal",
+    "installs": 3751,
+    "owner": "ccheney",
+    "repo": "robust-skills",
+    "githubUrl": "https://github.com/ccheney/robust-skills",
+    "displayName": "Clean Ddd Hexagonal"
+  }
+}

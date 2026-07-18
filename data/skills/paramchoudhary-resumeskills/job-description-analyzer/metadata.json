@@ -1,0 +1,17 @@
+{
+  "skillId": "job-description-analyzer",
+  "source": "paramchoudhary/resumeskills",
+  "owner": "paramchoudhary",
+  "repo": "resumeskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paramchoudhary/resumeskills",
+    "skillId": "job-description-analyzer",
+    "name": "job description analyzer",
+    "installs": 1783,
+    "owner": "paramchoudhary",
+    "repo": "resumeskills",
+    "githubUrl": "https://github.com/paramchoudhary/resumeskills",
+    "displayName": "Job Description Analyzer"
+  }
+}

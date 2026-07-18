@@ -1,0 +1,17 @@
+{
+  "skillId": "cmux-diagnostics",
+  "source": "manaflow-ai/cmux",
+  "owner": "manaflow-ai",
+  "repo": "cmux",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "manaflow-ai/cmux",
+    "skillId": "cmux-diagnostics",
+    "name": "cmux-diagnostics",
+    "installs": 3122,
+    "owner": "manaflow-ai",
+    "repo": "cmux",
+    "githubUrl": "https://github.com/manaflow-ai/cmux",
+    "displayName": "Cmux Diagnostics"
+  }
+}

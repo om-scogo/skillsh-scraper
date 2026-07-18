@@ -1,0 +1,17 @@
+{
+  "skillId": "crypto-com-app",
+  "source": "crypto-com/crypto-agent-trading",
+  "owner": "crypto-com",
+  "repo": "crypto-agent-trading",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "crypto-com/crypto-agent-trading",
+    "skillId": "crypto-com-app",
+    "name": "crypto-com-app",
+    "installs": 787,
+    "owner": "crypto-com",
+    "repo": "crypto-agent-trading",
+    "githubUrl": "https://github.com/crypto-com/crypto-agent-trading",
+    "displayName": "Crypto Com App"
+  }
+}

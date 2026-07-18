@@ -1,0 +1,17 @@
+{
+  "skillId": "app-store-screenshots",
+  "source": "101-skills/skills",
+  "owner": "101-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "101-skills/skills",
+    "skillId": "app-store-screenshots",
+    "name": "app-store-screenshots",
+    "installs": 11017,
+    "owner": "101-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/101-skills/skills",
+    "displayName": "App Store Screenshots"
+  }
+}

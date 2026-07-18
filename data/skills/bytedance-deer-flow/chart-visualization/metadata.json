@@ -1,0 +1,17 @@
+{
+  "skillId": "chart-visualization",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "chart-visualization",
+    "name": "chart-visualization",
+    "installs": 1918,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Chart Visualization"
+  }
+}

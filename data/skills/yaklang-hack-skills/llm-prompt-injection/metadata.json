@@ -1,0 +1,17 @@
+{
+  "skillId": "llm-prompt-injection",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "llm-prompt-injection",
+    "name": "llm-prompt-injection",
+    "installs": 1952,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Llm Prompt Injection"
+  }
+}

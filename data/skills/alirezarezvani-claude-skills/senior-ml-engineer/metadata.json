@@ -1,0 +1,17 @@
+{
+  "skillId": "senior-ml-engineer",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "senior-ml-engineer",
+    "name": "senior-ml-engineer",
+    "installs": 834,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Senior Ml Engineer"
+  }
+}

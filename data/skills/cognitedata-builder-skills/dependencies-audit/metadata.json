@@ -1,0 +1,17 @@
+{
+  "skillId": "dependencies-audit",
+  "source": "cognitedata/builder-skills",
+  "owner": "cognitedata",
+  "repo": "builder-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cognitedata/builder-skills",
+    "skillId": "dependencies-audit",
+    "name": "dependencies-audit",
+    "installs": 1886,
+    "owner": "cognitedata",
+    "repo": "builder-skills",
+    "githubUrl": "https://github.com/cognitedata/builder-skills",
+    "displayName": "Dependencies Audit"
+  }
+}

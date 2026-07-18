@@ -1,0 +1,17 @@
+{
+  "skillId": "building-components",
+  "source": "vercel/components.build",
+  "owner": "vercel",
+  "repo": "components.build",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/components.build",
+    "skillId": "building-components",
+    "name": "building-components",
+    "installs": 7927,
+    "owner": "vercel",
+    "repo": "components.build",
+    "githubUrl": "https://github.com/vercel/components.build",
+    "displayName": "Building Components"
+  }
+}

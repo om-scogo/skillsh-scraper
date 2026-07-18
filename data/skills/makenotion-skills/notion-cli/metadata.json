@@ -1,0 +1,17 @@
+{
+  "skillId": "notion-cli",
+  "source": "makenotion/skills",
+  "owner": "makenotion",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "makenotion/skills",
+    "skillId": "notion-cli",
+    "name": "notion-cli",
+    "installs": 5337,
+    "owner": "makenotion",
+    "repo": "skills",
+    "githubUrl": "https://github.com/makenotion/skills",
+    "displayName": "Notion Cli"
+  }
+}

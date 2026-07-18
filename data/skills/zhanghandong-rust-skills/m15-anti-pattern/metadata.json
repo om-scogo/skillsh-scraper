@@ -1,0 +1,17 @@
+{
+  "skillId": "m15-anti-pattern",
+  "source": "zhanghandong/rust-skills",
+  "owner": "zhanghandong",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zhanghandong/rust-skills",
+    "skillId": "m15-anti-pattern",
+    "name": "m15-anti-pattern",
+    "installs": 5625,
+    "owner": "zhanghandong",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/zhanghandong/rust-skills",
+    "displayName": "M15 Anti Pattern"
+  }
+}

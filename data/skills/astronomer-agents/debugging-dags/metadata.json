@@ -1,0 +1,17 @@
+{
+  "skillId": "debugging-dags",
+  "source": "astronomer/agents",
+  "owner": "astronomer",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astronomer/agents",
+    "skillId": "debugging-dags",
+    "name": "debugging-dags",
+    "installs": 956,
+    "owner": "astronomer",
+    "repo": "agents",
+    "githubUrl": "https://github.com/astronomer/agents",
+    "displayName": "Debugging Dags"
+  }
+}

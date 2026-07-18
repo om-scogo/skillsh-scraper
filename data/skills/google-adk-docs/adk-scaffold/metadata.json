@@ -1,0 +1,17 @@
+{
+  "skillId": "adk-scaffold",
+  "source": "google/adk-docs",
+  "owner": "google",
+  "repo": "adk-docs",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/adk-docs",
+    "skillId": "adk-scaffold",
+    "name": "adk-scaffold",
+    "installs": 2685,
+    "owner": "google",
+    "repo": "adk-docs",
+    "githubUrl": "https://github.com/google/adk-docs",
+    "displayName": "Adk Scaffold"
+  }
+}

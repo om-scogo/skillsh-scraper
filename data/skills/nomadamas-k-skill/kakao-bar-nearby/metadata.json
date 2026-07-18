@@ -1,0 +1,17 @@
+{
+  "skillId": "kakao-bar-nearby",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "kakao-bar-nearby",
+    "name": "kakao-bar-nearby",
+    "installs": 3305,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Kakao Bar Nearby"
+  }
+}

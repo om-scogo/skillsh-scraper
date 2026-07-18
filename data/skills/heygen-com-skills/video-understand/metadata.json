@@ -1,0 +1,17 @@
+{
+  "skillId": "video-understand",
+  "source": "heygen-com/skills",
+  "owner": "heygen-com",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/skills",
+    "skillId": "video-understand",
+    "name": "video-understand",
+    "installs": 1092,
+    "owner": "heygen-com",
+    "repo": "skills",
+    "githubUrl": "https://github.com/heygen-com/skills",
+    "displayName": "Video Understand"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ugc-ads",
+  "source": "pika-labs/pika-plugins",
+  "owner": "pika-labs",
+  "repo": "pika-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pika-labs/pika-plugins",
+    "skillId": "ugc-ads",
+    "name": "ugc-ads",
+    "installs": 1262,
+    "owner": "pika-labs",
+    "repo": "pika-plugins",
+    "githubUrl": "https://github.com/pika-labs/pika-plugins",
+    "displayName": "Ugc Ads"
+  }
+}

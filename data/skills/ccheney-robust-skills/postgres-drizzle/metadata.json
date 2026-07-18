@@ -1,0 +1,17 @@
+{
+  "skillId": "postgres-drizzle",
+  "source": "ccheney/robust-skills",
+  "owner": "ccheney",
+  "repo": "robust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ccheney/robust-skills",
+    "skillId": "postgres-drizzle",
+    "name": "postgres-drizzle",
+    "installs": 1110,
+    "owner": "ccheney",
+    "repo": "robust-skills",
+    "githubUrl": "https://github.com/ccheney/robust-skills",
+    "displayName": "Postgres Drizzle"
+  }
+}

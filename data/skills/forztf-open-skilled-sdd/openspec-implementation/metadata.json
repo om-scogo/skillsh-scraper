@@ -1,0 +1,17 @@
+{
+  "skillId": "openspec-implementation",
+  "source": "forztf/open-skilled-sdd",
+  "owner": "forztf",
+  "repo": "open-skilled-sdd",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forztf/open-skilled-sdd",
+    "skillId": "openspec-implementation",
+    "name": "openspec-implementation",
+    "installs": 1263,
+    "owner": "forztf",
+    "repo": "open-skilled-sdd",
+    "githubUrl": "https://github.com/forztf/open-skilled-sdd",
+    "displayName": "Openspec Implementation"
+  }
+}

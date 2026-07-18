@@ -1,0 +1,17 @@
+{
+  "skillId": "feishu-cli-read",
+  "source": "riba2534/feishu-cli",
+  "owner": "riba2534",
+  "repo": "feishu-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "riba2534/feishu-cli",
+    "skillId": "feishu-cli-read",
+    "name": "feishu-cli-read",
+    "installs": 896,
+    "owner": "riba2534",
+    "repo": "feishu-cli",
+    "githubUrl": "https://github.com/riba2534/feishu-cli",
+    "displayName": "Feishu Cli Read"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "second-brain",
+  "source": "nicholasspisak/second-brain",
+  "owner": "nicholasspisak",
+  "repo": "second-brain",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nicholasspisak/second-brain",
+    "skillId": "second-brain",
+    "name": "second-brain",
+    "installs": 2184,
+    "owner": "nicholasspisak",
+    "repo": "second-brain",
+    "githubUrl": "https://github.com/nicholasspisak/second-brain",
+    "displayName": "Second Brain"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "seo-audit",
+  "source": "seo-skills/seo-audit-skill",
+  "owner": "seo-skills",
+  "repo": "seo-audit-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "seo-skills/seo-audit-skill",
+    "skillId": "seo-audit",
+    "name": "seo-audit",
+    "installs": 804,
+    "owner": "seo-skills",
+    "repo": "seo-audit-skill",
+    "githubUrl": "https://github.com/seo-skills/seo-audit-skill",
+    "displayName": "Seo Audit"
+  }
+}

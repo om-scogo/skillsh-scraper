@@ -1,0 +1,17 @@
+{
+  "skillId": "game-ui-design",
+  "source": "omer-metin/skills-for-antigravity",
+  "owner": "omer-metin",
+  "repo": "skills-for-antigravity",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "omer-metin/skills-for-antigravity",
+    "skillId": "game-ui-design",
+    "name": "game-ui-design",
+    "installs": 2147,
+    "owner": "omer-metin",
+    "repo": "skills-for-antigravity",
+    "githubUrl": "https://github.com/omer-metin/skills-for-antigravity",
+    "displayName": "Game Ui Design"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "launching-ec2-instance-with-best-practices",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "launching-ec2-instance-with-best-practices",
+    "name": "launching-ec2-instance-with-best-practices",
+    "installs": 1780,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Launching Ec2 Instance With Best Practices"
+  }
+}

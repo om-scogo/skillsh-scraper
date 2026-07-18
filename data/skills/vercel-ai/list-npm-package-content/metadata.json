@@ -1,0 +1,17 @@
+{
+  "skillId": "list-npm-package-content",
+  "source": "vercel/ai",
+  "owner": "vercel",
+  "repo": "ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/ai",
+    "skillId": "list-npm-package-content",
+    "name": "list-npm-package-content",
+    "installs": 1154,
+    "owner": "vercel",
+    "repo": "ai",
+    "githubUrl": "https://github.com/vercel/ai",
+    "displayName": "List Npm Package Content"
+  }
+}

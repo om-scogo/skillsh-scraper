@@ -1,0 +1,17 @@
+{
+  "skillId": "crm-automation",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "crm-automation",
+    "name": "crm-automation",
+    "installs": 4175,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Crm Automation"
+  }
+}

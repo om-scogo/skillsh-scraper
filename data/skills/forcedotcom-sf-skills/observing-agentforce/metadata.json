@@ -1,0 +1,17 @@
+{
+  "skillId": "observing-agentforce",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "observing-agentforce",
+    "name": "observing-agentforce",
+    "installs": 2146,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Observing Agentforce"
+  }
+}

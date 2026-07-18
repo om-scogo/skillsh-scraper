@@ -1,0 +1,17 @@
+{
+  "skillId": "3d-modeling",
+  "source": "omer-metin/skills-for-antigravity",
+  "owner": "omer-metin",
+  "repo": "skills-for-antigravity",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "omer-metin/skills-for-antigravity",
+    "skillId": "3d-modeling",
+    "name": "3d-modeling",
+    "installs": 804,
+    "owner": "omer-metin",
+    "repo": "skills-for-antigravity",
+    "githubUrl": "https://github.com/omer-metin/skills-for-antigravity",
+    "displayName": "3d Modeling"
+  }
+}

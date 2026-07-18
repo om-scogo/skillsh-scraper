@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-draft-email-from-doc",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-draft-email-from-doc",
+    "name": "recipe-draft-email-from-doc",
+    "installs": 23516,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Draft Email From Doc"
+  }
+}

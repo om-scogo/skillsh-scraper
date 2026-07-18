@@ -1,0 +1,17 @@
+{
+  "skillId": "portless",
+  "source": "vercel-labs/portless",
+  "owner": "vercel-labs",
+  "repo": "portless",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/portless",
+    "skillId": "portless",
+    "name": "portless",
+    "installs": 3986,
+    "owner": "vercel-labs",
+    "repo": "portless",
+    "githubUrl": "https://github.com/vercel-labs/portless",
+    "displayName": "Portless"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "godot-master",
+  "source": "thedivergentai/gd-agentic-skills",
+  "owner": "thedivergentai",
+  "repo": "gd-agentic-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thedivergentai/gd-agentic-skills",
+    "skillId": "godot-master",
+    "name": "godot-master",
+    "installs": 1631,
+    "owner": "thedivergentai",
+    "repo": "gd-agentic-skills",
+    "githubUrl": "https://github.com/thedivergentai/gd-agentic-skills",
+    "displayName": "Godot Master"
+  }
+}

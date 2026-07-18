@@ -1,0 +1,17 @@
+{
+  "skillId": "image-to-video",
+  "source": "skills-shell/skills",
+  "owner": "skills-shell",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "skills-shell/skills",
+    "skillId": "image-to-video",
+    "name": "image-to-video",
+    "installs": 9,
+    "owner": "skills-shell",
+    "repo": "skills",
+    "githubUrl": "https://github.com/skills-shell/skills",
+    "displayName": "Image To Video"
+  }
+}

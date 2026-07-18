@@ -1,0 +1,17 @@
+{
+  "skillId": "shellcheck-configuration",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "shellcheck-configuration",
+    "name": "shellcheck-configuration",
+    "installs": 8214,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Shellcheck Configuration"
+  }
+}

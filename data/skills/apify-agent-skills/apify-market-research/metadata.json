@@ -1,0 +1,17 @@
+{
+  "skillId": "apify-market-research",
+  "source": "apify/agent-skills",
+  "owner": "apify",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apify/agent-skills",
+    "skillId": "apify-market-research",
+    "name": "apify-market-research",
+    "installs": 3421,
+    "owner": "apify",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/apify/agent-skills",
+    "displayName": "Apify Market Research"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "chat-sdk",
+  "source": "vercel/chat",
+  "owner": "vercel",
+  "repo": "chat",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/chat",
+    "skillId": "chat-sdk",
+    "name": "chat-sdk",
+    "installs": 4271,
+    "owner": "vercel",
+    "repo": "chat",
+    "githubUrl": "https://github.com/vercel/chat",
+    "displayName": "Chat Sdk"
+  }
+}

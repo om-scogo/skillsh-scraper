@@ -1,0 +1,17 @@
+{
+  "skillId": "meticulous-cli-update",
+  "source": "alwaysmeticulous/skills",
+  "owner": "alwaysmeticulous",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alwaysmeticulous/skills",
+    "skillId": "meticulous-cli-update",
+    "name": "meticulous-cli-update",
+    "installs": 2577,
+    "owner": "alwaysmeticulous",
+    "repo": "skills",
+    "githubUrl": "https://github.com/alwaysmeticulous/skills",
+    "displayName": "Meticulous Cli Update"
+  }
+}

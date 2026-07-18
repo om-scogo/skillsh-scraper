@@ -1,0 +1,17 @@
+{
+  "skillId": "nanobanana",
+  "source": "gargantuax/openskills",
+  "owner": "gargantuax",
+  "repo": "openskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gargantuax/openskills",
+    "skillId": "nanobanana",
+    "name": "nanobanana",
+    "installs": 10383,
+    "owner": "gargantuax",
+    "repo": "openskills",
+    "githubUrl": "https://github.com/gargantuax/openskills",
+    "displayName": "Nanobanana"
+  }
+}

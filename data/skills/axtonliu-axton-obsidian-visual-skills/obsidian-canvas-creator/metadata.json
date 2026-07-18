@@ -1,0 +1,17 @@
+{
+  "skillId": "obsidian-canvas-creator",
+  "source": "axtonliu/axton-obsidian-visual-skills",
+  "owner": "axtonliu",
+  "repo": "axton-obsidian-visual-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "axtonliu/axton-obsidian-visual-skills",
+    "skillId": "obsidian-canvas-creator",
+    "name": "obsidian-canvas-creator",
+    "installs": 1586,
+    "owner": "axtonliu",
+    "repo": "axton-obsidian-visual-skills",
+    "githubUrl": "https://github.com/axtonliu/axton-obsidian-visual-skills",
+    "displayName": "Obsidian Canvas Creator"
+  }
+}

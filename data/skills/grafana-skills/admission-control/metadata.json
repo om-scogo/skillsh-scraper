@@ -1,0 +1,17 @@
+{
+  "skillId": "admission-control",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "admission-control",
+    "name": "admission-control",
+    "installs": 1507,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Admission Control"
+  }
+}

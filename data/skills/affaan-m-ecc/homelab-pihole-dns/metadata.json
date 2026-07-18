@@ -1,0 +1,17 @@
+{
+  "skillId": "homelab-pihole-dns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "homelab-pihole-dns",
+    "name": "homelab-pihole-dns",
+    "installs": 1091,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Homelab Pihole Dns"
+  }
+}

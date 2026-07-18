@@ -1,0 +1,17 @@
+{
+  "skillId": "ocr-document-processor",
+  "source": "dkyazzentwatwa/chatgpt-skills",
+  "owner": "dkyazzentwatwa",
+  "repo": "chatgpt-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dkyazzentwatwa/chatgpt-skills",
+    "skillId": "ocr-document-processor",
+    "name": "ocr-document-processor",
+    "installs": 4609,
+    "owner": "dkyazzentwatwa",
+    "repo": "chatgpt-skills",
+    "githubUrl": "https://github.com/dkyazzentwatwa/chatgpt-skills",
+    "displayName": "Ocr Document Processor"
+  }
+}

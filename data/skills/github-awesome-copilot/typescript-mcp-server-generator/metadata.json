@@ -1,0 +1,17 @@
+{
+  "skillId": "typescript-mcp-server-generator",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "typescript-mcp-server-generator",
+    "name": "typescript-mcp-server-generator",
+    "installs": 11204,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Typescript Mcp Server Generator"
+  }
+}

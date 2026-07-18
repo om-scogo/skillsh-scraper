@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-adaptive-ui",
+  "source": "madteacher/mad-agents-skills",
+  "owner": "madteacher",
+  "repo": "mad-agents-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "madteacher/mad-agents-skills",
+    "skillId": "flutter-adaptive-ui",
+    "name": "flutter-adaptive-ui",
+    "installs": 1803,
+    "owner": "madteacher",
+    "repo": "mad-agents-skills",
+    "githubUrl": "https://github.com/madteacher/mad-agents-skills",
+    "displayName": "Flutter Adaptive Ui"
+  }
+}

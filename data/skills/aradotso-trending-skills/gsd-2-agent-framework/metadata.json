@@ -1,0 +1,17 @@
+{
+  "skillId": "gsd-2-agent-framework",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "gsd-2-agent-framework",
+    "name": "gsd-2-agent-framework",
+    "installs": 1446,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Gsd 2 Agent Framework"
+  }
+}

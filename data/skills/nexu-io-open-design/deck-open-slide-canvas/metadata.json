@@ -1,0 +1,17 @@
+{
+  "skillId": "deck-open-slide-canvas",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "deck-open-slide-canvas",
+    "name": "deck-open-slide-canvas",
+    "installs": 1511,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Deck Open Slide Canvas"
+  }
+}

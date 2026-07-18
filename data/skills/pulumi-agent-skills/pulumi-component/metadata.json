@@ -1,0 +1,17 @@
+{
+  "skillId": "pulumi-component",
+  "source": "pulumi/agent-skills",
+  "owner": "pulumi",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pulumi/agent-skills",
+    "skillId": "pulumi-component",
+    "name": "pulumi-component",
+    "installs": 997,
+    "owner": "pulumi",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/pulumi/agent-skills",
+    "displayName": "Pulumi Component"
+  }
+}

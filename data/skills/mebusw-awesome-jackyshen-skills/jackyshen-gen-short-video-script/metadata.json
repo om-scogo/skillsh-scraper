@@ -1,0 +1,17 @@
+{
+  "skillId": "jackyshen-gen-short-video-script",
+  "source": "mebusw/awesome-jackyshen-skills",
+  "owner": "mebusw",
+  "repo": "awesome-jackyshen-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mebusw/awesome-jackyshen-skills",
+    "skillId": "jackyshen-gen-short-video-script",
+    "name": "jackyshen-gen-short-video-script",
+    "installs": 2203,
+    "owner": "mebusw",
+    "repo": "awesome-jackyshen-skills",
+    "githubUrl": "https://github.com/mebusw/awesome-jackyshen-skills",
+    "displayName": "Jackyshen Gen Short Video Script"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "travel-planner",
+  "source": "ailabs-393/ai-labs-claude-skills",
+  "owner": "ailabs-393",
+  "repo": "ai-labs-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ailabs-393/ai-labs-claude-skills",
+    "skillId": "travel-planner",
+    "name": "travel-planner",
+    "installs": 3253,
+    "owner": "ailabs-393",
+    "repo": "ai-labs-claude-skills",
+    "githubUrl": "https://github.com/ailabs-393/ai-labs-claude-skills",
+    "displayName": "Travel Planner"
+  }
+}

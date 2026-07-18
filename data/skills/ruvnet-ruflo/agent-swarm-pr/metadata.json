@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-swarm-pr",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-swarm-pr",
+    "name": "agent-swarm-pr",
+    "installs": 990,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Swarm Pr"
+  }
+}

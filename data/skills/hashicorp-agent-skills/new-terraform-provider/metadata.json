@@ -1,0 +1,17 @@
+{
+  "skillId": "new-terraform-provider",
+  "source": "hashicorp/agent-skills",
+  "owner": "hashicorp",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hashicorp/agent-skills",
+    "skillId": "new-terraform-provider",
+    "name": "new-terraform-provider",
+    "installs": 2479,
+    "owner": "hashicorp",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/hashicorp/agent-skills",
+    "displayName": "New Terraform Provider"
+  }
+}

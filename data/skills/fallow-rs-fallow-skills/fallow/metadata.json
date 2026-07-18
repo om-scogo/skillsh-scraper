@@ -1,0 +1,17 @@
+{
+  "skillId": "fallow",
+  "source": "fallow-rs/fallow-skills",
+  "owner": "fallow-rs",
+  "repo": "fallow-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "fallow-rs/fallow-skills",
+    "skillId": "fallow",
+    "name": "fallow",
+    "installs": 5569,
+    "owner": "fallow-rs",
+    "repo": "fallow-skills",
+    "githubUrl": "https://github.com/fallow-rs/fallow-skills",
+    "displayName": "Fallow"
+  }
+}

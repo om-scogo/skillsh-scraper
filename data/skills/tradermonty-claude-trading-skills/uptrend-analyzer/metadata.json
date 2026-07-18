@@ -1,0 +1,17 @@
+{
+  "skillId": "uptrend-analyzer",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "uptrend-analyzer",
+    "name": "uptrend-analyzer",
+    "installs": 794,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Uptrend Analyzer"
+  }
+}

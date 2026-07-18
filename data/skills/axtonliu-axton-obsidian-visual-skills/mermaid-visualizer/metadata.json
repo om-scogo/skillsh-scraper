@@ -1,0 +1,17 @@
+{
+  "skillId": "mermaid-visualizer",
+  "source": "axtonliu/axton-obsidian-visual-skills",
+  "owner": "axtonliu",
+  "repo": "axton-obsidian-visual-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "axtonliu/axton-obsidian-visual-skills",
+    "skillId": "mermaid-visualizer",
+    "name": "mermaid-visualizer",
+    "installs": 1417,
+    "owner": "axtonliu",
+    "repo": "axton-obsidian-visual-skills",
+    "githubUrl": "https://github.com/axtonliu/axton-obsidian-visual-skills",
+    "displayName": "Mermaid Visualizer"
+  }
+}

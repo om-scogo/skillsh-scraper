@@ -1,0 +1,17 @@
+{
+  "skillId": "vet",
+  "source": "imbue-ai/vet",
+  "owner": "imbue-ai",
+  "repo": "vet",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "imbue-ai/vet",
+    "skillId": "vet",
+    "name": "vet",
+    "installs": 1090,
+    "owner": "imbue-ai",
+    "repo": "vet",
+    "githubUrl": "https://github.com/imbue-ai/vet",
+    "displayName": "Vet"
+  }
+}

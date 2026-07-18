@@ -1,0 +1,17 @@
+{
+  "skillId": "node",
+  "source": "mcollina/skills",
+  "owner": "mcollina",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mcollina/skills",
+    "skillId": "node",
+    "name": "node",
+    "installs": 4368,
+    "owner": "mcollina",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mcollina/skills",
+    "displayName": "Node"
+  }
+}

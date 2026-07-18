@@ -1,0 +1,17 @@
+{
+  "skillId": "phoenix-cli",
+  "source": "arize-ai/phoenix",
+  "owner": "arize-ai",
+  "repo": "phoenix",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "arize-ai/phoenix",
+    "skillId": "phoenix-cli",
+    "name": "phoenix-cli",
+    "installs": 998,
+    "owner": "arize-ai",
+    "repo": "phoenix",
+    "githubUrl": "https://github.com/arize-ai/phoenix",
+    "displayName": "Phoenix Cli"
+  }
+}

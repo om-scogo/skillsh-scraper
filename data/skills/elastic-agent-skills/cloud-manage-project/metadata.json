@@ -1,0 +1,17 @@
+{
+  "skillId": "cloud-manage-project",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "cloud-manage-project",
+    "name": "cloud-manage-project",
+    "installs": 1700,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Cloud Manage Project"
+  }
+}

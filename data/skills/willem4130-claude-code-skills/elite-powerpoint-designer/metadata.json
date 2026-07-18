@@ -1,0 +1,17 @@
+{
+  "skillId": "elite-powerpoint-designer",
+  "source": "willem4130/claude-code-skills",
+  "owner": "willem4130",
+  "repo": "claude-code-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "willem4130/claude-code-skills",
+    "skillId": "elite-powerpoint-designer",
+    "name": "elite-powerpoint-designer",
+    "installs": 4306,
+    "owner": "willem4130",
+    "repo": "claude-code-skills",
+    "githubUrl": "https://github.com/willem4130/claude-code-skills",
+    "displayName": "Elite Powerpoint Designer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "lark-event",
+  "source": "larksuite/cli",
+  "owner": "larksuite",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "larksuite/cli",
+    "skillId": "lark-event",
+    "name": "lark-event",
+    "installs": 361392,
+    "owner": "larksuite",
+    "repo": "cli",
+    "githubUrl": "https://github.com/larksuite/cli",
+    "displayName": "Lark Event"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "find-animation-opportunities",
+  "source": "emilkowalski/skills",
+  "owner": "emilkowalski",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "emilkowalski/skills",
+    "skillId": "find-animation-opportunities",
+    "name": "find-animation-opportunities",
+    "installs": 3294,
+    "owner": "emilkowalski",
+    "repo": "skills",
+    "githubUrl": "https://github.com/emilkowalski/skills",
+    "displayName": "Find Animation Opportunities"
+  }
+}

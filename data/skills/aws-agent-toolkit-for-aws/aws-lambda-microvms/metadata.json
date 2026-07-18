@@ -1,0 +1,17 @@
+{
+  "skillId": "aws-lambda-microvms",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "aws-lambda-microvms",
+    "name": "aws-lambda-microvms",
+    "installs": 755,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Aws Lambda Microvms"
+  }
+}

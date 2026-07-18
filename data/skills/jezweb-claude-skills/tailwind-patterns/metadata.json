@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwind-patterns",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "tailwind-patterns",
+    "name": "tailwind-patterns",
+    "installs": 1146,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Tailwind Patterns"
+  }
+}

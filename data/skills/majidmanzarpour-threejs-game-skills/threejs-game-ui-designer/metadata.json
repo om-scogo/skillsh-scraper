@@ -1,0 +1,17 @@
+{
+  "skillId": "threejs-game-ui-designer",
+  "source": "majidmanzarpour/threejs-game-skills",
+  "owner": "majidmanzarpour",
+  "repo": "threejs-game-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "majidmanzarpour/threejs-game-skills",
+    "skillId": "threejs-game-ui-designer",
+    "name": "threejs-game-ui-designer",
+    "installs": 771,
+    "owner": "majidmanzarpour",
+    "repo": "threejs-game-skills",
+    "githubUrl": "https://github.com/majidmanzarpour/threejs-game-skills",
+    "displayName": "Threejs Game Ui Designer"
+  }
+}

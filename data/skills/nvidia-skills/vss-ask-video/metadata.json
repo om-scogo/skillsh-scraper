@@ -1,0 +1,17 @@
+{
+  "skillId": "vss-ask-video",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "vss-ask-video",
+    "name": "vss-ask-video",
+    "installs": 1523,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Vss Ask Video"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "build-models",
+  "source": "replicate/skills",
+  "owner": "replicate",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "replicate/skills",
+    "skillId": "build-models",
+    "name": "build-models",
+    "installs": 781,
+    "owner": "replicate",
+    "repo": "skills",
+    "githubUrl": "https://github.com/replicate/skills",
+    "displayName": "Build Models"
+  }
+}

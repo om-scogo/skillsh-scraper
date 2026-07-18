@@ -1,0 +1,17 @@
+{
+  "skillId": "data-scraper-agent",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "data-scraper-agent",
+    "name": "data-scraper-agent",
+    "installs": 4733,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Data Scraper Agent"
+  }
+}

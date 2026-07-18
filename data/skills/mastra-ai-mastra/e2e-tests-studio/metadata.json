@@ -1,0 +1,17 @@
+{
+  "skillId": "e2e-tests-studio",
+  "source": "mastra-ai/mastra",
+  "owner": "mastra-ai",
+  "repo": "mastra",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mastra-ai/mastra",
+    "skillId": "e2e-tests-studio",
+    "name": "e2e-tests-studio",
+    "installs": 1405,
+    "owner": "mastra-ai",
+    "repo": "mastra",
+    "githubUrl": "https://github.com/mastra-ai/mastra",
+    "displayName": "E2e Tests Studio"
+  }
+}

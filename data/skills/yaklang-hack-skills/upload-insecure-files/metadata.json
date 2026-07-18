@@ -1,0 +1,17 @@
+{
+  "skillId": "upload-insecure-files",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "upload-insecure-files",
+    "name": "upload-insecure-files",
+    "installs": 1857,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Upload Insecure Files"
+  }
+}

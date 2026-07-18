@@ -1,0 +1,17 @@
+{
+  "skillId": "agents-md",
+  "source": "callicrate/skills",
+  "owner": "callicrate",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "callicrate/skills",
+    "skillId": "agents-md",
+    "name": "agents-md",
+    "installs": 1409,
+    "owner": "callicrate",
+    "repo": "skills",
+    "githubUrl": "https://github.com/callicrate/skills",
+    "displayName": "Agents Md"
+  }
+}

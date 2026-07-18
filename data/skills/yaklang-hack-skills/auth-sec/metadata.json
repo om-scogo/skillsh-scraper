@@ -1,0 +1,17 @@
+{
+  "skillId": "auth-sec",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "auth-sec",
+    "name": "auth-sec",
+    "installs": 2012,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Auth Sec"
+  }
+}

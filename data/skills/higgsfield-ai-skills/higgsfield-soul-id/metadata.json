@@ -1,0 +1,17 @@
+{
+  "skillId": "higgsfield-soul-id",
+  "source": "higgsfield-ai/skills",
+  "owner": "higgsfield-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "higgsfield-ai/skills",
+    "skillId": "higgsfield-soul-id",
+    "name": "higgsfield-soul-id",
+    "installs": 70694,
+    "owner": "higgsfield-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/higgsfield-ai/skills",
+    "displayName": "Higgsfield Soul Id"
+  }
+}

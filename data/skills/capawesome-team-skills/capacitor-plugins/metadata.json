@@ -1,0 +1,17 @@
+{
+  "skillId": "capacitor-plugins",
+  "source": "capawesome-team/skills",
+  "owner": "capawesome-team",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "capawesome-team/skills",
+    "skillId": "capacitor-plugins",
+    "name": "capacitor-plugins",
+    "installs": 904,
+    "owner": "capawesome-team",
+    "repo": "skills",
+    "githubUrl": "https://github.com/capawesome-team/skills",
+    "displayName": "Capacitor Plugins"
+  }
+}

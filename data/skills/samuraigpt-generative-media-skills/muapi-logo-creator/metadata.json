@@ -1,0 +1,17 @@
+{
+  "skillId": "muapi-logo-creator",
+  "source": "samuraigpt/generative-media-skills",
+  "owner": "samuraigpt",
+  "repo": "generative-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samuraigpt/generative-media-skills",
+    "skillId": "muapi-logo-creator",
+    "name": "muapi-logo-creator",
+    "installs": 1517,
+    "owner": "samuraigpt",
+    "repo": "generative-media-skills",
+    "githubUrl": "https://github.com/samuraigpt/generative-media-skills",
+    "displayName": "Muapi Logo Creator"
+  }
+}

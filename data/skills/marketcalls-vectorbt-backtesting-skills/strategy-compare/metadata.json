@@ -1,0 +1,17 @@
+{
+  "skillId": "strategy-compare",
+  "source": "marketcalls/vectorbt-backtesting-skills",
+  "owner": "marketcalls",
+  "repo": "vectorbt-backtesting-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "marketcalls/vectorbt-backtesting-skills",
+    "skillId": "strategy-compare",
+    "name": "strategy-compare",
+    "installs": 1538,
+    "owner": "marketcalls",
+    "repo": "vectorbt-backtesting-skills",
+    "githubUrl": "https://github.com/marketcalls/vectorbt-backtesting-skills",
+    "displayName": "Strategy Compare"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "godot-gdscript-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "godot-gdscript-patterns",
+    "name": "godot-gdscript-patterns",
+    "installs": 12230,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Godot Gdscript Patterns"
+  }
+}

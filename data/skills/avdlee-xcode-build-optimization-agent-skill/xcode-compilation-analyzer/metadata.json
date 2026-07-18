@@ -1,0 +1,17 @@
+{
+  "skillId": "xcode-compilation-analyzer",
+  "source": "avdlee/xcode-build-optimization-agent-skill",
+  "owner": "avdlee",
+  "repo": "xcode-build-optimization-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "avdlee/xcode-build-optimization-agent-skill",
+    "skillId": "xcode-compilation-analyzer",
+    "name": "xcode-compilation-analyzer",
+    "installs": 2748,
+    "owner": "avdlee",
+    "repo": "xcode-build-optimization-agent-skill",
+    "githubUrl": "https://github.com/avdlee/xcode-build-optimization-agent-skill",
+    "displayName": "Xcode Compilation Analyzer"
+  }
+}

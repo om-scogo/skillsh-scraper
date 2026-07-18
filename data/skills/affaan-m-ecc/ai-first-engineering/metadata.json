@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-first-engineering",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "ai-first-engineering",
+    "name": "ai-first-engineering",
+    "installs": 1141,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Ai First Engineering"
+  }
+}

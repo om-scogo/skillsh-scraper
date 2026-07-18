@@ -1,0 +1,17 @@
+{
+  "skillId": "shadcn-ui",
+  "source": "google-labs-code/stitch-skills",
+  "owner": "google-labs-code",
+  "repo": "stitch-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-labs-code/stitch-skills",
+    "skillId": "shadcn-ui",
+    "name": "shadcn-ui",
+    "installs": 44874,
+    "owner": "google-labs-code",
+    "repo": "stitch-skills",
+    "githubUrl": "https://github.com/google-labs-code/stitch-skills",
+    "displayName": "Shadcn Ui"
+  }
+}

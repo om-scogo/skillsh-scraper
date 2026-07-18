@@ -1,0 +1,17 @@
+{
+  "skillId": "seo-local-business",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "seo-local-business",
+    "name": "seo-local-business",
+    "installs": 1454,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Seo Local Business"
+  }
+}

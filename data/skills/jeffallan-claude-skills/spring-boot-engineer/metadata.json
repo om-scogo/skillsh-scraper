@@ -1,0 +1,17 @@
+{
+  "skillId": "spring-boot-engineer",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "spring-boot-engineer",
+    "name": "spring-boot-engineer",
+    "installs": 7005,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Spring Boot Engineer"
+  }
+}

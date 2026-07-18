@@ -1,0 +1,17 @@
+{
+  "skillId": "libtv-skill",
+  "source": "libtv-labs/libtv-skills",
+  "owner": "libtv-labs",
+  "repo": "libtv-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "libtv-labs/libtv-skills",
+    "skillId": "libtv-skill",
+    "name": "libtv-skill",
+    "installs": 4119,
+    "owner": "libtv-labs",
+    "repo": "libtv-skills",
+    "githubUrl": "https://github.com/libtv-labs/libtv-skills",
+    "displayName": "Libtv Skill"
+  }
+}

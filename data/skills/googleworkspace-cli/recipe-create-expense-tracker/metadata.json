@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-create-expense-tracker",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-create-expense-tracker",
+    "name": "recipe-create-expense-tracker",
+    "installs": 22001,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Create Expense Tracker"
+  }
+}

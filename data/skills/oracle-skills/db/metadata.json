@@ -1,0 +1,17 @@
+{
+  "skillId": "db",
+  "source": "oracle/skills",
+  "owner": "oracle",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "oracle/skills",
+    "skillId": "db",
+    "name": "db",
+    "installs": 1321,
+    "owner": "oracle",
+    "repo": "skills",
+    "githubUrl": "https://github.com/oracle/skills",
+    "displayName": "Db"
+  }
+}

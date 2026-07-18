@@ -1,0 +1,17 @@
+{
+  "skillId": "mojo-gpu-fundamentals",
+  "source": "modular/skills",
+  "owner": "modular",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "modular/skills",
+    "skillId": "mojo-gpu-fundamentals",
+    "name": "mojo-gpu-fundamentals",
+    "installs": 1227,
+    "owner": "modular",
+    "repo": "skills",
+    "githubUrl": "https://github.com/modular/skills",
+    "displayName": "Mojo Gpu Fundamentals"
+  }
+}

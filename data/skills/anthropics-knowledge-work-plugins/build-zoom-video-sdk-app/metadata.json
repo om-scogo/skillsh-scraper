@@ -1,0 +1,17 @@
+{
+  "skillId": "build-zoom-video-sdk-app",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "build-zoom-video-sdk-app",
+    "name": "build-zoom-video-sdk-app",
+    "installs": 1294,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Build Zoom Video Sdk App"
+  }
+}

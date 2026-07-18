@@ -1,0 +1,17 @@
+{
+  "skillId": "browser-act",
+  "source": "browser-act/skills",
+  "owner": "browser-act",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "browser-act/skills",
+    "skillId": "browser-act",
+    "name": "browser-act",
+    "installs": 97787,
+    "owner": "browser-act",
+    "repo": "skills",
+    "githubUrl": "https://github.com/browser-act/skills",
+    "displayName": "Browser Act"
+  }
+}

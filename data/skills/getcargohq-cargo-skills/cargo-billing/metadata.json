@@ -1,0 +1,17 @@
+{
+  "skillId": "cargo-billing",
+  "source": "getcargohq/cargo-skills",
+  "owner": "getcargohq",
+  "repo": "cargo-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getcargohq/cargo-skills",
+    "skillId": "cargo-billing",
+    "name": "cargo-billing",
+    "installs": 1797,
+    "owner": "getcargohq",
+    "repo": "cargo-skills",
+    "githubUrl": "https://github.com/getcargohq/cargo-skills",
+    "displayName": "Cargo Billing"
+  }
+}

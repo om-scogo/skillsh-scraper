@@ -1,0 +1,17 @@
+{
+  "skillId": "nextauth-authentication",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "nextauth-authentication",
+    "name": "nextauth-authentication",
+    "installs": 906,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Nextauth Authentication"
+  }
+}

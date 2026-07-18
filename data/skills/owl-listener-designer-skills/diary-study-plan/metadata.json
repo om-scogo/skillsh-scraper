@@ -1,0 +1,17 @@
+{
+  "skillId": "diary-study-plan",
+  "source": "owl-listener/designer-skills",
+  "owner": "owl-listener",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "owl-listener/designer-skills",
+    "skillId": "diary-study-plan",
+    "name": "diary-study-plan",
+    "installs": 863,
+    "owner": "owl-listener",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/owl-listener/designer-skills",
+    "displayName": "Diary Study Plan"
+  }
+}

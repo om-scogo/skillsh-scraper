@@ -1,0 +1,17 @@
+{
+  "skillId": "mcp-hub",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "mcp-hub",
+    "name": "mcp-hub",
+    "installs": 3412,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Mcp Hub"
+  }
+}

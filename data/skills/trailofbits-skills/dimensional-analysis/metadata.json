@@ -1,0 +1,17 @@
+{
+  "skillId": "dimensional-analysis",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "dimensional-analysis",
+    "name": "dimensional-analysis",
+    "installs": 2569,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Dimensional Analysis"
+  }
+}

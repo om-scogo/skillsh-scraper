@@ -1,0 +1,17 @@
+{
+  "skillId": "mailchimp-automation",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "mailchimp-automation",
+    "name": "mailchimp automation",
+    "installs": 3419,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Mailchimp Automation"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "stripchat-vr-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "stripchat-vr-downloader",
+    "name": "stripchat-vr-downloader",
+    "installs": 957,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Stripchat Vr Downloader"
+  }
+}

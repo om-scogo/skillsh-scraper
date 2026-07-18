@@ -1,0 +1,17 @@
+{
+  "skillId": "sql-queries",
+  "source": "phuryn/pm-skills",
+  "owner": "phuryn",
+  "repo": "pm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "phuryn/pm-skills",
+    "skillId": "sql-queries",
+    "name": "sql-queries",
+    "installs": 1693,
+    "owner": "phuryn",
+    "repo": "pm-skills",
+    "githubUrl": "https://github.com/phuryn/pm-skills",
+    "displayName": "Sql Queries"
+  }
+}

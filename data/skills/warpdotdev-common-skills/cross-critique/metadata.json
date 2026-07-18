@@ -1,0 +1,17 @@
+{
+  "skillId": "cross-critique",
+  "source": "warpdotdev/common-skills",
+  "owner": "warpdotdev",
+  "repo": "common-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "warpdotdev/common-skills",
+    "skillId": "cross-critique",
+    "name": "cross-critique",
+    "installs": 6700,
+    "owner": "warpdotdev",
+    "repo": "common-skills",
+    "githubUrl": "https://github.com/warpdotdev/common-skills",
+    "displayName": "Cross Critique"
+  }
+}

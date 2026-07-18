@@ -1,0 +1,17 @@
+{
+  "skillId": "article-magazine",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "article-magazine",
+    "name": "article-magazine",
+    "installs": 1513,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Article Magazine"
+  }
+}

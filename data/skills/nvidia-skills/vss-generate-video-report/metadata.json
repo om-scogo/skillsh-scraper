@@ -1,0 +1,17 @@
+{
+  "skillId": "vss-generate-video-report",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "vss-generate-video-report",
+    "name": "vss-generate-video-report",
+    "installs": 1508,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Vss Generate Video Report"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "minecraftconsoles-lce",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "minecraftconsoles-lce",
+    "name": "minecraftconsoles-lce",
+    "installs": 1323,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Minecraftconsoles Lce"
+  }
+}

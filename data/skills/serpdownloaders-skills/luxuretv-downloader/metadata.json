@@ -1,0 +1,17 @@
+{
+  "skillId": "luxuretv-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "luxuretv-downloader",
+    "name": "luxuretv-downloader",
+    "installs": 952,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Luxuretv Downloader"
+  }
+}

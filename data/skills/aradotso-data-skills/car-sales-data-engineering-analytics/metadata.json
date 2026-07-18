@@ -1,0 +1,17 @@
+{
+  "skillId": "car-sales-data-engineering-analytics",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "car-sales-data-engineering-analytics",
+    "name": "car-sales-data-engineering-analytics",
+    "installs": 820,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Car Sales Data Engineering Analytics"
+  }
+}

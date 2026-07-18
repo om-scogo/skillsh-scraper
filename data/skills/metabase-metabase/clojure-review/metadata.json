@@ -1,0 +1,17 @@
+{
+  "skillId": "clojure-review",
+  "source": "metabase/metabase",
+  "owner": "metabase",
+  "repo": "metabase",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "metabase/metabase",
+    "skillId": "clojure-review",
+    "name": "clojure-review",
+    "installs": 1223,
+    "owner": "metabase",
+    "repo": "metabase",
+    "githubUrl": "https://github.com/metabase/metabase",
+    "displayName": "Clojure Review"
+  }
+}

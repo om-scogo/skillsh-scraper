@@ -1,0 +1,17 @@
+{
+  "skillId": "hubspot",
+  "source": "membranedev/application-skills",
+  "owner": "membranedev",
+  "repo": "application-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "membranedev/application-skills",
+    "skillId": "hubspot",
+    "name": "hubspot",
+    "installs": 849,
+    "owner": "membranedev",
+    "repo": "application-skills",
+    "githubUrl": "https://github.com/membranedev/application-skills",
+    "displayName": "Hubspot"
+  }
+}

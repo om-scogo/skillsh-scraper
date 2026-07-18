@@ -1,0 +1,17 @@
+{
+  "skillId": "diagnose-ci-failures",
+  "source": "warpdotdev/common-skills",
+  "owner": "warpdotdev",
+  "repo": "common-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "warpdotdev/common-skills",
+    "skillId": "diagnose-ci-failures",
+    "name": "diagnose-ci-failures",
+    "installs": 13363,
+    "owner": "warpdotdev",
+    "repo": "common-skills",
+    "githubUrl": "https://github.com/warpdotdev/common-skills",
+    "displayName": "Diagnose Ci Failures"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-cli-usage",
+  "source": "rudrankriyam/app-store-connect-cli-skills",
+  "owner": "rudrankriyam",
+  "repo": "app-store-connect-cli-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rudrankriyam/app-store-connect-cli-skills",
+    "skillId": "asc-cli-usage",
+    "name": "asc-cli-usage",
+    "installs": 2718,
+    "owner": "rudrankriyam",
+    "repo": "app-store-connect-cli-skills",
+    "githubUrl": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+    "displayName": "Asc Cli Usage"
+  }
+}

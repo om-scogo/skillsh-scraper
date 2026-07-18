@@ -1,0 +1,17 @@
+{
+  "skillId": "emblem-memecoin-scout",
+  "source": "emblemcompany/agent-skills",
+  "owner": "emblemcompany",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "emblemcompany/agent-skills",
+    "skillId": "emblem-memecoin-scout",
+    "name": "emblem-memecoin-scout",
+    "installs": 8617,
+    "owner": "emblemcompany",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/emblemcompany/agent-skills",
+    "displayName": "Emblem Memecoin Scout"
+  }
+}

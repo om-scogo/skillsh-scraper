@@ -1,0 +1,17 @@
+{
+  "skillId": "openrouter-typescript-sdk",
+  "source": "openrouterteam/agent-skills",
+  "owner": "openrouterteam",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openrouterteam/agent-skills",
+    "skillId": "openrouter-typescript-sdk",
+    "name": "openrouter-typescript-sdk",
+    "installs": 1963,
+    "owner": "openrouterteam",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/openrouterteam/agent-skills",
+    "displayName": "Openrouter Typescript Sdk"
+  }
+}

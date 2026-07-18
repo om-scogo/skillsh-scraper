@@ -1,0 +1,17 @@
+{
+  "skillId": "orca-cli",
+  "source": "stablyai/orca",
+  "owner": "stablyai",
+  "repo": "orca",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "stablyai/orca",
+    "skillId": "orca-cli",
+    "name": "orca-cli",
+    "installs": 27072,
+    "owner": "stablyai",
+    "repo": "orca",
+    "githubUrl": "https://github.com/stablyai/orca",
+    "displayName": "Orca Cli"
+  }
+}

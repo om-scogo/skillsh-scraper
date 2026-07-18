@@ -1,0 +1,17 @@
+{
+  "skillId": "clui-cc-claude-overlay",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "clui-cc-claude-overlay",
+    "name": "clui-cc-claude-overlay",
+    "installs": 1269,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Clui Cc Claude Overlay"
+  }
+}

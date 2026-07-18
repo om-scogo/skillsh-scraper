@@ -1,0 +1,17 @@
+{
+  "skillId": "multi-domain-brand-seo",
+  "source": "kostja94/marketing-skills",
+  "owner": "kostja94",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kostja94/marketing-skills",
+    "skillId": "multi-domain-brand-seo",
+    "name": "multi-domain-brand-seo",
+    "installs": 747,
+    "owner": "kostja94",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/kostja94/marketing-skills",
+    "displayName": "Multi Domain Brand Seo"
+  }
+}

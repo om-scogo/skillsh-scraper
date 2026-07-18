@@ -1,0 +1,17 @@
+{
+  "skillId": "cold-start-problem",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "cold-start-problem",
+    "name": "cold-start-problem",
+    "installs": 763,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Cold Start Problem"
+  }
+}

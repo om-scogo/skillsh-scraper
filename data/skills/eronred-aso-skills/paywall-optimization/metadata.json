@@ -1,0 +1,17 @@
+{
+  "skillId": "paywall-optimization",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "paywall-optimization",
+    "name": "paywall-optimization",
+    "installs": 828,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "Paywall Optimization"
+  }
+}

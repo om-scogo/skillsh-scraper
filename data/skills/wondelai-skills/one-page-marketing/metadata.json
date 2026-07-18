@@ -1,0 +1,17 @@
+{
+  "skillId": "one-page-marketing",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "one-page-marketing",
+    "name": "one-page-marketing",
+    "installs": 3012,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "One Page Marketing"
+  }
+}

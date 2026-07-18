@@ -1,0 +1,17 @@
+{
+  "skillId": "harvard-artifacts-etl-streamlit",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "harvard-artifacts-etl-streamlit",
+    "name": "harvard-artifacts-etl-streamlit",
+    "installs": 943,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Harvard Artifacts Etl Streamlit"
+  }
+}

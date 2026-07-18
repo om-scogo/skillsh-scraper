@@ -1,0 +1,17 @@
+{
+  "skillId": "humanize-academic-writing",
+  "source": "momo2young/humanize-academic-writing",
+  "owner": "momo2young",
+  "repo": "humanize-academic-writing",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "momo2young/humanize-academic-writing",
+    "skillId": "humanize-academic-writing",
+    "name": "humanize-academic-writing",
+    "installs": 1370,
+    "owner": "momo2young",
+    "repo": "humanize-academic-writing",
+    "githubUrl": "https://github.com/momo2young/humanize-academic-writing",
+    "displayName": "Humanize Academic Writing"
+  }
+}

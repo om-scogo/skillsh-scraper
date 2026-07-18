@@ -1,0 +1,17 @@
+{
+  "skillId": "amazon-elasticache",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "amazon-elasticache",
+    "name": "amazon-elasticache",
+    "installs": 790,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Amazon Elasticache"
+  }
+}

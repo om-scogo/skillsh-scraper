@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-email-inbox",
+  "source": "resend/resend-skills",
+  "owner": "resend",
+  "repo": "resend-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "resend/resend-skills",
+    "skillId": "agent-email-inbox",
+    "name": "agent-email-inbox",
+    "installs": 5079,
+    "owner": "resend",
+    "repo": "resend-skills",
+    "githubUrl": "https://github.com/resend/resend-skills",
+    "displayName": "Agent Email Inbox"
+  }
+}

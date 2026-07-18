@@ -1,0 +1,17 @@
+{
+  "skillId": "registry",
+  "source": "frames-engineering/skills",
+  "owner": "frames-engineering",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "frames-engineering/skills",
+    "skillId": "registry",
+    "name": "registry",
+    "installs": 2095,
+    "owner": "frames-engineering",
+    "repo": "skills",
+    "githubUrl": "https://github.com/frames-engineering/skills",
+    "displayName": "Registry"
+  }
+}

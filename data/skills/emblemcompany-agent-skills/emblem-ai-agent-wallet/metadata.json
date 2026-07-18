@@ -1,0 +1,17 @@
+{
+  "skillId": "emblem-ai-agent-wallet",
+  "source": "emblemcompany/agent-skills",
+  "owner": "emblemcompany",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "emblemcompany/agent-skills",
+    "skillId": "emblem-ai-agent-wallet",
+    "name": "emblem-ai-agent-wallet",
+    "installs": 8767,
+    "owner": "emblemcompany",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/emblemcompany/agent-skills",
+    "displayName": "Emblem Ai Agent Wallet"
+  }
+}

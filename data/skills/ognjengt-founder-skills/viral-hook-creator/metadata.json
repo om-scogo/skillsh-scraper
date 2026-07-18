@@ -1,0 +1,17 @@
+{
+  "skillId": "viral-hook-creator",
+  "source": "ognjengt/founder-skills",
+  "owner": "ognjengt",
+  "repo": "founder-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ognjengt/founder-skills",
+    "skillId": "viral-hook-creator",
+    "name": "viral-hook-creator",
+    "installs": 1267,
+    "owner": "ognjengt",
+    "repo": "founder-skills",
+    "githubUrl": "https://github.com/ognjengt/founder-skills",
+    "displayName": "Viral Hook Creator"
+  }
+}

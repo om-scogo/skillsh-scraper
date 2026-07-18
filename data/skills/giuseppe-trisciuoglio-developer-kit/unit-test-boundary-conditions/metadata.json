@@ -1,0 +1,17 @@
+{
+  "skillId": "unit-test-boundary-conditions",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "unit-test-boundary-conditions",
+    "name": "unit-test-boundary-conditions",
+    "installs": 1859,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Unit Test Boundary Conditions"
+  }
+}

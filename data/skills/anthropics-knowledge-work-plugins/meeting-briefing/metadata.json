@@ -1,0 +1,17 @@
+{
+  "skillId": "meeting-briefing",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "meeting-briefing",
+    "name": "meeting-briefing",
+    "installs": 2108,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Meeting Briefing"
+  }
+}

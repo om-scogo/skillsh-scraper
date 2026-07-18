@@ -1,0 +1,17 @@
+{
+  "skillId": "security-ownership-map",
+  "source": "openai/skills",
+  "owner": "openai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openai/skills",
+    "skillId": "security-ownership-map",
+    "name": "security-ownership-map",
+    "installs": 2058,
+    "owner": "openai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/openai/skills",
+    "displayName": "Security Ownership Map"
+  }
+}

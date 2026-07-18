@@ -1,0 +1,17 @@
+{
+  "skillId": "issue-fields-migration",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "issue-fields-migration",
+    "name": "issue-fields-migration",
+    "installs": 1776,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Issue Fields Migration"
+  }
+}

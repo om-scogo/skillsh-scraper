@@ -1,0 +1,17 @@
+{
+  "skillId": "paperclip-board",
+  "source": "getpaperclipai/paperclip",
+  "owner": "getpaperclipai",
+  "repo": "paperclip",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getpaperclipai/paperclip",
+    "skillId": "paperclip-board",
+    "name": "paperclip-board",
+    "installs": 67022,
+    "owner": "getpaperclipai",
+    "repo": "paperclip",
+    "githubUrl": "https://github.com/getpaperclipai/paperclip",
+    "displayName": "Paperclip Board"
+  }
+}

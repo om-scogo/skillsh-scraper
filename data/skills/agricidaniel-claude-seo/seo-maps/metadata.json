@@ -1,0 +1,17 @@
+{
+  "skillId": "seo-maps",
+  "source": "agricidaniel/claude-seo",
+  "owner": "agricidaniel",
+  "repo": "claude-seo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-seo",
+    "skillId": "seo-maps",
+    "name": "seo-maps",
+    "installs": 2985,
+    "owner": "agricidaniel",
+    "repo": "claude-seo",
+    "githubUrl": "https://github.com/agricidaniel/claude-seo",
+    "displayName": "Seo Maps"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "react18-dep-compatibility",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "react18-dep-compatibility",
+    "name": "react18-dep-compatibility",
+    "installs": 753,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "React18 Dep Compatibility"
+  }
+}

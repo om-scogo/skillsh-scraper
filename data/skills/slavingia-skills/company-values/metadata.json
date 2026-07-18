@@ -1,0 +1,17 @@
+{
+  "skillId": "company-values",
+  "source": "slavingia/skills",
+  "owner": "slavingia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "slavingia/skills",
+    "skillId": "company-values",
+    "name": "company-values",
+    "installs": 1069,
+    "owner": "slavingia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/slavingia/skills",
+    "displayName": "Company Values"
+  }
+}

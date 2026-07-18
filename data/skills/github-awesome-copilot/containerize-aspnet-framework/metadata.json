@@ -1,0 +1,17 @@
+{
+  "skillId": "containerize-aspnet-framework",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "containerize-aspnet-framework",
+    "name": "containerize-aspnet-framework",
+    "installs": 8558,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Containerize Aspnet Framework"
+  }
+}

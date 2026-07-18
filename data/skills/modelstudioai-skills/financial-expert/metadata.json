@@ -1,0 +1,17 @@
+{
+  "skillId": "financial-expert",
+  "source": "modelstudioai/skills",
+  "owner": "modelstudioai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "modelstudioai/skills",
+    "skillId": "financial-expert",
+    "name": "financial-expert",
+    "installs": 757,
+    "owner": "modelstudioai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/modelstudioai/skills",
+    "displayName": "Financial Expert"
+  }
+}

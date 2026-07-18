@@ -1,0 +1,17 @@
+{
+  "skillId": "add-provider-package",
+  "source": "vercel/ai",
+  "owner": "vercel",
+  "repo": "ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/ai",
+    "skillId": "add-provider-package",
+    "name": "add-provider-package",
+    "installs": 893,
+    "owner": "vercel",
+    "repo": "ai",
+    "githubUrl": "https://github.com/vercel/ai",
+    "displayName": "Add Provider Package"
+  }
+}

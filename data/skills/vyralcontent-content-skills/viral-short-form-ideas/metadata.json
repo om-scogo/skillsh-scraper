@@ -1,0 +1,17 @@
+{
+  "skillId": "viral-short-form-ideas",
+  "source": "vyralcontent/content-skills",
+  "owner": "vyralcontent",
+  "repo": "content-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vyralcontent/content-skills",
+    "skillId": "viral-short-form-ideas",
+    "name": "viral-short-form-ideas",
+    "installs": 11,
+    "owner": "vyralcontent",
+    "repo": "content-skills",
+    "githubUrl": "https://github.com/vyralcontent/content-skills",
+    "displayName": "Viral Short Form Ideas"
+  }
+}

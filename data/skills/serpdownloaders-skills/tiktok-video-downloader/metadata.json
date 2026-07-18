@@ -1,0 +1,17 @@
+{
+  "skillId": "tiktok-video-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "tiktok-video-downloader",
+    "name": "tiktok-video-downloader",
+    "installs": 1065,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Tiktok Video Downloader"
+  }
+}

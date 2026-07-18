@@ -1,0 +1,17 @@
+{
+  "skillId": "openclaw-history-ingest",
+  "source": "ar9av/obsidian-wiki",
+  "owner": "ar9av",
+  "repo": "obsidian-wiki",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ar9av/obsidian-wiki",
+    "skillId": "openclaw-history-ingest",
+    "name": "openclaw-history-ingest",
+    "installs": 1793,
+    "owner": "ar9av",
+    "repo": "obsidian-wiki",
+    "githubUrl": "https://github.com/ar9av/obsidian-wiki",
+    "displayName": "Openclaw History Ingest"
+  }
+}

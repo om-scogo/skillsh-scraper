@@ -1,0 +1,17 @@
+{
+  "skillId": "twitter-automation",
+  "source": "inference-sh/skills",
+  "owner": "inference-sh",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "inference-sh/skills",
+    "skillId": "twitter-automation",
+    "name": "twitter-automation",
+    "installs": 874,
+    "owner": "inference-sh",
+    "repo": "skills",
+    "githubUrl": "https://github.com/inference-sh/skills",
+    "displayName": "Twitter Automation"
+  }
+}

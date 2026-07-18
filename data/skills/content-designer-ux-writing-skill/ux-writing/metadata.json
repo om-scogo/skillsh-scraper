@@ -1,0 +1,17 @@
+{
+  "skillId": "ux-writing",
+  "source": "content-designer/ux-writing-skill",
+  "owner": "content-designer",
+  "repo": "ux-writing-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "content-designer/ux-writing-skill",
+    "skillId": "ux-writing",
+    "name": "ux-writing",
+    "installs": 1028,
+    "owner": "content-designer",
+    "repo": "ux-writing-skill",
+    "githubUrl": "https://github.com/content-designer/ux-writing-skill",
+    "displayName": "Ux Writing"
+  }
+}

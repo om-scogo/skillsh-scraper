@@ -1,0 +1,17 @@
+{
+  "skillId": "testing-agentforce",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "testing-agentforce",
+    "name": "testing-agentforce",
+    "installs": 2173,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Testing Agentforce"
+  }
+}

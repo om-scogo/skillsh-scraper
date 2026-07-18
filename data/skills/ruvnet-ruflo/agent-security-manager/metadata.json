@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-security-manager",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-security-manager",
+    "name": "agent-security-manager",
+    "installs": 985,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Security Manager"
+  }
+}

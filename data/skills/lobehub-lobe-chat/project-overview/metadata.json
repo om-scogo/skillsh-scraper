@@ -1,0 +1,17 @@
+{
+  "skillId": "project-overview",
+  "source": "lobehub/lobe-chat",
+  "owner": "lobehub",
+  "repo": "lobe-chat",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobe-chat",
+    "skillId": "project-overview",
+    "name": "project-overview",
+    "installs": 1363,
+    "owner": "lobehub",
+    "repo": "lobe-chat",
+    "githubUrl": "https://github.com/lobehub/lobe-chat",
+    "displayName": "Project Overview"
+  }
+}

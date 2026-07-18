@@ -1,0 +1,17 @@
+{
+  "skillId": "kotlin-tooling-cocoapods-spm-migration",
+  "source": "kotlin/kotlin-agent-skills",
+  "owner": "kotlin",
+  "repo": "kotlin-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kotlin/kotlin-agent-skills",
+    "skillId": "kotlin-tooling-cocoapods-spm-migration",
+    "name": "kotlin-tooling-cocoapods-spm-migration",
+    "installs": 838,
+    "owner": "kotlin",
+    "repo": "kotlin-agent-skills",
+    "githubUrl": "https://github.com/kotlin/kotlin-agent-skills",
+    "displayName": "Kotlin Tooling Cocoapods Spm Migration"
+  }
+}

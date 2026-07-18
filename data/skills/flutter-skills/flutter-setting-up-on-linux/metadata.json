@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-setting-up-on-linux",
+  "source": "flutter/skills",
+  "owner": "flutter",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "flutter/skills",
+    "skillId": "flutter-setting-up-on-linux",
+    "name": "flutter-setting-up-on-linux",
+    "installs": 7660,
+    "owner": "flutter",
+    "repo": "skills",
+    "githubUrl": "https://github.com/flutter/skills",
+    "displayName": "Flutter Setting Up On Linux"
+  }
+}

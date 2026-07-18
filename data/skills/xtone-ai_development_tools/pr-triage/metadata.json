@@ -1,0 +1,17 @@
+{
+  "skillId": "pr-triage",
+  "source": "xtone/ai_development_tools",
+  "owner": "xtone",
+  "repo": "ai_development_tools",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "xtone/ai_development_tools",
+    "skillId": "pr-triage",
+    "name": "pr-triage",
+    "installs": 1642,
+    "owner": "xtone",
+    "repo": "ai_development_tools",
+    "githubUrl": "https://github.com/xtone/ai_development_tools",
+    "displayName": "Pr Triage"
+  }
+}

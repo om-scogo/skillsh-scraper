@@ -1,0 +1,17 @@
+{
+  "skillId": "lark-shared",
+  "source": "larksuite/cli",
+  "owner": "larksuite",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "larksuite/cli",
+    "skillId": "lark-shared",
+    "name": "lark-shared",
+    "installs": 363928,
+    "owner": "larksuite",
+    "repo": "cli",
+    "githubUrl": "https://github.com/larksuite/cli",
+    "displayName": "Lark Shared"
+  }
+}

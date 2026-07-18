@@ -1,0 +1,17 @@
+{
+  "skillId": "pencil-design",
+  "source": "chiroro-jr/pencil-design-skill",
+  "owner": "chiroro-jr",
+  "repo": "pencil-design-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chiroro-jr/pencil-design-skill",
+    "skillId": "pencil-design",
+    "name": "pencil-design",
+    "installs": 1700,
+    "owner": "chiroro-jr",
+    "repo": "pencil-design-skill",
+    "githubUrl": "https://github.com/chiroro-jr/pencil-design-skill",
+    "displayName": "Pencil Design"
+  }
+}

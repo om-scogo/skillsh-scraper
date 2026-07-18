@@ -1,0 +1,17 @@
+{
+  "skillId": "dx-devops-test-suite-run",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "dx-devops-test-suite-run",
+    "name": "dx-devops-test-suite-run",
+    "installs": 1301,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Dx Devops Test Suite Run"
+  }
+}

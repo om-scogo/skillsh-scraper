@@ -1,0 +1,17 @@
+{
+  "skillId": "brand-copywriter",
+  "source": "ognjengt/founder-skills",
+  "owner": "ognjengt",
+  "repo": "founder-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ognjengt/founder-skills",
+    "skillId": "brand-copywriter",
+    "name": "brand-copywriter",
+    "installs": 789,
+    "owner": "ognjengt",
+    "repo": "founder-skills",
+    "githubUrl": "https://github.com/ognjengt/founder-skills",
+    "displayName": "Brand Copywriter"
+  }
+}

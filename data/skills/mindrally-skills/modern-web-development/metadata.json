@@ -1,0 +1,17 @@
+{
+  "skillId": "modern-web-development",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "modern-web-development",
+    "name": "modern-web-development",
+    "installs": 904,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Modern Web Development"
+  }
+}

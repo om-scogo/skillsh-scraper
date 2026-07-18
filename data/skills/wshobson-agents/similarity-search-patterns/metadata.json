@@ -1,0 +1,17 @@
+{
+  "skillId": "similarity-search-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "similarity-search-patterns",
+    "name": "similarity-search-patterns",
+    "installs": 8113,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Similarity Search Patterns"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "hackernews",
+  "source": "vm0-ai/vm0-skills",
+  "owner": "vm0-ai",
+  "repo": "vm0-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vm0-ai/vm0-skills",
+    "skillId": "hackernews",
+    "name": "hackernews",
+    "installs": 2961,
+    "owner": "vm0-ai",
+    "repo": "vm0-skills",
+    "githubUrl": "https://github.com/vm0-ai/vm0-skills",
+    "displayName": "Hackernews"
+  }
+}

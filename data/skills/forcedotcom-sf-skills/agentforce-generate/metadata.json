@@ -1,0 +1,17 @@
+{
+  "skillId": "agentforce-generate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "agentforce-generate",
+    "name": "agentforce-generate",
+    "installs": 1386,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Agentforce Generate"
+  }
+}

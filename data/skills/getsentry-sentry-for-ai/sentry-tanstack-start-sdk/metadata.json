@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-tanstack-start-sdk",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-tanstack-start-sdk",
+    "name": "sentry-tanstack-start-sdk",
+    "installs": 1314,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry Tanstack Start Sdk"
+  }
+}

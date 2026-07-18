@@ -1,0 +1,17 @@
+{
+  "skillId": "clickhouse-io",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "clickhouse-io",
+    "name": "clickhouse-io",
+    "installs": 1107,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Clickhouse Io"
+  }
+}

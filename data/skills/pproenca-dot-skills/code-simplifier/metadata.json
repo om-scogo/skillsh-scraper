@@ -1,0 +1,17 @@
+{
+  "skillId": "code-simplifier",
+  "source": "pproenca/dot-skills",
+  "owner": "pproenca",
+  "repo": "dot-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pproenca/dot-skills",
+    "skillId": "code-simplifier",
+    "name": "code-simplifier",
+    "installs": 1221,
+    "owner": "pproenca",
+    "repo": "dot-skills",
+    "githubUrl": "https://github.com/pproenca/dot-skills",
+    "displayName": "Code Simplifier"
+  }
+}

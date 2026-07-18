@@ -1,0 +1,17 @@
+{
+  "skillId": "sf-diagram-mermaid",
+  "source": "jaganpro/sf-skills",
+  "owner": "jaganpro",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jaganpro/sf-skills",
+    "skillId": "sf-diagram-mermaid",
+    "name": "sf-diagram-mermaid",
+    "installs": 1285,
+    "owner": "jaganpro",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/jaganpro/sf-skills",
+    "displayName": "Sf Diagram Mermaid"
+  }
+}

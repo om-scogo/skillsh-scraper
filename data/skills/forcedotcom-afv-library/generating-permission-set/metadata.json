@@ -1,0 +1,17 @@
+{
+  "skillId": "generating-permission-set",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "generating-permission-set",
+    "name": "generating-permission-set",
+    "installs": 1550,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Generating Permission Set"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "story-setup",
+  "source": "worldwonderer/oh-story-claudecode",
+  "owner": "worldwonderer",
+  "repo": "oh-story-claudecode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "worldwonderer/oh-story-claudecode",
+    "skillId": "story-setup",
+    "name": "story-setup",
+    "installs": 7683,
+    "owner": "worldwonderer",
+    "repo": "oh-story-claudecode",
+    "githubUrl": "https://github.com/worldwonderer/oh-story-claudecode",
+    "displayName": "Story Setup"
+  }
+}

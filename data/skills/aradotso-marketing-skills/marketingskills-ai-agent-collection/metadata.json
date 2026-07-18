@@ -1,0 +1,17 @@
+{
+  "skillId": "marketingskills-ai-agent-collection",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "marketingskills-ai-agent-collection",
+    "name": "marketingskills-ai-agent-collection",
+    "installs": 978,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Marketingskills Ai Agent Collection"
+  }
+}

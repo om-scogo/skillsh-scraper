@@ -1,0 +1,17 @@
+{
+  "skillId": "workers-best-practices",
+  "source": "cloudflare/skills",
+  "owner": "cloudflare",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudflare/skills",
+    "skillId": "workers-best-practices",
+    "name": "workers-best-practices",
+    "installs": 26953,
+    "owner": "cloudflare",
+    "repo": "skills",
+    "githubUrl": "https://github.com/cloudflare/skills",
+    "displayName": "Workers Best Practices"
+  }
+}

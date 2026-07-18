@@ -1,0 +1,17 @@
+{
+  "skillId": "spec-driven-implementation",
+  "source": "warpdotdev/common-skills",
+  "owner": "warpdotdev",
+  "repo": "common-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "warpdotdev/common-skills",
+    "skillId": "spec-driven-implementation",
+    "name": "spec-driven-implementation",
+    "installs": 13555,
+    "owner": "warpdotdev",
+    "repo": "common-skills",
+    "githubUrl": "https://github.com/warpdotdev/common-skills",
+    "displayName": "Spec Driven Implementation"
+  }
+}

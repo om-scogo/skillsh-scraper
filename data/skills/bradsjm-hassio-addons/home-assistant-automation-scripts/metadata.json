@@ -1,0 +1,17 @@
+{
+  "skillId": "home-assistant-automation-scripts",
+  "source": "bradsjm/hassio-addons",
+  "owner": "bradsjm",
+  "repo": "hassio-addons",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bradsjm/hassio-addons",
+    "skillId": "home-assistant-automation-scripts",
+    "name": "home-assistant-automation-scripts",
+    "installs": 781,
+    "owner": "bradsjm",
+    "repo": "hassio-addons",
+    "githubUrl": "https://github.com/bradsjm/hassio-addons",
+    "displayName": "Home Assistant Automation Scripts"
+  }
+}

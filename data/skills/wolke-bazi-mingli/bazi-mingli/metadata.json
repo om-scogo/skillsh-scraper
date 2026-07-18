@@ -1,0 +1,17 @@
+{
+  "skillId": "bazi-mingli",
+  "source": "wolke/bazi-mingli",
+  "owner": "wolke",
+  "repo": "bazi-mingli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wolke/bazi-mingli",
+    "skillId": "bazi-mingli",
+    "name": "bazi-mingli",
+    "installs": 1304,
+    "owner": "wolke",
+    "repo": "bazi-mingli",
+    "githubUrl": "https://github.com/wolke/bazi-mingli",
+    "displayName": "Bazi Mingli"
+  }
+}

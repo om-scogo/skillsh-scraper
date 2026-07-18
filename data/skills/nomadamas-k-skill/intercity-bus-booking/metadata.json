@@ -1,0 +1,17 @@
+{
+  "skillId": "intercity-bus-booking",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "intercity-bus-booking",
+    "name": "intercity-bus-booking",
+    "installs": 1533,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Intercity Bus Booking"
+  }
+}

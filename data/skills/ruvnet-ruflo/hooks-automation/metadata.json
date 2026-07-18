@@ -1,0 +1,17 @@
+{
+  "skillId": "hooks-automation",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "hooks-automation",
+    "name": "hooks automation",
+    "installs": 977,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Hooks Automation"
+  }
+}

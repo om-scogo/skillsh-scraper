@@ -1,0 +1,17 @@
+{
+  "skillId": "creating-api-gateway-stage",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "creating-api-gateway-stage",
+    "name": "creating-api-gateway-stage",
+    "installs": 1787,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Creating Api Gateway Stage"
+  }
+}

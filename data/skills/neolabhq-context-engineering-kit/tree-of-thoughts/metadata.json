@@ -1,0 +1,17 @@
+{
+  "skillId": "tree-of-thoughts",
+  "source": "neolabhq/context-engineering-kit",
+  "owner": "neolabhq",
+  "repo": "context-engineering-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "neolabhq/context-engineering-kit",
+    "skillId": "tree-of-thoughts",
+    "name": "tree-of-thoughts",
+    "installs": 810,
+    "owner": "neolabhq",
+    "repo": "context-engineering-kit",
+    "githubUrl": "https://github.com/neolabhq/context-engineering-kit",
+    "displayName": "Tree Of Thoughts"
+  }
+}

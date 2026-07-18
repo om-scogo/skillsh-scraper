@@ -1,0 +1,17 @@
+{
+  "skillId": "setting-up-cloudtrail-multi-region",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "setting-up-cloudtrail-multi-region",
+    "name": "setting-up-cloudtrail-multi-region",
+    "installs": 1618,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Setting Up Cloudtrail Multi Region"
+  }
+}

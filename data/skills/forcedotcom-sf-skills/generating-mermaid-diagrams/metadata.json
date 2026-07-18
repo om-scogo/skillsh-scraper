@@ -1,0 +1,17 @@
+{
+  "skillId": "generating-mermaid-diagrams",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "generating-mermaid-diagrams",
+    "name": "generating-mermaid-diagrams",
+    "installs": 2329,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Generating Mermaid Diagrams"
+  }
+}

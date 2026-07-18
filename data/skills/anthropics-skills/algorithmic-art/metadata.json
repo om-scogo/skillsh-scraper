@@ -1,0 +1,17 @@
+{
+  "skillId": "algorithmic-art",
+  "source": "anthropics/skills",
+  "owner": "anthropics",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/skills",
+    "skillId": "algorithmic-art",
+    "name": "algorithmic-art",
+    "installs": 66914,
+    "owner": "anthropics",
+    "repo": "skills",
+    "githubUrl": "https://github.com/anthropics/skills",
+    "displayName": "Algorithmic Art"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "userinterface-wiki",
+  "source": "raphaelsalaja/userinterface-wiki",
+  "owner": "raphaelsalaja",
+  "repo": "userinterface-wiki",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "raphaelsalaja/userinterface-wiki",
+    "skillId": "userinterface-wiki",
+    "name": "userinterface-wiki",
+    "installs": 3317,
+    "owner": "raphaelsalaja",
+    "repo": "userinterface-wiki",
+    "githubUrl": "https://github.com/raphaelsalaja/userinterface-wiki",
+    "displayName": "Userinterface Wiki"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "motion-designer",
+  "source": "dylantarre/animation-principles",
+  "owner": "dylantarre",
+  "repo": "animation-principles",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dylantarre/animation-principles",
+    "skillId": "motion-designer",
+    "name": "motion-designer",
+    "installs": 1034,
+    "owner": "dylantarre",
+    "repo": "animation-principles",
+    "githubUrl": "https://github.com/dylantarre/animation-principles",
+    "displayName": "Motion Designer"
+  }
+}

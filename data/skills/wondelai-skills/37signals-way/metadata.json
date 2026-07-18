@@ -1,0 +1,17 @@
+{
+  "skillId": "37signals-way",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "37signals-way",
+    "name": "37signals-way",
+    "installs": 2085,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "37signals Way"
+  }
+}

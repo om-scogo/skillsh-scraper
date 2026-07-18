@@ -1,0 +1,17 @@
+{
+  "skillId": "tracing-upstream-lineage",
+  "source": "astronomer/agents",
+  "owner": "astronomer",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astronomer/agents",
+    "skillId": "tracing-upstream-lineage",
+    "name": "tracing-upstream-lineage",
+    "installs": 874,
+    "owner": "astronomer",
+    "repo": "agents",
+    "githubUrl": "https://github.com/astronomer/agents",
+    "displayName": "Tracing Upstream Lineage"
+  }
+}

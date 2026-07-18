@@ -1,0 +1,17 @@
+{
+  "skillId": "security-scan",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "security-scan",
+    "name": "security-scan",
+    "installs": 1148,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Security Scan"
+  }
+}

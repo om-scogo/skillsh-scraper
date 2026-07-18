@@ -1,0 +1,17 @@
+{
+  "skillId": "meme-rush",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "meme-rush",
+    "name": "meme-rush",
+    "installs": 5492,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Meme Rush"
+  }
+}

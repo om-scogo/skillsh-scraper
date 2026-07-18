@@ -1,0 +1,17 @@
+{
+  "skillId": "dx-code-analyzer-run",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "dx-code-analyzer-run",
+    "name": "dx-code-analyzer-run",
+    "installs": 1499,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Dx Code Analyzer Run"
+  }
+}

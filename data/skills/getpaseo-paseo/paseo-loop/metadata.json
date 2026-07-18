@@ -1,0 +1,17 @@
+{
+  "skillId": "paseo-loop",
+  "source": "getpaseo/paseo",
+  "owner": "getpaseo",
+  "repo": "paseo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getpaseo/paseo",
+    "skillId": "paseo-loop",
+    "name": "paseo-loop",
+    "installs": 1882,
+    "owner": "getpaseo",
+    "repo": "paseo",
+    "githubUrl": "https://github.com/getpaseo/paseo",
+    "displayName": "Paseo Loop"
+  }
+}

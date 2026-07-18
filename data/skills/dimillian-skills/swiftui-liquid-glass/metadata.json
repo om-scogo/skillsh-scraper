@@ -1,0 +1,17 @@
+{
+  "skillId": "swiftui-liquid-glass",
+  "source": "dimillian/skills",
+  "owner": "dimillian",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dimillian/skills",
+    "skillId": "swiftui-liquid-glass",
+    "name": "swiftui-liquid-glass",
+    "installs": 3557,
+    "owner": "dimillian",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dimillian/skills",
+    "displayName": "Swiftui Liquid Glass"
+  }
+}

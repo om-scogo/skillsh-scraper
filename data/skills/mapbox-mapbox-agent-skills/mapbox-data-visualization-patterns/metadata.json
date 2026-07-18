@@ -1,0 +1,17 @@
+{
+  "skillId": "mapbox-data-visualization-patterns",
+  "source": "mapbox/mapbox-agent-skills",
+  "owner": "mapbox",
+  "repo": "mapbox-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mapbox/mapbox-agent-skills",
+    "skillId": "mapbox-data-visualization-patterns",
+    "name": "mapbox-data-visualization-patterns",
+    "installs": 1291,
+    "owner": "mapbox",
+    "repo": "mapbox-agent-skills",
+    "githubUrl": "https://github.com/mapbox/mapbox-agent-skills",
+    "displayName": "Mapbox Data Visualization Patterns"
+  }
+}

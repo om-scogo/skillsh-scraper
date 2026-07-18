@@ -1,0 +1,17 @@
+{
+  "skillId": "videoagent-image-studio",
+  "source": "pexoai/pexo-skills",
+  "owner": "pexoai",
+  "repo": "pexo-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pexoai/pexo-skills",
+    "skillId": "videoagent-image-studio",
+    "name": "videoagent-image-studio",
+    "installs": 5501,
+    "owner": "pexoai",
+    "repo": "pexo-skills",
+    "githubUrl": "https://github.com/pexoai/pexo-skills",
+    "displayName": "Videoagent Image Studio"
+  }
+}

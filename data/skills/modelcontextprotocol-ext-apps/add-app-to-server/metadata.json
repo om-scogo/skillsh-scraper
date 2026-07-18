@@ -1,0 +1,17 @@
+{
+  "skillId": "add-app-to-server",
+  "source": "modelcontextprotocol/ext-apps",
+  "owner": "modelcontextprotocol",
+  "repo": "ext-apps",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "modelcontextprotocol/ext-apps",
+    "skillId": "add-app-to-server",
+    "name": "add-app-to-server",
+    "installs": 823,
+    "owner": "modelcontextprotocol",
+    "repo": "ext-apps",
+    "githubUrl": "https://github.com/modelcontextprotocol/ext-apps",
+    "displayName": "Add App To Server"
+  }
+}

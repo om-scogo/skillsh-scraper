@@ -1,0 +1,17 @@
+{
+  "skillId": "frame-flowchart-sticky",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "frame-flowchart-sticky",
+    "name": "frame-flowchart-sticky",
+    "installs": 1476,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Frame Flowchart Sticky"
+  }
+}

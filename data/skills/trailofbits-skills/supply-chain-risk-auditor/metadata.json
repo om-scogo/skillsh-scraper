@@ -1,0 +1,17 @@
+{
+  "skillId": "supply-chain-risk-auditor",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "supply-chain-risk-auditor",
+    "name": "supply-chain-risk-auditor",
+    "installs": 5024,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Supply Chain Risk Auditor"
+  }
+}

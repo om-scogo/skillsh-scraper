@@ -1,0 +1,17 @@
+{
+  "skillId": "computer-automation",
+  "source": "web-infra-dev/midscene-skills",
+  "owner": "web-infra-dev",
+  "repo": "midscene-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "web-infra-dev/midscene-skills",
+    "skillId": "computer-automation",
+    "name": "computer-automation",
+    "installs": 1344,
+    "owner": "web-infra-dev",
+    "repo": "midscene-skills",
+    "githubUrl": "https://github.com/web-infra-dev/midscene-skills",
+    "displayName": "Computer Automation"
+  }
+}

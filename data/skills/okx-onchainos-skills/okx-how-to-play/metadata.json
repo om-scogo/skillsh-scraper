@@ -1,0 +1,17 @@
+{
+  "skillId": "okx-how-to-play",
+  "source": "okx/onchainos-skills",
+  "owner": "okx",
+  "repo": "onchainos-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "okx/onchainos-skills",
+    "skillId": "okx-how-to-play",
+    "name": "okx-how-to-play",
+    "installs": 2961,
+    "owner": "okx",
+    "repo": "onchainos-skills",
+    "githubUrl": "https://github.com/okx/onchainos-skills",
+    "displayName": "Okx How To Play"
+  }
+}

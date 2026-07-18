@@ -1,0 +1,17 @@
+{
+  "skillId": "adk-observability-guide",
+  "source": "google/adk-docs",
+  "owner": "google",
+  "repo": "adk-docs",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/adk-docs",
+    "skillId": "adk-observability-guide",
+    "name": "adk-observability-guide",
+    "installs": 2646,
+    "owner": "google",
+    "repo": "adk-docs",
+    "githubUrl": "https://github.com/google/adk-docs",
+    "displayName": "Adk Observability Guide"
+  }
+}

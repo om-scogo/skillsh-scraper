@@ -1,0 +1,17 @@
+{
+  "skillId": "nature-data",
+  "source": "yuan1z0825/nature-skills",
+  "owner": "yuan1z0825",
+  "repo": "nature-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yuan1z0825/nature-skills",
+    "skillId": "nature-data",
+    "name": "nature-data",
+    "installs": 3717,
+    "owner": "yuan1z0825",
+    "repo": "nature-skills",
+    "githubUrl": "https://github.com/yuan1z0825/nature-skills",
+    "displayName": "Nature Data"
+  }
+}

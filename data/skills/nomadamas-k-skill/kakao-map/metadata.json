@@ -1,0 +1,17 @@
+{
+  "skillId": "kakao-map",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "kakao-map",
+    "name": "kakao-map",
+    "installs": 1085,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Kakao Map"
+  }
+}

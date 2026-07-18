@@ -1,0 +1,17 @@
+{
+  "skillId": "postiz",
+  "source": "gitroomhq/postiz-agent",
+  "owner": "gitroomhq",
+  "repo": "postiz-agent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gitroomhq/postiz-agent",
+    "skillId": "postiz",
+    "name": "postiz",
+    "installs": 2419,
+    "owner": "gitroomhq",
+    "repo": "postiz-agent",
+    "githubUrl": "https://github.com/gitroomhq/postiz-agent",
+    "displayName": "Postiz"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "grammar-check",
+  "source": "phuryn/pm-skills",
+  "owner": "phuryn",
+  "repo": "pm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "phuryn/pm-skills",
+    "skillId": "grammar-check",
+    "name": "grammar-check",
+    "installs": 1788,
+    "owner": "phuryn",
+    "repo": "pm-skills",
+    "githubUrl": "https://github.com/phuryn/pm-skills",
+    "displayName": "Grammar Check"
+  }
+}

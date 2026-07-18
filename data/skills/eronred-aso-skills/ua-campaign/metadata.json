@@ -1,0 +1,17 @@
+{
+  "skillId": "ua-campaign",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "ua-campaign",
+    "name": "ua-campaign",
+    "installs": 2170,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "Ua Campaign"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "integration-eventing-cdc-configure",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "integration-eventing-cdc-configure",
+    "name": "integration-eventing-cdc-configure",
+    "installs": 1349,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Integration Eventing Cdc Configure"
+  }
+}

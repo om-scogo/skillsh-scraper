@@ -1,0 +1,17 @@
+{
+  "skillId": "economic-calendar-fetcher",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "economic-calendar-fetcher",
+    "name": "economic-calendar-fetcher",
+    "installs": 866,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Economic Calendar Fetcher"
+  }
+}

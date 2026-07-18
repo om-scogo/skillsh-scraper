@@ -1,0 +1,17 @@
+{
+  "skillId": "csharp-developer",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "csharp-developer",
+    "name": "csharp-developer",
+    "installs": 3420,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Csharp Developer"
+  }
+}

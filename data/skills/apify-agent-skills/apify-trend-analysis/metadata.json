@@ -1,0 +1,17 @@
+{
+  "skillId": "apify-trend-analysis",
+  "source": "apify/agent-skills",
+  "owner": "apify",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apify/agent-skills",
+    "skillId": "apify-trend-analysis",
+    "name": "apify-trend-analysis",
+    "installs": 2747,
+    "owner": "apify",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/apify/agent-skills",
+    "displayName": "Apify Trend Analysis"
+  }
+}

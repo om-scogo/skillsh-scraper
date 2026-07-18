@@ -1,0 +1,17 @@
+{
+  "skillId": "click-path-audit",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "click-path-audit",
+    "name": "click-path-audit",
+    "installs": 1105,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Click Path Audit"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "simplify",
+  "source": "brianlovin/claude-config",
+  "owner": "brianlovin",
+  "repo": "claude-config",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "brianlovin/claude-config",
+    "skillId": "simplify",
+    "name": "simplify",
+    "installs": 10702,
+    "owner": "brianlovin",
+    "repo": "claude-config",
+    "githubUrl": "https://github.com/brianlovin/claude-config",
+    "displayName": "Simplify"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "tradingview-quantitative",
+  "source": "hypier/tradingview-quantitative-skills",
+  "owner": "hypier",
+  "repo": "tradingview-quantitative-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hypier/tradingview-quantitative-skills",
+    "skillId": "tradingview-quantitative",
+    "name": "tradingview-quantitative",
+    "installs": 1234,
+    "owner": "hypier",
+    "repo": "tradingview-quantitative-skills",
+    "githubUrl": "https://github.com/hypier/tradingview-quantitative-skills",
+    "displayName": "Tradingview Quantitative"
+  }
+}

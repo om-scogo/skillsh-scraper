@@ -1,0 +1,17 @@
+{
+  "skillId": "trigger-tasks",
+  "source": "triggerdotdev/skills",
+  "owner": "triggerdotdev",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "triggerdotdev/skills",
+    "skillId": "trigger-tasks",
+    "name": "trigger-tasks",
+    "installs": 2309,
+    "owner": "triggerdotdev",
+    "repo": "skills",
+    "githubUrl": "https://github.com/triggerdotdev/skills",
+    "displayName": "Trigger Tasks"
+  }
+}

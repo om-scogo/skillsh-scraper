@@ -1,0 +1,17 @@
+{
+  "skillId": "analytics-events",
+  "source": "metabase/metabase",
+  "owner": "metabase",
+  "repo": "metabase",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "metabase/metabase",
+    "skillId": "analytics-events",
+    "name": "analytics-events",
+    "installs": 1207,
+    "owner": "metabase",
+    "repo": "metabase",
+    "githubUrl": "https://github.com/metabase/metabase",
+    "displayName": "Analytics Events"
+  }
+}

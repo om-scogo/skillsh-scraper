@@ -1,0 +1,17 @@
+{
+  "skillId": "mcp-create-declarative-agent",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "mcp-create-declarative-agent",
+    "name": "mcp-create-declarative-agent",
+    "installs": 8609,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Mcp Create Declarative Agent"
+  }
+}

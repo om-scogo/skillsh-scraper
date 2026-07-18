@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-finetune-clip",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-finetune-clip",
+    "name": "tao-finetune-clip",
+    "installs": 1288,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Finetune Clip"
+  }
+}

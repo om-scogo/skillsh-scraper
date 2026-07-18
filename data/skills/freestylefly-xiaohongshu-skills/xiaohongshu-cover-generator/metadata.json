@@ -1,0 +1,17 @@
+{
+  "skillId": "xiaohongshu-cover-generator",
+  "source": "freestylefly/xiaohongshu-skills",
+  "owner": "freestylefly",
+  "repo": "xiaohongshu-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freestylefly/xiaohongshu-skills",
+    "skillId": "xiaohongshu-cover-generator",
+    "name": "xiaohongshu-cover-generator",
+    "installs": 1714,
+    "owner": "freestylefly",
+    "repo": "xiaohongshu-skills",
+    "githubUrl": "https://github.com/freestylefly/xiaohongshu-skills",
+    "displayName": "Xiaohongshu Cover Generator"
+  }
+}

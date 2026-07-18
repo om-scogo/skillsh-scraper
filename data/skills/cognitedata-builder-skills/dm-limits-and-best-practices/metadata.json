@@ -1,0 +1,17 @@
+{
+  "skillId": "dm-limits-and-best-practices",
+  "source": "cognitedata/builder-skills",
+  "owner": "cognitedata",
+  "repo": "builder-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cognitedata/builder-skills",
+    "skillId": "dm-limits-and-best-practices",
+    "name": "dm-limits-and-best-practices",
+    "installs": 1869,
+    "owner": "cognitedata",
+    "repo": "builder-skills",
+    "githubUrl": "https://github.com/cognitedata/builder-skills",
+    "displayName": "Dm Limits And Best Practices"
+  }
+}

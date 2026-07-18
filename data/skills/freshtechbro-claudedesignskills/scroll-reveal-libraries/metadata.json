@@ -1,0 +1,17 @@
+{
+  "skillId": "scroll-reveal-libraries",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "scroll-reveal-libraries",
+    "name": "scroll-reveal-libraries",
+    "installs": 1269,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Scroll Reveal Libraries"
+  }
+}

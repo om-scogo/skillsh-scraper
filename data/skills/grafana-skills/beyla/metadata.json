@@ -1,0 +1,17 @@
+{
+  "skillId": "beyla",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "beyla",
+    "name": "beyla",
+    "installs": 1834,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Beyla"
+  }
+}

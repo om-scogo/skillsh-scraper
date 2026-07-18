@@ -1,0 +1,17 @@
+{
+  "skillId": "clone-website",
+  "source": "jcodesmore/ai-website-cloner-template",
+  "owner": "jcodesmore",
+  "repo": "ai-website-cloner-template",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jcodesmore/ai-website-cloner-template",
+    "skillId": "clone-website",
+    "name": "clone-website",
+    "installs": 881,
+    "owner": "jcodesmore",
+    "repo": "ai-website-cloner-template",
+    "githubUrl": "https://github.com/jcodesmore/ai-website-cloner-template",
+    "displayName": "Clone Website"
+  }
+}

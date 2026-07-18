@@ -1,0 +1,17 @@
+{
+  "skillId": "eightctl",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "eightctl",
+    "name": "eightctl",
+    "installs": 2608,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Eightctl"
+  }
+}

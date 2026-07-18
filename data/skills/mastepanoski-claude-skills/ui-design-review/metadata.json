@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-design-review",
+  "source": "mastepanoski/claude-skills",
+  "owner": "mastepanoski",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mastepanoski/claude-skills",
+    "skillId": "ui-design-review",
+    "name": "ui-design-review",
+    "installs": 890,
+    "owner": "mastepanoski",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/mastepanoski/claude-skills",
+    "displayName": "Ui Design Review"
+  }
+}

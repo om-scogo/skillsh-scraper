@@ -1,0 +1,17 @@
+{
+  "skillId": "pixijs-scene-sprite",
+  "source": "pixijs/pixijs-skills",
+  "owner": "pixijs",
+  "repo": "pixijs-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pixijs/pixijs-skills",
+    "skillId": "pixijs-scene-sprite",
+    "name": "pixijs-scene-sprite",
+    "installs": 2722,
+    "owner": "pixijs",
+    "repo": "pixijs-skills",
+    "githubUrl": "https://github.com/pixijs/pixijs-skills",
+    "displayName": "Pixijs Scene Sprite"
+  }
+}

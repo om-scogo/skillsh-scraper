@@ -1,0 +1,17 @@
+{
+  "skillId": "testing-blocks",
+  "source": "adobe/skills",
+  "owner": "adobe",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adobe/skills",
+    "skillId": "testing-blocks",
+    "name": "testing-blocks",
+    "installs": 920,
+    "owner": "adobe",
+    "repo": "skills",
+    "githubUrl": "https://github.com/adobe/skills",
+    "displayName": "Testing Blocks"
+  }
+}

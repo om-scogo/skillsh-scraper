@@ -1,0 +1,17 @@
+{
+  "skillId": "getnote-note",
+  "source": "iswalle/getnote-cli",
+  "owner": "iswalle",
+  "repo": "getnote-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "iswalle/getnote-cli",
+    "skillId": "getnote-note",
+    "name": "getnote-note",
+    "installs": 973,
+    "owner": "iswalle",
+    "repo": "getnote-cli",
+    "githubUrl": "https://github.com/iswalle/getnote-cli",
+    "displayName": "Getnote Note"
+  }
+}

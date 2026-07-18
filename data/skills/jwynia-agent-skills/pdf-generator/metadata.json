@@ -1,0 +1,17 @@
+{
+  "skillId": "pdf-generator",
+  "source": "jwynia/agent-skills",
+  "owner": "jwynia",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jwynia/agent-skills",
+    "skillId": "pdf-generator",
+    "name": "pdf-generator",
+    "installs": 892,
+    "owner": "jwynia",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/jwynia/agent-skills",
+    "displayName": "Pdf Generator"
+  }
+}

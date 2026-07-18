@@ -1,0 +1,17 @@
+{
+  "skillId": "remotion-video-creation",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "remotion-video-creation",
+    "name": "remotion-video-creation",
+    "installs": 1170,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Remotion Video Creation"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "dynamodb-toolbox-patterns",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "dynamodb-toolbox-patterns",
+    "name": "dynamodb-toolbox-patterns",
+    "installs": 1264,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Dynamodb Toolbox Patterns"
+  }
+}

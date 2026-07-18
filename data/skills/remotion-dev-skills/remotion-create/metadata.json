@@ -1,0 +1,17 @@
+{
+  "skillId": "remotion-create",
+  "source": "remotion-dev/skills",
+  "owner": "remotion-dev",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "remotion-dev/skills",
+    "skillId": "remotion-create",
+    "name": "remotion-create",
+    "installs": 6927,
+    "owner": "remotion-dev",
+    "repo": "skills",
+    "githubUrl": "https://github.com/remotion-dev/skills",
+    "displayName": "Remotion Create"
+  }
+}

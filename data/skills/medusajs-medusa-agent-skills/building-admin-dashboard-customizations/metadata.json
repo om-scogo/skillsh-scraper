@@ -1,0 +1,17 @@
+{
+  "skillId": "building-admin-dashboard-customizations",
+  "source": "medusajs/medusa-agent-skills",
+  "owner": "medusajs",
+  "repo": "medusa-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "medusajs/medusa-agent-skills",
+    "skillId": "building-admin-dashboard-customizations",
+    "name": "building-admin-dashboard-customizations",
+    "installs": 2743,
+    "owner": "medusajs",
+    "repo": "medusa-agent-skills",
+    "githubUrl": "https://github.com/medusajs/medusa-agent-skills",
+    "displayName": "Building Admin Dashboard Customizations"
+  }
+}

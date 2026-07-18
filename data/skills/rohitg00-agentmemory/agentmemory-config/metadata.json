@@ -1,0 +1,17 @@
+{
+  "skillId": "agentmemory-config",
+  "source": "rohitg00/agentmemory",
+  "owner": "rohitg00",
+  "repo": "agentmemory",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rohitg00/agentmemory",
+    "skillId": "agentmemory-config",
+    "name": "agentmemory-config",
+    "installs": 4793,
+    "owner": "rohitg00",
+    "repo": "agentmemory",
+    "githubUrl": "https://github.com/rohitg00/agentmemory",
+    "displayName": "Agentmemory Config"
+  }
+}

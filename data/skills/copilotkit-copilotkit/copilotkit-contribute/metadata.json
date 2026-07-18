@@ -1,0 +1,17 @@
+{
+  "skillId": "copilotkit-contribute",
+  "source": "copilotkit/copilotkit",
+  "owner": "copilotkit",
+  "repo": "copilotkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "copilotkit/copilotkit",
+    "skillId": "copilotkit-contribute",
+    "name": "copilotkit-contribute",
+    "installs": 1302,
+    "owner": "copilotkit",
+    "repo": "copilotkit",
+    "githubUrl": "https://github.com/copilotkit/copilotkit",
+    "displayName": "Copilotkit Contribute"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "experience-ui-bundle-metadata-generate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "experience-ui-bundle-metadata-generate",
+    "name": "experience-ui-bundle-metadata-generate",
+    "installs": 1336,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Experience Ui Bundle Metadata Generate"
+  }
+}

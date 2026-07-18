@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-prds",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "writing-prds",
+    "name": "writing-prds",
+    "installs": 2548,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Writing Prds"
+  }
+}

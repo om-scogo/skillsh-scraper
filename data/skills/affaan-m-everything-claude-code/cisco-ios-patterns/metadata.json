@@ -1,0 +1,17 @@
+{
+  "skillId": "cisco-ios-patterns",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "cisco-ios-patterns",
+    "name": "cisco-ios-patterns",
+    "installs": 1708,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Cisco Ios Patterns"
+  }
+}

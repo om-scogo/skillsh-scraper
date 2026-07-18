@@ -1,0 +1,17 @@
+{
+  "skillId": "arkts-syntax-assistant",
+  "source": "summerkaze/skill-arkts-syntax-assistant",
+  "owner": "summerkaze",
+  "repo": "skill-arkts-syntax-assistant",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "summerkaze/skill-arkts-syntax-assistant",
+    "skillId": "arkts-syntax-assistant",
+    "name": "arkts-syntax-assistant",
+    "installs": 752,
+    "owner": "summerkaze",
+    "repo": "skill-arkts-syntax-assistant",
+    "githubUrl": "https://github.com/summerkaze/skill-arkts-syntax-assistant",
+    "displayName": "Arkts Syntax Assistant"
+  }
+}

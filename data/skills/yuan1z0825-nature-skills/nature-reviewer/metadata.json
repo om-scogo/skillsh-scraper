@@ -1,0 +1,17 @@
+{
+  "skillId": "nature-reviewer",
+  "source": "yuan1z0825/nature-skills",
+  "owner": "yuan1z0825",
+  "repo": "nature-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yuan1z0825/nature-skills",
+    "skillId": "nature-reviewer",
+    "name": "nature-reviewer",
+    "installs": 1855,
+    "owner": "yuan1z0825",
+    "repo": "nature-skills",
+    "githubUrl": "https://github.com/yuan1z0825/nature-skills",
+    "displayName": "Nature Reviewer"
+  }
+}

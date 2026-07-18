@@ -1,0 +1,17 @@
+{
+  "skillId": "huashu-design",
+  "source": "alchaincyf/huashu-design",
+  "owner": "alchaincyf",
+  "repo": "huashu-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/huashu-design",
+    "skillId": "huashu-design",
+    "name": "huashu-design",
+    "installs": 38118,
+    "owner": "alchaincyf",
+    "repo": "huashu-design",
+    "githubUrl": "https://github.com/alchaincyf/huashu-design",
+    "displayName": "Huashu Design"
+  }
+}

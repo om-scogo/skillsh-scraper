@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-finetune-cosmos-reason",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-finetune-cosmos-reason",
+    "name": "tao-finetune-cosmos-reason",
+    "installs": 1289,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Finetune Cosmos Reason"
+  }
+}

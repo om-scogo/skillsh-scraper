@@ -1,0 +1,17 @@
+{
+  "skillId": "company-research",
+  "source": "browserbase/skills",
+  "owner": "browserbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "browserbase/skills",
+    "skillId": "company-research",
+    "name": "company-research",
+    "installs": 1904,
+    "owner": "browserbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/browserbase/skills",
+    "displayName": "Company Research"
+  }
+}

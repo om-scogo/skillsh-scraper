@@ -1,0 +1,17 @@
+{
+  "skillId": "everything-claude-code-harness",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "everything-claude-code-harness",
+    "name": "everything-claude-code-harness",
+    "installs": 1786,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Everything Claude Code Harness"
+  }
+}

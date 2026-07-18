@@ -1,0 +1,17 @@
+{
+  "skillId": "subagent-driven-development",
+  "source": "obra/superpowers",
+  "owner": "obra",
+  "repo": "superpowers",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/superpowers",
+    "skillId": "subagent-driven-development",
+    "name": "subagent-driven-development",
+    "installs": 148172,
+    "owner": "obra",
+    "repo": "superpowers",
+    "githubUrl": "https://github.com/obra/superpowers",
+    "displayName": "Subagent Driven Development"
+  }
+}

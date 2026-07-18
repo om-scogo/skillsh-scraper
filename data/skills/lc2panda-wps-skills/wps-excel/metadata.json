@@ -1,0 +1,17 @@
+{
+  "skillId": "wps-excel",
+  "source": "lc2panda/wps-skills",
+  "owner": "lc2panda",
+  "repo": "wps-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lc2panda/wps-skills",
+    "skillId": "wps-excel",
+    "name": "wps-excel",
+    "installs": 1255,
+    "owner": "lc2panda",
+    "repo": "wps-skills",
+    "githubUrl": "https://github.com/lc2panda/wps-skills",
+    "displayName": "Wps Excel"
+  }
+}

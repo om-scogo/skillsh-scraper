@@ -1,0 +1,17 @@
+{
+  "skillId": "do-and-judge",
+  "source": "neolabhq/context-engineering-kit",
+  "owner": "neolabhq",
+  "repo": "context-engineering-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "neolabhq/context-engineering-kit",
+    "skillId": "do-and-judge",
+    "name": "do-and-judge",
+    "installs": 817,
+    "owner": "neolabhq",
+    "repo": "context-engineering-kit",
+    "githubUrl": "https://github.com/neolabhq/context-engineering-kit",
+    "displayName": "Do And Judge"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ghost-report",
+  "source": "ghostsecurity/skills",
+  "owner": "ghostsecurity",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ghostsecurity/skills",
+    "skillId": "ghost-report",
+    "name": "ghost-report",
+    "installs": 2187,
+    "owner": "ghostsecurity",
+    "repo": "skills",
+    "githubUrl": "https://github.com/ghostsecurity/skills",
+    "displayName": "Ghost Report"
+  }
+}

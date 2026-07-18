@@ -1,0 +1,17 @@
+{
+  "skillId": "copywriting-hooks",
+  "source": "samber/cc-skills",
+  "owner": "samber",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills",
+    "skillId": "copywriting-hooks",
+    "name": "copywriting-hooks",
+    "installs": 2153,
+    "owner": "samber",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/samber/cc-skills",
+    "displayName": "Copywriting Hooks"
+  }
+}

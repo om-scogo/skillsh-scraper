@@ -1,0 +1,17 @@
+{
+  "skillId": "canvas-design",
+  "source": "anthropics/skills",
+  "owner": "anthropics",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/skills",
+    "skillId": "canvas-design",
+    "name": "canvas-design",
+    "installs": 87389,
+    "owner": "anthropics",
+    "repo": "skills",
+    "githubUrl": "https://github.com/anthropics/skills",
+    "displayName": "Canvas Design"
+  }
+}

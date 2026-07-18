@@ -1,0 +1,17 @@
+{
+  "skillId": "weread-year-in-review-video-template",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "weread-year-in-review-video-template",
+    "name": "weread-year-in-review-video-template",
+    "installs": 1271,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Weread Year In Review Video Template"
+  }
+}

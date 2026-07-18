@@ -1,0 +1,17 @@
+{
+  "skillId": "livekit-agents",
+  "source": "livekit/agent-skills",
+  "owner": "livekit",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "livekit/agent-skills",
+    "skillId": "livekit-agents",
+    "name": "livekit-agents",
+    "installs": 3113,
+    "owner": "livekit",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/livekit/agent-skills",
+    "displayName": "Livekit Agents"
+  }
+}

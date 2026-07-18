@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-gmail-watch",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "gws-gmail-watch",
+    "name": "gws-gmail-watch",
+    "installs": 28163,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Gws Gmail Watch"
+  }
+}

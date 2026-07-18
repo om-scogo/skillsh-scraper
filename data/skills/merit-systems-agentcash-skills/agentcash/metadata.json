@@ -1,0 +1,17 @@
+{
+  "skillId": "agentcash",
+  "source": "merit-systems/agentcash-skills",
+  "owner": "merit-systems",
+  "repo": "agentcash-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "merit-systems/agentcash-skills",
+    "skillId": "agentcash",
+    "name": "agentcash",
+    "installs": 1639,
+    "owner": "merit-systems",
+    "repo": "agentcash-skills",
+    "githubUrl": "https://github.com/merit-systems/agentcash-skills",
+    "displayName": "Agentcash"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "cs-libdoc",
+  "source": "liuzhengdongfortest/codestable",
+  "owner": "liuzhengdongfortest",
+  "repo": "codestable",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "liuzhengdongfortest/codestable",
+    "skillId": "cs-libdoc",
+    "name": "cs-libdoc",
+    "installs": 1061,
+    "owner": "liuzhengdongfortest",
+    "repo": "codestable",
+    "githubUrl": "https://github.com/liuzhengdongfortest/codestable",
+    "displayName": "Cs Libdoc"
+  }
+}

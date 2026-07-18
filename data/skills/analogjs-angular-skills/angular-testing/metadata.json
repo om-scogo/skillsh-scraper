@@ -1,0 +1,17 @@
+{
+  "skillId": "angular-testing",
+  "source": "analogjs/angular-skills",
+  "owner": "analogjs",
+  "repo": "angular-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "analogjs/angular-skills",
+    "skillId": "angular-testing",
+    "name": "angular-testing",
+    "installs": 5193,
+    "owner": "analogjs",
+    "repo": "angular-skills",
+    "githubUrl": "https://github.com/analogjs/angular-skills",
+    "displayName": "Angular Testing"
+  }
+}

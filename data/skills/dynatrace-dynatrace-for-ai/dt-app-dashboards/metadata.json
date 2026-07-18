@@ -1,0 +1,17 @@
+{
+  "skillId": "dt-app-dashboards",
+  "source": "dynatrace/dynatrace-for-ai",
+  "owner": "dynatrace",
+  "repo": "dynatrace-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dynatrace/dynatrace-for-ai",
+    "skillId": "dt-app-dashboards",
+    "name": "dt-app-dashboards",
+    "installs": 1335,
+    "owner": "dynatrace",
+    "repo": "dynatrace-for-ai",
+    "githubUrl": "https://github.com/dynatrace/dynatrace-for-ai",
+    "displayName": "Dt App Dashboards"
+  }
+}

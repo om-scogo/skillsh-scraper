@@ -1,0 +1,17 @@
+{
+  "skillId": "vercel-cli-with-tokens",
+  "source": "vercel-labs/agent-skills",
+  "owner": "vercel-labs",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/agent-skills",
+    "skillId": "vercel-cli-with-tokens",
+    "name": "vercel-cli-with-tokens",
+    "installs": 69131,
+    "owner": "vercel-labs",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/vercel-labs/agent-skills",
+    "displayName": "Vercel Cli With Tokens"
+  }
+}

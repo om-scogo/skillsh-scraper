@@ -1,0 +1,17 @@
+{
+  "skillId": "quarkus-tdd",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "quarkus-tdd",
+    "name": "quarkus-tdd",
+    "installs": 1089,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Quarkus Tdd"
+  }
+}

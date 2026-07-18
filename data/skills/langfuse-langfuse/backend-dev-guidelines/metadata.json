@@ -1,0 +1,17 @@
+{
+  "skillId": "backend-dev-guidelines",
+  "source": "langfuse/langfuse",
+  "owner": "langfuse",
+  "repo": "langfuse",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langfuse/langfuse",
+    "skillId": "backend-dev-guidelines",
+    "name": "backend-dev-guidelines",
+    "installs": 881,
+    "owner": "langfuse",
+    "repo": "langfuse",
+    "githubUrl": "https://github.com/langfuse/langfuse",
+    "displayName": "Backend Dev Guidelines"
+  }
+}

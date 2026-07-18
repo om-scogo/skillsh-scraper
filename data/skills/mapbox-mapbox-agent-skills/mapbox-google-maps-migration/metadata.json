@@ -1,0 +1,17 @@
+{
+  "skillId": "mapbox-google-maps-migration",
+  "source": "mapbox/mapbox-agent-skills",
+  "owner": "mapbox",
+  "repo": "mapbox-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mapbox/mapbox-agent-skills",
+    "skillId": "mapbox-google-maps-migration",
+    "name": "mapbox-google-maps-migration",
+    "installs": 850,
+    "owner": "mapbox",
+    "repo": "mapbox-agent-skills",
+    "githubUrl": "https://github.com/mapbox/mapbox-agent-skills",
+    "displayName": "Mapbox Google Maps Migration"
+  }
+}

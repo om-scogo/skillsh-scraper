@@ -1,0 +1,17 @@
+{
+  "skillId": "nature-response",
+  "source": "yuan1z0825/nature-skills",
+  "owner": "yuan1z0825",
+  "repo": "nature-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yuan1z0825/nature-skills",
+    "skillId": "nature-response",
+    "name": "nature-response",
+    "installs": 3240,
+    "owner": "yuan1z0825",
+    "repo": "nature-skills",
+    "githubUrl": "https://github.com/yuan1z0825/nature-skills",
+    "displayName": "Nature Response"
+  }
+}

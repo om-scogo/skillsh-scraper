@@ -1,0 +1,17 @@
+{
+  "skillId": "odoo-development",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "odoo-development",
+    "name": "odoo-development",
+    "installs": 1793,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Odoo Development"
+  }
+}

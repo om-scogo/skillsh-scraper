@@ -1,0 +1,17 @@
+{
+  "skillId": "game-designer",
+  "source": "opusgamelabs/game-creator",
+  "owner": "opusgamelabs",
+  "repo": "game-creator",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "opusgamelabs/game-creator",
+    "skillId": "game-designer",
+    "name": "game-designer",
+    "installs": 1016,
+    "owner": "opusgamelabs",
+    "repo": "game-creator",
+    "githubUrl": "https://github.com/opusgamelabs/game-creator",
+    "displayName": "Game Designer"
+  }
+}

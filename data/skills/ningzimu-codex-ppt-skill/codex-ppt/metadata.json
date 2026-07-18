@@ -1,0 +1,17 @@
+{
+  "skillId": "codex-ppt",
+  "source": "ningzimu/codex-ppt-skill",
+  "owner": "ningzimu",
+  "repo": "codex-ppt-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ningzimu/codex-ppt-skill",
+    "skillId": "codex-ppt",
+    "name": "codex-ppt",
+    "installs": 2776,
+    "owner": "ningzimu",
+    "repo": "codex-ppt-skill",
+    "githubUrl": "https://github.com/ningzimu/codex-ppt-skill",
+    "displayName": "Codex Ppt"
+  }
+}

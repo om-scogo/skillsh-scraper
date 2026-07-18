@@ -1,0 +1,17 @@
+{
+  "skillId": "facebook-ads",
+  "source": "openclaudia/openclaudia-skills",
+  "owner": "openclaudia",
+  "repo": "openclaudia-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openclaudia/openclaudia-skills",
+    "skillId": "facebook-ads",
+    "name": "facebook-ads",
+    "installs": 770,
+    "owner": "openclaudia",
+    "repo": "openclaudia-skills",
+    "githubUrl": "https://github.com/openclaudia/openclaudia-skills",
+    "displayName": "Facebook Ads"
+  }
+}

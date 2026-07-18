@@ -1,0 +1,17 @@
+{
+  "skillId": "remember-interactive-programming",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "remember-interactive-programming",
+    "name": "remember-interactive-programming",
+    "installs": 8854,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Remember Interactive Programming"
+  }
+}

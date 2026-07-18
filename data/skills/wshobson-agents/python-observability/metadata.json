@@ -1,0 +1,17 @@
+{
+  "skillId": "python-observability",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "python-observability",
+    "name": "python-observability",
+    "installs": 8497,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Python Observability"
+  }
+}

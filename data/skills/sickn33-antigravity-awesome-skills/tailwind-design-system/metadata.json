@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwind-design-system",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "tailwind-design-system",
+    "name": "tailwind-design-system",
+    "installs": 1280,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Tailwind Design System"
+  }
+}

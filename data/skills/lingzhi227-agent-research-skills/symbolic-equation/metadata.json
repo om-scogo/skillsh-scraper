@@ -1,0 +1,17 @@
+{
+  "skillId": "symbolic-equation",
+  "source": "lingzhi227/agent-research-skills",
+  "owner": "lingzhi227",
+  "repo": "agent-research-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lingzhi227/agent-research-skills",
+    "skillId": "symbolic-equation",
+    "name": "symbolic-equation",
+    "installs": 1077,
+    "owner": "lingzhi227",
+    "repo": "agent-research-skills",
+    "githubUrl": "https://github.com/lingzhi227/agent-research-skills",
+    "displayName": "Symbolic Equation"
+  }
+}

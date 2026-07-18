@@ -1,0 +1,17 @@
+{
+  "skillId": "daangn-cars-search",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "daangn-cars-search",
+    "name": "daangn-cars-search",
+    "installs": 1384,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Daangn Cars Search"
+  }
+}

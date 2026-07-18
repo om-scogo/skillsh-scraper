@@ -1,0 +1,17 @@
+{
+  "skillId": "bib-search-citation",
+  "source": "bahayonghang/academic-writing-skills",
+  "owner": "bahayonghang",
+  "repo": "academic-writing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bahayonghang/academic-writing-skills",
+    "skillId": "bib-search-citation",
+    "name": "bib-search-citation",
+    "installs": 962,
+    "owner": "bahayonghang",
+    "repo": "academic-writing-skills",
+    "githubUrl": "https://github.com/bahayonghang/academic-writing-skills",
+    "displayName": "Bib Search Citation"
+  }
+}

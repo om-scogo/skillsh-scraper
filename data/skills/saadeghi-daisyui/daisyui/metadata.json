@@ -1,0 +1,17 @@
+{
+  "skillId": "daisyui",
+  "source": "saadeghi/daisyui",
+  "owner": "saadeghi",
+  "repo": "daisyui",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "saadeghi/daisyui",
+    "skillId": "daisyui",
+    "name": "daisyui",
+    "installs": 4040,
+    "owner": "saadeghi",
+    "repo": "daisyui",
+    "githubUrl": "https://github.com/saadeghi/daisyui",
+    "displayName": "Daisyui"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "argent-tv-interact",
+  "source": "software-mansion/argent",
+  "owner": "software-mansion",
+  "repo": "argent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "software-mansion/argent",
+    "skillId": "argent-tv-interact",
+    "name": "argent-tv-interact",
+    "installs": 1949,
+    "owner": "software-mansion",
+    "repo": "argent",
+    "githubUrl": "https://github.com/software-mansion/argent",
+    "displayName": "Argent Tv Interact"
+  }
+}

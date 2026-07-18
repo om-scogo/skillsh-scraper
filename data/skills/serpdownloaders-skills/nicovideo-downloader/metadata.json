@@ -1,0 +1,17 @@
+{
+  "skillId": "nicovideo-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "nicovideo-downloader",
+    "name": "nicovideo-downloader",
+    "installs": 968,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Nicovideo Downloader"
+  }
+}

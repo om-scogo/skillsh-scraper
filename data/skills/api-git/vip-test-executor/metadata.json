@@ -1,0 +1,17 @@
+{
+  "skillId": "vip-test-executor",
+  "source": "api/git",
+  "owner": "api",
+  "repo": "git",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "api/git",
+    "skillId": "vip-test-executor",
+    "name": "vip-test-executor",
+    "installs": 2520,
+    "owner": "api",
+    "repo": "git",
+    "githubUrl": "https://github.com/api/git",
+    "displayName": "Vip Test Executor"
+  }
+}

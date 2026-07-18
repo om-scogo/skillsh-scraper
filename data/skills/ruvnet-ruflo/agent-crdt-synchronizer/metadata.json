@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-crdt-synchronizer",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-crdt-synchronizer",
+    "name": "agent-crdt-synchronizer",
+    "installs": 984,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Crdt Synchronizer"
+  }
+}

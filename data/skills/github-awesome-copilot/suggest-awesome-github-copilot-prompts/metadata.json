@@ -1,0 +1,17 @@
+{
+  "skillId": "suggest-awesome-github-copilot-prompts",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "suggest-awesome-github-copilot-prompts",
+    "name": "suggest-awesome-github-copilot-prompts",
+    "installs": 6776,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Suggest Awesome Github Copilot Prompts"
+  }
+}

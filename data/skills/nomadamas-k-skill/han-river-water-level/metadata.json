@@ -1,0 +1,17 @@
+{
+  "skillId": "han-river-water-level",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "han-river-water-level",
+    "name": "han-river-water-level",
+    "installs": 3120,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Han River Water Level"
+  }
+}

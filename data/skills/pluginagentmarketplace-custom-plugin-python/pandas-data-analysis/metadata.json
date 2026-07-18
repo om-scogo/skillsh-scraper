@@ -1,0 +1,17 @@
+{
+  "skillId": "pandas-data-analysis",
+  "source": "pluginagentmarketplace/custom-plugin-python",
+  "owner": "pluginagentmarketplace",
+  "repo": "custom-plugin-python",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pluginagentmarketplace/custom-plugin-python",
+    "skillId": "pandas-data-analysis",
+    "name": "pandas data analysis",
+    "installs": 995,
+    "owner": "pluginagentmarketplace",
+    "repo": "custom-plugin-python",
+    "githubUrl": "https://github.com/pluginagentmarketplace/custom-plugin-python",
+    "displayName": "Pandas Data Analysis"
+  }
+}

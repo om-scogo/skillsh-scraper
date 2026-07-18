@@ -1,0 +1,17 @@
+{
+  "skillId": "streamdown",
+  "source": "vercel/streamdown",
+  "owner": "vercel",
+  "repo": "streamdown",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/streamdown",
+    "skillId": "streamdown",
+    "name": "streamdown",
+    "installs": 2182,
+    "owner": "vercel",
+    "repo": "streamdown",
+    "githubUrl": "https://github.com/vercel/streamdown",
+    "displayName": "Streamdown"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "technical-writer",
+  "source": "onewave-ai/claude-skills",
+  "owner": "onewave-ai",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "onewave-ai/claude-skills",
+    "skillId": "technical-writer",
+    "name": "technical-writer",
+    "installs": 881,
+    "owner": "onewave-ai",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/onewave-ai/claude-skills",
+    "displayName": "Technical Writer"
+  }
+}

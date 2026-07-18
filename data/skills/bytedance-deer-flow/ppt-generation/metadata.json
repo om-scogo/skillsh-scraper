@@ -1,0 +1,17 @@
+{
+  "skillId": "ppt-generation",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "ppt-generation",
+    "name": "ppt-generation",
+    "installs": 3572,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Ppt Generation"
+  }
+}

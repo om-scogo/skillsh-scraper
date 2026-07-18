@@ -1,0 +1,17 @@
+{
+  "skillId": "find-docs",
+  "source": "upstash/context7",
+  "owner": "upstash",
+  "repo": "context7",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "upstash/context7",
+    "skillId": "find-docs",
+    "name": "find-docs",
+    "installs": 4509,
+    "owner": "upstash",
+    "repo": "context7",
+    "githubUrl": "https://github.com/upstash/context7",
+    "displayName": "Find Docs"
+  }
+}

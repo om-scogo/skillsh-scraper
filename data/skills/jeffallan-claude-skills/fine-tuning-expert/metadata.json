@@ -1,0 +1,17 @@
+{
+  "skillId": "fine-tuning-expert",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "fine-tuning-expert",
+    "name": "fine-tuning-expert",
+    "installs": 2929,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Fine Tuning Expert"
+  }
+}

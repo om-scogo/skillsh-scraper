@@ -1,0 +1,17 @@
+{
+  "skillId": "heroui-migration",
+  "source": "heroui-inc/heroui",
+  "owner": "heroui-inc",
+  "repo": "heroui",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heroui-inc/heroui",
+    "skillId": "heroui-migration",
+    "name": "heroui-migration",
+    "installs": 2375,
+    "owner": "heroui-inc",
+    "repo": "heroui",
+    "githubUrl": "https://github.com/heroui-inc/heroui",
+    "displayName": "Heroui Migration"
+  }
+}

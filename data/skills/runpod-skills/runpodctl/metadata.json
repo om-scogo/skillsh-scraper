@@ -1,0 +1,17 @@
+{
+  "skillId": "runpodctl",
+  "source": "runpod/skills",
+  "owner": "runpod",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "runpod/skills",
+    "skillId": "runpodctl",
+    "name": "runpodctl",
+    "installs": 1613,
+    "owner": "runpod",
+    "repo": "skills",
+    "githubUrl": "https://github.com/runpod/skills",
+    "displayName": "Runpodctl"
+  }
+}

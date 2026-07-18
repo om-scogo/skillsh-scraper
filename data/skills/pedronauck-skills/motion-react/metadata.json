@@ -1,0 +1,17 @@
+{
+  "skillId": "motion-react",
+  "source": "pedronauck/skills",
+  "owner": "pedronauck",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pedronauck/skills",
+    "skillId": "motion-react",
+    "name": "motion-react",
+    "installs": 754,
+    "owner": "pedronauck",
+    "repo": "skills",
+    "githubUrl": "https://github.com/pedronauck/skills",
+    "displayName": "Motion React"
+  }
+}

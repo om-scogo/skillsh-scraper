@@ -1,0 +1,17 @@
+{
+  "skillId": "cmux-custom-sidebar",
+  "source": "manaflow-ai/cmux",
+  "owner": "manaflow-ai",
+  "repo": "cmux",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "manaflow-ai/cmux",
+    "skillId": "cmux-custom-sidebar",
+    "name": "cmux-custom-sidebar",
+    "installs": 1580,
+    "owner": "manaflow-ai",
+    "repo": "cmux",
+    "githubUrl": "https://github.com/manaflow-ai/cmux",
+    "displayName": "Cmux Custom Sidebar"
+  }
+}

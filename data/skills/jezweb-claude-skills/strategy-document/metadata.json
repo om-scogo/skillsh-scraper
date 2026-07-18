@@ -1,0 +1,17 @@
+{
+  "skillId": "strategy-document",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "strategy-document",
+    "name": "strategy-document",
+    "installs": 807,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Strategy Document"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "daily-meeting-update",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "daily-meeting-update",
+    "name": "daily-meeting-update",
+    "installs": 3753,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Daily Meeting Update"
+  }
+}

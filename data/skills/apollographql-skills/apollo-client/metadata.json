@@ -1,0 +1,17 @@
+{
+  "skillId": "apollo-client",
+  "source": "apollographql/skills",
+  "owner": "apollographql",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apollographql/skills",
+    "skillId": "apollo-client",
+    "name": "apollo-client",
+    "installs": 3822,
+    "owner": "apollographql",
+    "repo": "skills",
+    "githubUrl": "https://github.com/apollographql/skills",
+    "displayName": "Apollo Client"
+  }
+}

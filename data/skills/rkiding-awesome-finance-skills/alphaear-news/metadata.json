@@ -1,0 +1,17 @@
+{
+  "skillId": "alphaear-news",
+  "source": "rkiding/awesome-finance-skills",
+  "owner": "rkiding",
+  "repo": "awesome-finance-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rkiding/awesome-finance-skills",
+    "skillId": "alphaear-news",
+    "name": "alphaear-news",
+    "installs": 1348,
+    "owner": "rkiding",
+    "repo": "awesome-finance-skills",
+    "githubUrl": "https://github.com/rkiding/awesome-finance-skills",
+    "displayName": "Alphaear News"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "domain-cloud-native",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "domain-cloud-native",
+    "name": "domain-cloud-native",
+    "installs": 1137,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "Domain Cloud Native"
+  }
+}

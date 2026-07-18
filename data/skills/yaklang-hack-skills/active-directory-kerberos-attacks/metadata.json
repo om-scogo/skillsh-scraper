@@ -1,0 +1,17 @@
+{
+  "skillId": "active-directory-kerberos-attacks",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "active-directory-kerberos-attacks",
+    "name": "active-directory-kerberos-attacks",
+    "installs": 1920,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Active Directory Kerberos Attacks"
+  }
+}

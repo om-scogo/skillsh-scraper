@@ -1,0 +1,17 @@
+{
+  "skillId": "gitlab-ci-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "gitlab-ci-patterns",
+    "name": "gitlab-ci-patterns",
+    "installs": 9836,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Gitlab Ci Patterns"
+  }
+}

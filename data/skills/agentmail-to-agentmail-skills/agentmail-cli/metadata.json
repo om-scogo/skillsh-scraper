@@ -1,0 +1,17 @@
+{
+  "skillId": "agentmail-cli",
+  "source": "agentmail-to/agentmail-skills",
+  "owner": "agentmail-to",
+  "repo": "agentmail-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agentmail-to/agentmail-skills",
+    "skillId": "agentmail-cli",
+    "name": "agentmail-cli",
+    "installs": 1103,
+    "owner": "agentmail-to",
+    "repo": "agentmail-skills",
+    "githubUrl": "https://github.com/agentmail-to/agentmail-skills",
+    "displayName": "Agentmail Cli"
+  }
+}

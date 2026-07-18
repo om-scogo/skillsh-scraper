@@ -1,0 +1,17 @@
+{
+  "skillId": "copilotkit-self-update",
+  "source": "copilotkit/copilotkit",
+  "owner": "copilotkit",
+  "repo": "copilotkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "copilotkit/copilotkit",
+    "skillId": "copilotkit-self-update",
+    "name": "copilotkit-self-update",
+    "installs": 1340,
+    "owner": "copilotkit",
+    "repo": "copilotkit",
+    "githubUrl": "https://github.com/copilotkit/copilotkit",
+    "displayName": "Copilotkit Self Update"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "platform-soql-query",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "platform-soql-query",
+    "name": "platform-soql-query",
+    "installs": 1618,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Platform Soql Query"
+  }
+}

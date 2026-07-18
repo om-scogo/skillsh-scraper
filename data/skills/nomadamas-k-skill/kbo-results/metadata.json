@@ -1,0 +1,17 @@
+{
+  "skillId": "kbo-results",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "kbo-results",
+    "name": "kbo-results",
+    "installs": 3399,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Kbo Results"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ml-pipeline-workflow",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "ml-pipeline-workflow",
+    "name": "ml-pipeline-workflow",
+    "installs": 8229,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Ml Pipeline Workflow"
+  }
+}

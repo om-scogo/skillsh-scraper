@@ -1,0 +1,17 @@
+{
+  "skillId": "pubchem-database",
+  "source": "google-deepmind/science-skills",
+  "owner": "google-deepmind",
+  "repo": "science-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-deepmind/science-skills",
+    "skillId": "pubchem-database",
+    "name": "pubchem-database",
+    "installs": 1010,
+    "owner": "google-deepmind",
+    "repo": "science-skills",
+    "githubUrl": "https://github.com/google-deepmind/science-skills",
+    "displayName": "Pubchem Database"
+  }
+}

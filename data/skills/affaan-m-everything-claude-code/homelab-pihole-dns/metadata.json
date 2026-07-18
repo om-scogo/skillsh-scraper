@@ -1,0 +1,17 @@
+{
+  "skillId": "homelab-pihole-dns",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "homelab-pihole-dns",
+    "name": "homelab-pihole-dns",
+    "installs": 1591,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Homelab Pihole Dns"
+  }
+}

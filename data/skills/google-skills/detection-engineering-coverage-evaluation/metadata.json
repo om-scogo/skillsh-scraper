@@ -1,0 +1,17 @@
+{
+  "skillId": "detection-engineering-coverage-evaluation",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "detection-engineering-coverage-evaluation",
+    "name": "detection-engineering-coverage-evaluation",
+    "installs": 808,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Detection Engineering Coverage Evaluation"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "weread-skills",
+  "source": "tencent/wechatreading",
+  "owner": "tencent",
+  "repo": "wechatreading",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tencent/wechatreading",
+    "skillId": "weread-skills",
+    "name": "weread-skills",
+    "installs": 25442,
+    "owner": "tencent",
+    "repo": "wechatreading",
+    "githubUrl": "https://github.com/tencent/wechatreading",
+    "displayName": "Weread Skills"
+  }
+}

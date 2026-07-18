@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-typer",
+  "source": "vibe-motion/skills",
+  "owner": "vibe-motion",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vibe-motion/skills",
+    "skillId": "claude-typer",
+    "name": "claude-typer",
+    "installs": 798,
+    "owner": "vibe-motion",
+    "repo": "skills",
+    "githubUrl": "https://github.com/vibe-motion/skills",
+    "displayName": "Claude Typer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "m03-mutability",
+  "source": "zhanghandong/rust-skills",
+  "owner": "zhanghandong",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zhanghandong/rust-skills",
+    "skillId": "m03-mutability",
+    "name": "m03-mutability",
+    "installs": 773,
+    "owner": "zhanghandong",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/zhanghandong/rust-skills",
+    "displayName": "M03 Mutability"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "bailian-docs-llm-wiki",
+  "source": "modelstudioai/skills",
+  "owner": "modelstudioai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "modelstudioai/skills",
+    "skillId": "bailian-docs-llm-wiki",
+    "name": "bailian-docs-llm-wiki",
+    "installs": 1744,
+    "owner": "modelstudioai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/modelstudioai/skills",
+    "displayName": "Bailian Docs Llm Wiki"
+  }
+}

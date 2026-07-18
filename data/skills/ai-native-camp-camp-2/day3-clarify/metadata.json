@@ -1,0 +1,17 @@
+{
+  "skillId": "day3-clarify",
+  "source": "ai-native-camp/camp-2",
+  "owner": "ai-native-camp",
+  "repo": "camp-2",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ai-native-camp/camp-2",
+    "skillId": "day3-clarify",
+    "name": "day3-clarify",
+    "installs": 1398,
+    "owner": "ai-native-camp",
+    "repo": "camp-2",
+    "githubUrl": "https://github.com/ai-native-camp/camp-2",
+    "displayName": "Day3 Clarify"
+  }
+}

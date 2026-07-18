@@ -1,0 +1,17 @@
+{
+  "skillId": "istio-traffic-management",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "istio-traffic-management",
+    "name": "istio-traffic-management",
+    "installs": 7757,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Istio Traffic Management"
+  }
+}

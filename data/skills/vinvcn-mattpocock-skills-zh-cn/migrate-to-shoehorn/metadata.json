@@ -1,0 +1,17 @@
+{
+  "skillId": "migrate-to-shoehorn",
+  "source": "vinvcn/mattpocock-skills-zh-cn",
+  "owner": "vinvcn",
+  "repo": "mattpocock-skills-zh-cn",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vinvcn/mattpocock-skills-zh-cn",
+    "skillId": "migrate-to-shoehorn",
+    "name": "migrate-to-shoehorn",
+    "installs": 2344,
+    "owner": "vinvcn",
+    "repo": "mattpocock-skills-zh-cn",
+    "githubUrl": "https://github.com/vinvcn/mattpocock-skills-zh-cn",
+    "displayName": "Migrate To Shoehorn"
+  }
+}

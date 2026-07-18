@@ -1,0 +1,17 @@
+{
+  "skillId": "ljg-think",
+  "source": "lijigang/ljg-skills",
+  "owner": "lijigang",
+  "repo": "ljg-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lijigang/ljg-skills",
+    "skillId": "ljg-think",
+    "name": "ljg-think",
+    "installs": 5165,
+    "owner": "lijigang",
+    "repo": "ljg-skills",
+    "githubUrl": "https://github.com/lijigang/ljg-skills",
+    "displayName": "Ljg Think"
+  }
+}

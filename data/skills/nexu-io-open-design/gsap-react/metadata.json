@@ -1,0 +1,17 @@
+{
+  "skillId": "gsap-react",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "gsap-react",
+    "name": "gsap-react",
+    "installs": 1601,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Gsap React"
+  }
+}

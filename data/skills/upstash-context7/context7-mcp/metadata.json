@@ -1,0 +1,17 @@
+{
+  "skillId": "context7-mcp",
+  "source": "upstash/context7",
+  "owner": "upstash",
+  "repo": "context7",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "upstash/context7",
+    "skillId": "context7-mcp",
+    "name": "context7-mcp",
+    "installs": 3304,
+    "owner": "upstash",
+    "repo": "context7",
+    "githubUrl": "https://github.com/upstash/context7",
+    "displayName": "Context7 Mcp"
+  }
+}

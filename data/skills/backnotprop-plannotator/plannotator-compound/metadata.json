@@ -1,0 +1,17 @@
+{
+  "skillId": "plannotator-compound",
+  "source": "backnotprop/plannotator",
+  "owner": "backnotprop",
+  "repo": "plannotator",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "backnotprop/plannotator",
+    "skillId": "plannotator-compound",
+    "name": "plannotator-compound",
+    "installs": 3675,
+    "owner": "backnotprop",
+    "repo": "plannotator",
+    "githubUrl": "https://github.com/backnotprop/plannotator",
+    "displayName": "Plannotator Compound"
+  }
+}

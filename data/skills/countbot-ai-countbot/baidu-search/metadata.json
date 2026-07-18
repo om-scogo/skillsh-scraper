@@ -1,0 +1,17 @@
+{
+  "skillId": "baidu-search",
+  "source": "countbot-ai/countbot",
+  "owner": "countbot-ai",
+  "repo": "countbot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "countbot-ai/countbot",
+    "skillId": "baidu-search",
+    "name": "baidu-search",
+    "installs": 1759,
+    "owner": "countbot-ai",
+    "repo": "countbot",
+    "githubUrl": "https://github.com/countbot-ai/countbot",
+    "displayName": "Baidu Search"
+  }
+}

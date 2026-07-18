@@ -1,0 +1,17 @@
+{
+  "skillId": "github-issue-creator",
+  "source": "google-gemini/gemini-cli",
+  "owner": "google-gemini",
+  "repo": "gemini-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-gemini/gemini-cli",
+    "skillId": "github-issue-creator",
+    "name": "github-issue-creator",
+    "installs": 776,
+    "owner": "google-gemini",
+    "repo": "gemini-cli",
+    "githubUrl": "https://github.com/google-gemini/gemini-cli",
+    "displayName": "Github Issue Creator"
+  }
+}

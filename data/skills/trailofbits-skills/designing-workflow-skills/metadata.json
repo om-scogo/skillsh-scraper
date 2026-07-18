@@ -1,0 +1,17 @@
+{
+  "skillId": "designing-workflow-skills",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "designing-workflow-skills",
+    "name": "designing-workflow-skills",
+    "installs": 3257,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Designing Workflow Skills"
+  }
+}

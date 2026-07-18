@@ -1,0 +1,17 @@
+{
+  "skillId": "elicit",
+  "source": "juxt/allium",
+  "owner": "juxt",
+  "repo": "allium",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juxt/allium",
+    "skillId": "elicit",
+    "name": "elicit",
+    "installs": 1820,
+    "owner": "juxt",
+    "repo": "allium",
+    "githubUrl": "https://github.com/juxt/allium",
+    "displayName": "Elicit"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "c-level-advisor",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "c-level-advisor",
+    "name": "c-level-advisor",
+    "installs": 1813,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "C Level Advisor"
+  }
+}

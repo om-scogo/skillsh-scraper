@@ -1,0 +1,17 @@
+{
+  "skillId": "create-github-action-workflow-specification",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "create-github-action-workflow-specification",
+    "name": "create-github-action-workflow-specification",
+    "installs": 9751,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Create Github Action Workflow Specification"
+  }
+}

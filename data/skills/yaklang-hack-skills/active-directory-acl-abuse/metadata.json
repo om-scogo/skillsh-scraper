@@ -1,0 +1,17 @@
+{
+  "skillId": "active-directory-acl-abuse",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "active-directory-acl-abuse",
+    "name": "active-directory-acl-abuse",
+    "installs": 1927,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Active Directory Acl Abuse"
+  }
+}

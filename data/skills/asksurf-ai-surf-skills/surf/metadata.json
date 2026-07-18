@@ -1,0 +1,17 @@
+{
+  "skillId": "surf",
+  "source": "asksurf-ai/surf-skills",
+  "owner": "asksurf-ai",
+  "repo": "surf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "asksurf-ai/surf-skills",
+    "skillId": "surf",
+    "name": "surf",
+    "installs": 3430,
+    "owner": "asksurf-ai",
+    "repo": "surf-skills",
+    "githubUrl": "https://github.com/asksurf-ai/surf-skills",
+    "displayName": "Surf"
+  }
+}

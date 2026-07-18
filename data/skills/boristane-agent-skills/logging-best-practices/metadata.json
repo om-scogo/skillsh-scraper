@@ -1,0 +1,17 @@
+{
+  "skillId": "logging-best-practices",
+  "source": "boristane/agent-skills",
+  "owner": "boristane",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "boristane/agent-skills",
+    "skillId": "logging-best-practices",
+    "name": "logging-best-practices",
+    "installs": 3848,
+    "owner": "boristane",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/boristane/agent-skills",
+    "displayName": "Logging Best Practices"
+  }
+}

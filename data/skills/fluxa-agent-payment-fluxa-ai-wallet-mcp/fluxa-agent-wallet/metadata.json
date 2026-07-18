@@ -1,0 +1,17 @@
+{
+  "skillId": "fluxa-agent-wallet",
+  "source": "fluxa-agent-payment/fluxa-ai-wallet-mcp",
+  "owner": "fluxa-agent-payment",
+  "repo": "fluxa-ai-wallet-mcp",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "fluxa-agent-payment/fluxa-ai-wallet-mcp",
+    "skillId": "fluxa-agent-wallet",
+    "name": "fluxa-agent-wallet",
+    "installs": 9031,
+    "owner": "fluxa-agent-payment",
+    "repo": "fluxa-ai-wallet-mcp",
+    "githubUrl": "https://github.com/fluxa-agent-payment/fluxa-ai-wallet-mcp",
+    "displayName": "Fluxa Agent Wallet"
+  }
+}

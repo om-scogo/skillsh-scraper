@@ -1,0 +1,17 @@
+{
+  "skillId": "vue-options-api-best-practices",
+  "source": "hyf0/vue-skills",
+  "owner": "hyf0",
+  "repo": "vue-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hyf0/vue-skills",
+    "skillId": "vue-options-api-best-practices",
+    "name": "vue-options-api-best-practices",
+    "installs": 2094,
+    "owner": "hyf0",
+    "repo": "vue-skills",
+    "githubUrl": "https://github.com/hyf0/vue-skills",
+    "displayName": "Vue Options Api Best Practices"
+  }
+}

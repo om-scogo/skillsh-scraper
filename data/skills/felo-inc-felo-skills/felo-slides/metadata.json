@@ -1,0 +1,17 @@
+{
+  "skillId": "felo-slides",
+  "source": "felo-inc/felo-skills",
+  "owner": "felo-inc",
+  "repo": "felo-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "felo-inc/felo-skills",
+    "skillId": "felo-slides",
+    "name": "felo-slides",
+    "installs": 815,
+    "owner": "felo-inc",
+    "repo": "felo-skills",
+    "githubUrl": "https://github.com/felo-inc/felo-skills",
+    "displayName": "Felo Slides"
+  }
+}

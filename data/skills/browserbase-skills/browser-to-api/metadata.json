@@ -1,0 +1,17 @@
+{
+  "skillId": "browser-to-api",
+  "source": "browserbase/skills",
+  "owner": "browserbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "browserbase/skills",
+    "skillId": "browser-to-api",
+    "name": "browser-to-api",
+    "installs": 1499,
+    "owner": "browserbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/browserbase/skills",
+    "displayName": "Browser To Api"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-performance-analyzer",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-performance-analyzer",
+    "name": "agent-performance-analyzer",
+    "installs": 995,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Performance Analyzer"
+  }
+}

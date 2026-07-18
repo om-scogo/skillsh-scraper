@@ -1,0 +1,17 @@
+{
+  "skillId": "deployer",
+  "source": "uniswap/uniswap-ai",
+  "owner": "uniswap",
+  "repo": "uniswap-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "uniswap/uniswap-ai",
+    "skillId": "deployer",
+    "name": "deployer",
+    "installs": 761,
+    "owner": "uniswap",
+    "repo": "uniswap-ai",
+    "githubUrl": "https://github.com/uniswap/uniswap-ai",
+    "displayName": "Deployer"
+  }
+}

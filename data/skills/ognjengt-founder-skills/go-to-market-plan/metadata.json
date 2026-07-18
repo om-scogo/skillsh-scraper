@@ -1,0 +1,17 @@
+{
+  "skillId": "go-to-market-plan",
+  "source": "ognjengt/founder-skills",
+  "owner": "ognjengt",
+  "repo": "founder-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ognjengt/founder-skills",
+    "skillId": "go-to-market-plan",
+    "name": "go-to-market-plan",
+    "installs": 773,
+    "owner": "ognjengt",
+    "repo": "founder-skills",
+    "githubUrl": "https://github.com/ognjengt/founder-skills",
+    "displayName": "Go To Market Plan"
+  }
+}

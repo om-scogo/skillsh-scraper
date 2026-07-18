@@ -1,0 +1,17 @@
+{
+  "skillId": "autoresearch",
+  "source": "uditgoenka/autoresearch",
+  "owner": "uditgoenka",
+  "repo": "autoresearch",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "uditgoenka/autoresearch",
+    "skillId": "autoresearch",
+    "name": "autoresearch",
+    "installs": 1734,
+    "owner": "uditgoenka",
+    "repo": "autoresearch",
+    "githubUrl": "https://github.com/uditgoenka/autoresearch",
+    "displayName": "Autoresearch"
+  }
+}

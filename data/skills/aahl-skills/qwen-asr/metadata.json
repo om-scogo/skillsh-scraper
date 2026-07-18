@@ -1,0 +1,17 @@
+{
+  "skillId": "qwen-asr",
+  "source": "aahl/skills",
+  "owner": "aahl",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aahl/skills",
+    "skillId": "qwen-asr",
+    "name": "qwen-asr",
+    "installs": 1536,
+    "owner": "aahl",
+    "repo": "skills",
+    "githubUrl": "https://github.com/aahl/skills",
+    "displayName": "Qwen Asr"
+  }
+}

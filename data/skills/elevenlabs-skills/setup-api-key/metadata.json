@@ -1,0 +1,17 @@
+{
+  "skillId": "setup-api-key",
+  "source": "elevenlabs/skills",
+  "owner": "elevenlabs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elevenlabs/skills",
+    "skillId": "setup-api-key",
+    "name": "setup-api-key",
+    "installs": 4418,
+    "owner": "elevenlabs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/elevenlabs/skills",
+    "displayName": "Setup Api Key"
+  }
+}

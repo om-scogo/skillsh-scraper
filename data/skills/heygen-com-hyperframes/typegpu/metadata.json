@@ -1,0 +1,17 @@
+{
+  "skillId": "typegpu",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "typegpu",
+    "name": "typegpu",
+    "installs": 51287,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Typegpu"
+  }
+}

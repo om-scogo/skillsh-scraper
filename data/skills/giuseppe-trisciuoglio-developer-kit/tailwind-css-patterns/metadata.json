@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwind-css-patterns",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "tailwind-css-patterns",
+    "name": "tailwind-css-patterns",
+    "installs": 13538,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Tailwind Css Patterns"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "muapi-media-generation",
+  "source": "samuraigpt/generative-media-skills",
+  "owner": "samuraigpt",
+  "repo": "generative-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samuraigpt/generative-media-skills",
+    "skillId": "muapi-media-generation",
+    "name": "muapi-media-generation",
+    "installs": 894,
+    "owner": "samuraigpt",
+    "repo": "generative-media-skills",
+    "githubUrl": "https://github.com/samuraigpt/generative-media-skills",
+    "displayName": "Muapi Media Generation"
+  }
+}

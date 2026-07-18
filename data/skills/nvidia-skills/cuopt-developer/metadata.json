@@ -1,0 +1,17 @@
+{
+  "skillId": "cuopt-developer",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "cuopt-developer",
+    "name": "cuopt-developer",
+    "installs": 1898,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Cuopt Developer"
+  }
+}

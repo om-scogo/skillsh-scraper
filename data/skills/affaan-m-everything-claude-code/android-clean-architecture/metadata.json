@@ -1,0 +1,17 @@
+{
+  "skillId": "android-clean-architecture",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "android-clean-architecture",
+    "name": "android-clean-architecture",
+    "installs": 6079,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Android Clean Architecture"
+  }
+}

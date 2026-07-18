@@ -1,0 +1,17 @@
+{
+  "skillId": "etl-pipeline",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "etl-pipeline",
+    "name": "etl pipeline",
+    "installs": 3516,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Etl Pipeline"
+  }
+}

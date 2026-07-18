@@ -1,0 +1,17 @@
+{
+  "skillId": "avatar-video",
+  "source": "heygen-com/skills",
+  "owner": "heygen-com",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/skills",
+    "skillId": "avatar-video",
+    "name": "avatar-video",
+    "installs": 995,
+    "owner": "heygen-com",
+    "repo": "skills",
+    "githubUrl": "https://github.com/heygen-com/skills",
+    "displayName": "Avatar Video"
+  }
+}

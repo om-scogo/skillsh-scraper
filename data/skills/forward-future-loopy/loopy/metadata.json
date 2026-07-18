@@ -1,0 +1,17 @@
+{
+  "skillId": "loopy",
+  "source": "forward-future/loopy",
+  "owner": "forward-future",
+  "repo": "loopy",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forward-future/loopy",
+    "skillId": "loopy",
+    "name": "loopy",
+    "installs": 886,
+    "owner": "forward-future",
+    "repo": "loopy",
+    "githubUrl": "https://github.com/forward-future/loopy",
+    "displayName": "Loopy"
+  }
+}

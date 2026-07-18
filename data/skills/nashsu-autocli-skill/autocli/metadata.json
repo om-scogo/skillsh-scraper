@@ -1,0 +1,17 @@
+{
+  "skillId": "autocli",
+  "source": "nashsu/autocli-skill",
+  "owner": "nashsu",
+  "repo": "autocli-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nashsu/autocli-skill",
+    "skillId": "autocli",
+    "name": "autocli",
+    "installs": 1653,
+    "owner": "nashsu",
+    "repo": "autocli-skill",
+    "githubUrl": "https://github.com/nashsu/autocli-skill",
+    "displayName": "Autocli"
+  }
+}

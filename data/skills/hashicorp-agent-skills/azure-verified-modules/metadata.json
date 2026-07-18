@@ -1,0 +1,17 @@
+{
+  "skillId": "azure-verified-modules",
+  "source": "hashicorp/agent-skills",
+  "owner": "hashicorp",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hashicorp/agent-skills",
+    "skillId": "azure-verified-modules",
+    "name": "azure-verified-modules",
+    "installs": 2048,
+    "owner": "hashicorp",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/hashicorp/agent-skills",
+    "displayName": "Azure Verified Modules"
+  }
+}

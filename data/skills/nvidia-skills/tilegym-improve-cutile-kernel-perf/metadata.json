@@ -1,0 +1,17 @@
+{
+  "skillId": "tilegym-improve-cutile-kernel-perf",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tilegym-improve-cutile-kernel-perf",
+    "name": "tilegym-improve-cutile-kernel-perf",
+    "installs": 1206,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tilegym Improve Cutile Kernel Perf"
+  }
+}

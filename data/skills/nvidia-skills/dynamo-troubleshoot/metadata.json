@@ -1,0 +1,17 @@
+{
+  "skillId": "dynamo-troubleshoot",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "dynamo-troubleshoot",
+    "name": "dynamo-troubleshoot",
+    "installs": 1551,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Dynamo Troubleshoot"
+  }
+}

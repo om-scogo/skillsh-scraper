@@ -1,0 +1,17 @@
+{
+  "skillId": "playwright",
+  "source": "secondsky/claude-skills",
+  "owner": "secondsky",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "secondsky/claude-skills",
+    "skillId": "playwright",
+    "name": "playwright",
+    "installs": 741,
+    "owner": "secondsky",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/secondsky/claude-skills",
+    "displayName": "Playwright"
+  }
+}

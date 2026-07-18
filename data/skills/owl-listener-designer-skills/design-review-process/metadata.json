@@ -1,0 +1,17 @@
+{
+  "skillId": "design-review-process",
+  "source": "owl-listener/designer-skills",
+  "owner": "owl-listener",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "owl-listener/designer-skills",
+    "skillId": "design-review-process",
+    "name": "design-review-process",
+    "installs": 855,
+    "owner": "owl-listener",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/owl-listener/designer-skills",
+    "displayName": "Design Review Process"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "nemo-mbridge-perf-cpu-offloading",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemo-mbridge-perf-cpu-offloading",
+    "name": "nemo-mbridge-perf-cpu-offloading",
+    "installs": 1516,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemo Mbridge Perf Cpu Offloading"
+  }
+}

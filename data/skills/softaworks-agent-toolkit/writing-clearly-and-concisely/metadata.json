@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-clearly-and-concisely",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "writing-clearly-and-concisely",
+    "name": "writing-clearly-and-concisely",
+    "installs": 3980,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Writing Clearly And Concisely"
+  }
+}

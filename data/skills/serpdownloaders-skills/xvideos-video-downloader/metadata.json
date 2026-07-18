@@ -1,0 +1,17 @@
+{
+  "skillId": "xvideos-video-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "xvideos-video-downloader",
+    "name": "xvideos-video-downloader",
+    "installs": 962,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Xvideos Video Downloader"
+  }
+}

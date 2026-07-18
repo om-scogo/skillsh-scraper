@@ -1,0 +1,17 @@
+{
+  "skillId": "control-ui",
+  "source": "cursor/plugins",
+  "owner": "cursor",
+  "repo": "plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cursor/plugins",
+    "skillId": "control-ui",
+    "name": "control-ui",
+    "installs": 791,
+    "owner": "cursor",
+    "repo": "plugins",
+    "githubUrl": "https://github.com/cursor/plugins",
+    "displayName": "Control Ui"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "dividend-growth-pullback-screener",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "dividend-growth-pullback-screener",
+    "name": "dividend-growth-pullback-screener",
+    "installs": 805,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Dividend Growth Pullback Screener"
+  }
+}

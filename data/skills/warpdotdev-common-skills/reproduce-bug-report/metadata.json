@@ -1,0 +1,17 @@
+{
+  "skillId": "reproduce-bug-report",
+  "source": "warpdotdev/common-skills",
+  "owner": "warpdotdev",
+  "repo": "common-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "warpdotdev/common-skills",
+    "skillId": "reproduce-bug-report",
+    "name": "reproduce-bug-report",
+    "installs": 11731,
+    "owner": "warpdotdev",
+    "repo": "common-skills",
+    "githubUrl": "https://github.com/warpdotdev/common-skills",
+    "displayName": "Reproduce Bug Report"
+  }
+}

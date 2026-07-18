@@ -1,0 +1,17 @@
+{
+  "skillId": "features-page-generator",
+  "source": "kostja94/marketing-skills",
+  "owner": "kostja94",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kostja94/marketing-skills",
+    "skillId": "features-page-generator",
+    "name": "features-page-generator",
+    "installs": 764,
+    "owner": "kostja94",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/kostja94/marketing-skills",
+    "displayName": "Features Page Generator"
+  }
+}

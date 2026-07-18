@@ -1,0 +1,17 @@
+{
+  "skillId": "eloquent-best-practices",
+  "source": "iserter/laravel-claude-agents",
+  "owner": "iserter",
+  "repo": "laravel-claude-agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "iserter/laravel-claude-agents",
+    "skillId": "eloquent-best-practices",
+    "name": "eloquent-best-practices",
+    "installs": 1133,
+    "owner": "iserter",
+    "repo": "laravel-claude-agents",
+    "githubUrl": "https://github.com/iserter/laravel-claude-agents",
+    "displayName": "Eloquent Best Practices"
+  }
+}

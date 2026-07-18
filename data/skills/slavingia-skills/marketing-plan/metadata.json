@@ -1,0 +1,17 @@
+{
+  "skillId": "marketing-plan",
+  "source": "slavingia/skills",
+  "owner": "slavingia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "slavingia/skills",
+    "skillId": "marketing-plan",
+    "name": "marketing-plan",
+    "installs": 1165,
+    "owner": "slavingia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/slavingia/skills",
+    "displayName": "Marketing Plan"
+  }
+}

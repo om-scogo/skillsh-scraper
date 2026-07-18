@@ -1,0 +1,17 @@
+{
+  "skillId": "steve-jobs-perspective",
+  "source": "alchaincyf/steve-jobs-skill",
+  "owner": "alchaincyf",
+  "repo": "steve-jobs-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/steve-jobs-skill",
+    "skillId": "steve-jobs-perspective",
+    "name": "steve-jobs-perspective",
+    "installs": 3826,
+    "owner": "alchaincyf",
+    "repo": "steve-jobs-skill",
+    "githubUrl": "https://github.com/alchaincyf/steve-jobs-skill",
+    "displayName": "Steve Jobs Perspective"
+  }
+}

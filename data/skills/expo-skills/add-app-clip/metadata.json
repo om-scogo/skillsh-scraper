@@ -1,0 +1,17 @@
+{
+  "skillId": "add-app-clip",
+  "source": "expo/skills",
+  "owner": "expo",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "expo/skills",
+    "skillId": "add-app-clip",
+    "name": "add-app-clip",
+    "installs": 7911,
+    "owner": "expo",
+    "repo": "skills",
+    "githubUrl": "https://github.com/expo/skills",
+    "displayName": "Add App Clip"
+  }
+}

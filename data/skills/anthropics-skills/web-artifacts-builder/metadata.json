@@ -1,0 +1,17 @@
+{
+  "skillId": "web-artifacts-builder",
+  "source": "anthropics/skills",
+  "owner": "anthropics",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/skills",
+    "skillId": "web-artifacts-builder",
+    "name": "web-artifacts-builder",
+    "installs": 81503,
+    "owner": "anthropics",
+    "repo": "skills",
+    "githubUrl": "https://github.com/anthropics/skills",
+    "displayName": "Web Artifacts Builder"
+  }
+}

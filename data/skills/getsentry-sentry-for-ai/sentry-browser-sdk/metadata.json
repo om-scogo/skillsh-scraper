@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-browser-sdk",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-browser-sdk",
+    "name": "sentry-browser-sdk",
+    "installs": 2362,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry Browser Sdk"
+  }
+}

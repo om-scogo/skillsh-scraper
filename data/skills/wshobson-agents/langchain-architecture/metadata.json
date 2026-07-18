@@ -1,0 +1,17 @@
+{
+  "skillId": "langchain-architecture",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "langchain-architecture",
+    "name": "langchain-architecture",
+    "installs": 10296,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Langchain Architecture"
+  }
+}

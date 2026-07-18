@@ -1,0 +1,17 @@
+{
+  "skillId": "microsoft-skill-creator",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "microsoft-skill-creator",
+    "name": "microsoft-skill-creator",
+    "installs": 8876,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Microsoft Skill Creator"
+  }
+}

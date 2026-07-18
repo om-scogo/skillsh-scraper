@@ -1,0 +1,17 @@
+{
+  "skillId": "design-doc-mermaid",
+  "source": "spillwavesolutions/design-doc-mermaid",
+  "owner": "spillwavesolutions",
+  "repo": "design-doc-mermaid",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "spillwavesolutions/design-doc-mermaid",
+    "skillId": "design-doc-mermaid",
+    "name": "design-doc-mermaid",
+    "installs": 23699,
+    "owner": "spillwavesolutions",
+    "repo": "design-doc-mermaid",
+    "githubUrl": "https://github.com/spillwavesolutions/design-doc-mermaid",
+    "displayName": "Design Doc Mermaid"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "bencium-controlled-ux-designer",
+  "source": "bencium/bencium-marketplace",
+  "owner": "bencium",
+  "repo": "bencium-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bencium/bencium-marketplace",
+    "skillId": "bencium-controlled-ux-designer",
+    "name": "bencium-controlled-ux-designer",
+    "installs": 2142,
+    "owner": "bencium",
+    "repo": "bencium-marketplace",
+    "githubUrl": "https://github.com/bencium/bencium-marketplace",
+    "displayName": "Bencium Controlled Ux Designer"
+  }
+}

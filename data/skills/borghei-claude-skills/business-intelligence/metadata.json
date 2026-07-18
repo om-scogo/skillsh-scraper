@@ -1,0 +1,17 @@
+{
+  "skillId": "business-intelligence",
+  "source": "borghei/claude-skills",
+  "owner": "borghei",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "borghei/claude-skills",
+    "skillId": "business-intelligence",
+    "name": "business-intelligence",
+    "installs": 1300,
+    "owner": "borghei",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/borghei/claude-skills",
+    "displayName": "Business Intelligence"
+  }
+}

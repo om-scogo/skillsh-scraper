@@ -1,0 +1,17 @@
+{
+  "skillId": "update-oo-component-documentation",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "update-oo-component-documentation",
+    "name": "update-oo-component-documentation",
+    "installs": 6989,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Update Oo Component Documentation"
+  }
+}

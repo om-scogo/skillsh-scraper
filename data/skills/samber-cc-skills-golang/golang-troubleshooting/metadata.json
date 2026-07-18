@@ -1,0 +1,17 @@
+{
+  "skillId": "golang-troubleshooting",
+  "source": "samber/cc-skills-golang",
+  "owner": "samber",
+  "repo": "cc-skills-golang",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills-golang",
+    "skillId": "golang-troubleshooting",
+    "name": "golang-troubleshooting",
+    "installs": 33191,
+    "owner": "samber",
+    "repo": "cc-skills-golang",
+    "githubUrl": "https://github.com/samber/cc-skills-golang",
+    "displayName": "Golang Troubleshooting"
+  }
+}

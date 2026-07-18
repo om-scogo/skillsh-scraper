@@ -1,0 +1,17 @@
+{
+  "skillId": "azure-resource-visualizer",
+  "source": "microsoft/azure-skills",
+  "owner": "microsoft",
+  "repo": "azure-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/azure-skills",
+    "skillId": "azure-resource-visualizer",
+    "name": "azure-resource-visualizer",
+    "installs": 454767,
+    "owner": "microsoft",
+    "repo": "azure-skills",
+    "githubUrl": "https://github.com/microsoft/azure-skills",
+    "displayName": "Azure Resource Visualizer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "generate-import-html",
+  "source": "adobe/skills",
+  "owner": "adobe",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adobe/skills",
+    "skillId": "generate-import-html",
+    "name": "generate-import-html",
+    "installs": 919,
+    "owner": "adobe",
+    "repo": "skills",
+    "githubUrl": "https://github.com/adobe/skills",
+    "displayName": "Generate Import Html"
+  }
+}

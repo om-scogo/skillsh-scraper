@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-tdd-london-swarm",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-tdd-london-swarm",
+    "name": "agent-tdd-london-swarm",
+    "installs": 1003,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Tdd London Swarm"
+  }
+}

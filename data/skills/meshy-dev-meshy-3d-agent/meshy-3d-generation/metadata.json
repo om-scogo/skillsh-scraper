@@ -1,0 +1,17 @@
+{
+  "skillId": "meshy-3d-generation",
+  "source": "meshy-dev/meshy-3d-agent",
+  "owner": "meshy-dev",
+  "repo": "meshy-3d-agent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "meshy-dev/meshy-3d-agent",
+    "skillId": "meshy-3d-generation",
+    "name": "meshy-3d-generation",
+    "installs": 776,
+    "owner": "meshy-dev",
+    "repo": "meshy-3d-agent",
+    "githubUrl": "https://github.com/meshy-dev/meshy-3d-agent",
+    "displayName": "Meshy 3d Generation"
+  }
+}

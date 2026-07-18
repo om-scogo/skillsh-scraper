@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-designer",
+  "source": "daniel-dan-conrad/ui-designer-skill",
+  "owner": "daniel-dan-conrad",
+  "repo": "ui-designer-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "daniel-dan-conrad/ui-designer-skill",
+    "skillId": "ui-designer",
+    "name": "ui-designer",
+    "installs": 3465,
+    "owner": "daniel-dan-conrad",
+    "repo": "ui-designer-skill",
+    "githubUrl": "https://github.com/daniel-dan-conrad/ui-designer-skill",
+    "displayName": "Ui Designer"
+  }
+}

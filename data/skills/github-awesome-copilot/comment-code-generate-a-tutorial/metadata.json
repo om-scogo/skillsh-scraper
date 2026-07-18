@@ -1,0 +1,17 @@
+{
+  "skillId": "comment-code-generate-a-tutorial",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "comment-code-generate-a-tutorial",
+    "name": "comment-code-generate-a-tutorial",
+    "installs": 8713,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Comment Code Generate A Tutorial"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "threejs-aaa-graphics-builder",
+  "source": "majidmanzarpour/threejs-game-skills",
+  "owner": "majidmanzarpour",
+  "repo": "threejs-game-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "majidmanzarpour/threejs-game-skills",
+    "skillId": "threejs-aaa-graphics-builder",
+    "name": "threejs-aaa-graphics-builder",
+    "installs": 766,
+    "owner": "majidmanzarpour",
+    "repo": "threejs-game-skills",
+    "githubUrl": "https://github.com/majidmanzarpour/threejs-game-skills",
+    "displayName": "Threejs Aaa Graphics Builder"
+  }
+}

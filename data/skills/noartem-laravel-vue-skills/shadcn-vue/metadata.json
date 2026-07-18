@@ -1,0 +1,17 @@
+{
+  "skillId": "shadcn-vue",
+  "source": "noartem/laravel-vue-skills",
+  "owner": "noartem",
+  "repo": "laravel-vue-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "noartem/laravel-vue-skills",
+    "skillId": "shadcn-vue",
+    "name": "shadcn-vue",
+    "installs": 755,
+    "owner": "noartem",
+    "repo": "laravel-vue-skills",
+    "githubUrl": "https://github.com/noartem/laravel-vue-skills",
+    "displayName": "Shadcn Vue"
+  }
+}

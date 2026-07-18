@@ -1,0 +1,17 @@
+{
+  "skillId": "iii-core-primitives",
+  "source": "iii-hq/iii",
+  "owner": "iii-hq",
+  "repo": "iii",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "iii-hq/iii",
+    "skillId": "iii-core-primitives",
+    "name": "iii-core-primitives",
+    "installs": 769,
+    "owner": "iii-hq",
+    "repo": "iii",
+    "githubUrl": "https://github.com/iii-hq/iii",
+    "displayName": "Iii Core Primitives"
+  }
+}

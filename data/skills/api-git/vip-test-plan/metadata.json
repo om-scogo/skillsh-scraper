@@ -1,0 +1,17 @@
+{
+  "skillId": "vip-test-plan",
+  "source": "api/git",
+  "owner": "api",
+  "repo": "git",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "api/git",
+    "skillId": "vip-test-plan",
+    "name": "vip-test-plan",
+    "installs": 2552,
+    "owner": "api",
+    "repo": "git",
+    "githubUrl": "https://github.com/api/git",
+    "displayName": "Vip Test Plan"
+  }
+}

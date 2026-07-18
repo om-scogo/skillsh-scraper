@@ -1,0 +1,17 @@
+{
+  "skillId": "creating-oracle-to-postgres-migration-integration-tests",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "creating-oracle-to-postgres-migration-integration-tests",
+    "name": "creating-oracle-to-postgres-migration-integration-tests",
+    "installs": 1682,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Creating Oracle To Postgres Migration Integration Tests"
+  }
+}

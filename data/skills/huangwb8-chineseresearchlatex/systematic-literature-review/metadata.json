@@ -1,0 +1,17 @@
+{
+  "skillId": "systematic-literature-review",
+  "source": "huangwb8/chineseresearchlatex",
+  "owner": "huangwb8",
+  "repo": "chineseresearchlatex",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "huangwb8/chineseresearchlatex",
+    "skillId": "systematic-literature-review",
+    "name": "systematic-literature-review",
+    "installs": 840,
+    "owner": "huangwb8",
+    "repo": "chineseresearchlatex",
+    "githubUrl": "https://github.com/huangwb8/chineseresearchlatex",
+    "displayName": "Systematic Literature Review"
+  }
+}

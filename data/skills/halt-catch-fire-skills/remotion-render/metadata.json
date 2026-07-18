@@ -1,0 +1,17 @@
+{
+  "skillId": "remotion-render",
+  "source": "halt-catch-fire/skills",
+  "owner": "halt-catch-fire",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "halt-catch-fire/skills",
+    "skillId": "remotion-render",
+    "name": "remotion-render",
+    "installs": 12,
+    "owner": "halt-catch-fire",
+    "repo": "skills",
+    "githubUrl": "https://github.com/halt-catch-fire/skills",
+    "displayName": "Remotion Render"
+  }
+}

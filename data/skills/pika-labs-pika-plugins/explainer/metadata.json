@@ -1,0 +1,17 @@
+{
+  "skillId": "explainer",
+  "source": "pika-labs/pika-plugins",
+  "owner": "pika-labs",
+  "repo": "pika-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pika-labs/pika-plugins",
+    "skillId": "explainer",
+    "name": "explainer",
+    "installs": 1244,
+    "owner": "pika-labs",
+    "repo": "pika-plugins",
+    "githubUrl": "https://github.com/pika-labs/pika-plugins",
+    "displayName": "Explainer"
+  }
+}

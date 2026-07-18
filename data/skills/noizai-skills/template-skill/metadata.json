@@ -1,0 +1,17 @@
+{
+  "skillId": "template-skill",
+  "source": "noizai/skills",
+  "owner": "noizai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "noizai/skills",
+    "skillId": "template-skill",
+    "name": "template-skill",
+    "installs": 1503,
+    "owner": "noizai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/noizai/skills",
+    "displayName": "Template Skill"
+  }
+}

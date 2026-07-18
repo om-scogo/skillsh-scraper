@@ -1,0 +1,17 @@
+{
+  "skillId": "feature-investment-advisor",
+  "source": "deanpeters/product-manager-skills",
+  "owner": "deanpeters",
+  "repo": "product-manager-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "deanpeters/product-manager-skills",
+    "skillId": "feature-investment-advisor",
+    "name": "feature-investment-advisor",
+    "installs": 1601,
+    "owner": "deanpeters",
+    "repo": "product-manager-skills",
+    "githubUrl": "https://github.com/deanpeters/product-manager-skills",
+    "displayName": "Feature Investment Advisor"
+  }
+}

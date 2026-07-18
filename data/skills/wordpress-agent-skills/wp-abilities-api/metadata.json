@@ -1,0 +1,17 @@
+{
+  "skillId": "wp-abilities-api",
+  "source": "wordpress/agent-skills",
+  "owner": "wordpress",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wordpress/agent-skills",
+    "skillId": "wp-abilities-api",
+    "name": "wp-abilities-api",
+    "installs": 2257,
+    "owner": "wordpress",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/wordpress/agent-skills",
+    "displayName": "Wp Abilities Api"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "sales-compensation",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "sales-compensation",
+    "name": "sales-compensation",
+    "installs": 1547,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Sales Compensation"
+  }
+}

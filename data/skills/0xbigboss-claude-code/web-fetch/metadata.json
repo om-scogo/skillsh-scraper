@@ -1,0 +1,17 @@
+{
+  "skillId": "web-fetch",
+  "source": "0xbigboss/claude-code",
+  "owner": "0xbigboss",
+  "repo": "claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "0xbigboss/claude-code",
+    "skillId": "web-fetch",
+    "name": "web-fetch",
+    "installs": 930,
+    "owner": "0xbigboss",
+    "repo": "claude-code",
+    "githubUrl": "https://github.com/0xbigboss/claude-code",
+    "displayName": "Web Fetch"
+  }
+}

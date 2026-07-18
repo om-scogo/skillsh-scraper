@@ -1,0 +1,17 @@
+{
+  "skillId": "agentdb-performance-optimization",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agentdb-performance-optimization",
+    "name": "agentdb performance optimization",
+    "installs": 970,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agentdb Performance Optimization"
+  }
+}

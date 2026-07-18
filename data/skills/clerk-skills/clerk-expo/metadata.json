@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-expo",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-expo",
+    "name": "clerk-expo",
+    "installs": 5258,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk Expo"
+  }
+}

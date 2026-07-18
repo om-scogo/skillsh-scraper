@@ -1,0 +1,17 @@
+{
+  "skillId": "react-expert",
+  "source": "reactjs/react.dev",
+  "owner": "reactjs",
+  "repo": "react.dev",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "reactjs/react.dev",
+    "skillId": "react-expert",
+    "name": "react-expert",
+    "installs": 1093,
+    "owner": "reactjs",
+    "repo": "react.dev",
+    "githubUrl": "https://github.com/reactjs/react.dev",
+    "displayName": "React Expert"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "vue-options-api-best-practices",
+  "source": "vuejs-ai/skills",
+  "owner": "vuejs-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vuejs-ai/skills",
+    "skillId": "vue-options-api-best-practices",
+    "name": "vue-options-api-best-practices",
+    "installs": 6817,
+    "owner": "vuejs-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/vuejs-ai/skills",
+    "displayName": "Vue Options Api Best Practices"
+  }
+}

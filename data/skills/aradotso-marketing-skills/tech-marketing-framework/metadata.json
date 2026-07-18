@@ -1,0 +1,17 @@
+{
+  "skillId": "tech-marketing-framework",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "tech-marketing-framework",
+    "name": "tech-marketing-framework",
+    "installs": 823,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Tech Marketing Framework"
+  }
+}

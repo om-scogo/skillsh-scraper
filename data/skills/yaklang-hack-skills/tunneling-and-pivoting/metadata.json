@@ -1,0 +1,17 @@
+{
+  "skillId": "tunneling-and-pivoting",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "tunneling-and-pivoting",
+    "name": "tunneling-and-pivoting",
+    "installs": 1900,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Tunneling And Pivoting"
+  }
+}

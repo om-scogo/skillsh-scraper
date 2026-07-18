@@ -1,0 +1,17 @@
+{
+  "skillId": "remotion",
+  "source": "digitalsamba/claude-code-video-toolkit",
+  "owner": "digitalsamba",
+  "repo": "claude-code-video-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "digitalsamba/claude-code-video-toolkit",
+    "skillId": "remotion",
+    "name": "remotion",
+    "installs": 758,
+    "owner": "digitalsamba",
+    "repo": "claude-code-video-toolkit",
+    "githubUrl": "https://github.com/digitalsamba/claude-code-video-toolkit",
+    "displayName": "Remotion"
+  }
+}

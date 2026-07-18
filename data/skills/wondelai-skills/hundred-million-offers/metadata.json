@@ -1,0 +1,17 @@
+{
+  "skillId": "hundred-million-offers",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "hundred-million-offers",
+    "name": "hundred-million-offers",
+    "installs": 3167,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Hundred Million Offers"
+  }
+}

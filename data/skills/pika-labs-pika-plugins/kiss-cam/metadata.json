@@ -1,0 +1,17 @@
+{
+  "skillId": "kiss-cam",
+  "source": "pika-labs/pika-plugins",
+  "owner": "pika-labs",
+  "repo": "pika-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pika-labs/pika-plugins",
+    "skillId": "kiss-cam",
+    "name": "kiss-cam",
+    "installs": 1233,
+    "owner": "pika-labs",
+    "repo": "pika-plugins",
+    "githubUrl": "https://github.com/pika-labs/pika-plugins",
+    "displayName": "Kiss Cam"
+  }
+}

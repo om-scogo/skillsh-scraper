@@ -1,0 +1,17 @@
+{
+  "skillId": "loom-video-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "loom-video-downloader",
+    "name": "loom-video-downloader",
+    "installs": 1048,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Loom Video Downloader"
+  }
+}

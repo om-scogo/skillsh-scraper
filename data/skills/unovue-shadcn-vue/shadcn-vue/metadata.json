@@ -1,0 +1,17 @@
+{
+  "skillId": "shadcn-vue",
+  "source": "unovue/shadcn-vue",
+  "owner": "unovue",
+  "repo": "shadcn-vue",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "unovue/shadcn-vue",
+    "skillId": "shadcn-vue",
+    "name": "shadcn-vue",
+    "installs": 2588,
+    "owner": "unovue",
+    "repo": "shadcn-vue",
+    "githubUrl": "https://github.com/unovue/shadcn-vue",
+    "displayName": "Shadcn Vue"
+  }
+}

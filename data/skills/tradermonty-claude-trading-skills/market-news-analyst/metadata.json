@@ -1,0 +1,17 @@
+{
+  "skillId": "market-news-analyst",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "market-news-analyst",
+    "name": "market-news-analyst",
+    "installs": 1589,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Market News Analyst"
+  }
+}

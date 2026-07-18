@@ -1,0 +1,17 @@
+{
+  "skillId": "bolder",
+  "source": "pbakaus/impeccable",
+  "owner": "pbakaus",
+  "repo": "impeccable",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pbakaus/impeccable",
+    "skillId": "bolder",
+    "name": "bolder",
+    "installs": 81291,
+    "owner": "pbakaus",
+    "repo": "impeccable",
+    "githubUrl": "https://github.com/pbakaus/impeccable",
+    "displayName": "Bolder"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "clone-website",
+  "source": "julianromli/ai-skills",
+  "owner": "julianromli",
+  "repo": "ai-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "julianromli/ai-skills",
+    "skillId": "clone-website",
+    "name": "clone-website",
+    "installs": 1440,
+    "owner": "julianromli",
+    "repo": "ai-skills",
+    "githubUrl": "https://github.com/julianromli/ai-skills",
+    "displayName": "Clone Website"
+  }
+}

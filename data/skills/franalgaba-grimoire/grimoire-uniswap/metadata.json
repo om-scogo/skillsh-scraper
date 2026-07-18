@@ -1,0 +1,17 @@
+{
+  "skillId": "grimoire-uniswap",
+  "source": "franalgaba/grimoire",
+  "owner": "franalgaba",
+  "repo": "grimoire",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "franalgaba/grimoire",
+    "skillId": "grimoire-uniswap",
+    "name": "grimoire-uniswap",
+    "installs": 1057,
+    "owner": "franalgaba",
+    "repo": "grimoire",
+    "githubUrl": "https://github.com/franalgaba/grimoire",
+    "displayName": "Grimoire Uniswap"
+  }
+}

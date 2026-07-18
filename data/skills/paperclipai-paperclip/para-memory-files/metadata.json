@@ -1,0 +1,17 @@
+{
+  "skillId": "para-memory-files",
+  "source": "paperclipai/paperclip",
+  "owner": "paperclipai",
+  "repo": "paperclip",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paperclipai/paperclip",
+    "skillId": "para-memory-files",
+    "name": "para-memory-files",
+    "installs": 1006,
+    "owner": "paperclipai",
+    "repo": "paperclip",
+    "githubUrl": "https://github.com/paperclipai/paperclip",
+    "displayName": "Para Memory Files"
+  }
+}

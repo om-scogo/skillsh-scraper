@@ -1,0 +1,17 @@
+{
+  "skillId": "multi-cloud-architecture",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "multi-cloud-architecture",
+    "name": "multi-cloud-architecture",
+    "installs": 8115,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Multi Cloud Architecture"
+  }
+}

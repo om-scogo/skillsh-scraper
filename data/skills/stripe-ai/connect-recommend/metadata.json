@@ -1,0 +1,17 @@
+{
+  "skillId": "connect-recommend",
+  "source": "stripe/ai",
+  "owner": "stripe",
+  "repo": "ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "stripe/ai",
+    "skillId": "connect-recommend",
+    "name": "connect-recommend",
+    "installs": 881,
+    "owner": "stripe",
+    "repo": "ai",
+    "githubUrl": "https://github.com/stripe/ai",
+    "displayName": "Connect Recommend"
+  }
+}

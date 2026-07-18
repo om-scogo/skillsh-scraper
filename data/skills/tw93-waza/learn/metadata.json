@@ -1,0 +1,17 @@
+{
+  "skillId": "learn",
+  "source": "tw93/waza",
+  "owner": "tw93",
+  "repo": "waza",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tw93/waza",
+    "skillId": "learn",
+    "name": "learn",
+    "installs": 9632,
+    "owner": "tw93",
+    "repo": "waza",
+    "githubUrl": "https://github.com/tw93/waza",
+    "displayName": "Learn"
+  }
+}

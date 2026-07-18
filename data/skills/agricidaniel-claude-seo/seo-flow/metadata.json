@@ -1,0 +1,17 @@
+{
+  "skillId": "seo-flow",
+  "source": "agricidaniel/claude-seo",
+  "owner": "agricidaniel",
+  "repo": "claude-seo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-seo",
+    "skillId": "seo-flow",
+    "name": "seo-flow",
+    "installs": 2260,
+    "owner": "agricidaniel",
+    "repo": "claude-seo",
+    "githubUrl": "https://github.com/agricidaniel/claude-seo",
+    "displayName": "Seo Flow"
+  }
+}

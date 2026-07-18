@@ -1,0 +1,17 @@
+{
+  "skillId": "interview-prep-generator",
+  "source": "paramchoudhary/resumeskills",
+  "owner": "paramchoudhary",
+  "repo": "resumeskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paramchoudhary/resumeskills",
+    "skillId": "interview-prep-generator",
+    "name": "interview prep generator",
+    "installs": 1841,
+    "owner": "paramchoudhary",
+    "repo": "resumeskills",
+    "githubUrl": "https://github.com/paramchoudhary/resumeskills",
+    "displayName": "Interview Prep Generator"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "defi-protocol-templates",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "defi-protocol-templates",
+    "name": "defi-protocol-templates",
+    "installs": 7927,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Defi Protocol Templates"
+  }
+}

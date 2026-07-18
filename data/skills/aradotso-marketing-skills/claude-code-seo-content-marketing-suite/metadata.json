@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-code-seo-content-marketing-suite",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "claude-code-seo-content-marketing-suite",
+    "name": "claude-code-seo-content-marketing-suite",
+    "installs": 888,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Claude Code Seo Content Marketing Suite"
+  }
+}

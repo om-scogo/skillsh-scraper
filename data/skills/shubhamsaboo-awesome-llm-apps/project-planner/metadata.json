@@ -1,0 +1,17 @@
+{
+  "skillId": "project-planner",
+  "source": "shubhamsaboo/awesome-llm-apps",
+  "owner": "shubhamsaboo",
+  "repo": "awesome-llm-apps",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shubhamsaboo/awesome-llm-apps",
+    "skillId": "project-planner",
+    "name": "project-planner",
+    "installs": 4363,
+    "owner": "shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "githubUrl": "https://github.com/shubhamsaboo/awesome-llm-apps",
+    "displayName": "Project Planner"
+  }
+}

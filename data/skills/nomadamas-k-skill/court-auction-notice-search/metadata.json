@@ -1,0 +1,17 @@
+{
+  "skillId": "court-auction-notice-search",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "court-auction-notice-search",
+    "name": "court-auction-notice-search",
+    "installs": 1872,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Court Auction Notice Search"
+  }
+}

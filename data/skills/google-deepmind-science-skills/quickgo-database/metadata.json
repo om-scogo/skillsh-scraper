@@ -1,0 +1,17 @@
+{
+  "skillId": "quickgo-database",
+  "source": "google-deepmind/science-skills",
+  "owner": "google-deepmind",
+  "repo": "science-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-deepmind/science-skills",
+    "skillId": "quickgo-database",
+    "name": "quickgo-database",
+    "installs": 959,
+    "owner": "google-deepmind",
+    "repo": "science-skills",
+    "githubUrl": "https://github.com/google-deepmind/science-skills",
+    "displayName": "Quickgo Database"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "securing-s3-buckets",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "securing-s3-buckets",
+    "name": "securing-s3-buckets",
+    "installs": 2022,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Securing S3 Buckets"
+  }
+}

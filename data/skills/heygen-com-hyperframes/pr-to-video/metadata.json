@@ -1,0 +1,17 @@
+{
+  "skillId": "pr-to-video",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "pr-to-video",
+    "name": "pr-to-video",
+    "installs": 102028,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Pr To Video"
+  }
+}

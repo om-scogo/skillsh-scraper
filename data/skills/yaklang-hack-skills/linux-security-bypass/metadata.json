@@ -1,0 +1,17 @@
+{
+  "skillId": "linux-security-bypass",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "linux-security-bypass",
+    "name": "linux-security-bypass",
+    "installs": 1900,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Linux Security Bypass"
+  }
+}

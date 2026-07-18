@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-map",
+  "source": "firecrawl/cli",
+  "owner": "firecrawl",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/cli",
+    "skillId": "firecrawl-map",
+    "name": "firecrawl-map",
+    "installs": 72997,
+    "owner": "firecrawl",
+    "repo": "cli",
+    "githubUrl": "https://github.com/firecrawl/cli",
+    "displayName": "Firecrawl Map"
+  }
+}

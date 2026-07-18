@@ -1,0 +1,17 @@
+{
+  "skillId": "content-driven-development",
+  "source": "adobe/skills",
+  "owner": "adobe",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adobe/skills",
+    "skillId": "content-driven-development",
+    "name": "content-driven-development",
+    "installs": 926,
+    "owner": "adobe",
+    "repo": "skills",
+    "githubUrl": "https://github.com/adobe/skills",
+    "displayName": "Content Driven Development"
+  }
+}

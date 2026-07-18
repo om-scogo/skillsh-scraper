@@ -1,0 +1,17 @@
+{
+  "skillId": "dashboarding",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "dashboarding",
+    "name": "dashboarding",
+    "installs": 2525,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Dashboarding"
+  }
+}

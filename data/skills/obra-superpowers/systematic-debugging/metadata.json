@@ -1,0 +1,17 @@
+{
+  "skillId": "systematic-debugging",
+  "source": "obra/superpowers",
+  "owner": "obra",
+  "repo": "superpowers",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/superpowers",
+    "skillId": "systematic-debugging",
+    "name": "systematic-debugging",
+    "installs": 189277,
+    "owner": "obra",
+    "repo": "superpowers",
+    "githubUrl": "https://github.com/obra/superpowers",
+    "displayName": "Systematic Debugging"
+  }
+}

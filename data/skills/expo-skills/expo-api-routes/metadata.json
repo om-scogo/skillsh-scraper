@@ -1,0 +1,17 @@
+{
+  "skillId": "expo-api-routes",
+  "source": "expo/skills",
+  "owner": "expo",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "expo/skills",
+    "skillId": "expo-api-routes",
+    "name": "expo-api-routes",
+    "installs": 37563,
+    "owner": "expo",
+    "repo": "skills",
+    "githubUrl": "https://github.com/expo/skills",
+    "displayName": "Expo Api Routes"
+  }
+}

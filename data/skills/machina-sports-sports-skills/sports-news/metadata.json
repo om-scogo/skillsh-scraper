@@ -1,0 +1,17 @@
+{
+  "skillId": "sports-news",
+  "source": "machina-sports/sports-skills",
+  "owner": "machina-sports",
+  "repo": "sports-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "machina-sports/sports-skills",
+    "skillId": "sports-news",
+    "name": "sports-news",
+    "installs": 918,
+    "owner": "machina-sports",
+    "repo": "sports-skills",
+    "githubUrl": "https://github.com/machina-sports/sports-skills",
+    "displayName": "Sports News"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "financial-analyst",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "financial-analyst",
+    "name": "financial-analyst",
+    "installs": 892,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Financial Analyst"
+  }
+}

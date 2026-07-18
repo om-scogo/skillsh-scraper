@@ -1,0 +1,17 @@
+{
+  "skillId": "site-launch-checklist",
+  "source": "samber/cc-skills",
+  "owner": "samber",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills",
+    "skillId": "site-launch-checklist",
+    "name": "site-launch-checklist",
+    "installs": 1844,
+    "owner": "samber",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/samber/cc-skills",
+    "displayName": "Site Launch Checklist"
+  }
+}

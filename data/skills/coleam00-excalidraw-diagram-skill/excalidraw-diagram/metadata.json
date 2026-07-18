@@ -1,0 +1,17 @@
+{
+  "skillId": "excalidraw-diagram",
+  "source": "coleam00/excalidraw-diagram-skill",
+  "owner": "coleam00",
+  "repo": "excalidraw-diagram-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coleam00/excalidraw-diagram-skill",
+    "skillId": "excalidraw-diagram",
+    "name": "excalidraw-diagram",
+    "installs": 6406,
+    "owner": "coleam00",
+    "repo": "excalidraw-diagram-skill",
+    "githubUrl": "https://github.com/coleam00/excalidraw-diagram-skill",
+    "displayName": "Excalidraw Diagram"
+  }
+}

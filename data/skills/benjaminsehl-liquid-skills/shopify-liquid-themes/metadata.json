@@ -1,0 +1,17 @@
+{
+  "skillId": "shopify-liquid-themes",
+  "source": "benjaminsehl/liquid-skills",
+  "owner": "benjaminsehl",
+  "repo": "liquid-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "benjaminsehl/liquid-skills",
+    "skillId": "shopify-liquid-themes",
+    "name": "shopify-liquid-themes",
+    "installs": 2755,
+    "owner": "benjaminsehl",
+    "repo": "liquid-skills",
+    "githubUrl": "https://github.com/benjaminsehl/liquid-skills",
+    "displayName": "Shopify Liquid Themes"
+  }
+}

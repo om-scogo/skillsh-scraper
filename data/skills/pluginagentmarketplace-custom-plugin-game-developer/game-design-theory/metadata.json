@@ -1,0 +1,17 @@
+{
+  "skillId": "game-design-theory",
+  "source": "pluginagentmarketplace/custom-plugin-game-developer",
+  "owner": "pluginagentmarketplace",
+  "repo": "custom-plugin-game-developer",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pluginagentmarketplace/custom-plugin-game-developer",
+    "skillId": "game-design-theory",
+    "name": "game-design-theory",
+    "installs": 1634,
+    "owner": "pluginagentmarketplace",
+    "repo": "custom-plugin-game-developer",
+    "githubUrl": "https://github.com/pluginagentmarketplace/custom-plugin-game-developer",
+    "displayName": "Game Design Theory"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "wordpress-router",
+  "source": "wordpress/agent-skills",
+  "owner": "wordpress",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wordpress/agent-skills",
+    "skillId": "wordpress-router",
+    "name": "wordpress-router",
+    "installs": 2904,
+    "owner": "wordpress",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/wordpress/agent-skills",
+    "displayName": "Wordpress Router"
+  }
+}

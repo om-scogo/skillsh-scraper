@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-dashboard-reporting",
+  "source": "firecrawl/firecrawl-workflows",
+  "owner": "firecrawl",
+  "repo": "firecrawl-workflows",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/firecrawl-workflows",
+    "skillId": "firecrawl-dashboard-reporting",
+    "name": "firecrawl-dashboard-reporting",
+    "installs": 29066,
+    "owner": "firecrawl",
+    "repo": "firecrawl-workflows",
+    "githubUrl": "https://github.com/firecrawl/firecrawl-workflows",
+    "displayName": "Firecrawl Dashboard Reporting"
+  }
+}

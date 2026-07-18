@@ -1,0 +1,17 @@
+{
+  "skillId": "docs-guard",
+  "source": "amelnagdy/guard-skills",
+  "owner": "amelnagdy",
+  "repo": "guard-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "amelnagdy/guard-skills",
+    "skillId": "docs-guard",
+    "name": "docs-guard",
+    "installs": 1723,
+    "owner": "amelnagdy",
+    "repo": "guard-skills",
+    "githubUrl": "https://github.com/amelnagdy/guard-skills",
+    "displayName": "Docs Guard"
+  }
+}

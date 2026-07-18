@@ -1,0 +1,17 @@
+{
+  "skillId": "text-optimizer",
+  "source": "kochetkov-ma/claude-brewcode",
+  "owner": "kochetkov-ma",
+  "repo": "claude-brewcode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kochetkov-ma/claude-brewcode",
+    "skillId": "text-optimizer",
+    "name": "text-optimizer",
+    "installs": 2043,
+    "owner": "kochetkov-ma",
+    "repo": "claude-brewcode",
+    "githubUrl": "https://github.com/kochetkov-ma/claude-brewcode",
+    "displayName": "Text Optimizer"
+  }
+}

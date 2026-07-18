@@ -1,0 +1,17 @@
+{
+  "skillId": "flyai",
+  "source": "alibaba-flyai/flyai-skill",
+  "owner": "alibaba-flyai",
+  "repo": "flyai-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alibaba-flyai/flyai-skill",
+    "skillId": "flyai",
+    "name": "flyai",
+    "installs": 1854,
+    "owner": "alibaba-flyai",
+    "repo": "flyai-skill",
+    "githubUrl": "https://github.com/alibaba-flyai/flyai-skill",
+    "displayName": "Flyai"
+  }
+}

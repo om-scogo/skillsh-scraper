@@ -1,0 +1,17 @@
+{
+  "skillId": "webapp-testing",
+  "source": "anthropics/skills",
+  "owner": "anthropics",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/skills",
+    "skillId": "webapp-testing",
+    "name": "webapp-testing",
+    "installs": 116354,
+    "owner": "anthropics",
+    "repo": "skills",
+    "githubUrl": "https://github.com/anthropics/skills",
+    "displayName": "Webapp Testing"
+  }
+}

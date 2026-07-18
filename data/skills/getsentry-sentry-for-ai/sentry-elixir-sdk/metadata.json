@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-elixir-sdk",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-elixir-sdk",
+    "name": "sentry-elixir-sdk",
+    "installs": 1550,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry Elixir Sdk"
+  }
+}

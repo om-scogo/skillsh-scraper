@@ -1,0 +1,17 @@
+{
+  "skillId": "sop-creator",
+  "source": "ognjengt/founder-skills",
+  "owner": "ognjengt",
+  "repo": "founder-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ognjengt/founder-skills",
+    "skillId": "sop-creator",
+    "name": "sop-creator",
+    "installs": 795,
+    "owner": "ognjengt",
+    "repo": "founder-skills",
+    "githubUrl": "https://github.com/ognjengt/founder-skills",
+    "displayName": "Sop Creator"
+  }
+}

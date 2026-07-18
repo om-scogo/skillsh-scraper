@@ -1,0 +1,17 @@
+{
+  "skillId": "interface-kit",
+  "source": "juliusbrussee/skills",
+  "owner": "juliusbrussee",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juliusbrussee/skills",
+    "skillId": "interface-kit",
+    "name": "interface-kit",
+    "installs": 1468,
+    "owner": "juliusbrussee",
+    "repo": "skills",
+    "githubUrl": "https://github.com/juliusbrussee/skills",
+    "displayName": "Interface Kit"
+  }
+}

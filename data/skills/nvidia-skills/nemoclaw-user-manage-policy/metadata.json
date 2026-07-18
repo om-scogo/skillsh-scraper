@@ -1,0 +1,17 @@
+{
+  "skillId": "nemoclaw-user-manage-policy",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemoclaw-user-manage-policy",
+    "name": "nemoclaw-user-manage-policy",
+    "installs": 830,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemoclaw User Manage Policy"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "data-fetching",
+  "source": "lobehub/lobehub",
+  "owner": "lobehub",
+  "repo": "lobehub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobehub",
+    "skillId": "data-fetching",
+    "name": "data-fetching",
+    "installs": 812,
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "githubUrl": "https://github.com/lobehub/lobehub",
+    "displayName": "Data Fetching"
+  }
+}

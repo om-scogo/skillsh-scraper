@@ -1,0 +1,17 @@
+{
+  "skillId": "vector-index-tuning",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "vector-index-tuning",
+    "name": "vector-index-tuning",
+    "installs": 8109,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Vector Index Tuning"
+  }
+}

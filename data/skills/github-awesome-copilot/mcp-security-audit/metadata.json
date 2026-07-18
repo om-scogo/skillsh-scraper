@@ -1,0 +1,17 @@
+{
+  "skillId": "mcp-security-audit",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "mcp-security-audit",
+    "name": "mcp-security-audit",
+    "installs": 869,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Mcp Security Audit"
+  }
+}

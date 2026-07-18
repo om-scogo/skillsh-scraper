@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-forward-labeled-emails",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-forward-labeled-emails",
+    "name": "recipe-forward-labeled-emails",
+    "installs": 22078,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Forward Labeled Emails"
+  }
+}

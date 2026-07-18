@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-spec-mobile-react-native",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-spec-mobile-react-native",
+    "name": "agent-spec-mobile-react-native",
+    "installs": 1116,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Spec Mobile React Native"
+  }
+}

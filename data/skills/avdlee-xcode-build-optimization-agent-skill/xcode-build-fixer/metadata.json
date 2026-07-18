@@ -1,0 +1,17 @@
+{
+  "skillId": "xcode-build-fixer",
+  "source": "avdlee/xcode-build-optimization-agent-skill",
+  "owner": "avdlee",
+  "repo": "xcode-build-optimization-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "avdlee/xcode-build-optimization-agent-skill",
+    "skillId": "xcode-build-fixer",
+    "name": "xcode-build-fixer",
+    "installs": 2875,
+    "owner": "avdlee",
+    "repo": "xcode-build-optimization-agent-skill",
+    "githubUrl": "https://github.com/avdlee/xcode-build-optimization-agent-skill",
+    "displayName": "Xcode Build Fixer"
+  }
+}

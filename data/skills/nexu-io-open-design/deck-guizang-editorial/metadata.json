@@ -1,0 +1,17 @@
+{
+  "skillId": "deck-guizang-editorial",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "deck-guizang-editorial",
+    "name": "deck-guizang-editorial",
+    "installs": 1560,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Deck Guizang Editorial"
+  }
+}

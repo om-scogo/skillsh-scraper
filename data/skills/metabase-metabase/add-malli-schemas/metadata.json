@@ -1,0 +1,17 @@
+{
+  "skillId": "add-malli-schemas",
+  "source": "metabase/metabase",
+  "owner": "metabase",
+  "repo": "metabase",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "metabase/metabase",
+    "skillId": "add-malli-schemas",
+    "name": "add-malli-schemas",
+    "installs": 1207,
+    "owner": "metabase",
+    "repo": "metabase",
+    "githubUrl": "https://github.com/metabase/metabase",
+    "displayName": "Add Malli Schemas"
+  }
+}

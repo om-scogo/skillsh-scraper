@@ -1,0 +1,17 @@
+{
+  "skillId": "idea-generator",
+  "source": "buildgreatproducts/builder-os",
+  "owner": "buildgreatproducts",
+  "repo": "builder-os",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "buildgreatproducts/builder-os",
+    "skillId": "idea-generator",
+    "name": "idea-generator",
+    "installs": 827,
+    "owner": "buildgreatproducts",
+    "repo": "builder-os",
+    "githubUrl": "https://github.com/buildgreatproducts/builder-os",
+    "displayName": "Idea Generator"
+  }
+}

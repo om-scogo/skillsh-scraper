@@ -1,0 +1,17 @@
+{
+  "skillId": "nano-banana-2",
+  "source": "runcomfy-com/skills",
+  "owner": "runcomfy-com",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "runcomfy-com/skills",
+    "skillId": "nano-banana-2",
+    "name": "nano-banana-2",
+    "installs": 12,
+    "owner": "runcomfy-com",
+    "repo": "skills",
+    "githubUrl": "https://github.com/runcomfy-com/skills",
+    "displayName": "Nano Banana 2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "experience-ui-bundle-custom-app-generate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "experience-ui-bundle-custom-app-generate",
+    "name": "experience-ui-bundle-custom-app-generate",
+    "installs": 1333,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Experience Ui Bundle Custom App Generate"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "mapbox-style-patterns",
+  "source": "mapbox/mapbox-agent-skills",
+  "owner": "mapbox",
+  "repo": "mapbox-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mapbox/mapbox-agent-skills",
+    "skillId": "mapbox-style-patterns",
+    "name": "mapbox-style-patterns",
+    "installs": 1514,
+    "owner": "mapbox",
+    "repo": "mapbox-agent-skills",
+    "githubUrl": "https://github.com/mapbox/mapbox-agent-skills",
+    "displayName": "Mapbox Style Patterns"
+  }
+}

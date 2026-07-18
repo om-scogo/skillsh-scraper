@@ -1,0 +1,17 @@
+{
+  "skillId": "netlify-config",
+  "source": "netlify/context-and-tools",
+  "owner": "netlify",
+  "repo": "context-and-tools",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "netlify/context-and-tools",
+    "skillId": "netlify-config",
+    "name": "netlify-config",
+    "installs": 1102,
+    "owner": "netlify",
+    "repo": "context-and-tools",
+    "githubUrl": "https://github.com/netlify/context-and-tools",
+    "displayName": "Netlify Config"
+  }
+}

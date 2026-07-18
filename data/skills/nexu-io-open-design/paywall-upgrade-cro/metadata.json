@@ -1,0 +1,17 @@
+{
+  "skillId": "paywall-upgrade-cro",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "paywall-upgrade-cro",
+    "name": "paywall-upgrade-cro",
+    "installs": 1575,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Paywall Upgrade Cro"
+  }
+}

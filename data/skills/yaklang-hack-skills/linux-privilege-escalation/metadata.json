@@ -1,0 +1,17 @@
+{
+  "skillId": "linux-privilege-escalation",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "linux-privilege-escalation",
+    "name": "linux-privilege-escalation",
+    "installs": 1903,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Linux Privilege Escalation"
+  }
+}

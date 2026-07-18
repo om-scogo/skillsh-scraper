@@ -1,0 +1,17 @@
+{
+  "skillId": "web-renderer-test",
+  "source": "remotion-dev/remotion",
+  "owner": "remotion-dev",
+  "repo": "remotion",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "remotion-dev/remotion",
+    "skillId": "web-renderer-test",
+    "name": "web-renderer-test",
+    "installs": 1803,
+    "owner": "remotion-dev",
+    "repo": "remotion",
+    "githubUrl": "https://github.com/remotion-dev/remotion",
+    "displayName": "Web Renderer Test"
+  }
+}

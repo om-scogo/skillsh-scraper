@@ -1,0 +1,17 @@
+{
+  "skillId": "adversarial-review",
+  "source": "poteto/noodle",
+  "owner": "poteto",
+  "repo": "noodle",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "poteto/noodle",
+    "skillId": "adversarial-review",
+    "name": "adversarial-review",
+    "installs": 1024,
+    "owner": "poteto",
+    "repo": "noodle",
+    "githubUrl": "https://github.com/poteto/noodle",
+    "displayName": "Adversarial Review"
+  }
+}

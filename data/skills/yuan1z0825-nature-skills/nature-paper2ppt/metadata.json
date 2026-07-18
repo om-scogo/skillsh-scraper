@@ -1,0 +1,17 @@
+{
+  "skillId": "nature-paper2ppt",
+  "source": "yuan1z0825/nature-skills",
+  "owner": "yuan1z0825",
+  "repo": "nature-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yuan1z0825/nature-skills",
+    "skillId": "nature-paper2ppt",
+    "name": "nature-paper2ppt",
+    "installs": 3879,
+    "owner": "yuan1z0825",
+    "repo": "nature-skills",
+    "githubUrl": "https://github.com/yuan1z0825/nature-skills",
+    "displayName": "Nature Paper2ppt"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "rsbuild-best-practices",
+  "source": "rstackjs/agent-skills",
+  "owner": "rstackjs",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rstackjs/agent-skills",
+    "skillId": "rsbuild-best-practices",
+    "name": "rsbuild-best-practices",
+    "installs": 1557,
+    "owner": "rstackjs",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/rstackjs/agent-skills",
+    "displayName": "Rsbuild Best Practices"
+  }
+}

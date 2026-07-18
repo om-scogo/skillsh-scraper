@@ -1,0 +1,17 @@
+{
+  "skillId": "configurator",
+  "source": "uniswap/uniswap-ai",
+  "owner": "uniswap",
+  "repo": "uniswap-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "uniswap/uniswap-ai",
+    "skillId": "configurator",
+    "name": "configurator",
+    "installs": 755,
+    "owner": "uniswap",
+    "repo": "uniswap-ai",
+    "githubUrl": "https://github.com/uniswap/uniswap-ai",
+    "displayName": "Configurator"
+  }
+}

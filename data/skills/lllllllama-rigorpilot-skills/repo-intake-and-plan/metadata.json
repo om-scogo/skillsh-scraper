@@ -1,0 +1,17 @@
+{
+  "skillId": "repo-intake-and-plan",
+  "source": "lllllllama/rigorpilot-skills",
+  "owner": "lllllllama",
+  "repo": "rigorpilot-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lllllllama/rigorpilot-skills",
+    "skillId": "repo-intake-and-plan",
+    "name": "repo-intake-and-plan",
+    "installs": 136017,
+    "owner": "lllllllama",
+    "repo": "rigorpilot-skills",
+    "githubUrl": "https://github.com/lllllllama/rigorpilot-skills",
+    "displayName": "Repo Intake And Plan"
+  }
+}

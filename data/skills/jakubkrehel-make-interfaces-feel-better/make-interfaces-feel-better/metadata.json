@@ -1,0 +1,17 @@
+{
+  "skillId": "make-interfaces-feel-better",
+  "source": "jakubkrehel/make-interfaces-feel-better",
+  "owner": "jakubkrehel",
+  "repo": "make-interfaces-feel-better",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jakubkrehel/make-interfaces-feel-better",
+    "skillId": "make-interfaces-feel-better",
+    "name": "make-interfaces-feel-better",
+    "installs": 43188,
+    "owner": "jakubkrehel",
+    "repo": "make-interfaces-feel-better",
+    "githubUrl": "https://github.com/jakubkrehel/make-interfaces-feel-better",
+    "displayName": "Make Interfaces Feel Better"
+  }
+}

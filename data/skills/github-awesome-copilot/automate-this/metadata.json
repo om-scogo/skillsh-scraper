@@ -1,0 +1,17 @@
+{
+  "skillId": "automate-this",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "automate-this",
+    "name": "automate-this",
+    "installs": 2132,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Automate This"
+  }
+}

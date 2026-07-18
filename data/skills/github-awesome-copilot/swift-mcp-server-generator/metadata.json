@@ -1,0 +1,17 @@
+{
+  "skillId": "swift-mcp-server-generator",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "swift-mcp-server-generator",
+    "name": "swift-mcp-server-generator",
+    "installs": 8668,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Swift Mcp Server Generator"
+  }
+}

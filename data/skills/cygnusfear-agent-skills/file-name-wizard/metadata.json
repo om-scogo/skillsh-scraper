@@ -1,0 +1,17 @@
+{
+  "skillId": "file-name-wizard",
+  "source": "cygnusfear/agent-skills",
+  "owner": "cygnusfear",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cygnusfear/agent-skills",
+    "skillId": "file-name-wizard",
+    "name": "file-name-wizard",
+    "installs": 1204,
+    "owner": "cygnusfear",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/cygnusfear/agent-skills",
+    "displayName": "File Name Wizard"
+  }
+}

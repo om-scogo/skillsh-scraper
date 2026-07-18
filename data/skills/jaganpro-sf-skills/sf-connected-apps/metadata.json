@@ -1,0 +1,17 @@
+{
+  "skillId": "sf-connected-apps",
+  "source": "jaganpro/sf-skills",
+  "owner": "jaganpro",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jaganpro/sf-skills",
+    "skillId": "sf-connected-apps",
+    "name": "sf-connected-apps",
+    "installs": 1285,
+    "owner": "jaganpro",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/jaganpro/sf-skills",
+    "displayName": "Sf Connected Apps"
+  }
+}

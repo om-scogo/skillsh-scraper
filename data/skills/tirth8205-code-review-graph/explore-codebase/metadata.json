@@ -1,0 +1,17 @@
+{
+  "skillId": "explore-codebase",
+  "source": "tirth8205/code-review-graph",
+  "owner": "tirth8205",
+  "repo": "code-review-graph",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tirth8205/code-review-graph",
+    "skillId": "explore-codebase",
+    "name": "explore codebase",
+    "installs": 828,
+    "owner": "tirth8205",
+    "repo": "code-review-graph",
+    "githubUrl": "https://github.com/tirth8205/code-review-graph",
+    "displayName": "Explore Codebase"
+  }
+}

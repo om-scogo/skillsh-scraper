@@ -1,0 +1,17 @@
+{
+  "skillId": "cosmos-dbt-fusion",
+  "source": "astronomer/agents",
+  "owner": "astronomer",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astronomer/agents",
+    "skillId": "cosmos-dbt-fusion",
+    "name": "cosmos-dbt-fusion",
+    "installs": 739,
+    "owner": "astronomer",
+    "repo": "agents",
+    "githubUrl": "https://github.com/astronomer/agents",
+    "displayName": "Cosmos Dbt Fusion"
+  }
+}

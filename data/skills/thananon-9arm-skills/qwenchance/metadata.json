@@ -1,0 +1,17 @@
+{
+  "skillId": "qwenchance",
+  "source": "thananon/9arm-skills",
+  "owner": "thananon",
+  "repo": "9arm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thananon/9arm-skills",
+    "skillId": "qwenchance",
+    "name": "qwenchance",
+    "installs": 1094,
+    "owner": "thananon",
+    "repo": "9arm-skills",
+    "githubUrl": "https://github.com/thananon/9arm-skills",
+    "displayName": "Qwenchance"
+  }
+}

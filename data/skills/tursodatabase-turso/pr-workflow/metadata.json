@@ -1,0 +1,17 @@
+{
+  "skillId": "pr-workflow",
+  "source": "tursodatabase/turso",
+  "owner": "tursodatabase",
+  "repo": "turso",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tursodatabase/turso",
+    "skillId": "pr-workflow",
+    "name": "pr-workflow",
+    "installs": 867,
+    "owner": "tursodatabase",
+    "repo": "turso",
+    "githubUrl": "https://github.com/tursodatabase/turso",
+    "displayName": "Pr Workflow"
+  }
+}

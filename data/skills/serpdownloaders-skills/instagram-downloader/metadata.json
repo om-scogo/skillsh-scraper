@@ -1,0 +1,17 @@
+{
+  "skillId": "instagram-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "instagram-downloader",
+    "name": "instagram-downloader",
+    "installs": 1146,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Instagram Downloader"
+  }
+}

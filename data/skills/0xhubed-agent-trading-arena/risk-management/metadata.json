@@ -1,0 +1,17 @@
+{
+  "skillId": "risk-management",
+  "source": "0xhubed/agent-trading-arena",
+  "owner": "0xhubed",
+  "repo": "agent-trading-arena",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "0xhubed/agent-trading-arena",
+    "skillId": "risk-management",
+    "name": "risk-management",
+    "installs": 1869,
+    "owner": "0xhubed",
+    "repo": "agent-trading-arena",
+    "githubUrl": "https://github.com/0xhubed/agent-trading-arena",
+    "displayName": "Risk Management"
+  }
+}

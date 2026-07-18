@@ -1,0 +1,17 @@
+{
+  "skillId": "vercel-cli",
+  "source": "vercel/vercel",
+  "owner": "vercel",
+  "repo": "vercel",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/vercel",
+    "skillId": "vercel-cli",
+    "name": "vercel-cli",
+    "installs": 3971,
+    "owner": "vercel",
+    "repo": "vercel",
+    "githubUrl": "https://github.com/vercel/vercel",
+    "displayName": "Vercel Cli"
+  }
+}

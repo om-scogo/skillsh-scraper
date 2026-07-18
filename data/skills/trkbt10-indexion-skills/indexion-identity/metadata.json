@@ -1,0 +1,17 @@
+{
+  "skillId": "indexion-identity",
+  "source": "trkbt10/indexion-skills",
+  "owner": "trkbt10",
+  "repo": "indexion-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trkbt10/indexion-skills",
+    "skillId": "indexion-identity",
+    "name": "indexion-identity",
+    "installs": 4886,
+    "owner": "trkbt10",
+    "repo": "indexion-skills",
+    "githubUrl": "https://github.com/trkbt10/indexion-skills",
+    "displayName": "Indexion Identity"
+  }
+}

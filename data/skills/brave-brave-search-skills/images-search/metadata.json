@@ -1,0 +1,17 @@
+{
+  "skillId": "images-search",
+  "source": "brave/brave-search-skills",
+  "owner": "brave",
+  "repo": "brave-search-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "brave/brave-search-skills",
+    "skillId": "images-search",
+    "name": "images-search",
+    "installs": 1019,
+    "owner": "brave",
+    "repo": "brave-search-skills",
+    "githubUrl": "https://github.com/brave/brave-search-skills",
+    "displayName": "Images Search"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-history-ingest",
+  "source": "ar9av/obsidian-wiki",
+  "owner": "ar9av",
+  "repo": "obsidian-wiki",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ar9av/obsidian-wiki",
+    "skillId": "claude-history-ingest",
+    "name": "claude-history-ingest",
+    "installs": 2521,
+    "owner": "ar9av",
+    "repo": "obsidian-wiki",
+    "githubUrl": "https://github.com/ar9av/obsidian-wiki",
+    "displayName": "Claude History Ingest"
+  }
+}

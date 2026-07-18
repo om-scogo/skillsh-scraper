@@ -1,0 +1,17 @@
+{
+  "skillId": "docusign-automation",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "docusign-automation",
+    "name": "docusign automation",
+    "installs": 3383,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Docusign Automation"
+  }
+}

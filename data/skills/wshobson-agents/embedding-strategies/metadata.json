@@ -1,0 +1,17 @@
+{
+  "skillId": "embedding-strategies",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "embedding-strategies",
+    "name": "embedding-strategies",
+    "installs": 8719,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Embedding Strategies"
+  }
+}

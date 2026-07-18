@@ -1,0 +1,17 @@
+{
+  "skillId": "convert-plaintext-to-md",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "convert-plaintext-to-md",
+    "name": "convert-plaintext-to-md",
+    "installs": 8808,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Convert Plaintext To Md"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "web-quality-audit",
+  "source": "addyosmani/web-quality-skills",
+  "owner": "addyosmani",
+  "repo": "web-quality-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/web-quality-skills",
+    "skillId": "web-quality-audit",
+    "name": "web-quality-audit",
+    "installs": 16304,
+    "owner": "addyosmani",
+    "repo": "web-quality-skills",
+    "githubUrl": "https://github.com/addyosmani/web-quality-skills",
+    "displayName": "Web Quality Audit"
+  }
+}

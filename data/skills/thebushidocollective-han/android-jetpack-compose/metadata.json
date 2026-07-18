@@ -1,0 +1,17 @@
+{
+  "skillId": "android-jetpack-compose",
+  "source": "thebushidocollective/han",
+  "owner": "thebushidocollective",
+  "repo": "han",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thebushidocollective/han",
+    "skillId": "android-jetpack-compose",
+    "name": "android-jetpack-compose",
+    "installs": 1673,
+    "owner": "thebushidocollective",
+    "repo": "han",
+    "githubUrl": "https://github.com/thebushidocollective/han",
+    "displayName": "Android Jetpack Compose"
+  }
+}

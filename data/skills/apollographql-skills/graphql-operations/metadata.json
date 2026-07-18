@@ -1,0 +1,17 @@
+{
+  "skillId": "graphql-operations",
+  "source": "apollographql/skills",
+  "owner": "apollographql",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apollographql/skills",
+    "skillId": "graphql-operations",
+    "name": "graphql-operations",
+    "installs": 2450,
+    "owner": "apollographql",
+    "repo": "skills",
+    "githubUrl": "https://github.com/apollographql/skills",
+    "displayName": "Graphql Operations"
+  }
+}

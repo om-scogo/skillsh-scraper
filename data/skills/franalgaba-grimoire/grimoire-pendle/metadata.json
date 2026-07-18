@@ -1,0 +1,17 @@
+{
+  "skillId": "grimoire-pendle",
+  "source": "franalgaba/grimoire",
+  "owner": "franalgaba",
+  "repo": "grimoire",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "franalgaba/grimoire",
+    "skillId": "grimoire-pendle",
+    "name": "grimoire-pendle",
+    "installs": 1016,
+    "owner": "franalgaba",
+    "repo": "grimoire",
+    "githubUrl": "https://github.com/franalgaba/grimoire",
+    "displayName": "Grimoire Pendle"
+  }
+}

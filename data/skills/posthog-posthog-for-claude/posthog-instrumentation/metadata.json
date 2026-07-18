@@ -1,0 +1,17 @@
+{
+  "skillId": "posthog-instrumentation",
+  "source": "posthog/posthog-for-claude",
+  "owner": "posthog",
+  "repo": "posthog-for-claude",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "posthog/posthog-for-claude",
+    "skillId": "posthog-instrumentation",
+    "name": "posthog-instrumentation",
+    "installs": 1481,
+    "owner": "posthog",
+    "repo": "posthog-for-claude",
+    "githubUrl": "https://github.com/posthog/posthog-for-claude",
+    "displayName": "Posthog Instrumentation"
+  }
+}

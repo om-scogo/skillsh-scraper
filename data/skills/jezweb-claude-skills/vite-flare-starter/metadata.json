@@ -1,0 +1,17 @@
+{
+  "skillId": "vite-flare-starter",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "vite-flare-starter",
+    "name": "vite-flare-starter",
+    "installs": 1021,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Vite Flare Starter"
+  }
+}

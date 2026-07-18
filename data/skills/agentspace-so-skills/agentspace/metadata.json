@@ -1,0 +1,17 @@
+{
+  "skillId": "agentspace",
+  "source": "agentspace-so/skills",
+  "owner": "agentspace-so",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agentspace-so/skills",
+    "skillId": "agentspace",
+    "name": "agentspace",
+    "installs": 12,
+    "owner": "agentspace-so",
+    "repo": "skills",
+    "githubUrl": "https://github.com/agentspace-so/skills",
+    "displayName": "Agentspace"
+  }
+}

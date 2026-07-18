@@ -1,0 +1,17 @@
+{
+  "skillId": "senior-architect",
+  "source": "davila7/claude-code-templates",
+  "owner": "davila7",
+  "repo": "claude-code-templates",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "davila7/claude-code-templates",
+    "skillId": "senior-architect",
+    "name": "senior-architect",
+    "installs": 941,
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "githubUrl": "https://github.com/davila7/claude-code-templates",
+    "displayName": "Senior Architect"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ce-proof",
+  "source": "everyinc/compound-engineering-plugin",
+  "owner": "everyinc",
+  "repo": "compound-engineering-plugin",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "everyinc/compound-engineering-plugin",
+    "skillId": "ce-proof",
+    "name": "ce-proof",
+    "installs": 2056,
+    "owner": "everyinc",
+    "repo": "compound-engineering-plugin",
+    "githubUrl": "https://github.com/everyinc/compound-engineering-plugin",
+    "displayName": "Ce Proof"
+  }
+}

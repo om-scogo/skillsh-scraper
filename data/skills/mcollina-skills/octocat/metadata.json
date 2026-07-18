@@ -1,0 +1,17 @@
+{
+  "skillId": "octocat",
+  "source": "mcollina/skills",
+  "owner": "mcollina",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mcollina/skills",
+    "skillId": "octocat",
+    "name": "octocat",
+    "installs": 878,
+    "owner": "mcollina",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mcollina/skills",
+    "displayName": "Octocat"
+  }
+}

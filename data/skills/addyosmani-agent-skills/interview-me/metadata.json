@@ -1,0 +1,17 @@
+{
+  "skillId": "interview-me",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "interview-me",
+    "name": "interview-me",
+    "installs": 8684,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Interview Me"
+  }
+}

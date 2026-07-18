@@ -1,0 +1,17 @@
+{
+  "skillId": "tavily-search",
+  "source": "veithly/tavily-search",
+  "owner": "veithly",
+  "repo": "tavily-search",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "veithly/tavily-search",
+    "skillId": "tavily-search",
+    "name": "tavily-search",
+    "installs": 3694,
+    "owner": "veithly",
+    "repo": "tavily-search",
+    "githubUrl": "https://github.com/veithly/tavily-search",
+    "displayName": "Tavily Search"
+  }
+}

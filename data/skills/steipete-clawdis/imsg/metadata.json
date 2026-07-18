@@ -1,0 +1,17 @@
+{
+  "skillId": "imsg",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "imsg",
+    "name": "imsg",
+    "installs": 2486,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Imsg"
+  }
+}

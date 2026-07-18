@@ -1,0 +1,17 @@
+{
+  "skillId": "netlify-edge-functions",
+  "source": "netlify/context-and-tools",
+  "owner": "netlify",
+  "repo": "context-and-tools",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "netlify/context-and-tools",
+    "skillId": "netlify-edge-functions",
+    "name": "netlify-edge-functions",
+    "installs": 1053,
+    "owner": "netlify",
+    "repo": "context-and-tools",
+    "githubUrl": "https://github.com/netlify/context-and-tools",
+    "displayName": "Netlify Edge Functions"
+  }
+}

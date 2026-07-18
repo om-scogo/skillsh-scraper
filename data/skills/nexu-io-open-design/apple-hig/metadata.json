@@ -1,0 +1,17 @@
+{
+  "skillId": "apple-hig",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "apple-hig",
+    "name": "apple-hig",
+    "installs": 1760,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Apple Hig"
+  }
+}

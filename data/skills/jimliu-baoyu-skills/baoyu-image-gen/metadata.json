@@ -1,0 +1,17 @@
+{
+  "skillId": "baoyu-image-gen",
+  "source": "jimliu/baoyu-skills",
+  "owner": "jimliu",
+  "repo": "baoyu-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jimliu/baoyu-skills",
+    "skillId": "baoyu-image-gen",
+    "name": "baoyu-image-gen",
+    "installs": 29765,
+    "owner": "jimliu",
+    "repo": "baoyu-skills",
+    "githubUrl": "https://github.com/jimliu/baoyu-skills",
+    "displayName": "Baoyu Image Gen"
+  }
+}

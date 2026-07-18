@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-video-generation",
+  "source": "skills-shell/skills",
+  "owner": "skills-shell",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "skills-shell/skills",
+    "skillId": "ai-video-generation",
+    "name": "ai-video-generation",
+    "installs": 12,
+    "owner": "skills-shell",
+    "repo": "skills",
+    "githubUrl": "https://github.com/skills-shell/skills",
+    "displayName": "Ai Video Generation"
+  }
+}

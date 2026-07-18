@@ -1,0 +1,17 @@
+{
+  "skillId": "aiconfig-agent-graphs",
+  "source": "launchdarkly/agent-skills",
+  "owner": "launchdarkly",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "launchdarkly/agent-skills",
+    "skillId": "aiconfig-agent-graphs",
+    "name": "aiconfig-agent-graphs",
+    "installs": 1948,
+    "owner": "launchdarkly",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/launchdarkly/agent-skills",
+    "displayName": "Aiconfig Agent Graphs"
+  }
+}

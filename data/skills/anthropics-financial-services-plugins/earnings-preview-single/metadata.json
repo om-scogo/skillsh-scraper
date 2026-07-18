@@ -1,0 +1,17 @@
+{
+  "skillId": "earnings-preview-single",
+  "source": "anthropics/financial-services-plugins",
+  "owner": "anthropics",
+  "repo": "financial-services-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/financial-services-plugins",
+    "skillId": "earnings-preview-single",
+    "name": "earnings-preview-single",
+    "installs": 916,
+    "owner": "anthropics",
+    "repo": "financial-services-plugins",
+    "githubUrl": "https://github.com/anthropics/financial-services-plugins",
+    "displayName": "Earnings Preview Single"
+  }
+}

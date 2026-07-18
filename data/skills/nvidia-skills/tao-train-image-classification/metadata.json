@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-train-image-classification",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-train-image-classification",
+    "name": "tao-train-image-classification",
+    "installs": 1286,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Train Image Classification"
+  }
+}

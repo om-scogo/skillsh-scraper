@@ -1,0 +1,17 @@
+{
+  "skillId": "k8s-manifest-generator",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "k8s-manifest-generator",
+    "name": "k8s-manifest-generator",
+    "installs": 8414,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "K8s Manifest Generator"
+  }
+}

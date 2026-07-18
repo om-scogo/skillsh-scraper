@@ -1,0 +1,17 @@
+{
+  "skillId": "sf-datacloud-prepare",
+  "source": "jaganpro/sf-skills",
+  "owner": "jaganpro",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jaganpro/sf-skills",
+    "skillId": "sf-datacloud-prepare",
+    "name": "sf-datacloud-prepare",
+    "installs": 918,
+    "owner": "jaganpro",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/jaganpro/sf-skills",
+    "displayName": "Sf Datacloud Prepare"
+  }
+}

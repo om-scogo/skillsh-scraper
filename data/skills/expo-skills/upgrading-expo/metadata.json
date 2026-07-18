@@ -1,0 +1,17 @@
+{
+  "skillId": "upgrading-expo",
+  "source": "expo/skills",
+  "owner": "expo",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "expo/skills",
+    "skillId": "upgrading-expo",
+    "name": "upgrading-expo",
+    "installs": 42620,
+    "owner": "expo",
+    "repo": "skills",
+    "githubUrl": "https://github.com/expo/skills",
+    "displayName": "Upgrading Expo"
+  }
+}

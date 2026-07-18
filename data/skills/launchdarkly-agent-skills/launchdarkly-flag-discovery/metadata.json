@@ -1,0 +1,17 @@
+{
+  "skillId": "launchdarkly-flag-discovery",
+  "source": "launchdarkly/agent-skills",
+  "owner": "launchdarkly",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "launchdarkly/agent-skills",
+    "skillId": "launchdarkly-flag-discovery",
+    "name": "launchdarkly-flag-discovery",
+    "installs": 2680,
+    "owner": "launchdarkly",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/launchdarkly/agent-skills",
+    "displayName": "Launchdarkly Flag Discovery"
+  }
+}

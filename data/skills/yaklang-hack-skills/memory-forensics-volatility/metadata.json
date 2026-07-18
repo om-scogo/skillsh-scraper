@@ -1,0 +1,17 @@
+{
+  "skillId": "memory-forensics-volatility",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "memory-forensics-volatility",
+    "name": "memory-forensics-volatility",
+    "installs": 1904,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Memory Forensics Volatility"
+  }
+}

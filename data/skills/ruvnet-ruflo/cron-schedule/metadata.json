@@ -1,0 +1,17 @@
+{
+  "skillId": "cron-schedule",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "cron-schedule",
+    "name": "cron-schedule",
+    "installs": 797,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Cron Schedule"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "aso-audit",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "aso-audit",
+    "name": "aso-audit",
+    "installs": 2829,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "Aso Audit"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "postmortem-writing",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "postmortem-writing",
+    "name": "postmortem-writing",
+    "installs": 8026,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Postmortem Writing"
+  }
+}

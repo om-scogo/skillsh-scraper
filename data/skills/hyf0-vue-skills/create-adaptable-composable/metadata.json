@@ -1,0 +1,17 @@
+{
+  "skillId": "create-adaptable-composable",
+  "source": "hyf0/vue-skills",
+  "owner": "hyf0",
+  "repo": "vue-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hyf0/vue-skills",
+    "skillId": "create-adaptable-composable",
+    "name": "create-adaptable-composable",
+    "installs": 2276,
+    "owner": "hyf0",
+    "repo": "vue-skills",
+    "githubUrl": "https://github.com/hyf0/vue-skills",
+    "displayName": "Create Adaptable Composable"
+  }
+}

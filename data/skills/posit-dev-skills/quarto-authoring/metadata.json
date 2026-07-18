@@ -1,0 +1,17 @@
+{
+  "skillId": "quarto-authoring",
+  "source": "posit-dev/skills",
+  "owner": "posit-dev",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "posit-dev/skills",
+    "skillId": "quarto-authoring",
+    "name": "quarto-authoring",
+    "installs": 885,
+    "owner": "posit-dev",
+    "repo": "skills",
+    "githubUrl": "https://github.com/posit-dev/skills",
+    "displayName": "Quarto Authoring"
+  }
+}

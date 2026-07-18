@@ -1,0 +1,17 @@
+{
+  "skillId": "mongodb-atlas-stream-processing",
+  "source": "mongodb/agent-skills",
+  "owner": "mongodb",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mongodb/agent-skills",
+    "skillId": "mongodb-atlas-stream-processing",
+    "name": "mongodb-atlas-stream-processing",
+    "installs": 1660,
+    "owner": "mongodb",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/mongodb/agent-skills",
+    "displayName": "Mongodb Atlas Stream Processing"
+  }
+}

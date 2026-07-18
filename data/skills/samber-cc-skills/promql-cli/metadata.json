@@ -1,0 +1,17 @@
+{
+  "skillId": "promql-cli",
+  "source": "samber/cc-skills",
+  "owner": "samber",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills",
+    "skillId": "promql-cli",
+    "name": "promql-cli",
+    "installs": 1912,
+    "owner": "samber",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/samber/cc-skills",
+    "displayName": "Promql Cli"
+  }
+}

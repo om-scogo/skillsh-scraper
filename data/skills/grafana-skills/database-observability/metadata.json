@@ -1,0 +1,17 @@
+{
+  "skillId": "database-observability",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "database-observability",
+    "name": "database-observability",
+    "installs": 1549,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Database Observability"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "bb-browser",
+  "source": "epiral/bb-browser",
+  "owner": "epiral",
+  "repo": "bb-browser",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "epiral/bb-browser",
+    "skillId": "bb-browser",
+    "name": "bb-browser",
+    "installs": 3385,
+    "owner": "epiral",
+    "repo": "bb-browser",
+    "githubUrl": "https://github.com/epiral/bb-browser",
+    "displayName": "Bb Browser"
+  }
+}

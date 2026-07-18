@@ -1,0 +1,17 @@
+{
+  "skillId": "salary-negotiation-prep",
+  "source": "paramchoudhary/resumeskills",
+  "owner": "paramchoudhary",
+  "repo": "resumeskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paramchoudhary/resumeskills",
+    "skillId": "salary-negotiation-prep",
+    "name": "salary negotiation prep",
+    "installs": 1637,
+    "owner": "paramchoudhary",
+    "repo": "resumeskills",
+    "githubUrl": "https://github.com/paramchoudhary/resumeskills",
+    "displayName": "Salary Negotiation Prep"
+  }
+}

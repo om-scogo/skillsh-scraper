@@ -1,0 +1,17 @@
+{
+  "skillId": "letzai-api",
+  "source": "letz-ai/letzai-skill",
+  "owner": "letz-ai",
+  "repo": "letzai-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "letz-ai/letzai-skill",
+    "skillId": "letzai-api",
+    "name": "letzai-api",
+    "installs": 902,
+    "owner": "letz-ai",
+    "repo": "letzai-skill",
+    "githubUrl": "https://github.com/letz-ai/letzai-skill",
+    "displayName": "Letzai Api"
+  }
+}

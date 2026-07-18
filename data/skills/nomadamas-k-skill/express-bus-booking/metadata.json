@@ -1,0 +1,17 @@
+{
+  "skillId": "express-bus-booking",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "express-bus-booking",
+    "name": "express-bus-booking",
+    "installs": 1448,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Express Bus Booking"
+  }
+}

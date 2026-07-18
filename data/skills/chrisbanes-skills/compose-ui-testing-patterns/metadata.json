@@ -1,0 +1,17 @@
+{
+  "skillId": "compose-ui-testing-patterns",
+  "source": "chrisbanes/skills",
+  "owner": "chrisbanes",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chrisbanes/skills",
+    "skillId": "compose-ui-testing-patterns",
+    "name": "compose-ui-testing-patterns",
+    "installs": 814,
+    "owner": "chrisbanes",
+    "repo": "skills",
+    "githubUrl": "https://github.com/chrisbanes/skills",
+    "displayName": "Compose Ui Testing Patterns"
+  }
+}

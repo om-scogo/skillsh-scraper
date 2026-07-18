@@ -1,0 +1,17 @@
+{
+  "skillId": "eve",
+  "source": "vercel/eve",
+  "owner": "vercel",
+  "repo": "eve",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/eve",
+    "skillId": "eve",
+    "name": "eve",
+    "installs": 2577,
+    "owner": "vercel",
+    "repo": "eve",
+    "githubUrl": "https://github.com/vercel/eve",
+    "displayName": "Eve"
+  }
+}

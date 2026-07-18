@@ -1,0 +1,17 @@
+{
+  "skillId": "web-perf",
+  "source": "cloudflare/skills",
+  "owner": "cloudflare",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudflare/skills",
+    "skillId": "web-perf",
+    "name": "web-perf",
+    "installs": 23452,
+    "owner": "cloudflare",
+    "repo": "skills",
+    "githubUrl": "https://github.com/cloudflare/skills",
+    "displayName": "Web Perf"
+  }
+}

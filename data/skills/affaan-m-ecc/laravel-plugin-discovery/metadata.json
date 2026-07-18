@@ -1,0 +1,17 @@
+{
+  "skillId": "laravel-plugin-discovery",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "laravel-plugin-discovery",
+    "name": "laravel-plugin-discovery",
+    "installs": 1096,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Laravel Plugin Discovery"
+  }
+}

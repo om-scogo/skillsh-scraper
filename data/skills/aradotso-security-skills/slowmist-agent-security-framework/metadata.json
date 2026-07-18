@@ -1,0 +1,17 @@
+{
+  "skillId": "slowmist-agent-security-framework",
+  "source": "aradotso/security-skills",
+  "owner": "aradotso",
+  "repo": "security-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/security-skills",
+    "skillId": "slowmist-agent-security-framework",
+    "name": "slowmist-agent-security-framework",
+    "installs": 962,
+    "owner": "aradotso",
+    "repo": "security-skills",
+    "githubUrl": "https://github.com/aradotso/security-skills",
+    "displayName": "Slowmist Agent Security Framework"
+  }
+}

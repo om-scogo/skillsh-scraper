@@ -1,0 +1,17 @@
+{
+  "skillId": "twill-cloud-coding-agent",
+  "source": "twillai/skills",
+  "owner": "twillai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "twillai/skills",
+    "skillId": "twill-cloud-coding-agent",
+    "name": "twill-cloud-coding-agent",
+    "installs": 990,
+    "owner": "twillai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/twillai/skills",
+    "displayName": "Twill Cloud Coding Agent"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "foresttrip-vacancy",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "foresttrip-vacancy",
+    "name": "foresttrip-vacancy",
+    "installs": 1864,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Foresttrip Vacancy"
+  }
+}

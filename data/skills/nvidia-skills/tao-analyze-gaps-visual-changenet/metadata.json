@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-analyze-gaps-visual-changenet",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-analyze-gaps-visual-changenet",
+    "name": "tao-analyze-gaps-visual-changenet",
+    "installs": 1283,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Analyze Gaps Visual Changenet"
+  }
+}

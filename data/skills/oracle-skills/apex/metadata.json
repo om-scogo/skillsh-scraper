@@ -1,0 +1,17 @@
+{
+  "skillId": "apex",
+  "source": "oracle/skills",
+  "owner": "oracle",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "oracle/skills",
+    "skillId": "apex",
+    "name": "apex",
+    "installs": 783,
+    "owner": "oracle",
+    "repo": "skills",
+    "githubUrl": "https://github.com/oracle/skills",
+    "displayName": "Apex"
+  }
+}

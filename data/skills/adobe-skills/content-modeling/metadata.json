@@ -1,0 +1,17 @@
+{
+  "skillId": "content-modeling",
+  "source": "adobe/skills",
+  "owner": "adobe",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adobe/skills",
+    "skillId": "content-modeling",
+    "name": "content-modeling",
+    "installs": 923,
+    "owner": "adobe",
+    "repo": "skills",
+    "githubUrl": "https://github.com/adobe/skills",
+    "displayName": "Content Modeling"
+  }
+}

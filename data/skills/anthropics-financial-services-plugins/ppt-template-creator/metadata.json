@@ -1,0 +1,17 @@
+{
+  "skillId": "ppt-template-creator",
+  "source": "anthropics/financial-services-plugins",
+  "owner": "anthropics",
+  "repo": "financial-services-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/financial-services-plugins",
+    "skillId": "ppt-template-creator",
+    "name": "ppt-template-creator",
+    "installs": 1229,
+    "owner": "anthropics",
+    "repo": "financial-services-plugins",
+    "githubUrl": "https://github.com/anthropics/financial-services-plugins",
+    "displayName": "Ppt Template Creator"
+  }
+}

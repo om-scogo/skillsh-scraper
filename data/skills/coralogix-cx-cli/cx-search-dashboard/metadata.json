@@ -1,0 +1,17 @@
+{
+  "skillId": "cx-search-dashboard",
+  "source": "coralogix/cx-cli",
+  "owner": "coralogix",
+  "repo": "cx-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coralogix/cx-cli",
+    "skillId": "cx-search-dashboard",
+    "name": "cx-search-dashboard",
+    "installs": 1010,
+    "owner": "coralogix",
+    "repo": "cx-cli",
+    "githubUrl": "https://github.com/coralogix/cx-cli",
+    "displayName": "Cx Search Dashboard"
+  }
+}

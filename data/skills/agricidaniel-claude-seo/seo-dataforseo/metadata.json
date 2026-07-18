@@ -1,0 +1,17 @@
+{
+  "skillId": "seo-dataforseo",
+  "source": "agricidaniel/claude-seo",
+  "owner": "agricidaniel",
+  "repo": "claude-seo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-seo",
+    "skillId": "seo-dataforseo",
+    "name": "seo-dataforseo",
+    "installs": 3000,
+    "owner": "agricidaniel",
+    "repo": "claude-seo",
+    "githubUrl": "https://github.com/agricidaniel/claude-seo",
+    "displayName": "Seo Dataforseo"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "voice-changer",
+  "source": "elevenlabs/skills",
+  "owner": "elevenlabs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elevenlabs/skills",
+    "skillId": "voice-changer",
+    "name": "voice-changer",
+    "installs": 1794,
+    "owner": "elevenlabs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/elevenlabs/skills",
+    "displayName": "Voice Changer"
+  }
+}

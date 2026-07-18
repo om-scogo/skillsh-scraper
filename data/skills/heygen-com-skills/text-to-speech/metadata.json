@@ -1,0 +1,17 @@
+{
+  "skillId": "text-to-speech",
+  "source": "heygen-com/skills",
+  "owner": "heygen-com",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/skills",
+    "skillId": "text-to-speech",
+    "name": "text-to-speech",
+    "installs": 1190,
+    "owner": "heygen-com",
+    "repo": "skills",
+    "githubUrl": "https://github.com/heygen-com/skills",
+    "displayName": "Text To Speech"
+  }
+}

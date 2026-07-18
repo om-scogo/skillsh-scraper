@@ -1,0 +1,17 @@
+{
+  "skillId": "slack-gif-creator",
+  "source": "anthropics/skills",
+  "owner": "anthropics",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/skills",
+    "skillId": "slack-gif-creator",
+    "name": "slack-gif-creator",
+    "installs": 56267,
+    "owner": "anthropics",
+    "repo": "skills",
+    "githubUrl": "https://github.com/anthropics/skills",
+    "displayName": "Slack Gif Creator"
+  }
+}

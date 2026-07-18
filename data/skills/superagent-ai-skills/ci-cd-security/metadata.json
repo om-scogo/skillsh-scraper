@@ -1,0 +1,17 @@
+{
+  "skillId": "ci-cd-security",
+  "source": "superagent-ai/skills",
+  "owner": "superagent-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "superagent-ai/skills",
+    "skillId": "ci-cd-security",
+    "name": "ci-cd-security",
+    "installs": 3859,
+    "owner": "superagent-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/superagent-ai/skills",
+    "displayName": "Ci Cd Security"
+  }
+}

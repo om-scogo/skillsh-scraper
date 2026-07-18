@@ -1,0 +1,17 @@
+{
+  "skillId": "platform-validation-rule-generate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "platform-validation-rule-generate",
+    "name": "platform-validation-rule-generate",
+    "installs": 1511,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Platform Validation Rule Generate"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "task-coordination-strategies",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "task-coordination-strategies",
+    "name": "task-coordination-strategies",
+    "installs": 7188,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Task Coordination Strategies"
+  }
+}

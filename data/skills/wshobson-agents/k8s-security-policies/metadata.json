@@ -1,0 +1,17 @@
+{
+  "skillId": "k8s-security-policies",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "k8s-security-policies",
+    "name": "k8s-security-policies",
+    "installs": 11877,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "K8s Security Policies"
+  }
+}

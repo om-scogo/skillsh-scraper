@@ -1,0 +1,17 @@
+{
+  "skillId": "motion-design",
+  "source": "lottiefiles/motion-design-skill",
+  "owner": "lottiefiles",
+  "repo": "motion-design-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lottiefiles/motion-design-skill",
+    "skillId": "motion-design",
+    "name": "motion-design",
+    "installs": 4645,
+    "owner": "lottiefiles",
+    "repo": "motion-design-skill",
+    "githubUrl": "https://github.com/lottiefiles/motion-design-skill",
+    "displayName": "Motion Design"
+  }
+}

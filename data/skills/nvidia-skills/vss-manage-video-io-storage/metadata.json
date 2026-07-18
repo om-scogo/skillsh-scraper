@@ -1,0 +1,17 @@
+{
+  "skillId": "vss-manage-video-io-storage",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "vss-manage-video-io-storage",
+    "name": "vss-manage-video-io-storage",
+    "installs": 1496,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Vss Manage Video Io Storage"
+  }
+}

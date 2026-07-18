@@ -1,0 +1,17 @@
+{
+  "skillId": "recoup-roster-add-artist",
+  "source": "recoupable/skills",
+  "owner": "recoupable",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "recoupable/skills",
+    "skillId": "recoup-roster-add-artist",
+    "name": "recoup-roster-add-artist",
+    "installs": 812,
+    "owner": "recoupable",
+    "repo": "skills",
+    "githubUrl": "https://github.com/recoupable/skills",
+    "displayName": "Recoup Roster Add Artist"
+  }
+}

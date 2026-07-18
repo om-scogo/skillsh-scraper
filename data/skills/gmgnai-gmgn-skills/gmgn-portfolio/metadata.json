@@ -1,0 +1,17 @@
+{
+  "skillId": "gmgn-portfolio",
+  "source": "gmgnai/gmgn-skills",
+  "owner": "gmgnai",
+  "repo": "gmgn-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gmgnai/gmgn-skills",
+    "skillId": "gmgn-portfolio",
+    "name": "gmgn-portfolio",
+    "installs": 7318,
+    "owner": "gmgnai",
+    "repo": "gmgn-skills",
+    "githubUrl": "https://github.com/gmgnai/gmgn-skills",
+    "displayName": "Gmgn Portfolio"
+  }
+}

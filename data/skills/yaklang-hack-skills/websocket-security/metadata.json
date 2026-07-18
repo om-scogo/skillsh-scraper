@@ -1,0 +1,17 @@
+{
+  "skillId": "websocket-security",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "websocket-security",
+    "name": "websocket-security",
+    "installs": 2022,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Websocket Security"
+  }
+}

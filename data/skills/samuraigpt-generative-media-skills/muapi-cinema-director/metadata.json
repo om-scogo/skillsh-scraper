@@ -1,0 +1,17 @@
+{
+  "skillId": "muapi-cinema-director",
+  "source": "samuraigpt/generative-media-skills",
+  "owner": "samuraigpt",
+  "repo": "generative-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samuraigpt/generative-media-skills",
+    "skillId": "muapi-cinema-director",
+    "name": "muapi-cinema-director",
+    "installs": 1608,
+    "owner": "samuraigpt",
+    "repo": "generative-media-skills",
+    "githubUrl": "https://github.com/samuraigpt/generative-media-skills",
+    "displayName": "Muapi Cinema Director"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "blog-taxonomy",
+  "source": "agricidaniel/claude-blog",
+  "owner": "agricidaniel",
+  "repo": "claude-blog",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-blog",
+    "skillId": "blog-taxonomy",
+    "name": "blog-taxonomy",
+    "installs": 1006,
+    "owner": "agricidaniel",
+    "repo": "claude-blog",
+    "githubUrl": "https://github.com/agricidaniel/claude-blog",
+    "displayName": "Blog Taxonomy"
+  }
+}

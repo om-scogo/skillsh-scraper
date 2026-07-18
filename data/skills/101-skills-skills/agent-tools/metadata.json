@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-tools",
+  "source": "101-skills/skills",
+  "owner": "101-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "101-skills/skills",
+    "skillId": "agent-tools",
+    "name": "agent-tools",
+    "installs": 22307,
+    "owner": "101-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/101-skills/skills",
+    "displayName": "Agent Tools"
+  }
+}

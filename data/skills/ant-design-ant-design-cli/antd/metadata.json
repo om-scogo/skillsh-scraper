@@ -1,0 +1,17 @@
+{
+  "skillId": "antd",
+  "source": "ant-design/ant-design-cli",
+  "owner": "ant-design",
+  "repo": "ant-design-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ant-design/ant-design-cli",
+    "skillId": "antd",
+    "name": "antd",
+    "installs": 3211,
+    "owner": "ant-design",
+    "repo": "ant-design-cli",
+    "githubUrl": "https://github.com/ant-design/ant-design-cli",
+    "displayName": "Antd"
+  }
+}

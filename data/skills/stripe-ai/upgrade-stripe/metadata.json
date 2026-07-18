@@ -1,0 +1,17 @@
+{
+  "skillId": "upgrade-stripe",
+  "source": "stripe/ai",
+  "owner": "stripe",
+  "repo": "ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "stripe/ai",
+    "skillId": "upgrade-stripe",
+    "name": "upgrade-stripe",
+    "installs": 48475,
+    "owner": "stripe",
+    "repo": "ai",
+    "githubUrl": "https://github.com/stripe/ai",
+    "displayName": "Upgrade Stripe"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "react-three-fiber",
+  "source": "vercel-labs/json-render",
+  "owner": "vercel-labs",
+  "repo": "json-render",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/json-render",
+    "skillId": "react-three-fiber",
+    "name": "react-three-fiber",
+    "installs": 1566,
+    "owner": "vercel-labs",
+    "repo": "json-render",
+    "githubUrl": "https://github.com/vercel-labs/json-render",
+    "displayName": "React Three Fiber"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "image-to-video",
+  "source": "agentspace-so/runcomfy-agent-skills",
+  "owner": "agentspace-so",
+  "repo": "runcomfy-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agentspace-so/runcomfy-agent-skills",
+    "skillId": "image-to-video",
+    "name": "image-to-video",
+    "installs": 12,
+    "owner": "agentspace-so",
+    "repo": "runcomfy-agent-skills",
+    "githubUrl": "https://github.com/agentspace-so/runcomfy-agent-skills",
+    "displayName": "Image To Video"
+  }
+}

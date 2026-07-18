@@ -1,0 +1,17 @@
+{
+  "skillId": "wandb-primary",
+  "source": "wandb/skills",
+  "owner": "wandb",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wandb/skills",
+    "skillId": "wandb-primary",
+    "name": "wandb-primary",
+    "installs": 1158,
+    "owner": "wandb",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wandb/skills",
+    "displayName": "Wandb Primary"
+  }
+}

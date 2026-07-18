@@ -1,0 +1,17 @@
+{
+  "skillId": "dx-code-analyzer-configure",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "dx-code-analyzer-configure",
+    "name": "dx-code-analyzer-configure",
+    "installs": 1469,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Dx Code Analyzer Configure"
+  }
+}

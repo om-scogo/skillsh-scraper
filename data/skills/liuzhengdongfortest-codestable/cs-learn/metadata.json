@@ -1,0 +1,17 @@
+{
+  "skillId": "cs-learn",
+  "source": "liuzhengdongfortest/codestable",
+  "owner": "liuzhengdongfortest",
+  "repo": "codestable",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "liuzhengdongfortest/codestable",
+    "skillId": "cs-learn",
+    "name": "cs-learn",
+    "installs": 1069,
+    "owner": "liuzhengdongfortest",
+    "repo": "codestable",
+    "githubUrl": "https://github.com/liuzhengdongfortest/codestable",
+    "displayName": "Cs Learn"
+  }
+}

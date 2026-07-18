@@ -1,0 +1,17 @@
+{
+  "skillId": "platform-design",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "platform-design",
+    "name": "platform-design",
+    "installs": 1628,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Platform Design"
+  }
+}

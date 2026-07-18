@@ -1,0 +1,17 @@
+{
+  "skillId": "deep-interview",
+  "source": "devbrother2024/skills",
+  "owner": "devbrother2024",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "devbrother2024/skills",
+    "skillId": "deep-interview",
+    "name": "deep-interview",
+    "installs": 896,
+    "owner": "devbrother2024",
+    "repo": "skills",
+    "githubUrl": "https://github.com/devbrother2024/skills",
+    "displayName": "Deep Interview"
+  }
+}

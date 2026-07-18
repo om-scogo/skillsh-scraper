@@ -1,0 +1,17 @@
+{
+  "skillId": "esp32-firmware-engineer",
+  "source": "adamlipecz/esp32-firmware-engineer-skill",
+  "owner": "adamlipecz",
+  "repo": "esp32-firmware-engineer-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adamlipecz/esp32-firmware-engineer-skill",
+    "skillId": "esp32-firmware-engineer",
+    "name": "esp32-firmware-engineer",
+    "installs": 821,
+    "owner": "adamlipecz",
+    "repo": "esp32-firmware-engineer-skill",
+    "githubUrl": "https://github.com/adamlipecz/esp32-firmware-engineer-skill",
+    "displayName": "Esp32 Firmware Engineer"
+  }
+}

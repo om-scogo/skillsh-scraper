@@ -1,0 +1,17 @@
+{
+  "skillId": "argent-screenshot-diff",
+  "source": "software-mansion/argent",
+  "owner": "software-mansion",
+  "repo": "argent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "software-mansion/argent",
+    "skillId": "argent-screenshot-diff",
+    "name": "argent-screenshot-diff",
+    "installs": 5439,
+    "owner": "software-mansion",
+    "repo": "argent",
+    "githubUrl": "https://github.com/software-mansion/argent",
+    "displayName": "Argent Screenshot Diff"
+  }
+}

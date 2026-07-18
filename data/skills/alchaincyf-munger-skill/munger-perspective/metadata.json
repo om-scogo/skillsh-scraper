@@ -1,0 +1,17 @@
+{
+  "skillId": "munger-perspective",
+  "source": "alchaincyf/munger-skill",
+  "owner": "alchaincyf",
+  "repo": "munger-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/munger-skill",
+    "skillId": "munger-perspective",
+    "name": "munger-perspective",
+    "installs": 3574,
+    "owner": "alchaincyf",
+    "repo": "munger-skill",
+    "githubUrl": "https://github.com/alchaincyf/munger-skill",
+    "displayName": "Munger Perspective"
+  }
+}

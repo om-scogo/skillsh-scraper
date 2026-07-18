@@ -1,0 +1,17 @@
+{
+  "skillId": "superpowers-lab",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "superpowers-lab",
+    "name": "superpowers-lab",
+    "installs": 1155,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Superpowers Lab"
+  }
+}

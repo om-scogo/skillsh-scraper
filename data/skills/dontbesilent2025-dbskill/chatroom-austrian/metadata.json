@@ -1,0 +1,17 @@
+{
+  "skillId": "chatroom-austrian",
+  "source": "dontbesilent2025/dbskill",
+  "owner": "dontbesilent2025",
+  "repo": "dbskill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dontbesilent2025/dbskill",
+    "skillId": "chatroom-austrian",
+    "name": "chatroom-austrian",
+    "installs": 1884,
+    "owner": "dontbesilent2025",
+    "repo": "dbskill",
+    "githubUrl": "https://github.com/dontbesilent2025/dbskill",
+    "displayName": "Chatroom Austrian"
+  }
+}

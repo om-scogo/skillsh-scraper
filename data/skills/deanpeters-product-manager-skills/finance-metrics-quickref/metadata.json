@@ -1,0 +1,17 @@
+{
+  "skillId": "finance-metrics-quickref",
+  "source": "deanpeters/product-manager-skills",
+  "owner": "deanpeters",
+  "repo": "product-manager-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "deanpeters/product-manager-skills",
+    "skillId": "finance-metrics-quickref",
+    "name": "finance-metrics-quickref",
+    "installs": 1502,
+    "owner": "deanpeters",
+    "repo": "product-manager-skills",
+    "githubUrl": "https://github.com/deanpeters/product-manager-skills",
+    "displayName": "Finance Metrics Quickref"
+  }
+}

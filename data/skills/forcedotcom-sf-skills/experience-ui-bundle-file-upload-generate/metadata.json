@@ -1,0 +1,17 @@
+{
+  "skillId": "experience-ui-bundle-file-upload-generate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "experience-ui-bundle-file-upload-generate",
+    "name": "experience-ui-bundle-file-upload-generate",
+    "installs": 1328,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Experience Ui Bundle File Upload Generate"
+  }
+}

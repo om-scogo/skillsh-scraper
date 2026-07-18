@@ -1,0 +1,17 @@
+{
+  "skillId": "next-intl-add-language",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "next-intl-add-language",
+    "name": "next-intl-add-language",
+    "installs": 9067,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Next Intl Add Language"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-a11y",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "frontend-a11y",
+    "name": "frontend-a11y",
+    "installs": 1083,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Frontend A11y"
+  }
+}

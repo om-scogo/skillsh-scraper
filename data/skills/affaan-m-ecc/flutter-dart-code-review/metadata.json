@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-dart-code-review",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "flutter-dart-code-review",
+    "name": "flutter-dart-code-review",
+    "installs": 1175,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Flutter Dart Code Review"
+  }
+}

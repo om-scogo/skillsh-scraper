@@ -1,0 +1,17 @@
+{
+  "skillId": "feishu-lark",
+  "source": "openclaudia/openclaudia-skills",
+  "owner": "openclaudia",
+  "repo": "openclaudia-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openclaudia/openclaudia-skills",
+    "skillId": "feishu-lark",
+    "name": "feishu-lark",
+    "installs": 1435,
+    "owner": "openclaudia",
+    "repo": "openclaudia-skills",
+    "githubUrl": "https://github.com/openclaudia/openclaudia-skills",
+    "displayName": "Feishu Lark"
+  }
+}

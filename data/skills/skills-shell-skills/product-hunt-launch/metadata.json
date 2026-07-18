@@ -1,0 +1,17 @@
+{
+  "skillId": "product-hunt-launch",
+  "source": "skills-shell/skills",
+  "owner": "skills-shell",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "skills-shell/skills",
+    "skillId": "product-hunt-launch",
+    "name": "product-hunt-launch",
+    "installs": 9,
+    "owner": "skills-shell",
+    "repo": "skills",
+    "githubUrl": "https://github.com/skills-shell/skills",
+    "displayName": "Product Hunt Launch"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "wan-2-7",
+  "source": "runcomfy-com/skills",
+  "owner": "runcomfy-com",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "runcomfy-com/skills",
+    "skillId": "wan-2-7",
+    "name": "wan-2-7",
+    "installs": 12,
+    "owner": "runcomfy-com",
+    "repo": "skills",
+    "githubUrl": "https://github.com/runcomfy-com/skills",
+    "displayName": "Wan 2 7"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "nemotron-retrieval-recipes",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemotron-retrieval-recipes",
+    "name": "nemotron-retrieval-recipes",
+    "installs": 1559,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemotron Retrieval Recipes"
+  }
+}

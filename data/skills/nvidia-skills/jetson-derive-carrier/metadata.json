@@ -1,0 +1,17 @@
+{
+  "skillId": "jetson-derive-carrier",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "jetson-derive-carrier",
+    "name": "jetson-derive-carrier",
+    "installs": 832,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Jetson Derive Carrier"
+  }
+}

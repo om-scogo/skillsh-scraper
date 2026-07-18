@@ -1,0 +1,17 @@
+{
+  "skillId": "gha-security-review",
+  "source": "getsentry/skills",
+  "owner": "getsentry",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/skills",
+    "skillId": "gha-security-review",
+    "name": "gha-security-review",
+    "installs": 3097,
+    "owner": "getsentry",
+    "repo": "skills",
+    "githubUrl": "https://github.com/getsentry/skills",
+    "displayName": "Gha Security Review"
+  }
+}

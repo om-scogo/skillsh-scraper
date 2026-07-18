@@ -1,0 +1,17 @@
+{
+  "skillId": "contacts",
+  "source": "joelhooks/joelclaw",
+  "owner": "joelhooks",
+  "repo": "joelclaw",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "joelhooks/joelclaw",
+    "skillId": "contacts",
+    "name": "contacts",
+    "installs": 2964,
+    "owner": "joelhooks",
+    "repo": "joelclaw",
+    "githubUrl": "https://github.com/joelhooks/joelclaw",
+    "displayName": "Contacts"
+  }
+}

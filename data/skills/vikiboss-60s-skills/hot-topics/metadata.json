@@ -1,0 +1,17 @@
+{
+  "skillId": "hot-topics",
+  "source": "vikiboss/60s-skills",
+  "owner": "vikiboss",
+  "repo": "60s-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vikiboss/60s-skills",
+    "skillId": "hot-topics",
+    "name": "hot-topics",
+    "installs": 1852,
+    "owner": "vikiboss",
+    "repo": "60s-skills",
+    "githubUrl": "https://github.com/vikiboss/60s-skills",
+    "displayName": "Hot Topics"
+  }
+}

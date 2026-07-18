@@ -1,0 +1,17 @@
+{
+  "skillId": "401-403-bypass-techniques",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "401-403-bypass-techniques",
+    "name": "401-403-bypass-techniques",
+    "installs": 2012,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "401 403 Bypass Techniques"
+  }
+}

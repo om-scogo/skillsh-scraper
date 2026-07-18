@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-design",
+  "source": "shajith003/awesome-claude-skills",
+  "owner": "shajith003",
+  "repo": "awesome-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shajith003/awesome-claude-skills",
+    "skillId": "ui-design",
+    "name": "ui-design",
+    "installs": 3453,
+    "owner": "shajith003",
+    "repo": "awesome-claude-skills",
+    "githubUrl": "https://github.com/shajith003/awesome-claude-skills",
+    "displayName": "Ui Design"
+  }
+}

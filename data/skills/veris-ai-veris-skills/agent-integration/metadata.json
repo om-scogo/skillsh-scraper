@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-integration",
+  "source": "veris-ai/veris-skills",
+  "owner": "veris-ai",
+  "repo": "veris-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "veris-ai/veris-skills",
+    "skillId": "agent-integration",
+    "name": "agent-integration",
+    "installs": 958,
+    "owner": "veris-ai",
+    "repo": "veris-skills",
+    "githubUrl": "https://github.com/veris-ai/veris-skills",
+    "displayName": "Agent Integration"
+  }
+}

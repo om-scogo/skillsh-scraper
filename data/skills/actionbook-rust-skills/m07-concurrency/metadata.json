@@ -1,0 +1,17 @@
+{
+  "skillId": "m07-concurrency",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "m07-concurrency",
+    "name": "m07-concurrency",
+    "installs": 1405,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "M07 Concurrency"
+  }
+}

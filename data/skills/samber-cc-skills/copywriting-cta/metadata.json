@@ -1,0 +1,17 @@
+{
+  "skillId": "copywriting-cta",
+  "source": "samber/cc-skills",
+  "owner": "samber",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills",
+    "skillId": "copywriting-cta",
+    "name": "copywriting-cta",
+    "installs": 1974,
+    "owner": "samber",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/samber/cc-skills",
+    "displayName": "Copywriting Cta"
+  }
+}

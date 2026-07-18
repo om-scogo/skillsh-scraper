@@ -1,0 +1,17 @@
+{
+  "skillId": "angular-directives",
+  "source": "analogjs/angular-skills",
+  "owner": "analogjs",
+  "repo": "angular-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "analogjs/angular-skills",
+    "skillId": "angular-directives",
+    "name": "angular-directives",
+    "installs": 5077,
+    "owner": "analogjs",
+    "repo": "angular-skills",
+    "githubUrl": "https://github.com/analogjs/angular-skills",
+    "displayName": "Angular Directives"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "tinybird-cli-guidelines",
+  "source": "tinybirdco/tinybird-agent-skills",
+  "owner": "tinybirdco",
+  "repo": "tinybird-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tinybirdco/tinybird-agent-skills",
+    "skillId": "tinybird-cli-guidelines",
+    "name": "tinybird-cli-guidelines",
+    "installs": 866,
+    "owner": "tinybirdco",
+    "repo": "tinybird-agent-skills",
+    "githubUrl": "https://github.com/tinybirdco/tinybird-agent-skills",
+    "displayName": "Tinybird Cli Guidelines"
+  }
+}

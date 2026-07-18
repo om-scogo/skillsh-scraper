@@ -1,0 +1,17 @@
+{
+  "skillId": "multi-agent-brainstorming",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "multi-agent-brainstorming",
+    "name": "multi-agent-brainstorming",
+    "installs": 1131,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Multi Agent Brainstorming"
+  }
+}

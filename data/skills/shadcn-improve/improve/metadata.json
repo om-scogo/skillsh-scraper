@@ -1,0 +1,17 @@
+{
+  "skillId": "improve",
+  "source": "shadcn/improve",
+  "owner": "shadcn",
+  "repo": "improve",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shadcn/improve",
+    "skillId": "improve",
+    "name": "improve",
+    "installs": 24097,
+    "owner": "shadcn",
+    "repo": "improve",
+    "githubUrl": "https://github.com/shadcn/improve",
+    "displayName": "Improve"
+  }
+}

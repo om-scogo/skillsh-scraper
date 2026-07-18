@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-id-resolver",
+  "source": "rorkai/app-store-connect-cli-skills",
+  "owner": "rorkai",
+  "repo": "app-store-connect-cli-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rorkai/app-store-connect-cli-skills",
+    "skillId": "asc-id-resolver",
+    "name": "asc-id-resolver",
+    "installs": 1768,
+    "owner": "rorkai",
+    "repo": "app-store-connect-cli-skills",
+    "githubUrl": "https://github.com/rorkai/app-store-connect-cli-skills",
+    "displayName": "Asc Id Resolver"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "m06-error-handling",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "m06-error-handling",
+    "name": "m06-error-handling",
+    "installs": 1400,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "M06 Error Handling"
+  }
+}

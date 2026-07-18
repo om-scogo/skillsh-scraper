@@ -1,0 +1,17 @@
+{
+  "skillId": "second-brain-ingest",
+  "source": "nicholasspisak/second-brain",
+  "owner": "nicholasspisak",
+  "repo": "second-brain",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nicholasspisak/second-brain",
+    "skillId": "second-brain-ingest",
+    "name": "second-brain-ingest",
+    "installs": 1987,
+    "owner": "nicholasspisak",
+    "repo": "second-brain",
+    "githubUrl": "https://github.com/nicholasspisak/second-brain",
+    "displayName": "Second Brain Ingest"
+  }
+}

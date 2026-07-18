@@ -1,0 +1,17 @@
+{
+  "skillId": "xai-grok-onboarding",
+  "source": "starchild-ai-agent/official-skills",
+  "owner": "starchild-ai-agent",
+  "repo": "official-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "starchild-ai-agent/official-skills",
+    "skillId": "xai-grok-onboarding",
+    "name": "xai-grok-onboarding",
+    "installs": 2097,
+    "owner": "starchild-ai-agent",
+    "repo": "official-skills",
+    "githubUrl": "https://github.com/starchild-ai-agent/official-skills",
+    "displayName": "Xai Grok Onboarding"
+  }
+}

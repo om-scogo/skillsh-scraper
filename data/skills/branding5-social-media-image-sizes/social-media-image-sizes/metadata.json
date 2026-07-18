@@ -1,0 +1,17 @@
+{
+  "skillId": "social-media-image-sizes",
+  "source": "branding5/social-media-image-sizes",
+  "owner": "branding5",
+  "repo": "social-media-image-sizes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "branding5/social-media-image-sizes",
+    "skillId": "social-media-image-sizes",
+    "name": "social-media-image-sizes",
+    "installs": 1629,
+    "owner": "branding5",
+    "repo": "social-media-image-sizes",
+    "githubUrl": "https://github.com/branding5/social-media-image-sizes",
+    "displayName": "Social Media Image Sizes"
+  }
+}

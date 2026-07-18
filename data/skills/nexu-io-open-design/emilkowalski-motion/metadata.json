@@ -1,0 +1,17 @@
+{
+  "skillId": "emilkowalski-motion",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "emilkowalski-motion",
+    "name": "emilkowalski-motion",
+    "installs": 792,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Emilkowalski Motion"
+  }
+}

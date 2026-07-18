@@ -1,0 +1,17 @@
+{
+  "skillId": "aws-sdk-java-v2-rds",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "aws-sdk-java-v2-rds",
+    "name": "aws-sdk-java-v2-rds",
+    "installs": 1499,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Aws Sdk Java V2 Rds"
+  }
+}

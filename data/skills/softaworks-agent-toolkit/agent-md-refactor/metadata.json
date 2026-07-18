@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-md-refactor",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "agent-md-refactor",
+    "name": "agent-md-refactor",
+    "installs": 3915,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Agent Md Refactor"
+  }
+}

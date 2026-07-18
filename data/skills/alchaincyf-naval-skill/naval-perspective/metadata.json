@@ -1,0 +1,17 @@
+{
+  "skillId": "naval-perspective",
+  "source": "alchaincyf/naval-skill",
+  "owner": "alchaincyf",
+  "repo": "naval-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/naval-skill",
+    "skillId": "naval-perspective",
+    "name": "naval-perspective",
+    "installs": 2656,
+    "owner": "alchaincyf",
+    "repo": "naval-skill",
+    "githubUrl": "https://github.com/alchaincyf/naval-skill",
+    "displayName": "Naval Perspective"
+  }
+}

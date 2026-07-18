@@ -1,0 +1,17 @@
+{
+  "skillId": "brainstorming",
+  "source": "obra/superpowers",
+  "owner": "obra",
+  "repo": "superpowers",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/superpowers",
+    "skillId": "brainstorming",
+    "name": "brainstorming",
+    "installs": 281321,
+    "owner": "obra",
+    "repo": "superpowers",
+    "githubUrl": "https://github.com/obra/superpowers",
+    "displayName": "Brainstorming"
+  }
+}

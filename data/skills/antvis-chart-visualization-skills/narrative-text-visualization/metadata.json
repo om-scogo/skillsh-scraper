@@ -1,0 +1,17 @@
+{
+  "skillId": "narrative-text-visualization",
+  "source": "antvis/chart-visualization-skills",
+  "owner": "antvis",
+  "repo": "chart-visualization-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antvis/chart-visualization-skills",
+    "skillId": "narrative-text-visualization",
+    "name": "narrative-text-visualization",
+    "installs": 1235,
+    "owner": "antvis",
+    "repo": "chart-visualization-skills",
+    "githubUrl": "https://github.com/antvis/chart-visualization-skills",
+    "displayName": "Narrative Text Visualization"
+  }
+}

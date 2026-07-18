@@ -1,0 +1,17 @@
+{
+  "skillId": "web-content-fetcher",
+  "source": "shirenchuang/web-content-fetcher",
+  "owner": "shirenchuang",
+  "repo": "web-content-fetcher",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shirenchuang/web-content-fetcher",
+    "skillId": "web-content-fetcher",
+    "name": "web-content-fetcher",
+    "installs": 2814,
+    "owner": "shirenchuang",
+    "repo": "web-content-fetcher",
+    "githubUrl": "https://github.com/shirenchuang/web-content-fetcher",
+    "displayName": "Web Content Fetcher"
+  }
+}

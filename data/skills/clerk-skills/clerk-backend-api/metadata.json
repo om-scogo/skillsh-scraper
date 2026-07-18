@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-backend-api",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-backend-api",
+    "name": "clerk-backend-api",
+    "installs": 21881,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk Backend Api"
+  }
+}

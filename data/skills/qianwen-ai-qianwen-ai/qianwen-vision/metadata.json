@@ -1,0 +1,17 @@
+{
+  "skillId": "qianwen-vision",
+  "source": "qianwen-ai/qianwen-ai",
+  "owner": "qianwen-ai",
+  "repo": "qianwen-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qianwen-ai/qianwen-ai",
+    "skillId": "qianwen-vision",
+    "name": "qianwen-vision",
+    "installs": 1634,
+    "owner": "qianwen-ai",
+    "repo": "qianwen-ai",
+    "githubUrl": "https://github.com/qianwen-ai/qianwen-ai",
+    "displayName": "Qianwen Vision"
+  }
+}

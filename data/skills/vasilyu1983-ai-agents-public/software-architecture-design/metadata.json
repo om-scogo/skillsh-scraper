@@ -1,0 +1,17 @@
+{
+  "skillId": "software-architecture-design",
+  "source": "vasilyu1983/ai-agents-public",
+  "owner": "vasilyu1983",
+  "repo": "ai-agents-public",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vasilyu1983/ai-agents-public",
+    "skillId": "software-architecture-design",
+    "name": "software-architecture-design",
+    "installs": 845,
+    "owner": "vasilyu1983",
+    "repo": "ai-agents-public",
+    "githubUrl": "https://github.com/vasilyu1983/ai-agents-public",
+    "displayName": "Software Architecture Design"
+  }
+}

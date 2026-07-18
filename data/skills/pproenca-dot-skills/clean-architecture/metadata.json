@@ -1,0 +1,17 @@
+{
+  "skillId": "clean-architecture",
+  "source": "pproenca/dot-skills",
+  "owner": "pproenca",
+  "repo": "dot-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pproenca/dot-skills",
+    "skillId": "clean-architecture",
+    "name": "clean-architecture",
+    "installs": 1776,
+    "owner": "pproenca",
+    "repo": "dot-skills",
+    "githubUrl": "https://github.com/pproenca/dot-skills",
+    "displayName": "Clean Architecture"
+  }
+}

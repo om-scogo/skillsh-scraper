@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-design",
+  "source": "anthropics/claude-plugins-official",
+  "owner": "anthropics",
+  "repo": "claude-plugins-official",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/claude-plugins-official",
+    "skillId": "frontend-design",
+    "name": "frontend-design",
+    "installs": 10559,
+    "owner": "anthropics",
+    "repo": "claude-plugins-official",
+    "githubUrl": "https://github.com/anthropics/claude-plugins-official",
+    "displayName": "Frontend Design"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "joseon-sillok-search",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "joseon-sillok-search",
+    "name": "joseon-sillok-search",
+    "installs": 3128,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Joseon Sillok Search"
+  }
+}

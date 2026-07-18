@@ -1,0 +1,17 @@
+{
+  "skillId": "injection-checking",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "injection-checking",
+    "name": "injection-checking",
+    "installs": 2005,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Injection Checking"
+  }
+}

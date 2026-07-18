@@ -1,0 +1,17 @@
+{
+  "skillId": "nextjs-developer",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "nextjs-developer",
+    "name": "nextjs-developer",
+    "installs": 4030,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Nextjs Developer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "d3-visualization",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "d3-visualization",
+    "name": "d3-visualization",
+    "installs": 1762,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "D3 Visualization"
+  }
+}

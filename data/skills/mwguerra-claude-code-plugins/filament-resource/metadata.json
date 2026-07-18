@@ -1,0 +1,17 @@
+{
+  "skillId": "filament-resource",
+  "source": "mwguerra/claude-code-plugins",
+  "owner": "mwguerra",
+  "repo": "claude-code-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mwguerra/claude-code-plugins",
+    "skillId": "filament-resource",
+    "name": "filament-resource",
+    "installs": 1207,
+    "owner": "mwguerra",
+    "repo": "claude-code-plugins",
+    "githubUrl": "https://github.com/mwguerra/claude-code-plugins",
+    "displayName": "Filament Resource"
+  }
+}

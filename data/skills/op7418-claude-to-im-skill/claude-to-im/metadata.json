@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-to-im",
+  "source": "op7418/claude-to-im-skill",
+  "owner": "op7418",
+  "repo": "claude-to-im-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "op7418/claude-to-im-skill",
+    "skillId": "claude-to-im",
+    "name": "claude-to-im",
+    "installs": 6880,
+    "owner": "op7418",
+    "repo": "claude-to-im-skill",
+    "githubUrl": "https://github.com/op7418/claude-to-im-skill",
+    "displayName": "Claude To Im"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "wechat-binding",
+  "source": "starchild-ai-agent/official-skills",
+  "owner": "starchild-ai-agent",
+  "repo": "official-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "starchild-ai-agent/official-skills",
+    "skillId": "wechat-binding",
+    "name": "wechat-binding",
+    "installs": 1934,
+    "owner": "starchild-ai-agent",
+    "repo": "official-skills",
+    "githubUrl": "https://github.com/starchild-ai-agent/official-skills",
+    "displayName": "Wechat Binding"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "lark-workflow-meeting-summary",
+  "source": "larksuite/cli",
+  "owner": "larksuite",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "larksuite/cli",
+    "skillId": "lark-workflow-meeting-summary",
+    "name": "lark-workflow-meeting-summary",
+    "installs": 360933,
+    "owner": "larksuite",
+    "repo": "cli",
+    "githubUrl": "https://github.com/larksuite/cli",
+    "displayName": "Lark Workflow Meeting Summary"
+  }
+}

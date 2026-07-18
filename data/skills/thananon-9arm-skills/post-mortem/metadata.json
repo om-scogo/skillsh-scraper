@@ -1,0 +1,17 @@
+{
+  "skillId": "post-mortem",
+  "source": "thananon/9arm-skills",
+  "owner": "thananon",
+  "repo": "9arm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thananon/9arm-skills",
+    "skillId": "post-mortem",
+    "name": "post-mortem",
+    "installs": 3063,
+    "owner": "thananon",
+    "repo": "9arm-skills",
+    "githubUrl": "https://github.com/thananon/9arm-skills",
+    "displayName": "Post Mortem"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "mantine-combobox",
+  "source": "mantinedev/skills",
+  "owner": "mantinedev",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mantinedev/skills",
+    "skillId": "mantine-combobox",
+    "name": "mantine-combobox",
+    "installs": 1662,
+    "owner": "mantinedev",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mantinedev/skills",
+    "displayName": "Mantine Combobox"
+  }
+}

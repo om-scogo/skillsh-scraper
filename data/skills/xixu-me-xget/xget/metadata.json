@@ -1,0 +1,17 @@
+{
+  "skillId": "xget",
+  "source": "xixu-me/xget",
+  "owner": "xixu-me",
+  "repo": "xget",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "xixu-me/xget",
+    "skillId": "xget",
+    "name": "xget",
+    "installs": 8,
+    "owner": "xixu-me",
+    "repo": "xget",
+    "githubUrl": "https://github.com/xixu-me/xget",
+    "displayName": "Xget"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "dd-logs",
+  "source": "datadog-labs/agent-skills",
+  "owner": "datadog-labs",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "datadog-labs/agent-skills",
+    "skillId": "dd-logs",
+    "name": "dd-logs",
+    "installs": 1253,
+    "owner": "datadog-labs",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/datadog-labs/agent-skills",
+    "displayName": "Dd Logs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "faq-page",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "faq-page",
+    "name": "faq-page",
+    "installs": 1573,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Faq Page"
+  }
+}

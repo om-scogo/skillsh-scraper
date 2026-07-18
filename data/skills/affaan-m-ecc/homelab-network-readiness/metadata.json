@@ -1,0 +1,17 @@
+{
+  "skillId": "homelab-network-readiness",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "homelab-network-readiness",
+    "name": "homelab-network-readiness",
+    "installs": 1094,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Homelab Network Readiness"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gsap-plugins",
+  "source": "greensock/gsap-skills",
+  "owner": "greensock",
+  "repo": "gsap-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "greensock/gsap-skills",
+    "skillId": "gsap-plugins",
+    "name": "gsap-plugins",
+    "installs": 31944,
+    "owner": "greensock",
+    "repo": "gsap-skills",
+    "githubUrl": "https://github.com/greensock/gsap-skills",
+    "displayName": "Gsap Plugins"
+  }
+}

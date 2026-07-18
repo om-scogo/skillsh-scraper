@@ -1,0 +1,17 @@
+{
+  "skillId": "add-setting-env",
+  "source": "lobehub/lobehub",
+  "owner": "lobehub",
+  "repo": "lobehub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobehub",
+    "skillId": "add-setting-env",
+    "name": "add-setting-env",
+    "installs": 1648,
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "githubUrl": "https://github.com/lobehub/lobehub",
+    "displayName": "Add Setting Env"
+  }
+}

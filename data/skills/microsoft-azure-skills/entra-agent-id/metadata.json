@@ -1,0 +1,17 @@
+{
+  "skillId": "entra-agent-id",
+  "source": "microsoft/azure-skills",
+  "owner": "microsoft",
+  "repo": "azure-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/azure-skills",
+    "skillId": "entra-agent-id",
+    "name": "entra-agent-id",
+    "installs": 178567,
+    "owner": "microsoft",
+    "repo": "azure-skills",
+    "githubUrl": "https://github.com/microsoft/azure-skills",
+    "displayName": "Entra Agent Id"
+  }
+}

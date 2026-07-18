@@ -1,0 +1,17 @@
+{
+  "skillId": "deploy-checklist",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "deploy-checklist",
+    "name": "deploy-checklist",
+    "installs": 3943,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Deploy Checklist"
+  }
+}

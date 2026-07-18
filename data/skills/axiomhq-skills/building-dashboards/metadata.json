@@ -1,0 +1,17 @@
+{
+  "skillId": "building-dashboards",
+  "source": "axiomhq/skills",
+  "owner": "axiomhq",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "axiomhq/skills",
+    "skillId": "building-dashboards",
+    "name": "building-dashboards",
+    "installs": 1856,
+    "owner": "axiomhq",
+    "repo": "skills",
+    "githubUrl": "https://github.com/axiomhq/skills",
+    "displayName": "Building Dashboards"
+  }
+}

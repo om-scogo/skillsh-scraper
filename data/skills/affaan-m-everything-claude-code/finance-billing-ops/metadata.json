@@ -1,0 +1,17 @@
+{
+  "skillId": "finance-billing-ops",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "finance-billing-ops",
+    "name": "finance-billing-ops",
+    "installs": 3716,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Finance Billing Ops"
+  }
+}

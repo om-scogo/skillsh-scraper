@@ -1,0 +1,17 @@
+{
+  "skillId": "stream",
+  "source": "getstream/agent-skills",
+  "owner": "getstream",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getstream/agent-skills",
+    "skillId": "stream",
+    "name": "stream",
+    "installs": 1049,
+    "owner": "getstream",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/getstream/agent-skills",
+    "displayName": "Stream"
+  }
+}

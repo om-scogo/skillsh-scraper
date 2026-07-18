@@ -1,0 +1,17 @@
+{
+  "skillId": "svg-assembly-animator",
+  "source": "vibe-motion/skills",
+  "owner": "vibe-motion",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vibe-motion/skills",
+    "skillId": "svg-assembly-animator",
+    "name": "svg-assembly-animator",
+    "installs": 891,
+    "owner": "vibe-motion",
+    "repo": "skills",
+    "githubUrl": "https://github.com/vibe-motion/skills",
+    "displayName": "Svg Assembly Animator"
+  }
+}

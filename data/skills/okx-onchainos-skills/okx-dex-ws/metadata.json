@@ -1,0 +1,17 @@
+{
+  "skillId": "okx-dex-ws",
+  "source": "okx/onchainos-skills",
+  "owner": "okx",
+  "repo": "onchainos-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "okx/onchainos-skills",
+    "skillId": "okx-dex-ws",
+    "name": "okx-dex-ws",
+    "installs": 5999,
+    "owner": "okx",
+    "repo": "onchainos-skills",
+    "githubUrl": "https://github.com/okx/onchainos-skills",
+    "displayName": "Okx Dex Ws"
+  }
+}

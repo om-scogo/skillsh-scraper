@@ -1,0 +1,17 @@
+{
+  "skillId": "nano-banana-pro-openrouter",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "nano-banana-pro-openrouter",
+    "name": "nano-banana-pro-openrouter",
+    "installs": 9748,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Nano Banana Pro Openrouter"
+  }
+}

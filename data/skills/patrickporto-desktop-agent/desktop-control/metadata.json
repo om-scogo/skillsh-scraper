@@ -1,0 +1,17 @@
+{
+  "skillId": "desktop-control",
+  "source": "patrickporto/desktop-agent",
+  "owner": "patrickporto",
+  "repo": "desktop-agent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "patrickporto/desktop-agent",
+    "skillId": "desktop-control",
+    "name": "desktop control",
+    "installs": 3856,
+    "owner": "patrickporto",
+    "repo": "desktop-agent",
+    "githubUrl": "https://github.com/patrickporto/desktop-agent",
+    "displayName": "Desktop Control"
+  }
+}

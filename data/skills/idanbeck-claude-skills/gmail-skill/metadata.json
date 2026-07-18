@@ -1,0 +1,17 @@
+{
+  "skillId": "gmail-skill",
+  "source": "idanbeck/claude-skills",
+  "owner": "idanbeck",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "idanbeck/claude-skills",
+    "skillId": "gmail-skill",
+    "name": "gmail-skill",
+    "installs": 2975,
+    "owner": "idanbeck",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/idanbeck/claude-skills",
+    "displayName": "Gmail Skill"
+  }
+}

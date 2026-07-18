@@ -1,0 +1,17 @@
+{
+  "skillId": "zsxq-note",
+  "source": "unnoo/zsxq-skill",
+  "owner": "unnoo",
+  "repo": "zsxq-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "unnoo/zsxq-skill",
+    "skillId": "zsxq-note",
+    "name": "zsxq-note",
+    "installs": 4077,
+    "owner": "unnoo",
+    "repo": "zsxq-skill",
+    "githubUrl": "https://github.com/unnoo/zsxq-skill",
+    "displayName": "Zsxq Note"
+  }
+}

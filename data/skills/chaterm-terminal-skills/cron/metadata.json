@@ -1,0 +1,17 @@
+{
+  "skillId": "cron",
+  "source": "chaterm/terminal-skills",
+  "owner": "chaterm",
+  "repo": "terminal-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chaterm/terminal-skills",
+    "skillId": "cron",
+    "name": "cron",
+    "installs": 1239,
+    "owner": "chaterm",
+    "repo": "terminal-skills",
+    "githubUrl": "https://github.com/chaterm/terminal-skills",
+    "displayName": "Cron"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "wecomcli-get-todo-list",
+  "source": "wecomteam/wecom-cli",
+  "owner": "wecomteam",
+  "repo": "wecom-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wecomteam/wecom-cli",
+    "skillId": "wecomcli-get-todo-list",
+    "name": "wecomcli-get-todo-list",
+    "installs": 2448,
+    "owner": "wecomteam",
+    "repo": "wecom-cli",
+    "githubUrl": "https://github.com/wecomteam/wecom-cli",
+    "displayName": "Wecomcli Get Todo List"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "tiptap",
+  "source": "ueberdosis/tiptap",
+  "owner": "ueberdosis",
+  "repo": "tiptap",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ueberdosis/tiptap",
+    "skillId": "tiptap",
+    "name": "tiptap",
+    "installs": 2018,
+    "owner": "ueberdosis",
+    "repo": "tiptap",
+    "githubUrl": "https://github.com/ueberdosis/tiptap",
+    "displayName": "Tiptap"
+  }
+}

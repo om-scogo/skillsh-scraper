@@ -1,0 +1,17 @@
+{
+  "skillId": "pudl",
+  "source": "catalyst-cooperative/agent-skills",
+  "owner": "catalyst-cooperative",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "catalyst-cooperative/agent-skills",
+    "skillId": "pudl",
+    "name": "pudl",
+    "installs": 832,
+    "owner": "catalyst-cooperative",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/catalyst-cooperative/agent-skills",
+    "displayName": "Pudl"
+  }
+}

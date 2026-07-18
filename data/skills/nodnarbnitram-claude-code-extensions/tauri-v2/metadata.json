@@ -1,0 +1,17 @@
+{
+  "skillId": "tauri-v2",
+  "source": "nodnarbnitram/claude-code-extensions",
+  "owner": "nodnarbnitram",
+  "repo": "claude-code-extensions",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nodnarbnitram/claude-code-extensions",
+    "skillId": "tauri-v2",
+    "name": "tauri-v2",
+    "installs": 5931,
+    "owner": "nodnarbnitram",
+    "repo": "claude-code-extensions",
+    "githubUrl": "https://github.com/nodnarbnitram/claude-code-extensions",
+    "displayName": "Tauri V2"
+  }
+}

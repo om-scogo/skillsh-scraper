@@ -1,0 +1,17 @@
+{
+  "skillId": "coss",
+  "source": "cosscom/coss",
+  "owner": "cosscom",
+  "repo": "coss",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cosscom/coss",
+    "skillId": "coss",
+    "name": "coss",
+    "installs": 2667,
+    "owner": "cosscom",
+    "repo": "coss",
+    "githubUrl": "https://github.com/cosscom/coss",
+    "displayName": "Coss"
+  }
+}

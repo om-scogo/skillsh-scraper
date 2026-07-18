@@ -1,0 +1,17 @@
+{
+  "skillId": "persona-team-lead",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "persona-team-lead",
+    "name": "persona-team-lead",
+    "installs": 22393,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Persona Team Lead"
+  }
+}

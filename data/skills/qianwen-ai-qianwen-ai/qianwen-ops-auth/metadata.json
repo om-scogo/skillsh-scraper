@@ -1,0 +1,17 @@
+{
+  "skillId": "qianwen-ops-auth",
+  "source": "qianwen-ai/qianwen-ai",
+  "owner": "qianwen-ai",
+  "repo": "qianwen-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qianwen-ai/qianwen-ai",
+    "skillId": "qianwen-ops-auth",
+    "name": "qianwen-ops-auth",
+    "installs": 1593,
+    "owner": "qianwen-ai",
+    "repo": "qianwen-ai",
+    "githubUrl": "https://github.com/qianwen-ai/qianwen-ai",
+    "displayName": "Qianwen Ops Auth"
+  }
+}

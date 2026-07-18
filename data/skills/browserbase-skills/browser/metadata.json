@@ -1,0 +1,17 @@
+{
+  "skillId": "browser",
+  "source": "browserbase/skills",
+  "owner": "browserbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "browserbase/skills",
+    "skillId": "browser",
+    "name": "browser",
+    "installs": 5044,
+    "owner": "browserbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/browserbase/skills",
+    "displayName": "Browser"
+  }
+}

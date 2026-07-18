@@ -1,0 +1,17 @@
+{
+  "skillId": "affiliate-page-generator",
+  "source": "kostja94/marketing-skills",
+  "owner": "kostja94",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kostja94/marketing-skills",
+    "skillId": "affiliate-page-generator",
+    "name": "affiliate-page-generator",
+    "installs": 811,
+    "owner": "kostja94",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/kostja94/marketing-skills",
+    "displayName": "Affiliate Page Generator"
+  }
+}

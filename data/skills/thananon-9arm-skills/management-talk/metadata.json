@@ -1,0 +1,17 @@
+{
+  "skillId": "management-talk",
+  "source": "thananon/9arm-skills",
+  "owner": "thananon",
+  "repo": "9arm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thananon/9arm-skills",
+    "skillId": "management-talk",
+    "name": "management-talk",
+    "installs": 3027,
+    "owner": "thananon",
+    "repo": "9arm-skills",
+    "githubUrl": "https://github.com/thananon/9arm-skills",
+    "displayName": "Management Talk"
+  }
+}

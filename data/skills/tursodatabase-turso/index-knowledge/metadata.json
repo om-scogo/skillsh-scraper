@@ -1,0 +1,17 @@
+{
+  "skillId": "index-knowledge",
+  "source": "tursodatabase/turso",
+  "owner": "tursodatabase",
+  "repo": "turso",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tursodatabase/turso",
+    "skillId": "index-knowledge",
+    "name": "index-knowledge",
+    "installs": 941,
+    "owner": "tursodatabase",
+    "repo": "turso",
+    "githubUrl": "https://github.com/tursodatabase/turso",
+    "displayName": "Index Knowledge"
+  }
+}

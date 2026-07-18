@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-v3-integration-architect",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-v3-integration-architect",
+    "name": "agent-v3-integration-architect",
+    "installs": 981,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent V3 Integration Architect"
+  }
+}

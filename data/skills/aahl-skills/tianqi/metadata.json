@@ -1,0 +1,17 @@
+{
+  "skillId": "tianqi",
+  "source": "aahl/skills",
+  "owner": "aahl",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aahl/skills",
+    "skillId": "tianqi",
+    "name": "tianqi",
+    "installs": 1643,
+    "owner": "aahl",
+    "repo": "skills",
+    "githubUrl": "https://github.com/aahl/skills",
+    "displayName": "Tianqi"
+  }
+}

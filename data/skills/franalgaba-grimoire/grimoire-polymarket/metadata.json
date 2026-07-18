@@ -1,0 +1,17 @@
+{
+  "skillId": "grimoire-polymarket",
+  "source": "franalgaba/grimoire",
+  "owner": "franalgaba",
+  "repo": "grimoire",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "franalgaba/grimoire",
+    "skillId": "grimoire-polymarket",
+    "name": "grimoire-polymarket",
+    "installs": 11850,
+    "owner": "franalgaba",
+    "repo": "grimoire",
+    "githubUrl": "https://github.com/franalgaba/grimoire",
+    "displayName": "Grimoire Polymarket"
+  }
+}

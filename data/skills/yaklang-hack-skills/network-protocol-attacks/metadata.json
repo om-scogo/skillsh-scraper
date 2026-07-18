@@ -1,0 +1,17 @@
+{
+  "skillId": "network-protocol-attacks",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "network-protocol-attacks",
+    "name": "network-protocol-attacks",
+    "installs": 1911,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Network Protocol Attacks"
+  }
+}

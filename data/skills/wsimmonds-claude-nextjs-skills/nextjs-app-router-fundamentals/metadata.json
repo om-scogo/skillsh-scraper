@@ -1,0 +1,17 @@
+{
+  "skillId": "nextjs-app-router-fundamentals",
+  "source": "wsimmonds/claude-nextjs-skills",
+  "owner": "wsimmonds",
+  "repo": "claude-nextjs-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wsimmonds/claude-nextjs-skills",
+    "skillId": "nextjs-app-router-fundamentals",
+    "name": "nextjs-app-router-fundamentals",
+    "installs": 2120,
+    "owner": "wsimmonds",
+    "repo": "claude-nextjs-skills",
+    "githubUrl": "https://github.com/wsimmonds/claude-nextjs-skills",
+    "displayName": "Nextjs App Router Fundamentals"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "hyperframes-animation",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "hyperframes-animation",
+    "name": "hyperframes-animation",
+    "installs": 123504,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Hyperframes Animation"
+  }
+}

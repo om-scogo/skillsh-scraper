@@ -1,0 +1,17 @@
+{
+  "skillId": "mcore-create-issue",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "mcore-create-issue",
+    "name": "mcore-create-issue",
+    "installs": 1495,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Mcore Create Issue"
+  }
+}

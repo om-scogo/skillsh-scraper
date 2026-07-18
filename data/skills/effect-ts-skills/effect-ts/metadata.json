@@ -1,0 +1,17 @@
+{
+  "skillId": "effect-ts",
+  "source": "effect-ts/skills",
+  "owner": "effect-ts",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "effect-ts/skills",
+    "skillId": "effect-ts",
+    "name": "effect-ts",
+    "installs": 949,
+    "owner": "effect-ts",
+    "repo": "skills",
+    "githubUrl": "https://github.com/effect-ts/skills",
+    "displayName": "Effect Ts"
+  }
+}

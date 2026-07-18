@@ -1,0 +1,17 @@
+{
+  "skillId": "jetson-inference-mem-tune",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "jetson-inference-mem-tune",
+    "name": "jetson-inference-mem-tune",
+    "installs": 838,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Jetson Inference Mem Tune"
+  }
+}

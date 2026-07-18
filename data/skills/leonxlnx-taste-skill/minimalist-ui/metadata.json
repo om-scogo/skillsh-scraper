@@ -1,0 +1,17 @@
+{
+  "skillId": "minimalist-ui",
+  "source": "leonxlnx/taste-skill",
+  "owner": "leonxlnx",
+  "repo": "taste-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "leonxlnx/taste-skill",
+    "skillId": "minimalist-ui",
+    "name": "minimalist-ui",
+    "installs": 187278,
+    "owner": "leonxlnx",
+    "repo": "taste-skill",
+    "githubUrl": "https://github.com/leonxlnx/taste-skill",
+    "displayName": "Minimalist Ui"
+  }
+}

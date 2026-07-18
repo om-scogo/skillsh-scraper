@@ -1,0 +1,17 @@
+{
+  "skillId": "douyin",
+  "source": "xiaoyiv/douyin-skill",
+  "owner": "xiaoyiv",
+  "repo": "douyin-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "xiaoyiv/douyin-skill",
+    "skillId": "douyin",
+    "name": "douyin",
+    "installs": 4420,
+    "owner": "xiaoyiv",
+    "repo": "douyin-skill",
+    "githubUrl": "https://github.com/xiaoyiv/douyin-skill",
+    "displayName": "Douyin"
+  }
+}

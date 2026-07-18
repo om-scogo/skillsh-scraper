@@ -1,0 +1,17 @@
+{
+  "skillId": "refactoring-patterns",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "refactoring-patterns",
+    "name": "refactoring-patterns",
+    "installs": 3584,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Refactoring Patterns"
+  }
+}

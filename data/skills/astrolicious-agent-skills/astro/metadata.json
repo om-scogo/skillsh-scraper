@@ -1,0 +1,17 @@
+{
+  "skillId": "astro",
+  "source": "astrolicious/agent-skills",
+  "owner": "astrolicious",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astrolicious/agent-skills",
+    "skillId": "astro",
+    "name": "astro",
+    "installs": 10724,
+    "owner": "astrolicious",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/astrolicious/agent-skills",
+    "displayName": "Astro"
+  }
+}

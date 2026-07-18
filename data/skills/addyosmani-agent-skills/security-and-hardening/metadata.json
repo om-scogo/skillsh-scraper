@@ -1,0 +1,17 @@
+{
+  "skillId": "security-and-hardening",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "security-and-hardening",
+    "name": "security-and-hardening",
+    "installs": 12621,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Security And Hardening"
+  }
+}

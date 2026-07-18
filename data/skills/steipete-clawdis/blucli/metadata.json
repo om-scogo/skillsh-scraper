@@ -1,0 +1,17 @@
+{
+  "skillId": "blucli",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "blucli",
+    "name": "blucli",
+    "installs": 2615,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Blucli"
+  }
+}

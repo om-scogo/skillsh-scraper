@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-add-integration-test",
+  "source": "flutter/skills",
+  "owner": "flutter",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "flutter/skills",
+    "skillId": "flutter-add-integration-test",
+    "name": "flutter-add-integration-test",
+    "installs": 21718,
+    "owner": "flutter",
+    "repo": "skills",
+    "githubUrl": "https://github.com/flutter/skills",
+    "displayName": "Flutter Add Integration Test"
+  }
+}

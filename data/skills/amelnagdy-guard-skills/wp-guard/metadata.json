@@ -1,0 +1,17 @@
+{
+  "skillId": "wp-guard",
+  "source": "amelnagdy/guard-skills",
+  "owner": "amelnagdy",
+  "repo": "guard-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "amelnagdy/guard-skills",
+    "skillId": "wp-guard",
+    "name": "wp-guard",
+    "installs": 848,
+    "owner": "amelnagdy",
+    "repo": "guard-skills",
+    "githubUrl": "https://github.com/amelnagdy/guard-skills",
+    "displayName": "Wp Guard"
+  }
+}

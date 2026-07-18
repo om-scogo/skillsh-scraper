@@ -1,0 +1,17 @@
+{
+  "skillId": "pyrefly-type-coverage",
+  "source": "pytorch/pytorch",
+  "owner": "pytorch",
+  "repo": "pytorch",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pytorch/pytorch",
+    "skillId": "pyrefly-type-coverage",
+    "name": "pyrefly-type-coverage",
+    "installs": 1918,
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "githubUrl": "https://github.com/pytorch/pytorch",
+    "displayName": "Pyrefly Type Coverage"
+  }
+}

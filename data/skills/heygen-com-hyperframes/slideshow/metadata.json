@@ -1,0 +1,17 @@
+{
+  "skillId": "slideshow",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "slideshow",
+    "name": "slideshow",
+    "installs": 92997,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Slideshow"
+  }
+}

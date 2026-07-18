@@ -1,0 +1,17 @@
+{
+  "skillId": "monetize-service",
+  "source": "coinbase/agentic-wallet-skills",
+  "owner": "coinbase",
+  "repo": "agentic-wallet-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coinbase/agentic-wallet-skills",
+    "skillId": "monetize-service",
+    "name": "monetize-service",
+    "installs": 2918,
+    "owner": "coinbase",
+    "repo": "agentic-wallet-skills",
+    "githubUrl": "https://github.com/coinbase/agentic-wallet-skills",
+    "displayName": "Monetize Service"
+  }
+}

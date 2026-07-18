@@ -1,0 +1,17 @@
+{
+  "skillId": "zipcode-search",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "zipcode-search",
+    "name": "zipcode-search",
+    "installs": 3445,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Zipcode Search"
+  }
+}

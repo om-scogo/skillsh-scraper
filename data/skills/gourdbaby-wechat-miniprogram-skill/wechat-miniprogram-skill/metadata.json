@@ -1,0 +1,17 @@
+{
+  "skillId": "wechat-miniprogram-skill",
+  "source": "gourdbaby/wechat-miniprogram-skill",
+  "owner": "gourdbaby",
+  "repo": "wechat-miniprogram-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gourdbaby/wechat-miniprogram-skill",
+    "skillId": "wechat-miniprogram-skill",
+    "name": "wechat-miniprogram-skill",
+    "installs": 949,
+    "owner": "gourdbaby",
+    "repo": "wechat-miniprogram-skill",
+    "githubUrl": "https://github.com/gourdbaby/wechat-miniprogram-skill",
+    "displayName": "Wechat Miniprogram Skill"
+  }
+}

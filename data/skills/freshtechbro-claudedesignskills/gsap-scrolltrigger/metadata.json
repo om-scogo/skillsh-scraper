@@ -1,0 +1,17 @@
+{
+  "skillId": "gsap-scrolltrigger",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "gsap-scrolltrigger",
+    "name": "gsap-scrolltrigger",
+    "installs": 1432,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Gsap Scrolltrigger"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "subscription-management",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "subscription-management",
+    "name": "subscription-management",
+    "installs": 3807,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Subscription Management"
+  }
+}

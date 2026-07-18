@@ -1,0 +1,17 @@
+{
+  "skillId": "qwen-agent",
+  "source": "thananon/9arm-skills",
+  "owner": "thananon",
+  "repo": "9arm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thananon/9arm-skills",
+    "skillId": "qwen-agent",
+    "name": "qwen-agent",
+    "installs": 1074,
+    "owner": "thananon",
+    "repo": "9arm-skills",
+    "githubUrl": "https://github.com/thananon/9arm-skills",
+    "displayName": "Qwen Agent"
+  }
+}

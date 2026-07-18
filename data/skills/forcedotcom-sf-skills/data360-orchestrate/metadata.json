@@ -1,0 +1,17 @@
+{
+  "skillId": "data360-orchestrate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "data360-orchestrate",
+    "name": "data360-orchestrate",
+    "installs": 1279,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Data360 Orchestrate"
+  }
+}

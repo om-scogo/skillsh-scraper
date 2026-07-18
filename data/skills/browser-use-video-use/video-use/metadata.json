@@ -1,0 +1,17 @@
+{
+  "skillId": "video-use",
+  "source": "browser-use/video-use",
+  "owner": "browser-use",
+  "repo": "video-use",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "browser-use/video-use",
+    "skillId": "video-use",
+    "name": "video-use",
+    "installs": 2236,
+    "owner": "browser-use",
+    "repo": "video-use",
+    "githubUrl": "https://github.com/browser-use/video-use",
+    "displayName": "Video Use"
+  }
+}

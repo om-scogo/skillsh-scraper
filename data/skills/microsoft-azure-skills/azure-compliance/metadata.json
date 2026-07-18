@@ -1,0 +1,17 @@
+{
+  "skillId": "azure-compliance",
+  "source": "microsoft/azure-skills",
+  "owner": "microsoft",
+  "repo": "azure-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/azure-skills",
+    "skillId": "azure-compliance",
+    "name": "azure-compliance",
+    "installs": 454943,
+    "owner": "microsoft",
+    "repo": "azure-skills",
+    "githubUrl": "https://github.com/microsoft/azure-skills",
+    "displayName": "Azure Compliance"
+  }
+}

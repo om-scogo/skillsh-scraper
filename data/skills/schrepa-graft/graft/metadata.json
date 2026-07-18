@@ -1,0 +1,17 @@
+{
+  "skillId": "graft",
+  "source": "schrepa/graft",
+  "owner": "schrepa",
+  "repo": "graft",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "schrepa/graft",
+    "skillId": "graft",
+    "name": "graft",
+    "installs": 945,
+    "owner": "schrepa",
+    "repo": "graft",
+    "githubUrl": "https://github.com/schrepa/graft",
+    "displayName": "Graft"
+  }
+}

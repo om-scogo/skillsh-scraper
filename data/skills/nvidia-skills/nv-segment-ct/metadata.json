@@ -1,0 +1,17 @@
+{
+  "skillId": "nv-segment-ct",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nv-segment-ct",
+    "name": "nv-segment-ct",
+    "installs": 1469,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nv Segment Ct"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "session-report",
+  "source": "anthropics/claude-plugins-official",
+  "owner": "anthropics",
+  "repo": "claude-plugins-official",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/claude-plugins-official",
+    "skillId": "session-report",
+    "name": "session-report",
+    "installs": 1249,
+    "owner": "anthropics",
+    "repo": "claude-plugins-official",
+    "githubUrl": "https://github.com/anthropics/claude-plugins-official",
+    "displayName": "Session Report"
+  }
+}

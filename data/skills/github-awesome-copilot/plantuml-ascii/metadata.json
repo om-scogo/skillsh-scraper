@@ -1,0 +1,17 @@
+{
+  "skillId": "plantuml-ascii",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "plantuml-ascii",
+    "name": "plantuml-ascii",
+    "installs": 9423,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Plantuml Ascii"
+  }
+}

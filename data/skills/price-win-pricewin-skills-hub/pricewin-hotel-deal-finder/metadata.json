@@ -1,0 +1,17 @@
+{
+  "skillId": "pricewin-hotel-deal-finder",
+  "source": "price-win/pricewin-skills-hub",
+  "owner": "price-win",
+  "repo": "pricewin-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "price-win/pricewin-skills-hub",
+    "skillId": "pricewin-hotel-deal-finder",
+    "name": "pricewin-hotel-deal-finder",
+    "installs": 1534,
+    "owner": "price-win",
+    "repo": "pricewin-skills-hub",
+    "githubUrl": "https://github.com/price-win/pricewin-skills-hub",
+    "displayName": "Pricewin Hotel Deal Finder"
+  }
+}

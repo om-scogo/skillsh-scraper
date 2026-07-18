@@ -1,0 +1,17 @@
+{
+  "skillId": "microsoft-outlook",
+  "source": "membranedev/application-skills",
+  "owner": "membranedev",
+  "repo": "application-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "membranedev/application-skills",
+    "skillId": "microsoft-outlook",
+    "name": "microsoft-outlook",
+    "installs": 2095,
+    "owner": "membranedev",
+    "repo": "application-skills",
+    "githubUrl": "https://github.com/membranedev/application-skills",
+    "displayName": "Microsoft Outlook"
+  }
+}

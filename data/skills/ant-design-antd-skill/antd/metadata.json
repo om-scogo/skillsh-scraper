@@ -1,0 +1,17 @@
+{
+  "skillId": "antd",
+  "source": "ant-design/antd-skill",
+  "owner": "ant-design",
+  "repo": "antd-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ant-design/antd-skill",
+    "skillId": "antd",
+    "name": "antd",
+    "installs": 780,
+    "owner": "ant-design",
+    "repo": "antd-skill",
+    "githubUrl": "https://github.com/ant-design/antd-skill",
+    "displayName": "Antd"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "dwarf-expert",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "dwarf-expert",
+    "name": "dwarf-expert",
+    "installs": 3644,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Dwarf Expert"
+  }
+}

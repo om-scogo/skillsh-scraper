@@ -1,0 +1,17 @@
+{
+  "skillId": "using-mobile-native-capabilities",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "using-mobile-native-capabilities",
+    "name": "using-mobile-native-capabilities",
+    "installs": 1309,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Using Mobile Native Capabilities"
+  }
+}

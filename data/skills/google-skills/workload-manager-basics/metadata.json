@@ -1,0 +1,17 @@
+{
+  "skillId": "workload-manager-basics",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "workload-manager-basics",
+    "name": "workload-manager-basics",
+    "installs": 1437,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Workload Manager Basics"
+  }
+}

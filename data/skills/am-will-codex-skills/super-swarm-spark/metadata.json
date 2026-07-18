@@ -1,0 +1,17 @@
+{
+  "skillId": "super-swarm-spark",
+  "source": "am-will/codex-skills",
+  "owner": "am-will",
+  "repo": "codex-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "am-will/codex-skills",
+    "skillId": "super-swarm-spark",
+    "name": "super-swarm-spark",
+    "installs": 1146,
+    "owner": "am-will",
+    "repo": "codex-skills",
+    "githubUrl": "https://github.com/am-will/codex-skills",
+    "displayName": "Super Swarm Spark"
+  }
+}

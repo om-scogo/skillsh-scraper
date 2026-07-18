@@ -1,0 +1,17 @@
+{
+  "skillId": "mcp-builder",
+  "source": "anthropics/skills",
+  "owner": "anthropics",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/skills",
+    "skillId": "mcp-builder",
+    "name": "mcp-builder",
+    "installs": 90356,
+    "owner": "anthropics",
+    "repo": "skills",
+    "githubUrl": "https://github.com/anthropics/skills",
+    "displayName": "Mcp Builder"
+  }
+}

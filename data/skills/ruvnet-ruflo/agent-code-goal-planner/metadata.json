@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-code-goal-planner",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-code-goal-planner",
+    "name": "agent-code-goal-planner",
+    "installs": 992,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Code Goal Planner"
+  }
+}

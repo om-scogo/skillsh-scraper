@@ -1,0 +1,17 @@
+{
+  "skillId": "pixijs-2d",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "pixijs-2d",
+    "name": "pixijs-2d",
+    "installs": 1389,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Pixijs 2d"
+  }
+}

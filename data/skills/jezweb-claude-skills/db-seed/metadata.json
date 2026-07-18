@@ -1,0 +1,17 @@
+{
+  "skillId": "db-seed",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "db-seed",
+    "name": "db-seed",
+    "installs": 817,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Db Seed"
+  }
+}

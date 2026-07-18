@@ -1,0 +1,17 @@
+{
+  "skillId": "cx-platform-admin",
+  "source": "coralogix/cx-cli",
+  "owner": "coralogix",
+  "repo": "cx-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coralogix/cx-cli",
+    "skillId": "cx-platform-admin",
+    "name": "cx-platform-admin",
+    "installs": 990,
+    "owner": "coralogix",
+    "repo": "cx-cli",
+    "githubUrl": "https://github.com/coralogix/cx-cli",
+    "displayName": "Cx Platform Admin"
+  }
+}

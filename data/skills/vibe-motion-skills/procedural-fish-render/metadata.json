@@ -1,0 +1,17 @@
+{
+  "skillId": "procedural-fish-render",
+  "source": "vibe-motion/skills",
+  "owner": "vibe-motion",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vibe-motion/skills",
+    "skillId": "procedural-fish-render",
+    "name": "procedural-fish-render",
+    "installs": 738,
+    "owner": "vibe-motion",
+    "repo": "skills",
+    "githubUrl": "https://github.com/vibe-motion/skills",
+    "displayName": "Procedural Fish Render"
+  }
+}

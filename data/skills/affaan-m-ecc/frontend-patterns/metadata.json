@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "frontend-patterns",
+    "name": "frontend-patterns",
+    "installs": 1473,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Frontend Patterns"
+  }
+}

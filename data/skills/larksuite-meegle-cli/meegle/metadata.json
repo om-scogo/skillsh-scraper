@@ -1,0 +1,17 @@
+{
+  "skillId": "meegle",
+  "source": "larksuite/meegle-cli",
+  "owner": "larksuite",
+  "repo": "meegle-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "larksuite/meegle-cli",
+    "skillId": "meegle",
+    "name": "meegle",
+    "installs": 4202,
+    "owner": "larksuite",
+    "repo": "meegle-cli",
+    "githubUrl": "https://github.com/larksuite/meegle-cli",
+    "displayName": "Meegle"
+  }
+}

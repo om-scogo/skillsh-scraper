@@ -1,0 +1,17 @@
+{
+  "skillId": "lattice-crypto-attacks",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "lattice-crypto-attacks",
+    "name": "lattice-crypto-attacks",
+    "installs": 1885,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Lattice Crypto Attacks"
+  }
+}

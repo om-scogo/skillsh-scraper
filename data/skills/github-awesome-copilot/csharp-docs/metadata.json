@@ -1,0 +1,17 @@
+{
+  "skillId": "csharp-docs",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "csharp-docs",
+    "name": "csharp-docs",
+    "installs": 9124,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Csharp Docs"
+  }
+}

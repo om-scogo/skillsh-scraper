@@ -1,0 +1,17 @@
+{
+  "skillId": "music-downloader",
+  "source": "nymbo/skills",
+  "owner": "nymbo",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nymbo/skills",
+    "skillId": "music-downloader",
+    "name": "music-downloader",
+    "installs": 1502,
+    "owner": "nymbo",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nymbo/skills",
+    "displayName": "Music Downloader"
+  }
+}

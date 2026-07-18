@@ -1,0 +1,17 @@
+{
+  "skillId": "security-detection-rule-management",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "security-detection-rule-management",
+    "name": "security-detection-rule-management",
+    "installs": 1754,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Security Detection Rule Management"
+  }
+}

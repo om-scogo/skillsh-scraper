@@ -1,0 +1,17 @@
+{
+  "skillId": "mies",
+  "source": "deeflect/mies",
+  "owner": "deeflect",
+  "repo": "mies",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "deeflect/mies",
+    "skillId": "mies",
+    "name": "mies",
+    "installs": 3319,
+    "owner": "deeflect",
+    "repo": "mies",
+    "githubUrl": "https://github.com/deeflect/mies",
+    "displayName": "Mies"
+  }
+}

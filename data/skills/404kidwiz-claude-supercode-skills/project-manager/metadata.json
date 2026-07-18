@@ -1,0 +1,17 @@
+{
+  "skillId": "project-manager",
+  "source": "404kidwiz/claude-supercode-skills",
+  "owner": "404kidwiz",
+  "repo": "claude-supercode-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "404kidwiz/claude-supercode-skills",
+    "skillId": "project-manager",
+    "name": "project-manager",
+    "installs": 988,
+    "owner": "404kidwiz",
+    "repo": "claude-supercode-skills",
+    "githubUrl": "https://github.com/404kidwiz/claude-supercode-skills",
+    "displayName": "Project Manager"
+  }
+}

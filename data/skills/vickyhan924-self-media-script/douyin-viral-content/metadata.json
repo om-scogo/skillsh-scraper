@@ -1,0 +1,17 @@
+{
+  "skillId": "douyin-viral-content",
+  "source": "vickyhan924/self-media-script",
+  "owner": "vickyhan924",
+  "repo": "self-media-script",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vickyhan924/self-media-script",
+    "skillId": "douyin-viral-content",
+    "name": "douyin-viral-content",
+    "installs": 1494,
+    "owner": "vickyhan924",
+    "repo": "self-media-script",
+    "githubUrl": "https://github.com/vickyhan924/self-media-script",
+    "displayName": "Douyin Viral Content"
+  }
+}

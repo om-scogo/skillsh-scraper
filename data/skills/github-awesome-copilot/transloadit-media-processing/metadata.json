@@ -1,0 +1,17 @@
+{
+  "skillId": "transloadit-media-processing",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "transloadit-media-processing",
+    "name": "transloadit-media-processing",
+    "installs": 8610,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Transloadit Media Processing"
+  }
+}

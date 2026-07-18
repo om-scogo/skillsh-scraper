@@ -1,0 +1,17 @@
+{
+  "skillId": "theme-factory",
+  "source": "anthropics/skills",
+  "owner": "anthropics",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/skills",
+    "skillId": "theme-factory",
+    "name": "theme-factory",
+    "installs": 68798,
+    "owner": "anthropics",
+    "repo": "skills",
+    "githubUrl": "https://github.com/anthropics/skills",
+    "displayName": "Theme Factory"
+  }
+}

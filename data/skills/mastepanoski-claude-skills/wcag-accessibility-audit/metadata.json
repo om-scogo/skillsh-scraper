@@ -1,0 +1,17 @@
+{
+  "skillId": "wcag-accessibility-audit",
+  "source": "mastepanoski/claude-skills",
+  "owner": "mastepanoski",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mastepanoski/claude-skills",
+    "skillId": "wcag-accessibility-audit",
+    "name": "wcag-accessibility-audit",
+    "installs": 851,
+    "owner": "mastepanoski",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/mastepanoski/claude-skills",
+    "displayName": "Wcag Accessibility Audit"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "cmux-keyboard-shortcuts",
+  "source": "manaflow-ai/cmux",
+  "owner": "manaflow-ai",
+  "repo": "cmux",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "manaflow-ai/cmux",
+    "skillId": "cmux-keyboard-shortcuts",
+    "name": "cmux-keyboard-shortcuts",
+    "installs": 2846,
+    "owner": "manaflow-ai",
+    "repo": "cmux",
+    "githubUrl": "https://github.com/manaflow-ai/cmux",
+    "displayName": "Cmux Keyboard Shortcuts"
+  }
+}

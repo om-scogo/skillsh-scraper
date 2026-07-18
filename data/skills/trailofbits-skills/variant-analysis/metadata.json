@@ -1,0 +1,17 @@
+{
+  "skillId": "variant-analysis",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "variant-analysis",
+    "name": "variant-analysis",
+    "installs": 4140,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Variant Analysis"
+  }
+}

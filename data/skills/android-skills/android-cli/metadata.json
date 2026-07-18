@@ -1,0 +1,17 @@
+{
+  "skillId": "android-cli",
+  "source": "android/skills",
+  "owner": "android",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "android/skills",
+    "skillId": "android-cli",
+    "name": "android-cli",
+    "installs": 777,
+    "owner": "android",
+    "repo": "skills",
+    "githubUrl": "https://github.com/android/skills",
+    "displayName": "Android Cli"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "layers-user-needs",
+  "source": "jamiemill/layers-skills",
+  "owner": "jamiemill",
+  "repo": "layers-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jamiemill/layers-skills",
+    "skillId": "layers-user-needs",
+    "name": "layers-user-needs",
+    "installs": 1250,
+    "owner": "jamiemill",
+    "repo": "layers-skills",
+    "githubUrl": "https://github.com/jamiemill/layers-skills",
+    "displayName": "Layers User Needs"
+  }
+}

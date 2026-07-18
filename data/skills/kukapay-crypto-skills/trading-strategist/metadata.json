@@ -1,0 +1,17 @@
+{
+  "skillId": "trading-strategist",
+  "source": "kukapay/crypto-skills",
+  "owner": "kukapay",
+  "repo": "crypto-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kukapay/crypto-skills",
+    "skillId": "trading-strategist",
+    "name": "trading-strategist",
+    "installs": 864,
+    "owner": "kukapay",
+    "repo": "crypto-skills",
+    "githubUrl": "https://github.com/kukapay/crypto-skills",
+    "displayName": "Trading Strategist"
+  }
+}

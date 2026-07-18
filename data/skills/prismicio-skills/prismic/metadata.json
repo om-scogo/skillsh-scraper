@@ -1,0 +1,17 @@
+{
+  "skillId": "prismic",
+  "source": "prismicio/skills",
+  "owner": "prismicio",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "prismicio/skills",
+    "skillId": "prismic",
+    "name": "prismic",
+    "installs": 763,
+    "owner": "prismicio",
+    "repo": "skills",
+    "githubUrl": "https://github.com/prismicio/skills",
+    "displayName": "Prismic"
+  }
+}

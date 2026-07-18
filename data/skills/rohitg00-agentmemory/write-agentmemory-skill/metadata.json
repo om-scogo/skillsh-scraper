@@ -1,0 +1,17 @@
+{
+  "skillId": "write-agentmemory-skill",
+  "source": "rohitg00/agentmemory",
+  "owner": "rohitg00",
+  "repo": "agentmemory",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rohitg00/agentmemory",
+    "skillId": "write-agentmemory-skill",
+    "name": "write-agentmemory-skill",
+    "installs": 4776,
+    "owner": "rohitg00",
+    "repo": "agentmemory",
+    "githubUrl": "https://github.com/rohitg00/agentmemory",
+    "displayName": "Write Agentmemory Skill"
+  }
+}

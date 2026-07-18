@@ -1,0 +1,17 @@
+{
+  "skillId": "reddapi",
+  "source": "lignertys/reddit-research-skill",
+  "owner": "lignertys",
+  "repo": "reddit-research-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lignertys/reddit-research-skill",
+    "skillId": "reddapi",
+    "name": "reddapi",
+    "installs": 2820,
+    "owner": "lignertys",
+    "repo": "reddit-research-skill",
+    "githubUrl": "https://github.com/lignertys/reddit-research-skill",
+    "displayName": "Reddapi"
+  }
+}

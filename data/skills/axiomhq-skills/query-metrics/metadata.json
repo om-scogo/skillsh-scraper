@@ -1,0 +1,17 @@
+{
+  "skillId": "query-metrics",
+  "source": "axiomhq/skills",
+  "owner": "axiomhq",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "axiomhq/skills",
+    "skillId": "query-metrics",
+    "name": "query-metrics",
+    "installs": 1486,
+    "owner": "axiomhq",
+    "repo": "skills",
+    "githubUrl": "https://github.com/axiomhq/skills",
+    "displayName": "Query Metrics"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "design-mcp-workflow",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "design-mcp-workflow",
+    "name": "design-mcp-workflow",
+    "installs": 1349,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Design Mcp Workflow"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "polymarket-arbitrage-bot",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "polymarket-arbitrage-bot",
+    "name": "polymarket-arbitrage-bot",
+    "installs": 764,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Polymarket Arbitrage Bot"
+  }
+}

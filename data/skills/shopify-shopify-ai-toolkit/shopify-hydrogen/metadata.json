@@ -1,0 +1,17 @@
+{
+  "skillId": "shopify-hydrogen",
+  "source": "shopify/shopify-ai-toolkit",
+  "owner": "shopify",
+  "repo": "shopify-ai-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shopify/shopify-ai-toolkit",
+    "skillId": "shopify-hydrogen",
+    "name": "shopify-hydrogen",
+    "installs": 6222,
+    "owner": "shopify",
+    "repo": "shopify-ai-toolkit",
+    "githubUrl": "https://github.com/shopify/shopify-ai-toolkit",
+    "displayName": "Shopify Hydrogen"
+  }
+}

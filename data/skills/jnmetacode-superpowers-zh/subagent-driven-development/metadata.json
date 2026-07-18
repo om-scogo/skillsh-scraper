@@ -1,0 +1,17 @@
+{
+  "skillId": "subagent-driven-development",
+  "source": "jnmetacode/superpowers-zh",
+  "owner": "jnmetacode",
+  "repo": "superpowers-zh",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jnmetacode/superpowers-zh",
+    "skillId": "subagent-driven-development",
+    "name": "subagent-driven-development",
+    "installs": 780,
+    "owner": "jnmetacode",
+    "repo": "superpowers-zh",
+    "githubUrl": "https://github.com/jnmetacode/superpowers-zh",
+    "displayName": "Subagent Driven Development"
+  }
+}

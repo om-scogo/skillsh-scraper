@@ -1,0 +1,17 @@
+{
+  "skillId": "create-auth-skill",
+  "source": "better-auth/skills",
+  "owner": "better-auth",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "better-auth/skills",
+    "skillId": "create-auth-skill",
+    "name": "create-auth-skill",
+    "installs": 29730,
+    "owner": "better-auth",
+    "repo": "skills",
+    "githubUrl": "https://github.com/better-auth/skills",
+    "displayName": "Create Auth Skill"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "compose-focus-navigation",
+  "source": "chrisbanes/skills",
+  "owner": "chrisbanes",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chrisbanes/skills",
+    "skillId": "compose-focus-navigation",
+    "name": "compose-focus-navigation",
+    "installs": 764,
+    "owner": "chrisbanes",
+    "repo": "skills",
+    "githubUrl": "https://github.com/chrisbanes/skills",
+    "displayName": "Compose Focus Navigation"
+  }
+}

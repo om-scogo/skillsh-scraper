@@ -1,0 +1,17 @@
+{
+  "skillId": "git-guardrails-claude-code",
+  "source": "vinvcn/mattpocock-skills-zh-cn",
+  "owner": "vinvcn",
+  "repo": "mattpocock-skills-zh-cn",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vinvcn/mattpocock-skills-zh-cn",
+    "skillId": "git-guardrails-claude-code",
+    "name": "git-guardrails-claude-code",
+    "installs": 2393,
+    "owner": "vinvcn",
+    "repo": "mattpocock-skills-zh-cn",
+    "githubUrl": "https://github.com/vinvcn/mattpocock-skills-zh-cn",
+    "displayName": "Git Guardrails Claude Code"
+  }
+}

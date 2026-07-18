@@ -1,0 +1,17 @@
+{
+  "skillId": "blender-motion-state-inspection",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "blender-motion-state-inspection",
+    "name": "blender-motion-state-inspection",
+    "installs": 1114,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Blender Motion State Inspection"
+  }
+}

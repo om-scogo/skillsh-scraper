@@ -1,0 +1,17 @@
+{
+  "skillId": "google-cloud-networking-observability",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "google-cloud-networking-observability",
+    "name": "google-cloud-networking-observability",
+    "installs": 5120,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Google Cloud Networking Observability"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "pinchtab",
+  "source": "pinchtab/pinchtab",
+  "owner": "pinchtab",
+  "repo": "pinchtab",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pinchtab/pinchtab",
+    "skillId": "pinchtab",
+    "name": "pinchtab",
+    "installs": 821,
+    "owner": "pinchtab",
+    "repo": "pinchtab",
+    "githubUrl": "https://github.com/pinchtab/pinchtab",
+    "displayName": "Pinchtab"
+  }
+}

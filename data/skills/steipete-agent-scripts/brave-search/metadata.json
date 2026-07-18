@@ -1,0 +1,17 @@
+{
+  "skillId": "brave-search",
+  "source": "steipete/agent-scripts",
+  "owner": "steipete",
+  "repo": "agent-scripts",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/agent-scripts",
+    "skillId": "brave-search",
+    "name": "brave-search",
+    "installs": 851,
+    "owner": "steipete",
+    "repo": "agent-scripts",
+    "githubUrl": "https://github.com/steipete/agent-scripts",
+    "displayName": "Brave Search"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "openspec-archiving",
+  "source": "forztf/open-skilled-sdd",
+  "owner": "forztf",
+  "repo": "open-skilled-sdd",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forztf/open-skilled-sdd",
+    "skillId": "openspec-archiving",
+    "name": "openspec-archiving",
+    "installs": 917,
+    "owner": "forztf",
+    "repo": "open-skilled-sdd",
+    "githubUrl": "https://github.com/forztf/open-skilled-sdd",
+    "displayName": "Openspec Archiving"
+  }
+}

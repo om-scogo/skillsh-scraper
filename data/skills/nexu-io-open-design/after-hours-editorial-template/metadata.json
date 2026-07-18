@@ -1,0 +1,17 @@
+{
+  "skillId": "after-hours-editorial-template",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "after-hours-editorial-template",
+    "name": "after-hours-editorial-template",
+    "installs": 1634,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "After Hours Editorial Template"
+  }
+}

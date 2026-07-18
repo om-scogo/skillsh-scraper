@@ -1,0 +1,17 @@
+{
+  "skillId": "launch-nemo-rl",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "launch-nemo-rl",
+    "name": "launch-nemo-rl",
+    "installs": 1526,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Launch Nemo Rl"
+  }
+}

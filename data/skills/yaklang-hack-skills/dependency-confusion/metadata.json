@@ -1,0 +1,17 @@
+{
+  "skillId": "dependency-confusion",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "dependency-confusion",
+    "name": "dependency-confusion",
+    "installs": 1939,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Dependency Confusion"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-test-long-runner",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-test-long-runner",
+    "name": "agent-test-long-runner",
+    "installs": 987,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Test Long Runner"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "vertex-ai-api-dev",
+  "source": "google-gemini/gemini-skills",
+  "owner": "google-gemini",
+  "repo": "gemini-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-gemini/gemini-skills",
+    "skillId": "vertex-ai-api-dev",
+    "name": "vertex-ai-api-dev",
+    "installs": 1322,
+    "owner": "google-gemini",
+    "repo": "gemini-skills",
+    "githubUrl": "https://github.com/google-gemini/gemini-skills",
+    "displayName": "Vertex Ai Api Dev"
+  }
+}

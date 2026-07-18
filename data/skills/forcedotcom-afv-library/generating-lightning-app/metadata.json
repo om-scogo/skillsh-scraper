@@ -1,0 +1,17 @@
+{
+  "skillId": "generating-lightning-app",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "generating-lightning-app",
+    "name": "generating-lightning-app",
+    "installs": 1544,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Generating Lightning App"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "micro-saas-launcher",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "micro-saas-launcher",
+    "name": "micro-saas-launcher",
+    "installs": 1141,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Micro Saas Launcher"
+  }
+}

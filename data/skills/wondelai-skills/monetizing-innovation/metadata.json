@@ -1,0 +1,17 @@
+{
+  "skillId": "monetizing-innovation",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "monetizing-innovation",
+    "name": "monetizing-innovation",
+    "installs": 792,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Monetizing Innovation"
+  }
+}

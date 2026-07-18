@@ -1,0 +1,17 @@
+{
+  "skillId": "pixelbin-media",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "pixelbin-media",
+    "name": "pixelbin-media",
+    "installs": 1557,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Pixelbin Media"
+  }
+}

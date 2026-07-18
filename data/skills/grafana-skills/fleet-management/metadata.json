@@ -1,0 +1,17 @@
+{
+  "skillId": "fleet-management",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "fleet-management",
+    "name": "fleet-management",
+    "installs": 1541,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Fleet Management"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ilya-sutskever-perspective",
+  "source": "alchaincyf/ilya-sutskever-skill",
+  "owner": "alchaincyf",
+  "repo": "ilya-sutskever-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/ilya-sutskever-skill",
+    "skillId": "ilya-sutskever-perspective",
+    "name": "ilya-sutskever-perspective",
+    "installs": 1020,
+    "owner": "alchaincyf",
+    "repo": "ilya-sutskever-skill",
+    "githubUrl": "https://github.com/alchaincyf/ilya-sutskever-skill",
+    "displayName": "Ilya Sutskever Perspective"
+  }
+}

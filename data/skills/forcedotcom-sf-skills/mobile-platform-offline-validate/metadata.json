@@ -1,0 +1,17 @@
+{
+  "skillId": "mobile-platform-offline-validate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "mobile-platform-offline-validate",
+    "name": "mobile-platform-offline-validate",
+    "installs": 1248,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Mobile Platform Offline Validate"
+  }
+}

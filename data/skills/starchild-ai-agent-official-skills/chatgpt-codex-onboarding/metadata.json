@@ -1,0 +1,17 @@
+{
+  "skillId": "chatgpt-codex-onboarding",
+  "source": "starchild-ai-agent/official-skills",
+  "owner": "starchild-ai-agent",
+  "repo": "official-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "starchild-ai-agent/official-skills",
+    "skillId": "chatgpt-codex-onboarding",
+    "name": "chatgpt-codex-onboarding",
+    "installs": 2284,
+    "owner": "starchild-ai-agent",
+    "repo": "official-skills",
+    "githubUrl": "https://github.com/starchild-ai-agent/official-skills",
+    "displayName": "Chatgpt Codex Onboarding"
+  }
+}

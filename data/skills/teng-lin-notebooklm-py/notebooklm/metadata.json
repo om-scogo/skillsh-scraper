@@ -1,0 +1,17 @@
+{
+  "skillId": "notebooklm",
+  "source": "teng-lin/notebooklm-py",
+  "owner": "teng-lin",
+  "repo": "notebooklm-py",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "teng-lin/notebooklm-py",
+    "skillId": "notebooklm",
+    "name": "notebooklm",
+    "installs": 7173,
+    "owner": "teng-lin",
+    "repo": "notebooklm-py",
+    "githubUrl": "https://github.com/teng-lin/notebooklm-py",
+    "displayName": "Notebooklm"
+  }
+}

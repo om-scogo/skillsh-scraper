@@ -1,0 +1,17 @@
+{
+  "skillId": "mem0",
+  "source": "mem0ai/mem0",
+  "owner": "mem0ai",
+  "repo": "mem0",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mem0ai/mem0",
+    "skillId": "mem0",
+    "name": "mem0",
+    "installs": 1561,
+    "owner": "mem0ai",
+    "repo": "mem0",
+    "githubUrl": "https://github.com/mem0ai/mem0",
+    "displayName": "Mem0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-vetter",
+  "source": "app-incubator-xyz/skill-vetter",
+  "owner": "app-incubator-xyz",
+  "repo": "skill-vetter",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "app-incubator-xyz/skill-vetter",
+    "skillId": "skill-vetter",
+    "name": "skill-vetter",
+    "installs": 1065,
+    "owner": "app-incubator-xyz",
+    "repo": "skill-vetter",
+    "githubUrl": "https://github.com/app-incubator-xyz/skill-vetter",
+    "displayName": "Skill Vetter"
+  }
+}

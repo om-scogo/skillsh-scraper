@@ -1,0 +1,17 @@
+{
+  "skillId": "excalidraw-skill",
+  "source": "lingzhi227/agent-research-skills",
+  "owner": "lingzhi227",
+  "repo": "agent-research-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lingzhi227/agent-research-skills",
+    "skillId": "excalidraw-skill",
+    "name": "excalidraw-skill",
+    "installs": 1048,
+    "owner": "lingzhi227",
+    "repo": "agent-research-skills",
+    "githubUrl": "https://github.com/lingzhi227/agent-research-skills",
+    "displayName": "Excalidraw Skill"
+  }
+}

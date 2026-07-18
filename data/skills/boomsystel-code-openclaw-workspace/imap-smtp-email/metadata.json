@@ -1,0 +1,17 @@
+{
+  "skillId": "imap-smtp-email",
+  "source": "boomsystel-code/openclaw-workspace",
+  "owner": "boomsystel-code",
+  "repo": "openclaw-workspace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "boomsystel-code/openclaw-workspace",
+    "skillId": "imap-smtp-email",
+    "name": "imap-smtp-email",
+    "installs": 1735,
+    "owner": "boomsystel-code",
+    "repo": "openclaw-workspace",
+    "githubUrl": "https://github.com/boomsystel-code/openclaw-workspace",
+    "displayName": "Imap Smtp Email"
+  }
+}

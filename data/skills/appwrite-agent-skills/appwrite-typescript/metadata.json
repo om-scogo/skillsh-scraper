@@ -1,0 +1,17 @@
+{
+  "skillId": "appwrite-typescript",
+  "source": "appwrite/agent-skills",
+  "owner": "appwrite",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "appwrite/agent-skills",
+    "skillId": "appwrite-typescript",
+    "name": "appwrite-typescript",
+    "installs": 1129,
+    "owner": "appwrite",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/appwrite/agent-skills",
+    "displayName": "Appwrite Typescript"
+  }
+}

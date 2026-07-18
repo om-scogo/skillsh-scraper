@@ -1,0 +1,17 @@
+{
+  "skillId": "lavish",
+  "source": "kunchenguid/lavish-axi",
+  "owner": "kunchenguid",
+  "repo": "lavish-axi",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kunchenguid/lavish-axi",
+    "skillId": "lavish",
+    "name": "lavish",
+    "installs": 7410,
+    "owner": "kunchenguid",
+    "repo": "lavish-axi",
+    "githubUrl": "https://github.com/kunchenguid/lavish-axi",
+    "displayName": "Lavish"
+  }
+}

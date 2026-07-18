@@ -1,0 +1,17 @@
+{
+  "skillId": "twitter-reader",
+  "source": "himself65/finance-skills",
+  "owner": "himself65",
+  "repo": "finance-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "himself65/finance-skills",
+    "skillId": "twitter-reader",
+    "name": "twitter-reader",
+    "installs": 1170,
+    "owner": "himself65",
+    "repo": "finance-skills",
+    "githubUrl": "https://github.com/himself65/finance-skills",
+    "displayName": "Twitter Reader"
+  }
+}

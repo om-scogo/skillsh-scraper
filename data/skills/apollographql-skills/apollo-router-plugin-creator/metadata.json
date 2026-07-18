@@ -1,0 +1,17 @@
+{
+  "skillId": "apollo-router-plugin-creator",
+  "source": "apollographql/skills",
+  "owner": "apollographql",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apollographql/skills",
+    "skillId": "apollo-router-plugin-creator",
+    "name": "apollo-router-plugin-creator",
+    "installs": 1009,
+    "owner": "apollographql",
+    "repo": "skills",
+    "githubUrl": "https://github.com/apollographql/skills",
+    "displayName": "Apollo Router Plugin Creator"
+  }
+}

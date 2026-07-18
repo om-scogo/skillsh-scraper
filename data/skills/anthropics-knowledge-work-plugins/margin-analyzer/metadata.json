@@ -1,0 +1,17 @@
+{
+  "skillId": "margin-analyzer",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "margin-analyzer",
+    "name": "margin-analyzer",
+    "installs": 848,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Margin Analyzer"
+  }
+}

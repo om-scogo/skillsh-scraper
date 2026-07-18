@@ -1,0 +1,17 @@
+{
+  "skillId": "add-expert",
+  "source": "remotion-dev/remotion",
+  "owner": "remotion-dev",
+  "repo": "remotion",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "remotion-dev/remotion",
+    "skillId": "add-expert",
+    "name": "add-expert",
+    "installs": 1469,
+    "owner": "remotion-dev",
+    "repo": "remotion",
+    "githubUrl": "https://github.com/remotion-dev/remotion",
+    "displayName": "Add Expert"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "wiki-dedup",
+  "source": "ar9av/obsidian-wiki",
+  "owner": "ar9av",
+  "repo": "obsidian-wiki",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ar9av/obsidian-wiki",
+    "skillId": "wiki-dedup",
+    "name": "wiki-dedup",
+    "installs": 1274,
+    "owner": "ar9av",
+    "repo": "obsidian-wiki",
+    "githubUrl": "https://github.com/ar9av/obsidian-wiki",
+    "displayName": "Wiki Dedup"
+  }
+}

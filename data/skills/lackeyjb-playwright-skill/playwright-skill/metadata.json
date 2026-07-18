@@ -1,0 +1,17 @@
+{
+  "skillId": "playwright-skill",
+  "source": "lackeyjb/playwright-skill",
+  "owner": "lackeyjb",
+  "repo": "playwright-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lackeyjb/playwright-skill",
+    "skillId": "playwright-skill",
+    "name": "playwright-skill",
+    "installs": 3388,
+    "owner": "lackeyjb",
+    "repo": "playwright-skill",
+    "githubUrl": "https://github.com/lackeyjb/playwright-skill",
+    "displayName": "Playwright Skill"
+  }
+}

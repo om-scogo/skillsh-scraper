@@ -1,0 +1,17 @@
+{
+  "skillId": "a11y-debugging",
+  "source": "chromedevtools/chrome-devtools-mcp",
+  "owner": "chromedevtools",
+  "repo": "chrome-devtools-mcp",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chromedevtools/chrome-devtools-mcp",
+    "skillId": "a11y-debugging",
+    "name": "a11y-debugging",
+    "installs": 1513,
+    "owner": "chromedevtools",
+    "repo": "chrome-devtools-mcp",
+    "githubUrl": "https://github.com/chromedevtools/chrome-devtools-mcp",
+    "displayName": "A11y Debugging"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "threejs-geometry",
+  "source": "cloudai-x/threejs-skills",
+  "owner": "cloudai-x",
+  "repo": "threejs-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudai-x/threejs-skills",
+    "skillId": "threejs-geometry",
+    "name": "threejs-geometry",
+    "installs": 5772,
+    "owner": "cloudai-x",
+    "repo": "threejs-skills",
+    "githubUrl": "https://github.com/cloudai-x/threejs-skills",
+    "displayName": "Threejs Geometry"
+  }
+}

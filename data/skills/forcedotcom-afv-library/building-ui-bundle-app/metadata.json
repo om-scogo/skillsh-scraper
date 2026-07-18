@@ -1,0 +1,17 @@
+{
+  "skillId": "building-ui-bundle-app",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "building-ui-bundle-app",
+    "name": "building-ui-bundle-app",
+    "installs": 1494,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Building Ui Bundle App"
+  }
+}

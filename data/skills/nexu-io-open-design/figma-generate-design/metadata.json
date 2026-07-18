@@ -1,0 +1,17 @@
+{
+  "skillId": "figma-generate-design",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "figma-generate-design",
+    "name": "figma-generate-design",
+    "installs": 1604,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Figma Generate Design"
+  }
+}

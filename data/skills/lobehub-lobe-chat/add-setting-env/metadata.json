@@ -1,0 +1,17 @@
+{
+  "skillId": "add-setting-env",
+  "source": "lobehub/lobe-chat",
+  "owner": "lobehub",
+  "repo": "lobe-chat",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobe-chat",
+    "skillId": "add-setting-env",
+    "name": "add-setting-env",
+    "installs": 1326,
+    "owner": "lobehub",
+    "repo": "lobe-chat",
+    "githubUrl": "https://github.com/lobehub/lobe-chat",
+    "displayName": "Add Setting Env"
+  }
+}

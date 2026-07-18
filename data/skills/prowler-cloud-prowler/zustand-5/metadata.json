@@ -1,0 +1,17 @@
+{
+  "skillId": "zustand-5",
+  "source": "prowler-cloud/prowler",
+  "owner": "prowler-cloud",
+  "repo": "prowler",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "prowler-cloud/prowler",
+    "skillId": "zustand-5",
+    "name": "zustand-5",
+    "installs": 769,
+    "owner": "prowler-cloud",
+    "repo": "prowler",
+    "githubUrl": "https://github.com/prowler-cloud/prowler",
+    "displayName": "Zustand 5"
+  }
+}

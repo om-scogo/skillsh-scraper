@@ -1,0 +1,17 @@
+{
+  "skillId": "brand-guidelines",
+  "source": "getsentry/skills",
+  "owner": "getsentry",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/skills",
+    "skillId": "brand-guidelines",
+    "name": "brand-guidelines",
+    "installs": 1351,
+    "owner": "getsentry",
+    "repo": "skills",
+    "githubUrl": "https://github.com/getsentry/skills",
+    "displayName": "Brand Guidelines"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-memory-coordinator",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-memory-coordinator",
+    "name": "agent-memory-coordinator",
+    "installs": 1003,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Memory Coordinator"
+  }
+}

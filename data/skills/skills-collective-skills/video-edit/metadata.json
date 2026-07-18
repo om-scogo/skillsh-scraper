@@ -1,0 +1,17 @@
+{
+  "skillId": "video-edit",
+  "source": "skills-collective/skills",
+  "owner": "skills-collective",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "skills-collective/skills",
+    "skillId": "video-edit",
+    "name": "video-edit",
+    "installs": 18345,
+    "owner": "skills-collective",
+    "repo": "skills",
+    "githubUrl": "https://github.com/skills-collective/skills",
+    "displayName": "Video Edit"
+  }
+}

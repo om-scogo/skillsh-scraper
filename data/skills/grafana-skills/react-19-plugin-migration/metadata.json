@@ -1,0 +1,17 @@
+{
+  "skillId": "react-19-plugin-migration",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "react-19-plugin-migration",
+    "name": "react-19-plugin-migration",
+    "installs": 1504,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "React 19 Plugin Migration"
+  }
+}

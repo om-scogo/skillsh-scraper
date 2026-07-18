@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-forge",
+  "source": "sanyuan0704/code-review-expert",
+  "owner": "sanyuan0704",
+  "repo": "code-review-expert",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sanyuan0704/code-review-expert",
+    "skillId": "skill-forge",
+    "name": "skill-forge",
+    "installs": 1169,
+    "owner": "sanyuan0704",
+    "repo": "code-review-expert",
+    "githubUrl": "https://github.com/sanyuan0704/code-review-expert",
+    "displayName": "Skill Forge"
+  }
+}

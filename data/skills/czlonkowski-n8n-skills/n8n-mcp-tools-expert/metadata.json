@@ -1,0 +1,17 @@
+{
+  "skillId": "n8n-mcp-tools-expert",
+  "source": "czlonkowski/n8n-skills",
+  "owner": "czlonkowski",
+  "repo": "n8n-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "czlonkowski/n8n-skills",
+    "skillId": "n8n-mcp-tools-expert",
+    "name": "n8n-mcp-tools-expert",
+    "installs": 5879,
+    "owner": "czlonkowski",
+    "repo": "n8n-skills",
+    "githubUrl": "https://github.com/czlonkowski/n8n-skills",
+    "displayName": "N8n Mcp Tools Expert"
+  }
+}

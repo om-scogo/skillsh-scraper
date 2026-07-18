@@ -1,0 +1,17 @@
+{
+  "skillId": "k6",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "k6",
+    "name": "k6",
+    "installs": 1706,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "K6"
+  }
+}

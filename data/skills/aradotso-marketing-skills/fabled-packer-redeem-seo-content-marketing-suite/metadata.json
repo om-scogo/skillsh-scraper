@@ -1,0 +1,17 @@
+{
+  "skillId": "fabled-packer-redeem-seo-content-marketing-suite",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "fabled-packer-redeem-seo-content-marketing-suite",
+    "name": "fabled-packer-redeem-seo-content-marketing-suite",
+    "installs": 930,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Fabled Packer Redeem Seo Content Marketing Suite"
+  }
+}

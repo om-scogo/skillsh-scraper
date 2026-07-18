@@ -1,0 +1,17 @@
+{
+  "skillId": "android-aso",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "android-aso",
+    "name": "android-aso",
+    "installs": 1502,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "Android Aso"
+  }
+}

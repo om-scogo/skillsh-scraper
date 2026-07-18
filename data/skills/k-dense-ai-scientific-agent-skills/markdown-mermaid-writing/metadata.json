@@ -1,0 +1,17 @@
+{
+  "skillId": "markdown-mermaid-writing",
+  "source": "k-dense-ai/scientific-agent-skills",
+  "owner": "k-dense-ai",
+  "repo": "scientific-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "k-dense-ai/scientific-agent-skills",
+    "skillId": "markdown-mermaid-writing",
+    "name": "markdown-mermaid-writing",
+    "installs": 910,
+    "owner": "k-dense-ai",
+    "repo": "scientific-agent-skills",
+    "githubUrl": "https://github.com/k-dense-ai/scientific-agent-skills",
+    "displayName": "Markdown Mermaid Writing"
+  }
+}

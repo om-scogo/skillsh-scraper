@@ -1,0 +1,17 @@
+{
+  "skillId": "okx-agent-task",
+  "source": "okx/onchainos-skills",
+  "owner": "okx",
+  "repo": "onchainos-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "okx/onchainos-skills",
+    "skillId": "okx-agent-task",
+    "name": "okx-agent-task",
+    "installs": 2464,
+    "owner": "okx",
+    "repo": "onchainos-skills",
+    "githubUrl": "https://github.com/okx/onchainos-skills",
+    "displayName": "Okx Agent Task"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "dataverse-python-usecase-builder",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "dataverse-python-usecase-builder",
+    "name": "dataverse-python-usecase-builder",
+    "installs": 8601,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Dataverse Python Usecase Builder"
+  }
+}

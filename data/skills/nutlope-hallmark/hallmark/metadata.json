@@ -1,0 +1,17 @@
+{
+  "skillId": "hallmark",
+  "source": "nutlope/hallmark",
+  "owner": "nutlope",
+  "repo": "hallmark",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nutlope/hallmark",
+    "skillId": "hallmark",
+    "name": "hallmark",
+    "installs": 17837,
+    "owner": "nutlope",
+    "repo": "hallmark",
+    "githubUrl": "https://github.com/nutlope/hallmark",
+    "displayName": "Hallmark"
+  }
+}

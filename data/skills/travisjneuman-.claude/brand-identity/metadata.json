@@ -1,0 +1,17 @@
+{
+  "skillId": "brand-identity",
+  "source": "travisjneuman/.claude",
+  "owner": "travisjneuman",
+  "repo": ".claude",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "travisjneuman/.claude",
+    "skillId": "brand-identity",
+    "name": "brand-identity",
+    "installs": 967,
+    "owner": "travisjneuman",
+    "repo": ".claude",
+    "githubUrl": "https://github.com/travisjneuman/.claude",
+    "displayName": "Brand Identity"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "mckinsey-consultant",
+  "source": "mann1988/awesome-claude-skills",
+  "owner": "mann1988",
+  "repo": "awesome-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mann1988/awesome-claude-skills",
+    "skillId": "mckinsey-consultant",
+    "name": "mckinsey-consultant",
+    "installs": 967,
+    "owner": "mann1988",
+    "repo": "awesome-claude-skills",
+    "githubUrl": "https://github.com/mann1988/awesome-claude-skills",
+    "displayName": "Mckinsey Consultant"
+  }
+}

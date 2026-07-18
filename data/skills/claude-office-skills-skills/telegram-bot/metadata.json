@@ -1,0 +1,17 @@
+{
+  "skillId": "telegram-bot",
+  "source": "claude-office-skills/skills",
+  "owner": "claude-office-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "claude-office-skills/skills",
+    "skillId": "telegram-bot",
+    "name": "telegram-bot",
+    "installs": 4325,
+    "owner": "claude-office-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/claude-office-skills/skills",
+    "displayName": "Telegram Bot"
+  }
+}

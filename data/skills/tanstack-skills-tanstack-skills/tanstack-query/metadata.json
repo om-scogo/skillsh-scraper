@@ -1,0 +1,17 @@
+{
+  "skillId": "tanstack-query",
+  "source": "tanstack-skills/tanstack-skills",
+  "owner": "tanstack-skills",
+  "repo": "tanstack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tanstack-skills/tanstack-skills",
+    "skillId": "tanstack-query",
+    "name": "tanstack-query",
+    "installs": 4544,
+    "owner": "tanstack-skills",
+    "repo": "tanstack-skills",
+    "githubUrl": "https://github.com/tanstack-skills/tanstack-skills",
+    "displayName": "Tanstack Query"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "containerize-aspnetcore",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "containerize-aspnetcore",
+    "name": "containerize-aspnetcore",
+    "installs": 8673,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Containerize Aspnetcore"
+  }
+}

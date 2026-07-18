@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-script-push",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "gws-script-push",
+    "name": "gws-script-push",
+    "installs": 17452,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Gws Script Push"
+  }
+}

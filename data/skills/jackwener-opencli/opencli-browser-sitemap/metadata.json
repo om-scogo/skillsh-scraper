@@ -1,0 +1,17 @@
+{
+  "skillId": "opencli-browser-sitemap",
+  "source": "jackwener/opencli",
+  "owner": "jackwener",
+  "repo": "opencli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jackwener/opencli",
+    "skillId": "opencli-browser-sitemap",
+    "name": "opencli-browser-sitemap",
+    "installs": 3900,
+    "owner": "jackwener",
+    "repo": "opencli",
+    "githubUrl": "https://github.com/jackwener/opencli",
+    "displayName": "Opencli Browser Sitemap"
+  }
+}

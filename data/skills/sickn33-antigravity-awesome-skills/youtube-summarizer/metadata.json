@@ -1,0 +1,17 @@
+{
+  "skillId": "youtube-summarizer",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "youtube-summarizer",
+    "name": "youtube-summarizer",
+    "installs": 1625,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Youtube Summarizer"
+  }
+}

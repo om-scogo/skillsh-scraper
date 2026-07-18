@@ -1,0 +1,17 @@
+{
+  "skillId": "motion",
+  "source": "hairyf/skills",
+  "owner": "hairyf",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hairyf/skills",
+    "skillId": "motion",
+    "name": "motion",
+    "installs": 986,
+    "owner": "hairyf",
+    "repo": "skills",
+    "githubUrl": "https://github.com/hairyf/skills",
+    "displayName": "Motion"
+  }
+}

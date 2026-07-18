@@ -1,0 +1,17 @@
+{
+  "skillId": "finance-expert",
+  "source": "personamanagmentlayer/pcl",
+  "owner": "personamanagmentlayer",
+  "repo": "pcl",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "personamanagmentlayer/pcl",
+    "skillId": "finance-expert",
+    "name": "finance-expert",
+    "installs": 5978,
+    "owner": "personamanagmentlayer",
+    "repo": "pcl",
+    "githubUrl": "https://github.com/personamanagmentlayer/pcl",
+    "displayName": "Finance Expert"
+  }
+}

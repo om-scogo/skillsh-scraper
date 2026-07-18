@@ -1,0 +1,17 @@
+{
+  "skillId": "app-store-featured",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "app-store-featured",
+    "name": "app-store-featured",
+    "installs": 2194,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "App Store Featured"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "distributed-tracing",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "distributed-tracing",
+    "name": "distributed-tracing",
+    "installs": 8087,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Distributed Tracing"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "baoyu-danger-x-to-markdown",
+  "source": "jimliu/baoyu-skills",
+  "owner": "jimliu",
+  "repo": "baoyu-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jimliu/baoyu-skills",
+    "skillId": "baoyu-danger-x-to-markdown",
+    "name": "baoyu-danger-x-to-markdown",
+    "installs": 25358,
+    "owner": "jimliu",
+    "repo": "baoyu-skills",
+    "githubUrl": "https://github.com/jimliu/baoyu-skills",
+    "displayName": "Baoyu Danger X To Markdown"
+  }
+}

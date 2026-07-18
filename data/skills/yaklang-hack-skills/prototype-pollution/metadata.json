@@ -1,0 +1,17 @@
+{
+  "skillId": "prototype-pollution",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "prototype-pollution",
+    "name": "prototype-pollution",
+    "installs": 1921,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Prototype Pollution"
+  }
+}

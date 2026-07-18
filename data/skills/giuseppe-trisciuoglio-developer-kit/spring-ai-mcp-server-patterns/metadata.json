@@ -1,0 +1,17 @@
+{
+  "skillId": "spring-ai-mcp-server-patterns",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "spring-ai-mcp-server-patterns",
+    "name": "spring-ai-mcp-server-patterns",
+    "installs": 1607,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Spring Ai Mcp Server Patterns"
+  }
+}

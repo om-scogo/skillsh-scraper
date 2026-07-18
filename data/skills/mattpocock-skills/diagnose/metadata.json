@@ -1,0 +1,17 @@
+{
+  "skillId": "diagnose",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "diagnose",
+    "name": "diagnose",
+    "installs": 233335,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Diagnose"
+  }
+}

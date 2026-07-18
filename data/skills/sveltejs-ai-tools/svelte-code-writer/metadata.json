@@ -1,0 +1,17 @@
+{
+  "skillId": "svelte-code-writer",
+  "source": "sveltejs/ai-tools",
+  "owner": "sveltejs",
+  "repo": "ai-tools",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sveltejs/ai-tools",
+    "skillId": "svelte-code-writer",
+    "name": "svelte-code-writer",
+    "installs": 6491,
+    "owner": "sveltejs",
+    "repo": "ai-tools",
+    "githubUrl": "https://github.com/sveltejs/ai-tools",
+    "displayName": "Svelte Code Writer"
+  }
+}

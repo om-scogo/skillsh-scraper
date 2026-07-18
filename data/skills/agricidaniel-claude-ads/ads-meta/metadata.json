@@ -1,0 +1,17 @@
+{
+  "skillId": "ads-meta",
+  "source": "agricidaniel/claude-ads",
+  "owner": "agricidaniel",
+  "repo": "claude-ads",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-ads",
+    "skillId": "ads-meta",
+    "name": "ads-meta",
+    "installs": 2243,
+    "owner": "agricidaniel",
+    "repo": "claude-ads",
+    "githubUrl": "https://github.com/agricidaniel/claude-ads",
+    "displayName": "Ads Meta"
+  }
+}

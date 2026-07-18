@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-hud-statusline",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "claude-hud-statusline",
+    "name": "claude-hud-statusline",
+    "installs": 2540,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Claude Hud Statusline"
+  }
+}

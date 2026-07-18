@@ -1,0 +1,17 @@
+{
+  "skillId": "memory-lancedb-pro-openclaw",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "memory-lancedb-pro-openclaw",
+    "name": "memory-lancedb-pro-openclaw",
+    "installs": 1253,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Memory Lancedb Pro Openclaw"
+  }
+}

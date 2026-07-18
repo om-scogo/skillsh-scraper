@@ -1,0 +1,17 @@
+{
+  "skillId": "xslt-injection",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "xslt-injection",
+    "name": "xslt-injection",
+    "installs": 1916,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Xslt Injection"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "stock-research-executor",
+  "source": "liangdabiao/claude-code-stock-deep-research-agent",
+  "owner": "liangdabiao",
+  "repo": "claude-code-stock-deep-research-agent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "liangdabiao/claude-code-stock-deep-research-agent",
+    "skillId": "stock-research-executor",
+    "name": "stock-research-executor",
+    "installs": 1726,
+    "owner": "liangdabiao",
+    "repo": "claude-code-stock-deep-research-agent",
+    "githubUrl": "https://github.com/liangdabiao/claude-code-stock-deep-research-agent",
+    "displayName": "Stock Research Executor"
+  }
+}

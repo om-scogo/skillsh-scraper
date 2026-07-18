@@ -1,0 +1,17 @@
+{
+  "skillId": "kotlin-ktor-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "kotlin-ktor-patterns",
+    "name": "kotlin-ktor-patterns",
+    "installs": 1097,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Kotlin Ktor Patterns"
+  }
+}

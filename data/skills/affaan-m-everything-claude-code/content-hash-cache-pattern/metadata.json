@@ -1,0 +1,17 @@
+{
+  "skillId": "content-hash-cache-pattern",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "content-hash-cache-pattern",
+    "name": "content-hash-cache-pattern",
+    "installs": 5187,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Content Hash Cache Pattern"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "obsidian-bases",
+  "source": "kepano/obsidian-skills",
+  "owner": "kepano",
+  "repo": "obsidian-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kepano/obsidian-skills",
+    "skillId": "obsidian-bases",
+    "name": "obsidian-bases",
+    "installs": 49322,
+    "owner": "kepano",
+    "repo": "obsidian-skills",
+    "githubUrl": "https://github.com/kepano/obsidian-skills",
+    "displayName": "Obsidian Bases"
+  }
+}

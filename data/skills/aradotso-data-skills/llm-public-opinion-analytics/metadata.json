@@ -1,0 +1,17 @@
+{
+  "skillId": "llm-public-opinion-analytics",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "llm-public-opinion-analytics",
+    "name": "llm-public-opinion-analytics",
+    "installs": 1854,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Llm Public Opinion Analytics"
+  }
+}

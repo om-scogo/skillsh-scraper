@@ -1,0 +1,17 @@
+{
+  "skillId": "canva-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "canva-downloader",
+    "name": "canva-downloader",
+    "installs": 970,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Canva Downloader"
+  }
+}

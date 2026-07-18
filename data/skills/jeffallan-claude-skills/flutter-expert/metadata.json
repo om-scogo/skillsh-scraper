@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-expert",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "flutter-expert",
+    "name": "flutter-expert",
+    "installs": 12449,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Flutter Expert"
+  }
+}

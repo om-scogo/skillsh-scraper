@@ -1,0 +1,17 @@
+{
+  "skillId": "transitions-dev",
+  "source": "jakubantalik/transitions-dev",
+  "owner": "jakubantalik",
+  "repo": "transitions-dev",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jakubantalik/transitions-dev",
+    "skillId": "transitions-dev",
+    "name": "transitions-dev",
+    "installs": 1325,
+    "owner": "jakubantalik",
+    "repo": "transitions-dev",
+    "githubUrl": "https://github.com/jakubantalik/transitions-dev",
+    "displayName": "Transitions Dev"
+  }
+}

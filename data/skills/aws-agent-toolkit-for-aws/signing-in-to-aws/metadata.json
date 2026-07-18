@@ -1,0 +1,17 @@
+{
+  "skillId": "signing-in-to-aws",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "signing-in-to-aws",
+    "name": "signing-in-to-aws",
+    "installs": 943,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Signing In To Aws"
+  }
+}

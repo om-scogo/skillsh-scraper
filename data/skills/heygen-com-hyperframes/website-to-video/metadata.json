@@ -1,0 +1,17 @@
+{
+  "skillId": "website-to-video",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "website-to-video",
+    "name": "website-to-video",
+    "installs": 98326,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Website To Video"
+  }
+}

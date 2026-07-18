@@ -1,0 +1,17 @@
+{
+  "skillId": "lynx-devtool",
+  "source": "lynx-community/skills",
+  "owner": "lynx-community",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lynx-community/skills",
+    "skillId": "lynx-devtool",
+    "name": "lynx-devtool",
+    "installs": 2222,
+    "owner": "lynx-community",
+    "repo": "skills",
+    "githubUrl": "https://github.com/lynx-community/skills",
+    "displayName": "Lynx Devtool"
+  }
+}

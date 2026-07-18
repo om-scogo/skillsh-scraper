@@ -1,0 +1,17 @@
+{
+  "skillId": "mcp-apps-builder",
+  "source": "mcp-use/mcp-use",
+  "owner": "mcp-use",
+  "repo": "mcp-use",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mcp-use/mcp-use",
+    "skillId": "mcp-apps-builder",
+    "name": "mcp-apps-builder",
+    "installs": 16396,
+    "owner": "mcp-use",
+    "repo": "mcp-use",
+    "githubUrl": "https://github.com/mcp-use/mcp-use",
+    "displayName": "Mcp Apps Builder"
+  }
+}

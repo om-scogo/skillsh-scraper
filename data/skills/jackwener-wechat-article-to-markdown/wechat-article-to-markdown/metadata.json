@@ -1,0 +1,17 @@
+{
+  "skillId": "wechat-article-to-markdown",
+  "source": "jackwener/wechat-article-to-markdown",
+  "owner": "jackwener",
+  "repo": "wechat-article-to-markdown",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jackwener/wechat-article-to-markdown",
+    "skillId": "wechat-article-to-markdown",
+    "name": "wechat-article-to-markdown",
+    "installs": 771,
+    "owner": "jackwener",
+    "repo": "wechat-article-to-markdown",
+    "githubUrl": "https://github.com/jackwener/wechat-article-to-markdown",
+    "displayName": "Wechat Article To Markdown"
+  }
+}

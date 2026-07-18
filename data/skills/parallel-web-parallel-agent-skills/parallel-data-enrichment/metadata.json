@@ -1,0 +1,17 @@
+{
+  "skillId": "parallel-data-enrichment",
+  "source": "parallel-web/parallel-agent-skills",
+  "owner": "parallel-web",
+  "repo": "parallel-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "parallel-web/parallel-agent-skills",
+    "skillId": "parallel-data-enrichment",
+    "name": "parallel-data-enrichment",
+    "installs": 10323,
+    "owner": "parallel-web",
+    "repo": "parallel-agent-skills",
+    "githubUrl": "https://github.com/parallel-web/parallel-agent-skills",
+    "displayName": "Parallel Data Enrichment"
+  }
+}

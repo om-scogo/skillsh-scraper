@@ -1,0 +1,17 @@
+{
+  "skillId": "vuejs-typescript-best-practices",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "vuejs-typescript-best-practices",
+    "name": "vuejs-typescript-best-practices",
+    "installs": 845,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Vuejs Typescript Best Practices"
+  }
+}

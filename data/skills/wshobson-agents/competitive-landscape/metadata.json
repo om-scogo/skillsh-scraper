@@ -1,0 +1,17 @@
+{
+  "skillId": "competitive-landscape",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "competitive-landscape",
+    "name": "competitive-landscape",
+    "installs": 8286,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Competitive Landscape"
+  }
+}

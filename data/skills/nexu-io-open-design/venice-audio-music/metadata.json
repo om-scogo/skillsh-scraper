@@ -1,0 +1,17 @@
+{
+  "skillId": "venice-audio-music",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "venice-audio-music",
+    "name": "venice-audio-music",
+    "installs": 1613,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Venice Audio Music"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "handover",
+  "source": "adobe/skills",
+  "owner": "adobe",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adobe/skills",
+    "skillId": "handover",
+    "name": "handover",
+    "installs": 887,
+    "owner": "adobe",
+    "repo": "skills",
+    "githubUrl": "https://github.com/adobe/skills",
+    "displayName": "Handover"
+  }
+}

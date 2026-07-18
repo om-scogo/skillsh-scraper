@@ -1,0 +1,17 @@
+{
+  "skillId": "m01-ownership",
+  "source": "zhanghandong/rust-skills",
+  "owner": "zhanghandong",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zhanghandong/rust-skills",
+    "skillId": "m01-ownership",
+    "name": "m01-ownership",
+    "installs": 810,
+    "owner": "zhanghandong",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/zhanghandong/rust-skills",
+    "displayName": "M01 Ownership"
+  }
+}

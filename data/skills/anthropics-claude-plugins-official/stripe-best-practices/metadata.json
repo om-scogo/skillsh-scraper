@@ -1,0 +1,17 @@
+{
+  "skillId": "stripe-best-practices",
+  "source": "anthropics/claude-plugins-official",
+  "owner": "anthropics",
+  "repo": "claude-plugins-official",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/claude-plugins-official",
+    "skillId": "stripe-best-practices",
+    "name": "stripe-best-practices",
+    "installs": 1424,
+    "owner": "anthropics",
+    "repo": "claude-plugins-official",
+    "githubUrl": "https://github.com/anthropics/claude-plugins-official",
+    "displayName": "Stripe Best Practices"
+  }
+}

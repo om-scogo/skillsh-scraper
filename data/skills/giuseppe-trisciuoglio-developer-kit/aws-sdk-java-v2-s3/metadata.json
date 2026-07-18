@@ -1,0 +1,17 @@
+{
+  "skillId": "aws-sdk-java-v2-s3",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "aws-sdk-java-v2-s3",
+    "name": "aws-sdk-java-v2-s3",
+    "installs": 1528,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Aws Sdk Java V2 S3"
+  }
+}

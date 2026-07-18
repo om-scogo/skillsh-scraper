@@ -1,0 +1,17 @@
+{
+  "skillId": "web-component-design",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "web-component-design",
+    "name": "web-component-design",
+    "installs": 10008,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Web Component Design"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "vue-jsx-best-practices",
+  "source": "vuejs-ai/skills",
+  "owner": "vuejs-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vuejs-ai/skills",
+    "skillId": "vue-jsx-best-practices",
+    "name": "vue-jsx-best-practices",
+    "installs": 6502,
+    "owner": "vuejs-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/vuejs-ai/skills",
+    "displayName": "Vue Jsx Best Practices"
+  }
+}

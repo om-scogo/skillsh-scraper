@@ -1,0 +1,17 @@
+{
+  "skillId": "compose-state-deferred-reads",
+  "source": "chrisbanes/skills",
+  "owner": "chrisbanes",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chrisbanes/skills",
+    "skillId": "compose-state-deferred-reads",
+    "name": "compose-state-deferred-reads",
+    "installs": 806,
+    "owner": "chrisbanes",
+    "repo": "skills",
+    "githubUrl": "https://github.com/chrisbanes/skills",
+    "displayName": "Compose State Deferred Reads"
+  }
+}

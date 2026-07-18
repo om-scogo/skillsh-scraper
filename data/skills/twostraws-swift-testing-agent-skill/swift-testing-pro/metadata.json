@@ -1,0 +1,17 @@
+{
+  "skillId": "swift-testing-pro",
+  "source": "twostraws/swift-testing-agent-skill",
+  "owner": "twostraws",
+  "repo": "swift-testing-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "twostraws/swift-testing-agent-skill",
+    "skillId": "swift-testing-pro",
+    "name": "swift-testing-pro",
+    "installs": 6586,
+    "owner": "twostraws",
+    "repo": "swift-testing-agent-skill",
+    "githubUrl": "https://github.com/twostraws/swift-testing-agent-skill",
+    "displayName": "Swift Testing Pro"
+  }
+}

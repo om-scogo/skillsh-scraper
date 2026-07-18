@@ -1,0 +1,17 @@
+{
+  "skillId": "baoyu-image-cards",
+  "source": "jimliu/baoyu-skills",
+  "owner": "jimliu",
+  "repo": "baoyu-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jimliu/baoyu-skills",
+    "skillId": "baoyu-image-cards",
+    "name": "baoyu-image-cards",
+    "installs": 6307,
+    "owner": "jimliu",
+    "repo": "baoyu-skills",
+    "githubUrl": "https://github.com/jimliu/baoyu-skills",
+    "displayName": "Baoyu Image Cards"
+  }
+}

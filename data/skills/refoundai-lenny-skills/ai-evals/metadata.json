@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-evals",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "ai-evals",
+    "name": "ai-evals",
+    "installs": 1671,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Ai Evals"
+  }
+}

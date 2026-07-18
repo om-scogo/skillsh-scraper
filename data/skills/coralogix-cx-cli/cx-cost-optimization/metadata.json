@@ -1,0 +1,17 @@
+{
+  "skillId": "cx-cost-optimization",
+  "source": "coralogix/cx-cli",
+  "owner": "coralogix",
+  "repo": "cx-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coralogix/cx-cli",
+    "skillId": "cx-cost-optimization",
+    "name": "cx-cost-optimization",
+    "installs": 1064,
+    "owner": "coralogix",
+    "repo": "cx-cli",
+    "githubUrl": "https://github.com/coralogix/cx-cli",
+    "displayName": "Cx Cost Optimization"
+  }
+}

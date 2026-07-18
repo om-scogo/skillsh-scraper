@@ -1,0 +1,17 @@
+{
+  "skillId": "build-mcp-server",
+  "source": "anthropics/claude-plugins-official",
+  "owner": "anthropics",
+  "repo": "claude-plugins-official",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/claude-plugins-official",
+    "skillId": "build-mcp-server",
+    "name": "build-mcp-server",
+    "installs": 3624,
+    "owner": "anthropics",
+    "repo": "claude-plugins-official",
+    "githubUrl": "https://github.com/anthropics/claude-plugins-official",
+    "displayName": "Build Mcp Server"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "rebuttal-writing",
+  "source": "lingzhi227/agent-research-skills",
+  "owner": "lingzhi227",
+  "repo": "agent-research-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lingzhi227/agent-research-skills",
+    "skillId": "rebuttal-writing",
+    "name": "rebuttal-writing",
+    "installs": 1143,
+    "owner": "lingzhi227",
+    "repo": "agent-research-skills",
+    "githubUrl": "https://github.com/lingzhi227/agent-research-skills",
+    "displayName": "Rebuttal Writing"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "notebooklm",
+  "source": "pleaseprompto/notebooklm-skill",
+  "owner": "pleaseprompto",
+  "repo": "notebooklm-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pleaseprompto/notebooklm-skill",
+    "skillId": "notebooklm",
+    "name": "notebooklm",
+    "installs": 7156,
+    "owner": "pleaseprompto",
+    "repo": "notebooklm-skill",
+    "githubUrl": "https://github.com/pleaseprompto/notebooklm-skill",
+    "displayName": "Notebooklm"
+  }
+}

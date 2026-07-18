@@ -1,0 +1,17 @@
+{
+  "skillId": "data-analyst",
+  "source": "shubhamsaboo/awesome-llm-apps",
+  "owner": "shubhamsaboo",
+  "repo": "awesome-llm-apps",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shubhamsaboo/awesome-llm-apps",
+    "skillId": "data-analyst",
+    "name": "data-analyst",
+    "installs": 3986,
+    "owner": "shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "githubUrl": "https://github.com/shubhamsaboo/awesome-llm-apps",
+    "displayName": "Data Analyst"
+  }
+}

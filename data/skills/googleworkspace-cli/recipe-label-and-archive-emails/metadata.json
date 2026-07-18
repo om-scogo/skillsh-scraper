@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-label-and-archive-emails",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-label-and-archive-emails",
+    "name": "recipe-label-and-archive-emails",
+    "installs": 22454,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Label And Archive Emails"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "query-onchain-data",
+  "source": "coinbase/agentic-wallet-skills",
+  "owner": "coinbase",
+  "repo": "agentic-wallet-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coinbase/agentic-wallet-skills",
+    "skillId": "query-onchain-data",
+    "name": "query-onchain-data",
+    "installs": 2057,
+    "owner": "coinbase",
+    "repo": "agentic-wallet-skills",
+    "githubUrl": "https://github.com/coinbase/agentic-wallet-skills",
+    "displayName": "Query Onchain Data"
+  }
+}

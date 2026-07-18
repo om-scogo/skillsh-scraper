@@ -1,0 +1,17 @@
+{
+  "skillId": "lh-notice-search",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "lh-notice-search",
+    "name": "lh-notice-search",
+    "installs": 2079,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Lh Notice Search"
+  }
+}

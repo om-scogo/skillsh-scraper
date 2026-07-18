@@ -1,0 +1,17 @@
+{
+  "skillId": "scientific-slides",
+  "source": "k-dense-ai/scientific-agent-skills",
+  "owner": "k-dense-ai",
+  "repo": "scientific-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "k-dense-ai/scientific-agent-skills",
+    "skillId": "scientific-slides",
+    "name": "scientific-slides",
+    "installs": 943,
+    "owner": "k-dense-ai",
+    "repo": "scientific-agent-skills",
+    "githubUrl": "https://github.com/k-dense-ai/scientific-agent-skills",
+    "displayName": "Scientific Slides"
+  }
+}

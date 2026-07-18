@@ -1,0 +1,17 @@
+{
+  "skillId": "nemo-rl-session-memory",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemo-rl-session-memory",
+    "name": "nemo-rl-session-memory",
+    "installs": 1554,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemo Rl Session Memory"
+  }
+}

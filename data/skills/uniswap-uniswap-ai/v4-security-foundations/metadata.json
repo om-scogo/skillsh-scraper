@@ -1,0 +1,17 @@
+{
+  "skillId": "v4-security-foundations",
+  "source": "uniswap/uniswap-ai",
+  "owner": "uniswap",
+  "repo": "uniswap-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "uniswap/uniswap-ai",
+    "skillId": "v4-security-foundations",
+    "name": "v4-security-foundations",
+    "installs": 773,
+    "owner": "uniswap",
+    "repo": "uniswap-ai",
+    "githubUrl": "https://github.com/uniswap/uniswap-ai",
+    "displayName": "V4 Security Foundations"
+  }
+}

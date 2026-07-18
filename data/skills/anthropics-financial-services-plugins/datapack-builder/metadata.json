@@ -1,0 +1,17 @@
+{
+  "skillId": "datapack-builder",
+  "source": "anthropics/financial-services-plugins",
+  "owner": "anthropics",
+  "repo": "financial-services-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/financial-services-plugins",
+    "skillId": "datapack-builder",
+    "name": "datapack-builder",
+    "installs": 854,
+    "owner": "anthropics",
+    "repo": "financial-services-plugins",
+    "githubUrl": "https://github.com/anthropics/financial-services-plugins",
+    "displayName": "Datapack Builder"
+  }
+}

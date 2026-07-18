@@ -1,0 +1,17 @@
+{
+  "skillId": "heading-structure",
+  "source": "kostja94/marketing-skills",
+  "owner": "kostja94",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kostja94/marketing-skills",
+    "skillId": "heading-structure",
+    "name": "heading-structure",
+    "installs": 792,
+    "owner": "kostja94",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/kostja94/marketing-skills",
+    "displayName": "Heading Structure"
+  }
+}

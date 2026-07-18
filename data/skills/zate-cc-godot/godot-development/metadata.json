@@ -1,0 +1,17 @@
+{
+  "skillId": "godot-development",
+  "source": "zate/cc-godot",
+  "owner": "zate",
+  "repo": "cc-godot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zate/cc-godot",
+    "skillId": "godot-development",
+    "name": "godot-development",
+    "installs": 1143,
+    "owner": "zate",
+    "repo": "cc-godot",
+    "githubUrl": "https://github.com/zate/cc-godot",
+    "displayName": "Godot Development"
+  }
+}

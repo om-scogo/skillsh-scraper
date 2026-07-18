@@ -1,0 +1,17 @@
+{
+  "skillId": "adk-cheatsheet",
+  "source": "google/adk-docs",
+  "owner": "google",
+  "repo": "adk-docs",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/adk-docs",
+    "skillId": "adk-cheatsheet",
+    "name": "adk-cheatsheet",
+    "installs": 2722,
+    "owner": "google",
+    "repo": "adk-docs",
+    "githubUrl": "https://github.com/google/adk-docs",
+    "displayName": "Adk Cheatsheet"
+  }
+}

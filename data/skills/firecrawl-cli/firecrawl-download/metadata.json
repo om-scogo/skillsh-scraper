@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-download",
+  "source": "firecrawl/cli",
+  "owner": "firecrawl",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/cli",
+    "skillId": "firecrawl-download",
+    "name": "firecrawl-download",
+    "installs": 72755,
+    "owner": "firecrawl",
+    "repo": "cli",
+    "githubUrl": "https://github.com/firecrawl/cli",
+    "displayName": "Firecrawl Download"
+  }
+}

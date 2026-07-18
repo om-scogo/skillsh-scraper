@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-design",
+  "source": "mager/frontend-design",
+  "owner": "mager",
+  "repo": "frontend-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mager/frontend-design",
+    "skillId": "frontend-design",
+    "name": "frontend-design",
+    "installs": 1583,
+    "owner": "mager",
+    "repo": "frontend-design",
+    "githubUrl": "https://github.com/mager/frontend-design",
+    "displayName": "Frontend Design"
+  }
+}

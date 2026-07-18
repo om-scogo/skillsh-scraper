@@ -1,0 +1,17 @@
+{
+  "skillId": "swift-architecture-skill",
+  "source": "efremidze/swift-architecture-skill",
+  "owner": "efremidze",
+  "repo": "swift-architecture-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "efremidze/swift-architecture-skill",
+    "skillId": "swift-architecture-skill",
+    "name": "swift-architecture-skill",
+    "installs": 1385,
+    "owner": "efremidze",
+    "repo": "swift-architecture-skill",
+    "githubUrl": "https://github.com/efremidze/swift-architecture-skill",
+    "displayName": "Swift Architecture Skill"
+  }
+}

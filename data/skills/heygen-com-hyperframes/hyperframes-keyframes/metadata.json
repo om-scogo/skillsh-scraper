@@ -1,0 +1,17 @@
+{
+  "skillId": "hyperframes-keyframes",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "hyperframes-keyframes",
+    "name": "hyperframes-keyframes",
+    "installs": 65235,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Hyperframes Keyframes"
+  }
+}

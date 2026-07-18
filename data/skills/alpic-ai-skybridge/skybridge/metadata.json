@@ -1,0 +1,17 @@
+{
+  "skillId": "skybridge",
+  "source": "alpic-ai/skybridge",
+  "owner": "alpic-ai",
+  "repo": "skybridge",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alpic-ai/skybridge",
+    "skillId": "skybridge",
+    "name": "skybridge",
+    "installs": 818,
+    "owner": "alpic-ai",
+    "repo": "skybridge",
+    "githubUrl": "https://github.com/alpic-ai/skybridge",
+    "displayName": "Skybridge"
+  }
+}

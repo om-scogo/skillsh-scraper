@@ -1,0 +1,17 @@
+{
+  "skillId": "bigquery-ai-ml",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "bigquery-ai-ml",
+    "name": "bigquery-ai-ml",
+    "installs": 1115,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Bigquery Ai Ml"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "tanstack-form",
+  "source": "tanstack-skills/tanstack-skills",
+  "owner": "tanstack-skills",
+  "repo": "tanstack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tanstack-skills/tanstack-skills",
+    "skillId": "tanstack-form",
+    "name": "tanstack-form",
+    "installs": 2439,
+    "owner": "tanstack-skills",
+    "repo": "tanstack-skills",
+    "githubUrl": "https://github.com/tanstack-skills/tanstack-skills",
+    "displayName": "Tanstack Form"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "learn-docker-k8s-game",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "learn-docker-k8s-game",
+    "name": "learn-docker-k8s-game",
+    "installs": 750,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Learn Docker K8s Game"
+  }
+}

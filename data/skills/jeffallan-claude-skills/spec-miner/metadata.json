@@ -1,0 +1,17 @@
+{
+  "skillId": "spec-miner",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "spec-miner",
+    "name": "spec-miner",
+    "installs": 2870,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Spec Miner"
+  }
+}

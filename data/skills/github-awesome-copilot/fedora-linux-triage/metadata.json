@@ -1,0 +1,17 @@
+{
+  "skillId": "fedora-linux-triage",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "fedora-linux-triage",
+    "name": "fedora-linux-triage",
+    "installs": 8612,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Fedora Linux Triage"
+  }
+}

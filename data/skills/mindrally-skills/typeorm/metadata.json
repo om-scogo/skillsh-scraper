@@ -1,0 +1,17 @@
+{
+  "skillId": "typeorm",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "typeorm",
+    "name": "typeorm",
+    "installs": 1525,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Typeorm"
+  }
+}

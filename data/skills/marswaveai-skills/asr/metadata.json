@@ -1,0 +1,17 @@
+{
+  "skillId": "asr",
+  "source": "marswaveai/skills",
+  "owner": "marswaveai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "marswaveai/skills",
+    "skillId": "asr",
+    "name": "asr",
+    "installs": 1171,
+    "owner": "marswaveai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/marswaveai/skills",
+    "displayName": "Asr"
+  }
+}

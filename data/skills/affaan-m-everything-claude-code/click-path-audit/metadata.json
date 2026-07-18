@@ -1,0 +1,17 @@
+{
+  "skillId": "click-path-audit",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "click-path-audit",
+    "name": "click-path-audit",
+    "installs": 4232,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Click Path Audit"
+  }
+}

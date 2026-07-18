@@ -1,0 +1,17 @@
+{
+  "skillId": "memory-optimize",
+  "source": "kochetkov-ma/claude-brewcode",
+  "owner": "kochetkov-ma",
+  "repo": "claude-brewcode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kochetkov-ma/claude-brewcode",
+    "skillId": "memory-optimize",
+    "name": "memory-optimize",
+    "installs": 1402,
+    "owner": "kochetkov-ma",
+    "repo": "claude-brewcode",
+    "githubUrl": "https://github.com/kochetkov-ma/claude-brewcode",
+    "displayName": "Memory Optimize"
+  }
+}

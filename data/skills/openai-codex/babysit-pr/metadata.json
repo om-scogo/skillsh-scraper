@@ -1,0 +1,17 @@
+{
+  "skillId": "babysit-pr",
+  "source": "openai/codex",
+  "owner": "openai",
+  "repo": "codex",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openai/codex",
+    "skillId": "babysit-pr",
+    "name": "babysit-pr",
+    "installs": 2707,
+    "owner": "openai",
+    "repo": "codex",
+    "githubUrl": "https://github.com/openai/codex",
+    "displayName": "Babysit Pr"
+  }
+}

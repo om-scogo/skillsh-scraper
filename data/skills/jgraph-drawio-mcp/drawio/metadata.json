@@ -1,0 +1,17 @@
+{
+  "skillId": "drawio",
+  "source": "jgraph/drawio-mcp",
+  "owner": "jgraph",
+  "repo": "drawio-mcp",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jgraph/drawio-mcp",
+    "skillId": "drawio",
+    "name": "drawio",
+    "installs": 2268,
+    "owner": "jgraph",
+    "repo": "drawio-mcp",
+    "githubUrl": "https://github.com/jgraph/drawio-mcp",
+    "displayName": "Drawio"
+  }
+}

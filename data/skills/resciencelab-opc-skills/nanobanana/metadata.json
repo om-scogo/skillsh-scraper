@@ -1,0 +1,17 @@
+{
+  "skillId": "nanobanana",
+  "source": "resciencelab/opc-skills",
+  "owner": "resciencelab",
+  "repo": "opc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "resciencelab/opc-skills",
+    "skillId": "nanobanana",
+    "name": "nanobanana",
+    "installs": 2512,
+    "owner": "resciencelab",
+    "repo": "opc-skills",
+    "githubUrl": "https://github.com/resciencelab/opc-skills",
+    "displayName": "Nanobanana"
+  }
+}

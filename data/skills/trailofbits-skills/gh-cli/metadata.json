@@ -1,0 +1,17 @@
+{
+  "skillId": "gh-cli",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "gh-cli",
+    "name": "gh-cli",
+    "installs": 4571,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Gh Cli"
+  }
+}

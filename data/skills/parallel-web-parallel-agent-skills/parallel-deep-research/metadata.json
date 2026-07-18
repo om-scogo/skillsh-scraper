@@ -1,0 +1,17 @@
+{
+  "skillId": "parallel-deep-research",
+  "source": "parallel-web/parallel-agent-skills",
+  "owner": "parallel-web",
+  "repo": "parallel-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "parallel-web/parallel-agent-skills",
+    "skillId": "parallel-deep-research",
+    "name": "parallel-deep-research",
+    "installs": 11764,
+    "owner": "parallel-web",
+    "repo": "parallel-agent-skills",
+    "githubUrl": "https://github.com/parallel-web/parallel-agent-skills",
+    "displayName": "Parallel Deep Research"
+  }
+}

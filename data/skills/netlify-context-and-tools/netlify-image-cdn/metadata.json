@@ -1,0 +1,17 @@
+{
+  "skillId": "netlify-image-cdn",
+  "source": "netlify/context-and-tools",
+  "owner": "netlify",
+  "repo": "context-and-tools",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "netlify/context-and-tools",
+    "skillId": "netlify-image-cdn",
+    "name": "netlify-image-cdn",
+    "installs": 1025,
+    "owner": "netlify",
+    "repo": "context-and-tools",
+    "githubUrl": "https://github.com/netlify/context-and-tools",
+    "displayName": "Netlify Image Cdn"
+  }
+}

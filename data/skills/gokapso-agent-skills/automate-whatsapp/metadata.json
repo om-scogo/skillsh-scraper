@@ -1,0 +1,17 @@
+{
+  "skillId": "automate-whatsapp",
+  "source": "gokapso/agent-skills",
+  "owner": "gokapso",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gokapso/agent-skills",
+    "skillId": "automate-whatsapp",
+    "name": "automate-whatsapp",
+    "installs": 2358,
+    "owner": "gokapso",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/gokapso/agent-skills",
+    "displayName": "Automate Whatsapp"
+  }
+}

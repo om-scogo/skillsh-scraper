@@ -1,0 +1,17 @@
+{
+  "skillId": "8-bit-orbit-video-template",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "8-bit-orbit-video-template",
+    "name": "8-bit-orbit-video-template",
+    "installs": 1625,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "8 Bit Orbit Video Template"
+  }
+}

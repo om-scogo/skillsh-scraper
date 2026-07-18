@@ -1,0 +1,17 @@
+{
+  "skillId": "sf-industry-commoncore-omnistudio-analyze",
+  "source": "jaganpro/sf-skills",
+  "owner": "jaganpro",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jaganpro/sf-skills",
+    "skillId": "sf-industry-commoncore-omnistudio-analyze",
+    "name": "sf-industry-commoncore-omnistudio-analyze",
+    "installs": 925,
+    "owner": "jaganpro",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/jaganpro/sf-skills",
+    "displayName": "Sf Industry Commoncore Omnistudio Analyze"
+  }
+}

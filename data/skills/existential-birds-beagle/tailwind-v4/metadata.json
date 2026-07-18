@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwind-v4",
+  "source": "existential-birds/beagle",
+  "owner": "existential-birds",
+  "repo": "beagle",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "existential-birds/beagle",
+    "skillId": "tailwind-v4",
+    "name": "tailwind-v4",
+    "installs": 754,
+    "owner": "existential-birds",
+    "repo": "beagle",
+    "githubUrl": "https://github.com/existential-birds/beagle",
+    "displayName": "Tailwind V4"
+  }
+}

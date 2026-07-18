@@ -1,0 +1,17 @@
+{
+  "skillId": "observability-edot-python-instrument",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "observability-edot-python-instrument",
+    "name": "observability-edot-python-instrument",
+    "installs": 1699,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Observability Edot Python Instrument"
+  }
+}

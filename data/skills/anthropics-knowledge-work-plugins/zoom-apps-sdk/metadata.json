@@ -1,0 +1,17 @@
+{
+  "skillId": "zoom-apps-sdk",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "zoom-apps-sdk",
+    "name": "zoom-apps-sdk",
+    "installs": 1283,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Zoom Apps Sdk"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "referral-program",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "referral-program",
+    "name": "referral-program",
+    "installs": 766,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "Referral Program"
+  }
+}

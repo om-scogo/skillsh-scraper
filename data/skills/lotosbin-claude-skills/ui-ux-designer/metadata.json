@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-ux-designer",
+  "source": "lotosbin/claude-skills",
+  "owner": "lotosbin",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lotosbin/claude-skills",
+    "skillId": "ui-ux-designer",
+    "name": "ui-ux-designer",
+    "installs": 1737,
+    "owner": "lotosbin",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/lotosbin/claude-skills",
+    "displayName": "Ui Ux Designer"
+  }
+}

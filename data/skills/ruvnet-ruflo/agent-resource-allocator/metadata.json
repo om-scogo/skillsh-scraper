@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-resource-allocator",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-resource-allocator",
+    "name": "agent-resource-allocator",
+    "installs": 994,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Resource Allocator"
+  }
+}

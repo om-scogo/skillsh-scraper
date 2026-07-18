@@ -1,0 +1,17 @@
+{
+  "skillId": "caveman-commit",
+  "source": "juliusbrussee/caveman",
+  "owner": "juliusbrussee",
+  "repo": "caveman",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juliusbrussee/caveman",
+    "skillId": "caveman-commit",
+    "name": "caveman-commit",
+    "installs": 244743,
+    "owner": "juliusbrussee",
+    "repo": "caveman",
+    "githubUrl": "https://github.com/juliusbrussee/caveman",
+    "displayName": "Caveman Commit"
+  }
+}

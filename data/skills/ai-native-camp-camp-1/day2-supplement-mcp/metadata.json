@@ -1,0 +1,17 @@
+{
+  "skillId": "day2-supplement-mcp",
+  "source": "ai-native-camp/camp-1",
+  "owner": "ai-native-camp",
+  "repo": "camp-1",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ai-native-camp/camp-1",
+    "skillId": "day2-supplement-mcp",
+    "name": "day2-supplement-mcp",
+    "installs": 1601,
+    "owner": "ai-native-camp",
+    "repo": "camp-1",
+    "githubUrl": "https://github.com/ai-native-camp/camp-1",
+    "displayName": "Day2 Supplement Mcp"
+  }
+}

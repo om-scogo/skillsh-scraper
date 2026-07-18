@@ -1,0 +1,17 @@
+{
+  "skillId": "prioritize-features",
+  "source": "phuryn/pm-skills",
+  "owner": "phuryn",
+  "repo": "pm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "phuryn/pm-skills",
+    "skillId": "prioritize-features",
+    "name": "prioritize-features",
+    "installs": 1716,
+    "owner": "phuryn",
+    "repo": "pm-skills",
+    "githubUrl": "https://github.com/phuryn/pm-skills",
+    "displayName": "Prioritize Features"
+  }
+}

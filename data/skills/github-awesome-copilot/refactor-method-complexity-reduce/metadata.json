@@ -1,0 +1,17 @@
+{
+  "skillId": "refactor-method-complexity-reduce",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "refactor-method-complexity-reduce",
+    "name": "refactor-method-complexity-reduce",
+    "installs": 9656,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Refactor Method Complexity Reduce"
+  }
+}

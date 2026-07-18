@@ -1,0 +1,17 @@
+{
+  "skillId": "better-icons",
+  "source": "better-auth/better-icons",
+  "owner": "better-auth",
+  "repo": "better-icons",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "better-auth/better-icons",
+    "skillId": "better-icons",
+    "name": "better-icons",
+    "installs": 4003,
+    "owner": "better-auth",
+    "repo": "better-icons",
+    "githubUrl": "https://github.com/better-auth/better-icons",
+    "displayName": "Better Icons"
+  }
+}

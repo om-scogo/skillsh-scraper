@@ -1,0 +1,17 @@
+{
+  "skillId": "helmor-cli",
+  "source": "dohooo/helmor",
+  "owner": "dohooo",
+  "repo": "helmor",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dohooo/helmor",
+    "skillId": "helmor-cli",
+    "name": "helmor-cli",
+    "installs": 1683,
+    "owner": "dohooo",
+    "repo": "helmor",
+    "githubUrl": "https://github.com/dohooo/helmor",
+    "displayName": "Helmor Cli"
+  }
+}

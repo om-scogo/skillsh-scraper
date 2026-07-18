@@ -1,0 +1,17 @@
+{
+  "skillId": "category-page-generator",
+  "source": "kostja94/marketing-skills",
+  "owner": "kostja94",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kostja94/marketing-skills",
+    "skillId": "category-page-generator",
+    "name": "category-page-generator",
+    "installs": 784,
+    "owner": "kostja94",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/kostja94/marketing-skills",
+    "displayName": "Category Page Generator"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "aws-ami-builder",
+  "source": "hashicorp/agent-skills",
+  "owner": "hashicorp",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hashicorp/agent-skills",
+    "skillId": "aws-ami-builder",
+    "name": "aws-ami-builder",
+    "installs": 1927,
+    "owner": "hashicorp",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/hashicorp/agent-skills",
+    "displayName": "Aws Ami Builder"
+  }
+}

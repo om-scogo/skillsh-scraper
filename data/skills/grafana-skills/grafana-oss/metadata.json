@@ -1,0 +1,17 @@
+{
+  "skillId": "grafana-oss",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "grafana-oss",
+    "name": "grafana-oss",
+    "installs": 2236,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Grafana Oss"
+  }
+}

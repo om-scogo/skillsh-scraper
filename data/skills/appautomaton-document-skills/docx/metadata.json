@@ -1,0 +1,17 @@
+{
+  "skillId": "docx",
+  "source": "appautomaton/document-skills",
+  "owner": "appautomaton",
+  "repo": "document-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "appautomaton/document-skills",
+    "skillId": "docx",
+    "name": "docx",
+    "installs": 1176,
+    "owner": "appautomaton",
+    "repo": "document-skills",
+    "githubUrl": "https://github.com/appautomaton/document-skills",
+    "displayName": "Docx"
+  }
+}

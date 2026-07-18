@@ -1,0 +1,17 @@
+{
+  "skillId": "entry-point-analyzer",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "entry-point-analyzer",
+    "name": "entry-point-analyzer",
+    "installs": 3836,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Entry Point Analyzer"
+  }
+}

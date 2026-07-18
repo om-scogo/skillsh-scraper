@@ -1,0 +1,17 @@
+{
+  "skillId": "connecting-vpcs-with-peering",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "connecting-vpcs-with-peering",
+    "name": "connecting-vpcs-with-peering",
+    "installs": 1664,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Connecting Vpcs With Peering"
+  }
+}

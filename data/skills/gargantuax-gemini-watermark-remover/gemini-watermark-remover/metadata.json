@@ -1,0 +1,17 @@
+{
+  "skillId": "gemini-watermark-remover",
+  "source": "gargantuax/gemini-watermark-remover",
+  "owner": "gargantuax",
+  "repo": "gemini-watermark-remover",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gargantuax/gemini-watermark-remover",
+    "skillId": "gemini-watermark-remover",
+    "name": "gemini-watermark-remover",
+    "installs": 12662,
+    "owner": "gargantuax",
+    "repo": "gemini-watermark-remover",
+    "githubUrl": "https://github.com/gargantuax/gemini-watermark-remover",
+    "displayName": "Gemini Watermark Remover"
+  }
+}

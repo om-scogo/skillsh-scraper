@@ -1,0 +1,17 @@
+{
+  "skillId": "sqlalchemy-alembic-expert-best-practices-code-review",
+  "source": "wispbit-ai/skills",
+  "owner": "wispbit-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wispbit-ai/skills",
+    "skillId": "sqlalchemy-alembic-expert-best-practices-code-review",
+    "name": "sqlalchemy-alembic-expert-best-practices-code-review",
+    "installs": 1297,
+    "owner": "wispbit-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wispbit-ai/skills",
+    "displayName": "Sqlalchemy Alembic Expert Best Practices Code Review"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "iii-architecture-patterns",
+  "source": "iii-hq/iii",
+  "owner": "iii-hq",
+  "repo": "iii",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "iii-hq/iii",
+    "skillId": "iii-architecture-patterns",
+    "name": "iii-architecture-patterns",
+    "installs": 773,
+    "owner": "iii-hq",
+    "repo": "iii",
+    "githubUrl": "https://github.com/iii-hq/iii",
+    "displayName": "Iii Architecture Patterns"
+  }
+}

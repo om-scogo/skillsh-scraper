@@ -1,0 +1,17 @@
+{
+  "skillId": "vue-debug-guides",
+  "source": "hyf0/vue-skills",
+  "owner": "hyf0",
+  "repo": "vue-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hyf0/vue-skills",
+    "skillId": "vue-debug-guides",
+    "name": "vue-debug-guides",
+    "installs": 14276,
+    "owner": "hyf0",
+    "repo": "vue-skills",
+    "githubUrl": "https://github.com/hyf0/vue-skills",
+    "displayName": "Vue Debug Guides"
+  }
+}

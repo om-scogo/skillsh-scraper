@@ -1,0 +1,17 @@
+{
+  "skillId": "crossing-the-chasm",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "crossing-the-chasm",
+    "name": "crossing-the-chasm",
+    "installs": 2914,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Crossing The Chasm"
+  }
+}

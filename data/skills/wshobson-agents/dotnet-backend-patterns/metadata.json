@@ -1,0 +1,17 @@
+{
+  "skillId": "dotnet-backend-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "dotnet-backend-patterns",
+    "name": "dotnet-backend-patterns",
+    "installs": 15417,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Dotnet Backend Patterns"
+  }
+}

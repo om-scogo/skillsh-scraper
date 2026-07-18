@@ -1,0 +1,17 @@
+{
+  "skillId": "xiaohongshu",
+  "source": "zhjiang22/openclaw-xhs",
+  "owner": "zhjiang22",
+  "repo": "openclaw-xhs",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zhjiang22/openclaw-xhs",
+    "skillId": "xiaohongshu",
+    "name": "xiaohongshu",
+    "installs": 10978,
+    "owner": "zhjiang22",
+    "repo": "openclaw-xhs",
+    "githubUrl": "https://github.com/zhjiang22/openclaw-xhs",
+    "displayName": "Xiaohongshu"
+  }
+}

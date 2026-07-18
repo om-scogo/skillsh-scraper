@@ -1,0 +1,17 @@
+{
+  "skillId": "agentdb-learning-plugins",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agentdb-learning-plugins",
+    "name": "agentdb learning plugins",
+    "installs": 969,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agentdb Learning Plugins"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "convex-agents",
+  "source": "waynesutton/convexskills",
+  "owner": "waynesutton",
+  "repo": "convexskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "waynesutton/convexskills",
+    "skillId": "convex-agents",
+    "name": "convex-agents",
+    "installs": 1337,
+    "owner": "waynesutton",
+    "repo": "convexskills",
+    "githubUrl": "https://github.com/waynesutton/convexskills",
+    "displayName": "Convex Agents"
+  }
+}

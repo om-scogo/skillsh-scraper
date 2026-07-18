@@ -1,0 +1,17 @@
+{
+  "skillId": "code-review",
+  "source": "adobe/skills",
+  "owner": "adobe",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adobe/skills",
+    "skillId": "code-review",
+    "name": "code-review",
+    "installs": 936,
+    "owner": "adobe",
+    "repo": "skills",
+    "githubUrl": "https://github.com/adobe/skills",
+    "displayName": "Code Review"
+  }
+}

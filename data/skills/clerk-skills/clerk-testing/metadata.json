@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-testing",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-testing",
+    "name": "clerk-testing",
+    "installs": 21153,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk Testing"
+  }
+}

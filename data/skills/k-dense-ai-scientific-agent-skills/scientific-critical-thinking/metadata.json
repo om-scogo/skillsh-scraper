@@ -1,0 +1,17 @@
+{
+  "skillId": "scientific-critical-thinking",
+  "source": "k-dense-ai/scientific-agent-skills",
+  "owner": "k-dense-ai",
+  "repo": "scientific-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "k-dense-ai/scientific-agent-skills",
+    "skillId": "scientific-critical-thinking",
+    "name": "scientific-critical-thinking",
+    "installs": 998,
+    "owner": "k-dense-ai",
+    "repo": "scientific-agent-skills",
+    "githubUrl": "https://github.com/k-dense-ai/scientific-agent-skills",
+    "displayName": "Scientific Critical Thinking"
+  }
+}

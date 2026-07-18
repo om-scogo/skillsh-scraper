@@ -1,0 +1,17 @@
+{
+  "skillId": "wp-abilities-verify",
+  "source": "wordpress/agent-skills",
+  "owner": "wordpress",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wordpress/agent-skills",
+    "skillId": "wp-abilities-verify",
+    "name": "wp-abilities-verify",
+    "installs": 853,
+    "owner": "wordpress",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/wordpress/agent-skills",
+    "displayName": "Wp Abilities Verify"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "phoenix-evals",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "phoenix-evals",
+    "name": "phoenix-evals",
+    "installs": 952,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Phoenix Evals"
+  }
+}

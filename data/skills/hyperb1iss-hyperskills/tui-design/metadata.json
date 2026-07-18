@@ -1,0 +1,17 @@
+{
+  "skillId": "tui-design",
+  "source": "hyperb1iss/hyperskills",
+  "owner": "hyperb1iss",
+  "repo": "hyperskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hyperb1iss/hyperskills",
+    "skillId": "tui-design",
+    "name": "tui-design",
+    "installs": 927,
+    "owner": "hyperb1iss",
+    "repo": "hyperskills",
+    "githubUrl": "https://github.com/hyperb1iss/hyperskills",
+    "displayName": "Tui Design"
+  }
+}

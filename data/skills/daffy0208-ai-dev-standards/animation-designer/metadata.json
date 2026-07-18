@@ -1,0 +1,17 @@
+{
+  "skillId": "animation-designer",
+  "source": "daffy0208/ai-dev-standards",
+  "owner": "daffy0208",
+  "repo": "ai-dev-standards",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "daffy0208/ai-dev-standards",
+    "skillId": "animation-designer",
+    "name": "animation-designer",
+    "installs": 1601,
+    "owner": "daffy0208",
+    "repo": "ai-dev-standards",
+    "githubUrl": "https://github.com/daffy0208/ai-dev-standards",
+    "displayName": "Animation Designer"
+  }
+}

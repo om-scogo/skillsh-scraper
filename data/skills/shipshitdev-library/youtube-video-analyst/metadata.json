@@ -1,0 +1,17 @@
+{
+  "skillId": "youtube-video-analyst",
+  "source": "shipshitdev/library",
+  "owner": "shipshitdev",
+  "repo": "library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shipshitdev/library",
+    "skillId": "youtube-video-analyst",
+    "name": "youtube-video-analyst",
+    "installs": 1054,
+    "owner": "shipshitdev",
+    "repo": "library",
+    "githubUrl": "https://github.com/shipshitdev/library",
+    "displayName": "Youtube Video Analyst"
+  }
+}

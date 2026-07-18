@@ -1,0 +1,17 @@
+{
+  "skillId": "digits-fintech-swiss-template",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "digits-fintech-swiss-template",
+    "name": "digits-fintech-swiss-template",
+    "installs": 1621,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Digits Fintech Swiss Template"
+  }
+}

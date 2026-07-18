@@ -1,0 +1,17 @@
+{
+  "skillId": "technical-seo-checker",
+  "source": "aaron-he-zhu/seo-geo-claude-skills",
+  "owner": "aaron-he-zhu",
+  "repo": "seo-geo-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aaron-he-zhu/seo-geo-claude-skills",
+    "skillId": "technical-seo-checker",
+    "name": "technical-seo-checker",
+    "installs": 5613,
+    "owner": "aaron-he-zhu",
+    "repo": "seo-geo-claude-skills",
+    "githubUrl": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+    "displayName": "Technical Seo Checker"
+  }
+}

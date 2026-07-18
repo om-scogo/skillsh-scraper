@@ -1,0 +1,17 @@
+{
+  "skillId": "social-reddit-card",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "social-reddit-card",
+    "name": "social-reddit-card",
+    "installs": 1442,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Social Reddit Card"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "power-platform-mcp-connector-suite",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "power-platform-mcp-connector-suite",
+    "name": "power-platform-mcp-connector-suite",
+    "installs": 8554,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Power Platform Mcp Connector Suite"
+  }
+}

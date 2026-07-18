@@ -1,0 +1,17 @@
+{
+  "skillId": "api-contract-testing",
+  "source": "aj-geddes/useful-ai-prompts",
+  "owner": "aj-geddes",
+  "repo": "useful-ai-prompts",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aj-geddes/useful-ai-prompts",
+    "skillId": "api-contract-testing",
+    "name": "api-contract-testing",
+    "installs": 782,
+    "owner": "aj-geddes",
+    "repo": "useful-ai-prompts",
+    "githubUrl": "https://github.com/aj-geddes/useful-ai-prompts",
+    "displayName": "Api Contract Testing"
+  }
+}

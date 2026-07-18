@@ -1,0 +1,17 @@
+{
+  "skillId": "web-design-guidelines",
+  "source": "ehmo/platform-design-skills",
+  "owner": "ehmo",
+  "repo": "platform-design-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ehmo/platform-design-skills",
+    "skillId": "web-design-guidelines",
+    "name": "web-design-guidelines",
+    "installs": 991,
+    "owner": "ehmo",
+    "repo": "platform-design-skills",
+    "githubUrl": "https://github.com/ehmo/platform-design-skills",
+    "displayName": "Web Design Guidelines"
+  }
+}

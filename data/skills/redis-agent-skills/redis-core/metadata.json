@@ -1,0 +1,17 @@
+{
+  "skillId": "redis-core",
+  "source": "redis/agent-skills",
+  "owner": "redis",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "redis/agent-skills",
+    "skillId": "redis-core",
+    "name": "redis-core",
+    "installs": 1203,
+    "owner": "redis",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/redis/agent-skills",
+    "displayName": "Redis Core"
+  }
+}

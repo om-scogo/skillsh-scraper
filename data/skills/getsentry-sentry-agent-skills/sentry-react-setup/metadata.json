@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-react-setup",
+  "source": "getsentry/sentry-agent-skills",
+  "owner": "getsentry",
+  "repo": "sentry-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-agent-skills",
+    "skillId": "sentry-react-setup",
+    "name": "sentry-react-setup",
+    "installs": 1048,
+    "owner": "getsentry",
+    "repo": "sentry-agent-skills",
+    "githubUrl": "https://github.com/getsentry/sentry-agent-skills",
+    "displayName": "Sentry React Setup"
+  }
+}

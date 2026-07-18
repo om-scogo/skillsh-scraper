@@ -1,0 +1,17 @@
+{
+  "skillId": "muapi-product-video-ad-maker",
+  "source": "samuraigpt/generative-media-skills",
+  "owner": "samuraigpt",
+  "repo": "generative-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samuraigpt/generative-media-skills",
+    "skillId": "muapi-product-video-ad-maker",
+    "name": "muapi-product-video-ad-maker",
+    "installs": 1127,
+    "owner": "samuraigpt",
+    "repo": "generative-media-skills",
+    "githubUrl": "https://github.com/samuraigpt/generative-media-skills",
+    "displayName": "Muapi Product Video Ad Maker"
+  }
+}

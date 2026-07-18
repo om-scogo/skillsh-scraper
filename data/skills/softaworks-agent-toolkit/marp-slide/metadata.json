@@ -1,0 +1,17 @@
+{
+  "skillId": "marp-slide",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "marp-slide",
+    "name": "marp-slide",
+    "installs": 3865,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Marp Slide"
+  }
+}

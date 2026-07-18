@@ -1,0 +1,17 @@
+{
+  "skillId": "video-transcript-downloader",
+  "source": "steipete/agent-scripts",
+  "owner": "steipete",
+  "repo": "agent-scripts",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/agent-scripts",
+    "skillId": "video-transcript-downloader",
+    "name": "video-transcript-downloader",
+    "installs": 805,
+    "owner": "steipete",
+    "repo": "agent-scripts",
+    "githubUrl": "https://github.com/steipete/agent-scripts",
+    "displayName": "Video Transcript Downloader"
+  }
+}

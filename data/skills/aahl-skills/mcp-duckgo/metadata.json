@@ -1,0 +1,17 @@
+{
+  "skillId": "mcp-duckgo",
+  "source": "aahl/skills",
+  "owner": "aahl",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aahl/skills",
+    "skillId": "mcp-duckgo",
+    "name": "mcp-duckgo",
+    "installs": 2144,
+    "owner": "aahl",
+    "repo": "skills",
+    "githubUrl": "https://github.com/aahl/skills",
+    "displayName": "Mcp Duckgo"
+  }
+}

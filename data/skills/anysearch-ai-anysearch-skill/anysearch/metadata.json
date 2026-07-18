@@ -1,0 +1,17 @@
+{
+  "skillId": "anysearch",
+  "source": "anysearch-ai/anysearch-skill",
+  "owner": "anysearch-ai",
+  "repo": "anysearch-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anysearch-ai/anysearch-skill",
+    "skillId": "anysearch",
+    "name": "anysearch",
+    "installs": 33243,
+    "owner": "anysearch-ai",
+    "repo": "anysearch-skill",
+    "githubUrl": "https://github.com/anysearch-ai/anysearch-skill",
+    "displayName": "Anysearch"
+  }
+}

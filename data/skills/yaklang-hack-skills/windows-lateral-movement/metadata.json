@@ -1,0 +1,17 @@
+{
+  "skillId": "windows-lateral-movement",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "windows-lateral-movement",
+    "name": "windows-lateral-movement",
+    "installs": 1887,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Windows Lateral Movement"
+  }
+}

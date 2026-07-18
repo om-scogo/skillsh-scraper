@@ -1,0 +1,17 @@
+{
+  "skillId": "compose-modifier-and-layout-style",
+  "source": "chrisbanes/skills",
+  "owner": "chrisbanes",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chrisbanes/skills",
+    "skillId": "compose-modifier-and-layout-style",
+    "name": "compose-modifier-and-layout-style",
+    "installs": 833,
+    "owner": "chrisbanes",
+    "repo": "skills",
+    "githubUrl": "https://github.com/chrisbanes/skills",
+    "displayName": "Compose Modifier And Layout Style"
+  }
+}

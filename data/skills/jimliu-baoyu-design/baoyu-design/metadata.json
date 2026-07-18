@@ -1,0 +1,17 @@
+{
+  "skillId": "baoyu-design",
+  "source": "jimliu/baoyu-design",
+  "owner": "jimliu",
+  "repo": "baoyu-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jimliu/baoyu-design",
+    "skillId": "baoyu-design",
+    "name": "baoyu-design",
+    "installs": 3020,
+    "owner": "jimliu",
+    "repo": "baoyu-design",
+    "githubUrl": "https://github.com/jimliu/baoyu-design",
+    "displayName": "Baoyu Design"
+  }
+}

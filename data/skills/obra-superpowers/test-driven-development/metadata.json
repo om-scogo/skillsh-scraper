@@ -1,0 +1,17 @@
+{
+  "skillId": "test-driven-development",
+  "source": "obra/superpowers",
+  "owner": "obra",
+  "repo": "superpowers",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/superpowers",
+    "skillId": "test-driven-development",
+    "name": "test-driven-development",
+    "installs": 168085,
+    "owner": "obra",
+    "repo": "superpowers",
+    "githubUrl": "https://github.com/obra/superpowers",
+    "displayName": "Test Driven Development"
+  }
+}

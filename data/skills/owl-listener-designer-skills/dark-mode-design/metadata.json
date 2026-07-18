@@ -1,0 +1,17 @@
+{
+  "skillId": "dark-mode-design",
+  "source": "owl-listener/designer-skills",
+  "owner": "owl-listener",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "owl-listener/designer-skills",
+    "skillId": "dark-mode-design",
+    "name": "dark-mode-design",
+    "installs": 981,
+    "owner": "owl-listener",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/owl-listener/designer-skills",
+    "displayName": "Dark Mode Design"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "shadcn-ui",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "shadcn-ui",
+    "name": "shadcn-ui",
+    "installs": 1664,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Shadcn Ui"
+  }
+}

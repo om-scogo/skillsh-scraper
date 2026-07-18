@@ -1,0 +1,17 @@
+{
+  "skillId": "cover-letter-generator",
+  "source": "paramchoudhary/resumeskills",
+  "owner": "paramchoudhary",
+  "repo": "resumeskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paramchoudhary/resumeskills",
+    "skillId": "cover-letter-generator",
+    "name": "cover letter generator",
+    "installs": 1886,
+    "owner": "paramchoudhary",
+    "repo": "resumeskills",
+    "githubUrl": "https://github.com/paramchoudhary/resumeskills",
+    "displayName": "Cover Letter Generator"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "running-effective-1-1s",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "running-effective-1-1s",
+    "name": "running-effective-1-1s",
+    "installs": 1541,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Running Effective 1 1s"
+  }
+}

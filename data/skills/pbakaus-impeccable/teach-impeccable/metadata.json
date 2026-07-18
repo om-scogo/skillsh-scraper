@@ -1,0 +1,17 @@
+{
+  "skillId": "teach-impeccable",
+  "source": "pbakaus/impeccable",
+  "owner": "pbakaus",
+  "repo": "impeccable",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pbakaus/impeccable",
+    "skillId": "teach-impeccable",
+    "name": "teach-impeccable",
+    "installs": 50976,
+    "owner": "pbakaus",
+    "repo": "impeccable",
+    "githubUrl": "https://github.com/pbakaus/impeccable",
+    "displayName": "Teach Impeccable"
+  }
+}

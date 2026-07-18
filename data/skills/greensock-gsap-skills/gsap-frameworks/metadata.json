@@ -1,0 +1,17 @@
+{
+  "skillId": "gsap-frameworks",
+  "source": "greensock/gsap-skills",
+  "owner": "greensock",
+  "repo": "gsap-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "greensock/gsap-skills",
+    "skillId": "gsap-frameworks",
+    "name": "gsap-frameworks",
+    "installs": 29744,
+    "owner": "greensock",
+    "repo": "gsap-skills",
+    "githubUrl": "https://github.com/greensock/gsap-skills",
+    "displayName": "Gsap Frameworks"
+  }
+}

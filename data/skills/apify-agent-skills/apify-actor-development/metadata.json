@@ -1,0 +1,17 @@
+{
+  "skillId": "apify-actor-development",
+  "source": "apify/agent-skills",
+  "owner": "apify",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apify/agent-skills",
+    "skillId": "apify-actor-development",
+    "name": "apify-actor-development",
+    "installs": 8998,
+    "owner": "apify",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/apify/agent-skills",
+    "displayName": "Apify Actor Development"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "html-diagram",
+  "source": "plannotator/effective-html",
+  "owner": "plannotator",
+  "repo": "effective-html",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "plannotator/effective-html",
+    "skillId": "html-diagram",
+    "name": "html-diagram",
+    "installs": 1635,
+    "owner": "plannotator",
+    "repo": "effective-html",
+    "githubUrl": "https://github.com/plannotator/effective-html",
+    "displayName": "Html Diagram"
+  }
+}

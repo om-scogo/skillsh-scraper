@@ -1,0 +1,17 @@
+{
+  "skillId": "hybrid-cloud-networking",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "hybrid-cloud-networking",
+    "name": "hybrid-cloud-networking",
+    "installs": 8041,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Hybrid Cloud Networking"
+  }
+}

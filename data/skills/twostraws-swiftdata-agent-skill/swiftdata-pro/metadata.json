@@ -1,0 +1,17 @@
+{
+  "skillId": "swiftdata-pro",
+  "source": "twostraws/swiftdata-agent-skill",
+  "owner": "twostraws",
+  "repo": "swiftdata-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "twostraws/swiftdata-agent-skill",
+    "skillId": "swiftdata-pro",
+    "name": "swiftdata-pro",
+    "installs": 6156,
+    "owner": "twostraws",
+    "repo": "swiftdata-agent-skill",
+    "githubUrl": "https://github.com/twostraws/swiftdata-agent-skill",
+    "displayName": "Swiftdata Pro"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "e2e-testing",
+  "source": "hieutrtr/ai1-skills",
+  "owner": "hieutrtr",
+  "repo": "ai1-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hieutrtr/ai1-skills",
+    "skillId": "e2e-testing",
+    "name": "e2e-testing",
+    "installs": 1620,
+    "owner": "hieutrtr",
+    "repo": "ai1-skills",
+    "githubUrl": "https://github.com/hieutrtr/ai1-skills",
+    "displayName": "E2e Testing"
+  }
+}

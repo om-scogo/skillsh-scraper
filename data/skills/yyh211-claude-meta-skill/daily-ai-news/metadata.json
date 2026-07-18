@@ -1,0 +1,17 @@
+{
+  "skillId": "daily-ai-news",
+  "source": "yyh211/claude-meta-skill",
+  "owner": "yyh211",
+  "repo": "claude-meta-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yyh211/claude-meta-skill",
+    "skillId": "daily-ai-news",
+    "name": "daily-ai-news",
+    "installs": 2527,
+    "owner": "yyh211",
+    "repo": "claude-meta-skill",
+    "githubUrl": "https://github.com/yyh211/claude-meta-skill",
+    "displayName": "Daily Ai News"
+  }
+}

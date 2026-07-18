@@ -1,0 +1,17 @@
+{
+  "skillId": "etf-premium",
+  "source": "himself65/finance-skills",
+  "owner": "himself65",
+  "repo": "finance-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "himself65/finance-skills",
+    "skillId": "etf-premium",
+    "name": "etf-premium",
+    "installs": 1015,
+    "owner": "himself65",
+    "repo": "finance-skills",
+    "githubUrl": "https://github.com/himself65/finance-skills",
+    "displayName": "Etf Premium"
+  }
+}

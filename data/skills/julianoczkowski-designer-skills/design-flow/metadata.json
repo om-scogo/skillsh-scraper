@@ -1,0 +1,17 @@
+{
+  "skillId": "design-flow",
+  "source": "julianoczkowski/designer-skills",
+  "owner": "julianoczkowski",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "julianoczkowski/designer-skills",
+    "skillId": "design-flow",
+    "name": "design-flow",
+    "installs": 3596,
+    "owner": "julianoczkowski",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/julianoczkowski/designer-skills",
+    "displayName": "Design Flow"
+  }
+}

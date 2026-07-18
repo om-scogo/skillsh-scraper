@@ -1,0 +1,17 @@
+{
+  "skillId": "multi-tenant-architecture",
+  "source": "mblode/agent-skills",
+  "owner": "mblode",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mblode/agent-skills",
+    "skillId": "multi-tenant-architecture",
+    "name": "multi-tenant-architecture",
+    "installs": 948,
+    "owner": "mblode",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/mblode/agent-skills",
+    "displayName": "Multi Tenant Architecture"
+  }
+}

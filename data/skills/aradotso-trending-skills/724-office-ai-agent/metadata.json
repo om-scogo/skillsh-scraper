@@ -1,0 +1,17 @@
+{
+  "skillId": "724-office-ai-agent",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "724-office-ai-agent",
+    "name": "724-office-ai-agent",
+    "installs": 1027,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "724 Office Ai Agent"
+  }
+}

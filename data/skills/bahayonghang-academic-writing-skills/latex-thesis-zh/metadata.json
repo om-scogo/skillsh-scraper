@@ -1,0 +1,17 @@
+{
+  "skillId": "latex-thesis-zh",
+  "source": "bahayonghang/academic-writing-skills",
+  "owner": "bahayonghang",
+  "repo": "academic-writing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bahayonghang/academic-writing-skills",
+    "skillId": "latex-thesis-zh",
+    "name": "latex-thesis-zh",
+    "installs": 3177,
+    "owner": "bahayonghang",
+    "repo": "academic-writing-skills",
+    "githubUrl": "https://github.com/bahayonghang/academic-writing-skills",
+    "displayName": "Latex Thesis Zh"
+  }
+}

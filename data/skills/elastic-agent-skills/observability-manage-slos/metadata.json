@@ -1,0 +1,17 @@
+{
+  "skillId": "observability-manage-slos",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "observability-manage-slos",
+    "name": "observability-manage-slos",
+    "installs": 1760,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Observability Manage Slos"
+  }
+}

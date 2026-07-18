@@ -1,0 +1,17 @@
+{
+  "skillId": "create-mcp-app",
+  "source": "modelcontextprotocol/ext-apps",
+  "owner": "modelcontextprotocol",
+  "repo": "ext-apps",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "modelcontextprotocol/ext-apps",
+    "skillId": "create-mcp-app",
+    "name": "create-mcp-app",
+    "installs": 1778,
+    "owner": "modelcontextprotocol",
+    "repo": "ext-apps",
+    "githubUrl": "https://github.com/modelcontextprotocol/ext-apps",
+    "displayName": "Create Mcp App"
+  }
+}

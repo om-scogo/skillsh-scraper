@@ -1,0 +1,17 @@
+{
+  "skillId": "grafana-scenes",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "grafana-scenes",
+    "name": "grafana-scenes",
+    "installs": 1507,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Grafana Scenes"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "search",
+  "source": "brightdata/skills",
+  "owner": "brightdata",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "brightdata/skills",
+    "skillId": "search",
+    "name": "search",
+    "installs": 7279,
+    "owner": "brightdata",
+    "repo": "skills",
+    "githubUrl": "https://github.com/brightdata/skills",
+    "displayName": "Search"
+  }
+}

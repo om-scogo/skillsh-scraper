@@ -1,0 +1,17 @@
+{
+  "skillId": "qdrant-model-migration",
+  "source": "qdrant/skills",
+  "owner": "qdrant",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qdrant/skills",
+    "skillId": "qdrant-model-migration",
+    "name": "qdrant-model-migration",
+    "installs": 1131,
+    "owner": "qdrant",
+    "repo": "skills",
+    "githubUrl": "https://github.com/qdrant/skills",
+    "displayName": "Qdrant Model Migration"
+  }
+}

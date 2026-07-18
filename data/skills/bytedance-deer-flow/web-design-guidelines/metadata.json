@@ -1,0 +1,17 @@
+{
+  "skillId": "web-design-guidelines",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "web-design-guidelines",
+    "name": "web-design-guidelines",
+    "installs": 1711,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Web Design Guidelines"
+  }
+}

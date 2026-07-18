@@ -1,0 +1,17 @@
+{
+  "skillId": "watch",
+  "source": "bradautomates/claude-video",
+  "owner": "bradautomates",
+  "repo": "claude-video",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bradautomates/claude-video",
+    "skillId": "watch",
+    "name": "watch",
+    "installs": 4372,
+    "owner": "bradautomates",
+    "repo": "claude-video",
+    "githubUrl": "https://github.com/bradautomates/claude-video",
+    "displayName": "Watch"
+  }
+}

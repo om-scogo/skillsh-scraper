@@ -1,0 +1,17 @@
+{
+  "skillId": "aws-diagrams",
+  "source": "eraserlabs/eraser-io",
+  "owner": "eraserlabs",
+  "repo": "eraser-io",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eraserlabs/eraser-io",
+    "skillId": "aws-diagrams",
+    "name": "aws-diagrams",
+    "installs": 976,
+    "owner": "eraserlabs",
+    "repo": "eraser-io",
+    "githubUrl": "https://github.com/eraserlabs/eraser-io",
+    "displayName": "Aws Diagrams"
+  }
+}

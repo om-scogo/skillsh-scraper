@@ -1,0 +1,17 @@
+{
+  "skillId": "proactive-agent",
+  "source": "halthelobster/proactive-agent",
+  "owner": "halthelobster",
+  "repo": "proactive-agent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "halthelobster/proactive-agent",
+    "skillId": "proactive-agent",
+    "name": "proactive-agent",
+    "installs": 14784,
+    "owner": "halthelobster",
+    "repo": "proactive-agent",
+    "githubUrl": "https://github.com/halthelobster/proactive-agent",
+    "displayName": "Proactive Agent"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "test",
+  "source": "facebook/react",
+  "owner": "facebook",
+  "repo": "react",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "facebook/react",
+    "skillId": "test",
+    "name": "test",
+    "installs": 1067,
+    "owner": "facebook",
+    "repo": "react",
+    "githubUrl": "https://github.com/facebook/react",
+    "displayName": "Test"
+  }
+}

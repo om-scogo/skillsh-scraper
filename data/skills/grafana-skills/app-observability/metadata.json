@@ -1,0 +1,17 @@
+{
+  "skillId": "app-observability",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "app-observability",
+    "name": "app-observability",
+    "installs": 1559,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "App Observability"
+  }
+}

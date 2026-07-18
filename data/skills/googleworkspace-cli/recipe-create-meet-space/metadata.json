@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-create-meet-space",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-create-meet-space",
+    "name": "recipe-create-meet-space",
+    "installs": 22028,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Create Meet Space"
+  }
+}

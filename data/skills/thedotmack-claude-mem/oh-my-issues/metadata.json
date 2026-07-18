@@ -1,0 +1,17 @@
+{
+  "skillId": "oh-my-issues",
+  "source": "thedotmack/claude-mem",
+  "owner": "thedotmack",
+  "repo": "claude-mem",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thedotmack/claude-mem",
+    "skillId": "oh-my-issues",
+    "name": "oh-my-issues",
+    "installs": 2058,
+    "owner": "thedotmack",
+    "repo": "claude-mem",
+    "githubUrl": "https://github.com/thedotmack/claude-mem",
+    "displayName": "Oh My Issues"
+  }
+}

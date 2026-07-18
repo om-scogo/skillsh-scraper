@@ -1,0 +1,17 @@
+{
+  "skillId": "oklch-skill",
+  "source": "jakubkrehel/oklch-skill",
+  "owner": "jakubkrehel",
+  "repo": "oklch-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jakubkrehel/oklch-skill",
+    "skillId": "oklch-skill",
+    "name": "oklch-skill",
+    "installs": 2160,
+    "owner": "jakubkrehel",
+    "repo": "oklch-skill",
+    "githubUrl": "https://github.com/jakubkrehel/oklch-skill",
+    "displayName": "Oklch Skill"
+  }
+}

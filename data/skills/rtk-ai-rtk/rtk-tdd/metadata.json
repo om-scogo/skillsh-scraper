@@ -1,0 +1,17 @@
+{
+  "skillId": "rtk-tdd",
+  "source": "rtk-ai/rtk",
+  "owner": "rtk-ai",
+  "repo": "rtk",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rtk-ai/rtk",
+    "skillId": "rtk-tdd",
+    "name": "rtk-tdd",
+    "installs": 1064,
+    "owner": "rtk-ai",
+    "repo": "rtk",
+    "githubUrl": "https://github.com/rtk-ai/rtk",
+    "displayName": "Rtk Tdd"
+  }
+}

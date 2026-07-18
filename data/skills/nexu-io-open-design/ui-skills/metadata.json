@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-skills",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "ui-skills",
+    "name": "ui-skills",
+    "installs": 1683,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Ui Skills"
+  }
+}

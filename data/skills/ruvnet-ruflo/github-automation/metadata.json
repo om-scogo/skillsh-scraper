@@ -1,0 +1,17 @@
+{
+  "skillId": "github-automation",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "github-automation",
+    "name": "github-automation",
+    "installs": 1024,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Github Automation"
+  }
+}

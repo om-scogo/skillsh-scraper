@@ -1,0 +1,17 @@
+{
+  "skillId": "graphify",
+  "source": "howell5/willhong-skills",
+  "owner": "howell5",
+  "repo": "willhong-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "howell5/willhong-skills",
+    "skillId": "graphify",
+    "name": "graphify",
+    "installs": 1764,
+    "owner": "howell5",
+    "repo": "willhong-skills",
+    "githubUrl": "https://github.com/howell5/willhong-skills",
+    "displayName": "Graphify"
+  }
+}

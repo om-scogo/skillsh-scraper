@@ -1,0 +1,17 @@
+{
+  "skillId": "create-evlog-adapter",
+  "source": "hugorcd/evlog",
+  "owner": "hugorcd",
+  "repo": "evlog",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hugorcd/evlog",
+    "skillId": "create-evlog-adapter",
+    "name": "create-evlog-adapter",
+    "installs": 777,
+    "owner": "hugorcd",
+    "repo": "evlog",
+    "githubUrl": "https://github.com/hugorcd/evlog",
+    "displayName": "Create Evlog Adapter"
+  }
+}

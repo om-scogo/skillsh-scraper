@@ -1,0 +1,17 @@
+{
+  "skillId": "type-juggling",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "type-juggling",
+    "name": "type-juggling",
+    "installs": 1915,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Type Juggling"
+  }
+}

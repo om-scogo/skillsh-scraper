@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-organize-drive-folder",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-organize-drive-folder",
+    "name": "recipe-organize-drive-folder",
+    "installs": 22935,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Organize Drive Folder"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "azure-architecture-autopilot",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "azure-architecture-autopilot",
+    "name": "azure-architecture-autopilot",
+    "installs": 1308,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Azure Architecture Autopilot"
+  }
+}

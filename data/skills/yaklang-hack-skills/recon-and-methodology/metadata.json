@@ -1,0 +1,17 @@
+{
+  "skillId": "recon-and-methodology",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "recon-and-methodology",
+    "name": "recon-and-methodology",
+    "installs": 2048,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Recon And Methodology"
+  }
+}

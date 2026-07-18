@@ -1,0 +1,17 @@
+{
+  "skillId": "tinybird",
+  "source": "tinybirdco/tinybird-agent-skills",
+  "owner": "tinybirdco",
+  "repo": "tinybird-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tinybirdco/tinybird-agent-skills",
+    "skillId": "tinybird",
+    "name": "tinybird",
+    "installs": 1222,
+    "owner": "tinybirdco",
+    "repo": "tinybird-agent-skills",
+    "githubUrl": "https://github.com/tinybirdco/tinybird-agent-skills",
+    "displayName": "Tinybird"
+  }
+}

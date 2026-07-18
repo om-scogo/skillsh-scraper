@@ -1,0 +1,17 @@
+{
+  "skillId": "storybook",
+  "source": "dalestudy/skills",
+  "owner": "dalestudy",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dalestudy/skills",
+    "skillId": "storybook",
+    "name": "storybook",
+    "installs": 820,
+    "owner": "dalestudy",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dalestudy/skills",
+    "displayName": "Storybook"
+  }
+}

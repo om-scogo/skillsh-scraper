@@ -1,0 +1,17 @@
+{
+  "skillId": "chrome-extensions",
+  "source": "googlechrome/modern-web-guidance",
+  "owner": "googlechrome",
+  "repo": "modern-web-guidance",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googlechrome/modern-web-guidance",
+    "skillId": "chrome-extensions",
+    "name": "chrome-extensions",
+    "installs": 2029,
+    "owner": "googlechrome",
+    "repo": "modern-web-guidance",
+    "githubUrl": "https://github.com/googlechrome/modern-web-guidance",
+    "displayName": "Chrome Extensions"
+  }
+}

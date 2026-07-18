@@ -1,0 +1,17 @@
+{
+  "skillId": "opencli-web-automation",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "opencli-web-automation",
+    "name": "opencli-web-automation",
+    "installs": 1368,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Opencli Web Automation"
+  }
+}

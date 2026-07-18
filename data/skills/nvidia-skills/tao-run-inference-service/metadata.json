@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-run-inference-service",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-run-inference-service",
+    "name": "tao-run-inference-service",
+    "installs": 1287,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Run Inference Service"
+  }
+}

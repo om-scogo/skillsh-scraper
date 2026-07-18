@@ -1,0 +1,17 @@
+{
+  "skillId": "deepstream-import-vision-model",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "deepstream-import-vision-model",
+    "name": "deepstream-import-vision-model",
+    "installs": 1742,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Deepstream Import Vision Model"
+  }
+}

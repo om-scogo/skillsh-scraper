@@ -1,0 +1,17 @@
+{
+  "skillId": "vocabulary",
+  "source": "index-how/vocabulary",
+  "owner": "index-how",
+  "repo": "vocabulary",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "index-how/vocabulary",
+    "skillId": "vocabulary",
+    "name": "vocabulary",
+    "installs": 739,
+    "owner": "index-how",
+    "repo": "vocabulary",
+    "githubUrl": "https://github.com/index-how/vocabulary",
+    "displayName": "Vocabulary"
+  }
+}

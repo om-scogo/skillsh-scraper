@@ -1,0 +1,17 @@
+{
+  "skillId": "academic-researcher",
+  "source": "shubhamsaboo/awesome-llm-apps",
+  "owner": "shubhamsaboo",
+  "repo": "awesome-llm-apps",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shubhamsaboo/awesome-llm-apps",
+    "skillId": "academic-researcher",
+    "name": "academic-researcher",
+    "installs": 6775,
+    "owner": "shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "githubUrl": "https://github.com/shubhamsaboo/awesome-llm-apps",
+    "displayName": "Academic Researcher"
+  }
+}

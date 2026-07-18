@@ -1,0 +1,17 @@
+{
+  "skillId": "image-inpainting",
+  "source": "agentspace-so/runcomfy-agent-skills",
+  "owner": "agentspace-so",
+  "repo": "runcomfy-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agentspace-so/runcomfy-agent-skills",
+    "skillId": "image-inpainting",
+    "name": "image-inpainting",
+    "installs": 12,
+    "owner": "agentspace-so",
+    "repo": "runcomfy-agent-skills",
+    "githubUrl": "https://github.com/agentspace-so/runcomfy-agent-skills",
+    "displayName": "Image Inpainting"
+  }
+}

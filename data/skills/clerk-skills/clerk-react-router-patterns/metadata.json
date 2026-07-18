@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-react-router-patterns",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-react-router-patterns",
+    "name": "clerk-react-router-patterns",
+    "installs": 7649,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk React Router Patterns"
+  }
+}

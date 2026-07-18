@@ -1,0 +1,17 @@
+{
+  "skillId": "ncbi-sequence-fetch",
+  "source": "google-deepmind/science-skills",
+  "owner": "google-deepmind",
+  "repo": "science-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-deepmind/science-skills",
+    "skillId": "ncbi-sequence-fetch",
+    "name": "ncbi-sequence-fetch",
+    "installs": 1008,
+    "owner": "google-deepmind",
+    "repo": "science-skills",
+    "githubUrl": "https://github.com/google-deepmind/science-skills",
+    "displayName": "Ncbi Sequence Fetch"
+  }
+}

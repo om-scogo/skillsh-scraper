@@ -1,0 +1,17 @@
+{
+  "skillId": "create-pr",
+  "source": "n8n-io/n8n",
+  "owner": "n8n-io",
+  "repo": "n8n",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "n8n-io/n8n",
+    "skillId": "create-pr",
+    "name": "create-pr",
+    "installs": 863,
+    "owner": "n8n-io",
+    "repo": "n8n",
+    "githubUrl": "https://github.com/n8n-io/n8n",
+    "displayName": "Create Pr"
+  }
+}

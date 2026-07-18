@@ -1,0 +1,17 @@
+{
+  "skillId": "agentdb-memory-patterns",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agentdb-memory-patterns",
+    "name": "agentdb memory patterns",
+    "installs": 971,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agentdb Memory Patterns"
+  }
+}

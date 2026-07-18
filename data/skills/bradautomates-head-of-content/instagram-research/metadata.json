@@ -1,0 +1,17 @@
+{
+  "skillId": "instagram-research",
+  "source": "bradautomates/head-of-content",
+  "owner": "bradautomates",
+  "repo": "head-of-content",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bradautomates/head-of-content",
+    "skillId": "instagram-research",
+    "name": "instagram-research",
+    "installs": 1071,
+    "owner": "bradautomates",
+    "repo": "head-of-content",
+    "githubUrl": "https://github.com/bradautomates/head-of-content",
+    "displayName": "Instagram Research"
+  }
+}

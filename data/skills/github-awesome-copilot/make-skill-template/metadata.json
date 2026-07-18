@@ -1,0 +1,17 @@
+{
+  "skillId": "make-skill-template",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "make-skill-template",
+    "name": "make-skill-template",
+    "installs": 8966,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Make Skill Template"
+  }
+}

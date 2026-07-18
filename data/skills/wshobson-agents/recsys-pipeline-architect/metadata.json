@@ -1,0 +1,17 @@
+{
+  "skillId": "recsys-pipeline-architect",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "recsys-pipeline-architect",
+    "name": "recsys-pipeline-architect",
+    "installs": 1711,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Recsys Pipeline Architect"
+  }
+}

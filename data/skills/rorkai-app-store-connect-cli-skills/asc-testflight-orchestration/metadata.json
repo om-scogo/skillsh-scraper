@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-testflight-orchestration",
+  "source": "rorkai/app-store-connect-cli-skills",
+  "owner": "rorkai",
+  "repo": "app-store-connect-cli-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rorkai/app-store-connect-cli-skills",
+    "skillId": "asc-testflight-orchestration",
+    "name": "asc-testflight-orchestration",
+    "installs": 1689,
+    "owner": "rorkai",
+    "repo": "app-store-connect-cli-skills",
+    "githubUrl": "https://github.com/rorkai/app-store-connect-cli-skills",
+    "displayName": "Asc Testflight Orchestration"
+  }
+}

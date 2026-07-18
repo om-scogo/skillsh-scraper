@@ -1,0 +1,17 @@
+{
+  "skillId": "api-and-interface-design",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "api-and-interface-design",
+    "name": "api-and-interface-design",
+    "installs": 11723,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Api And Interface Design"
+  }
+}

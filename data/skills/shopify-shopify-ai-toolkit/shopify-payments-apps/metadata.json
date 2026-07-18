@@ -1,0 +1,17 @@
+{
+  "skillId": "shopify-payments-apps",
+  "source": "shopify/shopify-ai-toolkit",
+  "owner": "shopify",
+  "repo": "shopify-ai-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shopify/shopify-ai-toolkit",
+    "skillId": "shopify-payments-apps",
+    "name": "shopify-payments-apps",
+    "installs": 6156,
+    "owner": "shopify",
+    "repo": "shopify-ai-toolkit",
+    "githubUrl": "https://github.com/shopify/shopify-ai-toolkit",
+    "displayName": "Shopify Payments Apps"
+  }
+}

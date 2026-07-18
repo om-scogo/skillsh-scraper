@@ -1,0 +1,17 @@
+{
+  "skillId": "fusion-code-conventions",
+  "source": "equinor/fusion-skills",
+  "owner": "equinor",
+  "repo": "fusion-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "equinor/fusion-skills",
+    "skillId": "fusion-code-conventions",
+    "name": "fusion-code-conventions",
+    "installs": 1342,
+    "owner": "equinor",
+    "repo": "fusion-skills",
+    "githubUrl": "https://github.com/equinor/fusion-skills",
+    "displayName": "Fusion Code Conventions"
+  }
+}

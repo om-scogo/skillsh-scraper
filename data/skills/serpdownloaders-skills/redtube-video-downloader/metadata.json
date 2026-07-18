@@ -1,0 +1,17 @@
+{
+  "skillId": "redtube-video-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "redtube-video-downloader",
+    "name": "redtube-video-downloader",
+    "installs": 955,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Redtube Video Downloader"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "bongacams-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "bongacams-downloader",
+    "name": "bongacams-downloader",
+    "installs": 955,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Bongacams Downloader"
+  }
+}

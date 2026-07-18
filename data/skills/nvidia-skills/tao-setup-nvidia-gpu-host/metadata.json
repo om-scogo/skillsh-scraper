@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-setup-nvidia-gpu-host",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-setup-nvidia-gpu-host",
+    "name": "tao-setup-nvidia-gpu-host",
+    "installs": 1305,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Setup Nvidia Gpu Host"
+  }
+}

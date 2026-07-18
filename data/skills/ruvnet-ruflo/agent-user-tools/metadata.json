@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-user-tools",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-user-tools",
+    "name": "agent-user-tools",
+    "installs": 983,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent User Tools"
+  }
+}

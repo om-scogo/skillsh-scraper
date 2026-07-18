@@ -1,0 +1,17 @@
+{
+  "skillId": "webup-statusline",
+  "source": "webup/skills-cc",
+  "owner": "webup",
+  "repo": "skills-cc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "webup/skills-cc",
+    "skillId": "webup-statusline",
+    "name": "webup-statusline",
+    "installs": 1174,
+    "owner": "webup",
+    "repo": "skills-cc",
+    "githubUrl": "https://github.com/webup/skills-cc",
+    "displayName": "Webup Statusline"
+  }
+}

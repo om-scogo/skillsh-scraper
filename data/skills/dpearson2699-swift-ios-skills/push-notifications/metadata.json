@@ -1,0 +1,17 @@
+{
+  "skillId": "push-notifications",
+  "source": "dpearson2699/swift-ios-skills",
+  "owner": "dpearson2699",
+  "repo": "swift-ios-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dpearson2699/swift-ios-skills",
+    "skillId": "push-notifications",
+    "name": "push-notifications",
+    "installs": 2688,
+    "owner": "dpearson2699",
+    "repo": "swift-ios-skills",
+    "githubUrl": "https://github.com/dpearson2699/swift-ios-skills",
+    "displayName": "Push Notifications"
+  }
+}

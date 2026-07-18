@@ -1,0 +1,17 @@
+{
+  "skillId": "spring-boot-project-creator",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "spring-boot-project-creator",
+    "name": "spring-boot-project-creator",
+    "installs": 1333,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Spring Boot Project Creator"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "using-superpowers",
+  "source": "obra/superpowers",
+  "owner": "obra",
+  "repo": "superpowers",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/superpowers",
+    "skillId": "using-superpowers",
+    "name": "using-superpowers",
+    "installs": 185604,
+    "owner": "obra",
+    "repo": "superpowers",
+    "githubUrl": "https://github.com/obra/superpowers",
+    "displayName": "Using Superpowers"
+  }
+}

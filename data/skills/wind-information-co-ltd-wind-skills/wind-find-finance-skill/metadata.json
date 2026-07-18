@@ -1,0 +1,17 @@
+{
+  "skillId": "wind-find-finance-skill",
+  "source": "wind-information-co-ltd/wind-skills",
+  "owner": "wind-information-co-ltd",
+  "repo": "wind-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wind-information-co-ltd/wind-skills",
+    "skillId": "wind-find-finance-skill",
+    "name": "wind-find-finance-skill",
+    "installs": 13884,
+    "owner": "wind-information-co-ltd",
+    "repo": "wind-skills",
+    "githubUrl": "https://github.com/wind-information-co-ltd/wind-skills",
+    "displayName": "Wind Find Finance Skill"
+  }
+}

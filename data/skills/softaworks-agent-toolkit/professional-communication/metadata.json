@@ -1,0 +1,17 @@
+{
+  "skillId": "professional-communication",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "professional-communication",
+    "name": "professional-communication",
+    "installs": 3816,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Professional Communication"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "tools",
+  "source": "assistant-ui/skills",
+  "owner": "assistant-ui",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "assistant-ui/skills",
+    "skillId": "tools",
+    "name": "tools",
+    "installs": 3403,
+    "owner": "assistant-ui",
+    "repo": "skills",
+    "githubUrl": "https://github.com/assistant-ui/skills",
+    "displayName": "Tools"
+  }
+}

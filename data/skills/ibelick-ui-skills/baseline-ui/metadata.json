@@ -1,0 +1,17 @@
+{
+  "skillId": "baseline-ui",
+  "source": "ibelick/ui-skills",
+  "owner": "ibelick",
+  "repo": "ui-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ibelick/ui-skills",
+    "skillId": "baseline-ui",
+    "name": "baseline-ui",
+    "installs": 15889,
+    "owner": "ibelick",
+    "repo": "ui-skills",
+    "githubUrl": "https://github.com/ibelick/ui-skills",
+    "displayName": "Baseline Ui"
+  }
+}

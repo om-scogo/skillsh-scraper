@@ -1,0 +1,17 @@
+{
+  "skillId": "webhook-integration",
+  "source": "dodopayments/skills",
+  "owner": "dodopayments",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dodopayments/skills",
+    "skillId": "webhook-integration",
+    "name": "webhook-integration",
+    "installs": 775,
+    "owner": "dodopayments",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dodopayments/skills",
+    "displayName": "Webhook Integration"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "upstash-workflow",
+  "source": "lobehub/lobehub",
+  "owner": "lobehub",
+  "repo": "lobehub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobehub",
+    "skillId": "upstash-workflow",
+    "name": "upstash-workflow",
+    "installs": 1376,
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "githubUrl": "https://github.com/lobehub/lobehub",
+    "displayName": "Upstash Workflow"
+  }
+}

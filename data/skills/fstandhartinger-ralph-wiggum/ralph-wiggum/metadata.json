@@ -1,0 +1,17 @@
+{
+  "skillId": "ralph-wiggum",
+  "source": "fstandhartinger/ralph-wiggum",
+  "owner": "fstandhartinger",
+  "repo": "ralph-wiggum",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "fstandhartinger/ralph-wiggum",
+    "skillId": "ralph-wiggum",
+    "name": "ralph-wiggum",
+    "installs": 1104,
+    "owner": "fstandhartinger",
+    "repo": "ralph-wiggum",
+    "githubUrl": "https://github.com/fstandhartinger/ralph-wiggum",
+    "displayName": "Ralph Wiggum"
+  }
+}

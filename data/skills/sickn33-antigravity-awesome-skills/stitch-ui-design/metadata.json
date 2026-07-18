@@ -1,0 +1,17 @@
+{
+  "skillId": "stitch-ui-design",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "stitch-ui-design",
+    "name": "stitch-ui-design",
+    "installs": 746,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Stitch Ui Design"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "thread-list",
+  "source": "assistant-ui/skills",
+  "owner": "assistant-ui",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "assistant-ui/skills",
+    "skillId": "thread-list",
+    "name": "thread-list",
+    "installs": 3323,
+    "owner": "assistant-ui",
+    "repo": "skills",
+    "githubUrl": "https://github.com/assistant-ui/skills",
+    "displayName": "Thread List"
+  }
+}

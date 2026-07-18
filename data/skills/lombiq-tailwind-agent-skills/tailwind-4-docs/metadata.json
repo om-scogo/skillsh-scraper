@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwind-4-docs",
+  "source": "lombiq/tailwind-agent-skills",
+  "owner": "lombiq",
+  "repo": "tailwind-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lombiq/tailwind-agent-skills",
+    "skillId": "tailwind-4-docs",
+    "name": "tailwind-4-docs",
+    "installs": 7433,
+    "owner": "lombiq",
+    "repo": "tailwind-agent-skills",
+    "githubUrl": "https://github.com/lombiq/tailwind-agent-skills",
+    "displayName": "Tailwind 4 Docs"
+  }
+}

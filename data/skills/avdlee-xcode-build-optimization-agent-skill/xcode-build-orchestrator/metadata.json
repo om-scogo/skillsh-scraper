@@ -1,0 +1,17 @@
+{
+  "skillId": "xcode-build-orchestrator",
+  "source": "avdlee/xcode-build-optimization-agent-skill",
+  "owner": "avdlee",
+  "repo": "xcode-build-optimization-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "avdlee/xcode-build-optimization-agent-skill",
+    "skillId": "xcode-build-orchestrator",
+    "name": "xcode-build-orchestrator",
+    "installs": 2897,
+    "owner": "avdlee",
+    "repo": "xcode-build-optimization-agent-skill",
+    "githubUrl": "https://github.com/avdlee/xcode-build-optimization-agent-skill",
+    "displayName": "Xcode Build Orchestrator"
+  }
+}

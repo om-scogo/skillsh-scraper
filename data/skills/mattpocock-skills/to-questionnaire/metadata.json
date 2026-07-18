@@ -1,0 +1,17 @@
+{
+  "skillId": "to-questionnaire",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "to-questionnaire",
+    "name": "to-questionnaire",
+    "installs": 6734,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "To Questionnaire"
+  }
+}

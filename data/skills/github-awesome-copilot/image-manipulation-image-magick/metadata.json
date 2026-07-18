@@ -1,0 +1,17 @@
+{
+  "skillId": "image-manipulation-image-magick",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "image-manipulation-image-magick",
+    "name": "image-manipulation-image-magick",
+    "installs": 9366,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Image Manipulation Image Magick"
+  }
+}

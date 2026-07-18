@@ -1,0 +1,17 @@
+{
+  "skillId": "alerting-irm",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "alerting-irm",
+    "name": "alerting-irm",
+    "installs": 1977,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Alerting Irm"
+  }
+}

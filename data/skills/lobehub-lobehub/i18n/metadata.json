@@ -1,0 +1,17 @@
+{
+  "skillId": "i18n",
+  "source": "lobehub/lobehub",
+  "owner": "lobehub",
+  "repo": "lobehub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobehub",
+    "skillId": "i18n",
+    "name": "i18n",
+    "installs": 1867,
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "githubUrl": "https://github.com/lobehub/lobehub",
+    "displayName": "I18n"
+  }
+}

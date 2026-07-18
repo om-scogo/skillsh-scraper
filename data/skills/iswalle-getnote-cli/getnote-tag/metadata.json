@@ -1,0 +1,17 @@
+{
+  "skillId": "getnote-tag",
+  "source": "iswalle/getnote-cli",
+  "owner": "iswalle",
+  "repo": "getnote-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "iswalle/getnote-cli",
+    "skillId": "getnote-tag",
+    "name": "getnote-tag",
+    "installs": 884,
+    "owner": "iswalle",
+    "repo": "getnote-cli",
+    "githubUrl": "https://github.com/iswalle/getnote-cli",
+    "displayName": "Getnote Tag"
+  }
+}

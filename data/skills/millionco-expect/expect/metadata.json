@@ -1,0 +1,17 @@
+{
+  "skillId": "expect",
+  "source": "millionco/expect",
+  "owner": "millionco",
+  "repo": "expect",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "millionco/expect",
+    "skillId": "expect",
+    "name": "expect",
+    "installs": 1820,
+    "owner": "millionco",
+    "repo": "expect",
+    "githubUrl": "https://github.com/millionco/expect",
+    "displayName": "Expect"
+  }
+}

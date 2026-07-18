@@ -1,0 +1,17 @@
+{
+  "skillId": "youtube-full",
+  "source": "zeropointrepo/youtube-skills",
+  "owner": "zeropointrepo",
+  "repo": "youtube-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zeropointrepo/youtube-skills",
+    "skillId": "youtube-full",
+    "name": "youtube-full",
+    "installs": 1032,
+    "owner": "zeropointrepo",
+    "repo": "youtube-skills",
+    "githubUrl": "https://github.com/zeropointrepo/youtube-skills",
+    "displayName": "Youtube Full"
+  }
+}

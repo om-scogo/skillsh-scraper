@@ -1,0 +1,17 @@
+{
+  "skillId": "gpt-image-2-style-library",
+  "source": "freestylefly/awesome-gpt-image-2",
+  "owner": "freestylefly",
+  "repo": "awesome-gpt-image-2",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freestylefly/awesome-gpt-image-2",
+    "skillId": "gpt-image-2-style-library",
+    "name": "gpt-image-2-style-library",
+    "installs": 889,
+    "owner": "freestylefly",
+    "repo": "awesome-gpt-image-2",
+    "githubUrl": "https://github.com/freestylefly/awesome-gpt-image-2",
+    "displayName": "Gpt Image 2 Style Library"
+  }
+}

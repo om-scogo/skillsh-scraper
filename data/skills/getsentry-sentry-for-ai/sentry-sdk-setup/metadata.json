@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-sdk-setup",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-sdk-setup",
+    "name": "sentry-sdk-setup",
+    "installs": 2731,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry Sdk Setup"
+  }
+}

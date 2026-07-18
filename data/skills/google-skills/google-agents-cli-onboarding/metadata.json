@@ -1,0 +1,17 @@
+{
+  "skillId": "google-agents-cli-onboarding",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "google-agents-cli-onboarding",
+    "name": "google-agents-cli-onboarding",
+    "installs": 822,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Google Agents Cli Onboarding"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "mws-shared",
+  "source": "api/git",
+  "owner": "api",
+  "repo": "git",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "api/git",
+    "skillId": "mws-shared",
+    "name": "mws-shared",
+    "installs": 1485,
+    "owner": "api",
+    "repo": "git",
+    "githubUrl": "https://github.com/api/git",
+    "displayName": "Mws Shared"
+  }
+}

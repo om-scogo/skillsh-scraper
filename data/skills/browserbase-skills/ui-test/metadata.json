@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-test",
+  "source": "browserbase/skills",
+  "owner": "browserbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "browserbase/skills",
+    "skillId": "ui-test",
+    "name": "ui-test",
+    "installs": 2413,
+    "owner": "browserbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/browserbase/skills",
+    "displayName": "Ui Test"
+  }
+}

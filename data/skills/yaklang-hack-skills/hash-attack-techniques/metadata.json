@@ -1,0 +1,17 @@
+{
+  "skillId": "hash-attack-techniques",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "hash-attack-techniques",
+    "name": "hash-attack-techniques",
+    "installs": 1912,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Hash Attack Techniques"
+  }
+}

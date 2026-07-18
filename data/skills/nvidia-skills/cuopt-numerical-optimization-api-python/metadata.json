@@ -1,0 +1,17 @@
+{
+  "skillId": "cuopt-numerical-optimization-api-python",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "cuopt-numerical-optimization-api-python",
+    "name": "cuopt-numerical-optimization-api-python",
+    "installs": 1679,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Cuopt Numerical Optimization Api Python"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "vega-multi-tv-migration",
+  "source": "amazonappdev/devices-agent-skills",
+  "owner": "amazonappdev",
+  "repo": "devices-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "amazonappdev/devices-agent-skills",
+    "skillId": "vega-multi-tv-migration",
+    "name": "vega-multi-tv-migration",
+    "installs": 2873,
+    "owner": "amazonappdev",
+    "repo": "devices-agent-skills",
+    "githubUrl": "https://github.com/amazonappdev/devices-agent-skills",
+    "displayName": "Vega Multi Tv Migration"
+  }
+}

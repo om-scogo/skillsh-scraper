@@ -1,0 +1,17 @@
+{
+  "skillId": "discovery-interview",
+  "source": "parcadei/continuous-claude-v3",
+  "owner": "parcadei",
+  "repo": "continuous-claude-v3",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "parcadei/continuous-claude-v3",
+    "skillId": "discovery-interview",
+    "name": "discovery-interview",
+    "installs": 3877,
+    "owner": "parcadei",
+    "repo": "continuous-claude-v3",
+    "githubUrl": "https://github.com/parcadei/continuous-claude-v3",
+    "displayName": "Discovery Interview"
+  }
+}

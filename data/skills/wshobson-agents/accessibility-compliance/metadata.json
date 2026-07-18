@@ -1,0 +1,17 @@
+{
+  "skillId": "accessibility-compliance",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "accessibility-compliance",
+    "name": "accessibility-compliance",
+    "installs": 11140,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Accessibility Compliance"
+  }
+}

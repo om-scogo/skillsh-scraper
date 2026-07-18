@@ -1,0 +1,17 @@
+{
+  "skillId": "chrome-devtools-axi",
+  "source": "kunchenguid/chrome-devtools-axi",
+  "owner": "kunchenguid",
+  "repo": "chrome-devtools-axi",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kunchenguid/chrome-devtools-axi",
+    "skillId": "chrome-devtools-axi",
+    "name": "chrome-devtools-axi",
+    "installs": 1232,
+    "owner": "kunchenguid",
+    "repo": "chrome-devtools-axi",
+    "githubUrl": "https://github.com/kunchenguid/chrome-devtools-axi",
+    "displayName": "Chrome Devtools Axi"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "adk-deploy-guide",
+  "source": "google/adk-docs",
+  "owner": "google",
+  "repo": "adk-docs",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/adk-docs",
+    "skillId": "adk-deploy-guide",
+    "name": "adk-deploy-guide",
+    "installs": 2662,
+    "owner": "google",
+    "repo": "adk-docs",
+    "githubUrl": "https://github.com/google/adk-docs",
+    "displayName": "Adk Deploy Guide"
+  }
+}

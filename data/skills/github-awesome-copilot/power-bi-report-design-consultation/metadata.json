@@ -1,0 +1,17 @@
+{
+  "skillId": "power-bi-report-design-consultation",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "power-bi-report-design-consultation",
+    "name": "power-bi-report-design-consultation",
+    "installs": 9041,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Power Bi Report Design Consultation"
+  }
+}

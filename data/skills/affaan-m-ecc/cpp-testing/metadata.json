@@ -1,0 +1,17 @@
+{
+  "skillId": "cpp-testing",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "cpp-testing",
+    "name": "cpp-testing",
+    "installs": 1121,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Cpp Testing"
+  }
+}

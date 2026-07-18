@@ -1,0 +1,17 @@
+{
+  "skillId": "composiohq-awesome-claude-skills-seo-content-marketing",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "composiohq-awesome-claude-skills-seo-content-marketing",
+    "name": "composiohq-awesome-claude-skills-seo-content-marketing",
+    "installs": 979,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Composiohq Awesome Claude Skills Seo Content Marketing"
+  }
+}

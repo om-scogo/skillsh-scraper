@@ -1,0 +1,17 @@
+{
+  "skillId": "cto-advisor",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "cto-advisor",
+    "name": "cto-advisor",
+    "installs": 819,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Cto Advisor"
+  }
+}

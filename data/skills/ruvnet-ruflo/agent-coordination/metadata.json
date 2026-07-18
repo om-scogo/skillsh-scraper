@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-coordination",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-coordination",
+    "name": "agent-coordination",
+    "installs": 1030,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Coordination"
+  }
+}

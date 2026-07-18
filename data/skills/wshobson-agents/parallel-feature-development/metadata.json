@@ -1,0 +1,17 @@
+{
+  "skillId": "parallel-feature-development",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "parallel-feature-development",
+    "name": "parallel-feature-development",
+    "installs": 7285,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Parallel Feature Development"
+  }
+}

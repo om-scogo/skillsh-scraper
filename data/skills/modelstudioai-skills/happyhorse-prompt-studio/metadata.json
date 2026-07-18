@@ -1,0 +1,17 @@
+{
+  "skillId": "happyhorse-prompt-studio",
+  "source": "modelstudioai/skills",
+  "owner": "modelstudioai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "modelstudioai/skills",
+    "skillId": "happyhorse-prompt-studio",
+    "name": "happyhorse-prompt-studio",
+    "installs": 781,
+    "owner": "modelstudioai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/modelstudioai/skills",
+    "displayName": "Happyhorse Prompt Studio"
+  }
+}

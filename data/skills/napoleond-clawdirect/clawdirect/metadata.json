@@ -1,0 +1,17 @@
+{
+  "skillId": "clawdirect",
+  "source": "napoleond/clawdirect",
+  "owner": "napoleond",
+  "repo": "clawdirect",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "napoleond/clawdirect",
+    "skillId": "clawdirect",
+    "name": "clawdirect",
+    "installs": 4636,
+    "owner": "napoleond",
+    "repo": "clawdirect",
+    "githubUrl": "https://github.com/napoleond/clawdirect",
+    "displayName": "Clawdirect"
+  }
+}

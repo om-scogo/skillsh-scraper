@@ -1,0 +1,17 @@
+{
+  "skillId": "debugging-and-error-recovery",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "debugging-and-error-recovery",
+    "name": "debugging-and-error-recovery",
+    "installs": 12364,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Debugging And Error Recovery"
+  }
+}

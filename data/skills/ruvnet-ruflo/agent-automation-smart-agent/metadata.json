@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-automation-smart-agent",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-automation-smart-agent",
+    "name": "agent-automation-smart-agent",
+    "installs": 996,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Automation Smart Agent"
+  }
+}

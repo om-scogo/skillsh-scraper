@@ -1,0 +1,17 @@
+{
+  "skillId": "mvp",
+  "source": "slavingia/skills",
+  "owner": "slavingia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "slavingia/skills",
+    "skillId": "mvp",
+    "name": "mvp",
+    "installs": 1227,
+    "owner": "slavingia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/slavingia/skills",
+    "displayName": "Mvp"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "chinese-writing",
+  "source": "miantiao-me/aigc-weekly",
+  "owner": "miantiao-me",
+  "repo": "aigc-weekly",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "miantiao-me/aigc-weekly",
+    "skillId": "chinese-writing",
+    "name": "chinese-writing",
+    "installs": 1104,
+    "owner": "miantiao-me",
+    "repo": "aigc-weekly",
+    "githubUrl": "https://github.com/miantiao-me/aigc-weekly",
+    "displayName": "Chinese Writing"
+  }
+}

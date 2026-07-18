@@ -1,0 +1,17 @@
+{
+  "skillId": "redis-security",
+  "source": "redis/agent-skills",
+  "owner": "redis",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "redis/agent-skills",
+    "skillId": "redis-security",
+    "name": "redis-security",
+    "installs": 787,
+    "owner": "redis",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/redis/agent-skills",
+    "displayName": "Redis Security"
+  }
+}

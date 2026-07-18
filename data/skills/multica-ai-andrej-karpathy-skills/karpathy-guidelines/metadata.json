@@ -1,0 +1,17 @@
+{
+  "skillId": "karpathy-guidelines",
+  "source": "multica-ai/andrej-karpathy-skills",
+  "owner": "multica-ai",
+  "repo": "andrej-karpathy-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "multica-ai/andrej-karpathy-skills",
+    "skillId": "karpathy-guidelines",
+    "name": "karpathy-guidelines",
+    "installs": 8201,
+    "owner": "multica-ai",
+    "repo": "andrej-karpathy-skills",
+    "githubUrl": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "displayName": "Karpathy Guidelines"
+  }
+}

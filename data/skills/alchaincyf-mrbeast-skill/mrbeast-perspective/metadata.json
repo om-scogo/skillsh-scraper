@@ -1,0 +1,17 @@
+{
+  "skillId": "mrbeast-perspective",
+  "source": "alchaincyf/mrbeast-skill",
+  "owner": "alchaincyf",
+  "repo": "mrbeast-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/mrbeast-skill",
+    "skillId": "mrbeast-perspective",
+    "name": "mrbeast-perspective",
+    "installs": 1275,
+    "owner": "alchaincyf",
+    "repo": "mrbeast-skill",
+    "githubUrl": "https://github.com/alchaincyf/mrbeast-skill",
+    "displayName": "Mrbeast Perspective"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "service-mesh-observability",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "service-mesh-observability",
+    "name": "service-mesh-observability",
+    "installs": 7820,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Service Mesh Observability"
+  }
+}

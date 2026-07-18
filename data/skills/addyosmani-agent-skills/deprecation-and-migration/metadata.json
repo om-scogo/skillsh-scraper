@@ -1,0 +1,17 @@
+{
+  "skillId": "deprecation-and-migration",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "deprecation-and-migration",
+    "name": "deprecation-and-migration",
+    "installs": 10872,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Deprecation And Migration"
+  }
+}

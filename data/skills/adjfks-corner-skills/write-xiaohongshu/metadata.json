@@ -1,0 +1,17 @@
+{
+  "skillId": "write-xiaohongshu",
+  "source": "adjfks/corner-skills",
+  "owner": "adjfks",
+  "repo": "corner-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adjfks/corner-skills",
+    "skillId": "write-xiaohongshu",
+    "name": "write-xiaohongshu",
+    "installs": 4386,
+    "owner": "adjfks",
+    "repo": "corner-skills",
+    "githubUrl": "https://github.com/adjfks/corner-skills",
+    "displayName": "Write Xiaohongshu"
+  }
+}

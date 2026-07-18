@@ -1,0 +1,17 @@
+{
+  "skillId": "clickhouse-js-node-troubleshooting",
+  "source": "clickhouse/agent-skills",
+  "owner": "clickhouse",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clickhouse/agent-skills",
+    "skillId": "clickhouse-js-node-troubleshooting",
+    "name": "clickhouse-js-node-troubleshooting",
+    "installs": 2725,
+    "owner": "clickhouse",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/clickhouse/agent-skills",
+    "displayName": "Clickhouse Js Node Troubleshooting"
+  }
+}

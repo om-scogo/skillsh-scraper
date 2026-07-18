@@ -1,0 +1,17 @@
+{
+  "skillId": "react-native-testing",
+  "source": "callstack/react-native-testing-library",
+  "owner": "callstack",
+  "repo": "react-native-testing-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "callstack/react-native-testing-library",
+    "skillId": "react-native-testing",
+    "name": "react-native-testing",
+    "installs": 2863,
+    "owner": "callstack",
+    "repo": "react-native-testing-library",
+    "githubUrl": "https://github.com/callstack/react-native-testing-library",
+    "displayName": "React Native Testing"
+  }
+}

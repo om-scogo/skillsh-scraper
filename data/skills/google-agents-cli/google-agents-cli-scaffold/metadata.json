@@ -1,0 +1,17 @@
+{
+  "skillId": "google-agents-cli-scaffold",
+  "source": "google/agents-cli",
+  "owner": "google",
+  "repo": "agents-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/agents-cli",
+    "skillId": "google-agents-cli-scaffold",
+    "name": "google-agents-cli-scaffold",
+    "installs": 53632,
+    "owner": "google",
+    "repo": "agents-cli",
+    "githubUrl": "https://github.com/google/agents-cli",
+    "displayName": "Google Agents Cli Scaffold"
+  }
+}

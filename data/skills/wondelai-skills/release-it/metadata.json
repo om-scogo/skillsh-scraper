@@ -1,0 +1,17 @@
+{
+  "skillId": "release-it",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "release-it",
+    "name": "release-it",
+    "installs": 2949,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Release It"
+  }
+}

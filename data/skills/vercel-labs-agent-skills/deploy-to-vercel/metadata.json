@@ -1,0 +1,17 @@
+{
+  "skillId": "deploy-to-vercel",
+  "source": "vercel-labs/agent-skills",
+  "owner": "vercel-labs",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/agent-skills",
+    "skillId": "deploy-to-vercel",
+    "name": "deploy-to-vercel",
+    "installs": 92691,
+    "owner": "vercel-labs",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/vercel-labs/agent-skills",
+    "displayName": "Deploy To Vercel"
+  }
+}

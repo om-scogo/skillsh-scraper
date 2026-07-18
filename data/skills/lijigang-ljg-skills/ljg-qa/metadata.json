@@ -1,0 +1,17 @@
+{
+  "skillId": "ljg-qa",
+  "source": "lijigang/ljg-skills",
+  "owner": "lijigang",
+  "repo": "ljg-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lijigang/ljg-skills",
+    "skillId": "ljg-qa",
+    "name": "ljg-qa",
+    "installs": 3956,
+    "owner": "lijigang",
+    "repo": "ljg-skills",
+    "githubUrl": "https://github.com/lijigang/ljg-skills",
+    "displayName": "Ljg Qa"
+  }
+}

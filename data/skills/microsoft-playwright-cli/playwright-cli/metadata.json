@@ -1,0 +1,17 @@
+{
+  "skillId": "playwright-cli",
+  "source": "microsoft/playwright-cli",
+  "owner": "microsoft",
+  "repo": "playwright-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/playwright-cli",
+    "skillId": "playwright-cli",
+    "name": "playwright-cli",
+    "installs": 88413,
+    "owner": "microsoft",
+    "repo": "playwright-cli",
+    "githubUrl": "https://github.com/microsoft/playwright-cli",
+    "displayName": "Playwright Cli"
+  }
+}

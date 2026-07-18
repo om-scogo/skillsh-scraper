@@ -1,0 +1,17 @@
+{
+  "skillId": "saml-sso-assertion-attacks",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "saml-sso-assertion-attacks",
+    "name": "saml-sso-assertion-attacks",
+    "installs": 1933,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Saml Sso Assertion Attacks"
+  }
+}

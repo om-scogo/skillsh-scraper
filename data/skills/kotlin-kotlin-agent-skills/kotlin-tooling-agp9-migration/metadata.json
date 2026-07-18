@@ -1,0 +1,17 @@
+{
+  "skillId": "kotlin-tooling-agp9-migration",
+  "source": "kotlin/kotlin-agent-skills",
+  "owner": "kotlin",
+  "repo": "kotlin-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kotlin/kotlin-agent-skills",
+    "skillId": "kotlin-tooling-agp9-migration",
+    "name": "kotlin-tooling-agp9-migration",
+    "installs": 1020,
+    "owner": "kotlin",
+    "repo": "kotlin-agent-skills",
+    "githubUrl": "https://github.com/kotlin/kotlin-agent-skills",
+    "displayName": "Kotlin Tooling Agp9 Migration"
+  }
+}

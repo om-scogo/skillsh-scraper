@@ -1,0 +1,17 @@
+{
+  "skillId": "smoke-test",
+  "source": "mastra-ai/mastra",
+  "owner": "mastra-ai",
+  "repo": "mastra",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mastra-ai/mastra",
+    "skillId": "smoke-test",
+    "name": "smoke-test",
+    "installs": 1440,
+    "owner": "mastra-ai",
+    "repo": "mastra",
+    "githubUrl": "https://github.com/mastra-ai/mastra",
+    "displayName": "Smoke Test"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "derivatives-trading-options",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "derivatives-trading-options",
+    "name": "derivatives-trading-options",
+    "installs": 1179,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Derivatives Trading Options"
+  }
+}

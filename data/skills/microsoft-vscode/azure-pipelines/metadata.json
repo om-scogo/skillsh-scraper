@@ -1,0 +1,17 @@
+{
+  "skillId": "azure-pipelines",
+  "source": "microsoft/vscode",
+  "owner": "microsoft",
+  "repo": "vscode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/vscode",
+    "skillId": "azure-pipelines",
+    "name": "azure-pipelines",
+    "installs": 2009,
+    "owner": "microsoft",
+    "repo": "vscode",
+    "githubUrl": "https://github.com/microsoft/vscode",
+    "displayName": "Azure Pipelines"
+  }
+}

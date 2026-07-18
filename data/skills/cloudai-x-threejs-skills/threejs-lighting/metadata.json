@@ -1,0 +1,17 @@
+{
+  "skillId": "threejs-lighting",
+  "source": "cloudai-x/threejs-skills",
+  "owner": "cloudai-x",
+  "repo": "threejs-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudai-x/threejs-skills",
+    "skillId": "threejs-lighting",
+    "name": "threejs-lighting",
+    "installs": 4738,
+    "owner": "cloudai-x",
+    "repo": "threejs-skills",
+    "githubUrl": "https://github.com/cloudai-x/threejs-skills",
+    "displayName": "Threejs Lighting"
+  }
+}

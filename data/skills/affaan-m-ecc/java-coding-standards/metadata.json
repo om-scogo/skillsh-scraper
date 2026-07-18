@@ -1,0 +1,17 @@
+{
+  "skillId": "java-coding-standards",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "java-coding-standards",
+    "name": "java-coding-standards",
+    "installs": 1169,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Java Coding Standards"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "jndi-injection",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "jndi-injection",
+    "name": "jndi-injection",
+    "installs": 1930,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Jndi Injection"
+  }
+}

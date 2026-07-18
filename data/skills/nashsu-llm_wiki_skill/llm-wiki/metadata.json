@@ -1,0 +1,17 @@
+{
+  "skillId": "llm-wiki",
+  "source": "nashsu/llm_wiki_skill",
+  "owner": "nashsu",
+  "repo": "llm_wiki_skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nashsu/llm_wiki_skill",
+    "skillId": "llm-wiki",
+    "name": "llm-wiki",
+    "installs": 1077,
+    "owner": "nashsu",
+    "repo": "llm_wiki_skill",
+    "githubUrl": "https://github.com/nashsu/llm_wiki_skill",
+    "displayName": "Llm Wiki"
+  }
+}

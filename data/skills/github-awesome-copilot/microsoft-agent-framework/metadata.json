@@ -1,0 +1,17 @@
+{
+  "skillId": "microsoft-agent-framework",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "microsoft-agent-framework",
+    "name": "microsoft-agent-framework",
+    "installs": 1760,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Microsoft Agent Framework"
+  }
+}

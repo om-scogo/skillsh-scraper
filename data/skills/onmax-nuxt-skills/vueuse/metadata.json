@@ -1,0 +1,17 @@
+{
+  "skillId": "vueuse",
+  "source": "onmax/nuxt-skills",
+  "owner": "onmax",
+  "repo": "nuxt-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "onmax/nuxt-skills",
+    "skillId": "vueuse",
+    "name": "vueuse",
+    "installs": 3075,
+    "owner": "onmax",
+    "repo": "nuxt-skills",
+    "githubUrl": "https://github.com/onmax/nuxt-skills",
+    "displayName": "Vueuse"
+  }
+}

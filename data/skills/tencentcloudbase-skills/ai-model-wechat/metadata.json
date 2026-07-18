@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-model-wechat",
+  "source": "tencentcloudbase/skills",
+  "owner": "tencentcloudbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tencentcloudbase/skills",
+    "skillId": "ai-model-wechat",
+    "name": "ai-model-wechat",
+    "installs": 961,
+    "owner": "tencentcloudbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/tencentcloudbase/skills",
+    "displayName": "Ai Model Wechat"
+  }
+}

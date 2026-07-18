@@ -1,0 +1,17 @@
+{
+  "skillId": "bencium-innovative-ux-designer",
+  "source": "bencium/bencium-claude-code-design-skill",
+  "owner": "bencium",
+  "repo": "bencium-claude-code-design-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bencium/bencium-claude-code-design-skill",
+    "skillId": "bencium-innovative-ux-designer",
+    "name": "bencium-innovative-ux-designer",
+    "installs": 1104,
+    "owner": "bencium",
+    "repo": "bencium-claude-code-design-skill",
+    "githubUrl": "https://github.com/bencium/bencium-claude-code-design-skill",
+    "displayName": "Bencium Innovative Ux Designer"
+  }
+}

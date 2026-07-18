@@ -1,0 +1,17 @@
+{
+  "skillId": "stitch::extract-design-md",
+  "source": "google-labs-code/stitch-skills",
+  "owner": "google-labs-code",
+  "repo": "stitch-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-labs-code/stitch-skills",
+    "skillId": "stitch::extract-design-md",
+    "name": "stitch::extract-design-md",
+    "installs": 4679,
+    "owner": "google-labs-code",
+    "repo": "stitch-skills",
+    "githubUrl": "https://github.com/google-labs-code/stitch-skills",
+    "displayName": "Stitch::extract Design Md"
+  }
+}

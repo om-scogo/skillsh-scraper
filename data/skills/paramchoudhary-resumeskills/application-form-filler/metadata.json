@@ -1,0 +1,17 @@
+{
+  "skillId": "application-form-filler",
+  "source": "paramchoudhary/resumeskills",
+  "owner": "paramchoudhary",
+  "repo": "resumeskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paramchoudhary/resumeskills",
+    "skillId": "application-form-filler",
+    "name": "application-form-filler",
+    "installs": 1348,
+    "owner": "paramchoudhary",
+    "repo": "resumeskills",
+    "githubUrl": "https://github.com/paramchoudhary/resumeskills",
+    "displayName": "Application Form Filler"
+  }
+}

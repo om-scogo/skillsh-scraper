@@ -1,0 +1,17 @@
+{
+  "skillId": "image-to-video",
+  "source": "halt-catch-fire/skills",
+  "owner": "halt-catch-fire",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "halt-catch-fire/skills",
+    "skillId": "image-to-video",
+    "name": "image-to-video",
+    "installs": 10,
+    "owner": "halt-catch-fire",
+    "repo": "skills",
+    "githubUrl": "https://github.com/halt-catch-fire/skills",
+    "displayName": "Image To Video"
+  }
+}

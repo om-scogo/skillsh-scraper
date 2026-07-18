@@ -1,0 +1,17 @@
+{
+  "skillId": "customer-billing-ops",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "customer-billing-ops",
+    "name": "customer-billing-ops",
+    "installs": 1099,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Customer Billing Ops"
+  }
+}

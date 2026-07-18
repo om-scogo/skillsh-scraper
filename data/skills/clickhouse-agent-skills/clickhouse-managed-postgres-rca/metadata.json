@@ -1,0 +1,17 @@
+{
+  "skillId": "clickhouse-managed-postgres-rca",
+  "source": "clickhouse/agent-skills",
+  "owner": "clickhouse",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clickhouse/agent-skills",
+    "skillId": "clickhouse-managed-postgres-rca",
+    "name": "clickhouse-managed-postgres-rca",
+    "installs": 2121,
+    "owner": "clickhouse",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/clickhouse/agent-skills",
+    "displayName": "Clickhouse Managed Postgres Rca"
+  }
+}

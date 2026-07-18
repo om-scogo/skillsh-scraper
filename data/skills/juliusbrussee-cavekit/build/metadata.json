@@ -1,0 +1,17 @@
+{
+  "skillId": "build",
+  "source": "juliusbrussee/cavekit",
+  "owner": "juliusbrussee",
+  "repo": "cavekit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juliusbrussee/cavekit",
+    "skillId": "build",
+    "name": "build",
+    "installs": 2280,
+    "owner": "juliusbrussee",
+    "repo": "cavekit",
+    "githubUrl": "https://github.com/juliusbrussee/cavekit",
+    "displayName": "Build"
+  }
+}

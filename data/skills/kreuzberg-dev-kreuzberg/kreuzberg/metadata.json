@@ -1,0 +1,17 @@
+{
+  "skillId": "kreuzberg",
+  "source": "kreuzberg-dev/kreuzberg",
+  "owner": "kreuzberg-dev",
+  "repo": "kreuzberg",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kreuzberg-dev/kreuzberg",
+    "skillId": "kreuzberg",
+    "name": "kreuzberg",
+    "installs": 771,
+    "owner": "kreuzberg-dev",
+    "repo": "kreuzberg",
+    "githubUrl": "https://github.com/kreuzberg-dev/kreuzberg",
+    "displayName": "Kreuzberg"
+  }
+}

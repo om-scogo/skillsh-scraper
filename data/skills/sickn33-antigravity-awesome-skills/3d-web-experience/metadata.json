@@ -1,0 +1,17 @@
+{
+  "skillId": "3d-web-experience",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "3d-web-experience",
+    "name": "3d-web-experience",
+    "installs": 3459,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "3d Web Experience"
+  }
+}

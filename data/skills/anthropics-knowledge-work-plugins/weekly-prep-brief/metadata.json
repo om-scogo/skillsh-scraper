@@ -1,0 +1,17 @@
+{
+  "skillId": "weekly-prep-brief",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "weekly-prep-brief",
+    "name": "weekly-prep-brief",
+    "installs": 1953,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Weekly Prep Brief"
+  }
+}

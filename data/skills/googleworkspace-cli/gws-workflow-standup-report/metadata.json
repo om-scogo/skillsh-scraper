@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-workflow-standup-report",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "gws-workflow-standup-report",
+    "name": "gws-workflow-standup-report",
+    "installs": 23387,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Gws Workflow Standup Report"
+  }
+}

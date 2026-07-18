@@ -1,0 +1,17 @@
+{
+  "skillId": "shopify-app-store-review",
+  "source": "shopify/shopify-ai-toolkit",
+  "owner": "shopify",
+  "repo": "shopify-ai-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shopify/shopify-ai-toolkit",
+    "skillId": "shopify-app-store-review",
+    "name": "shopify-app-store-review",
+    "installs": 5500,
+    "owner": "shopify",
+    "repo": "shopify-ai-toolkit",
+    "githubUrl": "https://github.com/shopify/shopify-ai-toolkit",
+    "displayName": "Shopify App Store Review"
+  }
+}

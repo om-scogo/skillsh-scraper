@@ -1,0 +1,17 @@
+{
+  "skillId": "clickhousectl-cloud-deploy",
+  "source": "clickhouse/agent-skills",
+  "owner": "clickhouse",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clickhouse/agent-skills",
+    "skillId": "clickhousectl-cloud-deploy",
+    "name": "clickhousectl-cloud-deploy",
+    "installs": 2915,
+    "owner": "clickhouse",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/clickhouse/agent-skills",
+    "displayName": "Clickhousectl Cloud Deploy"
+  }
+}

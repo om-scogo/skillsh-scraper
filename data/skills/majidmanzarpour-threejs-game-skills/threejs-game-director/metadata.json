@@ -1,0 +1,17 @@
+{
+  "skillId": "threejs-game-director",
+  "source": "majidmanzarpour/threejs-game-skills",
+  "owner": "majidmanzarpour",
+  "repo": "threejs-game-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "majidmanzarpour/threejs-game-skills",
+    "skillId": "threejs-game-director",
+    "name": "threejs-game-director",
+    "installs": 760,
+    "owner": "majidmanzarpour",
+    "repo": "threejs-game-skills",
+    "githubUrl": "https://github.com/majidmanzarpour/threejs-game-skills",
+    "displayName": "Threejs Game Director"
+  }
+}

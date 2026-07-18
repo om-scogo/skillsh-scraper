@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-design",
+  "source": "jwynia/agent-skills",
+  "owner": "jwynia",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jwynia/agent-skills",
+    "skillId": "frontend-design",
+    "name": "frontend-design",
+    "installs": 2287,
+    "owner": "jwynia",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/jwynia/agent-skills",
+    "displayName": "Frontend Design"
+  }
+}

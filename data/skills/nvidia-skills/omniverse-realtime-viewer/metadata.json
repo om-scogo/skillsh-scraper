@@ -1,0 +1,17 @@
+{
+  "skillId": "omniverse-realtime-viewer",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "omniverse-realtime-viewer",
+    "name": "omniverse-realtime-viewer",
+    "installs": 1643,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Omniverse Realtime Viewer"
+  }
+}

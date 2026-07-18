@@ -1,0 +1,17 @@
+{
+  "skillId": "ccxt-python",
+  "source": "ccxt/ccxt",
+  "owner": "ccxt",
+  "repo": "ccxt",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ccxt/ccxt",
+    "skillId": "ccxt-python",
+    "name": "ccxt-python",
+    "installs": 918,
+    "owner": "ccxt",
+    "repo": "ccxt",
+    "githubUrl": "https://github.com/ccxt/ccxt",
+    "displayName": "Ccxt Python"
+  }
+}

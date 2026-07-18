@@ -1,0 +1,17 @@
+{
+  "skillId": "rust-refactor-helper",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "rust-refactor-helper",
+    "name": "rust-refactor-helper",
+    "installs": 1299,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "Rust Refactor Helper"
+  }
+}

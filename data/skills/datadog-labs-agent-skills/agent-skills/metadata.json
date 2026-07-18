@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-skills",
+  "source": "datadog-labs/agent-skills",
+  "owner": "datadog-labs",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "datadog-labs/agent-skills",
+    "skillId": "agent-skills",
+    "name": "agent-skills",
+    "installs": 1195,
+    "owner": "datadog-labs",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/datadog-labs/agent-skills",
+    "displayName": "Agent Skills"
+  }
+}

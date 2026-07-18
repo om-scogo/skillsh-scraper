@@ -1,0 +1,17 @@
+{
+  "skillId": "feature-sliced-design",
+  "source": "feature-sliced/skills",
+  "owner": "feature-sliced",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "feature-sliced/skills",
+    "skillId": "feature-sliced-design",
+    "name": "feature-sliced-design",
+    "installs": 11099,
+    "owner": "feature-sliced",
+    "repo": "skills",
+    "githubUrl": "https://github.com/feature-sliced/skills",
+    "displayName": "Feature Sliced Design"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "preview-import",
+  "source": "adobe/skills",
+  "owner": "adobe",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adobe/skills",
+    "skillId": "preview-import",
+    "name": "preview-import",
+    "installs": 905,
+    "owner": "adobe",
+    "repo": "skills",
+    "githubUrl": "https://github.com/adobe/skills",
+    "displayName": "Preview Import"
+  }
+}

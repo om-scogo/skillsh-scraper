@@ -1,0 +1,17 @@
+{
+  "skillId": "reference-core",
+  "source": "angular/angular",
+  "owner": "angular",
+  "repo": "angular",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "angular/angular",
+    "skillId": "reference-core",
+    "name": "reference-core",
+    "installs": 982,
+    "owner": "angular",
+    "repo": "angular",
+    "githubUrl": "https://github.com/angular/angular",
+    "displayName": "Reference Core"
+  }
+}

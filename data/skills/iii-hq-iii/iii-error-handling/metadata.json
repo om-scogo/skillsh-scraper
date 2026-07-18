@@ -1,0 +1,17 @@
+{
+  "skillId": "iii-error-handling",
+  "source": "iii-hq/iii",
+  "owner": "iii-hq",
+  "repo": "iii",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "iii-hq/iii",
+    "skillId": "iii-error-handling",
+    "name": "iii-error-handling",
+    "installs": 836,
+    "owner": "iii-hq",
+    "repo": "iii",
+    "githubUrl": "https://github.com/iii-hq/iii",
+    "displayName": "Iii Error Handling"
+  }
+}

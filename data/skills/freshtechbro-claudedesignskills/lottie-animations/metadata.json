@@ -1,0 +1,17 @@
+{
+  "skillId": "lottie-animations",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "lottie-animations",
+    "name": "lottie-animations",
+    "installs": 1544,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Lottie Animations"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "nature-polishing",
+  "source": "yuan1z0825/nature-skills",
+  "owner": "yuan1z0825",
+  "repo": "nature-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yuan1z0825/nature-skills",
+    "skillId": "nature-polishing",
+    "name": "nature-polishing",
+    "installs": 4377,
+    "owner": "yuan1z0825",
+    "repo": "nature-skills",
+    "githubUrl": "https://github.com/yuan1z0825/nature-skills",
+    "displayName": "Nature Polishing"
+  }
+}

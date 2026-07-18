@@ -1,0 +1,17 @@
+{
+  "skillId": "observability-edot-python-migrate",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "observability-edot-python-migrate",
+    "name": "observability-edot-python-migrate",
+    "installs": 1665,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Observability Edot Python Migrate"
+  }
+}

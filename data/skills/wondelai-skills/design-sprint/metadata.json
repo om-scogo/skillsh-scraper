@@ -1,0 +1,17 @@
+{
+  "skillId": "design-sprint",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "design-sprint",
+    "name": "design-sprint",
+    "installs": 3127,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Design Sprint"
+  }
+}

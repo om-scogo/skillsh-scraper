@@ -1,0 +1,17 @@
+{
+  "skillId": "adk-integrations",
+  "source": "botpress/skills",
+  "owner": "botpress",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "botpress/skills",
+    "skillId": "adk-integrations",
+    "name": "adk-integrations",
+    "installs": 1212,
+    "owner": "botpress",
+    "repo": "skills",
+    "githubUrl": "https://github.com/botpress/skills",
+    "displayName": "Adk Integrations"
+  }
+}

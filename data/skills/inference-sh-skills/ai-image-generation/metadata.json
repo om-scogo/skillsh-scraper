@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-image-generation",
+  "source": "inference-sh/skills",
+  "owner": "inference-sh",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "inference-sh/skills",
+    "skillId": "ai-image-generation",
+    "name": "ai-image-generation",
+    "installs": 1033,
+    "owner": "inference-sh",
+    "repo": "skills",
+    "githubUrl": "https://github.com/inference-sh/skills",
+    "displayName": "Ai Image Generation"
+  }
+}

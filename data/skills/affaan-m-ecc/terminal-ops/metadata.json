@@ -1,0 +1,17 @@
+{
+  "skillId": "terminal-ops",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "terminal-ops",
+    "name": "terminal-ops",
+    "installs": 1111,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Terminal Ops"
+  }
+}

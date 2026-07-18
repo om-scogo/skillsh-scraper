@@ -1,0 +1,17 @@
+{
+  "skillId": "landing-page-copywriter",
+  "source": "onewave-ai/claude-skills",
+  "owner": "onewave-ai",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "onewave-ai/claude-skills",
+    "skillId": "landing-page-copywriter",
+    "name": "landing-page-copywriter",
+    "installs": 4963,
+    "owner": "onewave-ai",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/onewave-ai/claude-skills",
+    "displayName": "Landing Page Copywriter"
+  }
+}

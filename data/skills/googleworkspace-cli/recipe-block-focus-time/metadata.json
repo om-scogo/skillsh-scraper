@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-block-focus-time",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-block-focus-time",
+    "name": "recipe-block-focus-time",
+    "installs": 22375,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Block Focus Time"
+  }
+}

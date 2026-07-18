@@ -1,0 +1,17 @@
+{
+  "skillId": "lovart-api",
+  "source": "lovartai/lovart-skill",
+  "owner": "lovartai",
+  "repo": "lovart-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lovartai/lovart-skill",
+    "skillId": "lovart-api",
+    "name": "lovart-api",
+    "installs": 855,
+    "owner": "lovartai",
+    "repo": "lovart-skill",
+    "githubUrl": "https://github.com/lovartai/lovart-skill",
+    "displayName": "Lovart Api"
+  }
+}

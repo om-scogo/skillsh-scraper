@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-build-interact",
+  "source": "firecrawl/skills",
+  "owner": "firecrawl",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/skills",
+    "skillId": "firecrawl-build-interact",
+    "name": "firecrawl-build-interact",
+    "installs": 55044,
+    "owner": "firecrawl",
+    "repo": "skills",
+    "githubUrl": "https://github.com/firecrawl/skills",
+    "displayName": "Firecrawl Build Interact"
+  }
+}

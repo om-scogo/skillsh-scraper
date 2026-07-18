@@ -1,0 +1,17 @@
+{
+  "skillId": "prompt-images",
+  "source": "replicate/skills",
+  "owner": "replicate",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "replicate/skills",
+    "skillId": "prompt-images",
+    "name": "prompt-images",
+    "installs": 1215,
+    "owner": "replicate",
+    "repo": "skills",
+    "githubUrl": "https://github.com/replicate/skills",
+    "displayName": "Prompt Images"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ghost-scan-secrets",
+  "source": "ghostsecurity/skills",
+  "owner": "ghostsecurity",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ghostsecurity/skills",
+    "skillId": "ghost-scan-secrets",
+    "name": "ghost-scan-secrets",
+    "installs": 2643,
+    "owner": "ghostsecurity",
+    "repo": "skills",
+    "githubUrl": "https://github.com/ghostsecurity/skills",
+    "displayName": "Ghost Scan Secrets"
+  }
+}

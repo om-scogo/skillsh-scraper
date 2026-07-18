@@ -1,0 +1,17 @@
+{
+  "skillId": "bigquery-basics",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "bigquery-basics",
+    "name": "bigquery-basics",
+    "installs": 8555,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Bigquery Basics"
+  }
+}

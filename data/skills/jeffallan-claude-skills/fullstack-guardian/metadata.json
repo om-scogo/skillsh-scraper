@@ -1,0 +1,17 @@
+{
+  "skillId": "fullstack-guardian",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "fullstack-guardian",
+    "name": "fullstack-guardian",
+    "installs": 3829,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Fullstack Guardian"
+  }
+}

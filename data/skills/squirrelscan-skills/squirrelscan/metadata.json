@@ -1,0 +1,17 @@
+{
+  "skillId": "squirrelscan",
+  "source": "squirrelscan/skills",
+  "owner": "squirrelscan",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "squirrelscan/skills",
+    "skillId": "squirrelscan",
+    "name": "squirrelscan",
+    "installs": 2262,
+    "owner": "squirrelscan",
+    "repo": "skills",
+    "githubUrl": "https://github.com/squirrelscan/skills",
+    "displayName": "Squirrelscan"
+  }
+}

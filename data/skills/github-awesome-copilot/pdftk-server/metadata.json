@@ -1,0 +1,17 @@
+{
+  "skillId": "pdftk-server",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "pdftk-server",
+    "name": "pdftk-server",
+    "installs": 9821,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Pdftk Server"
+  }
+}

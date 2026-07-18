@@ -1,0 +1,17 @@
+{
+  "skillId": "chrome-cdp",
+  "source": "pasky/chrome-cdp-skill",
+  "owner": "pasky",
+  "repo": "chrome-cdp-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pasky/chrome-cdp-skill",
+    "skillId": "chrome-cdp",
+    "name": "chrome-cdp",
+    "installs": 1896,
+    "owner": "pasky",
+    "repo": "chrome-cdp-skill",
+    "githubUrl": "https://github.com/pasky/chrome-cdp-skill",
+    "displayName": "Chrome Cdp"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "developing-with-streamlit",
+  "source": "streamlit/agent-skills",
+  "owner": "streamlit",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "streamlit/agent-skills",
+    "skillId": "developing-with-streamlit",
+    "name": "developing-with-streamlit",
+    "installs": 2322,
+    "owner": "streamlit",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/streamlit/agent-skills",
+    "displayName": "Developing With Streamlit"
+  }
+}

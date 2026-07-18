@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-validate-dataset-format",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-validate-dataset-format",
+    "name": "tao-validate-dataset-format",
+    "installs": 1275,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Validate Dataset Format"
+  }
+}

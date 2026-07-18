@@ -1,0 +1,17 @@
+{
+  "skillId": "vscode-ext-localization",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "vscode-ext-localization",
+    "name": "vscode-ext-localization",
+    "installs": 8792,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Vscode Ext Localization"
+  }
+}

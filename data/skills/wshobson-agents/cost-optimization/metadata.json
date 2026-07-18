@@ -1,0 +1,17 @@
+{
+  "skillId": "cost-optimization",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "cost-optimization",
+    "name": "cost-optimization",
+    "installs": 8812,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Cost Optimization"
+  }
+}

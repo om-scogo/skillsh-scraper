@@ -1,0 +1,17 @@
+{
+  "skillId": "react-router-framework-mode",
+  "source": "remix-run/agent-skills",
+  "owner": "remix-run",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "remix-run/agent-skills",
+    "skillId": "react-router-framework-mode",
+    "name": "react-router-framework-mode",
+    "installs": 2916,
+    "owner": "remix-run",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/remix-run/agent-skills",
+    "displayName": "React Router Framework Mode"
+  }
+}

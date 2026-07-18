@@ -1,0 +1,17 @@
+{
+  "skillId": "langgraph-persistence",
+  "source": "langchain-ai/langchain-skills",
+  "owner": "langchain-ai",
+  "repo": "langchain-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langchain-ai/langchain-skills",
+    "skillId": "langgraph-persistence",
+    "name": "langgraph-persistence",
+    "installs": 11239,
+    "owner": "langchain-ai",
+    "repo": "langchain-skills",
+    "githubUrl": "https://github.com/langchain-ai/langchain-skills",
+    "displayName": "Langgraph Persistence"
+  }
+}

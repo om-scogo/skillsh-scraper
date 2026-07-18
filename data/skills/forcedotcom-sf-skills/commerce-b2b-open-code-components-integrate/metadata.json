@@ -1,0 +1,17 @@
+{
+  "skillId": "commerce-b2b-open-code-components-integrate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "commerce-b2b-open-code-components-integrate",
+    "name": "commerce-b2b-open-code-components-integrate",
+    "installs": 1203,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Commerce B2b Open Code Components Integrate"
+  }
+}

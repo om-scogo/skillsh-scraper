@@ -1,0 +1,17 @@
+{
+  "skillId": "mintlify",
+  "source": "mintlify/docs",
+  "owner": "mintlify",
+  "repo": "docs",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mintlify/docs",
+    "skillId": "mintlify",
+    "name": "mintlify",
+    "installs": 8798,
+    "owner": "mintlify",
+    "repo": "docs",
+    "githubUrl": "https://github.com/mintlify/docs",
+    "displayName": "Mintlify"
+  }
+}

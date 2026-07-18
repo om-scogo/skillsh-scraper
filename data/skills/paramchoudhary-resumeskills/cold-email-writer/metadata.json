@@ -1,0 +1,17 @@
+{
+  "skillId": "cold-email-writer",
+  "source": "paramchoudhary/resumeskills",
+  "owner": "paramchoudhary",
+  "repo": "resumeskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paramchoudhary/resumeskills",
+    "skillId": "cold-email-writer",
+    "name": "cold-email-writer",
+    "installs": 1351,
+    "owner": "paramchoudhary",
+    "repo": "resumeskills",
+    "githubUrl": "https://github.com/paramchoudhary/resumeskills",
+    "displayName": "Cold Email Writer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "deep-research",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "deep-research",
+    "name": "deep-research",
+    "installs": 919,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Deep Research"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "auto-updater",
+  "source": "teylersf/openclaw-auto-updater",
+  "owner": "teylersf",
+  "repo": "openclaw-auto-updater",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "teylersf/openclaw-auto-updater",
+    "skillId": "auto-updater",
+    "name": "auto-updater",
+    "installs": 1216,
+    "owner": "teylersf",
+    "repo": "openclaw-auto-updater",
+    "githubUrl": "https://github.com/teylersf/openclaw-auto-updater",
+    "displayName": "Auto Updater"
+  }
+}

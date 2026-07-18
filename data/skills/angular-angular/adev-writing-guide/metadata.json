@@ -1,0 +1,17 @@
+{
+  "skillId": "adev-writing-guide",
+  "source": "angular/angular",
+  "owner": "angular",
+  "repo": "angular",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "angular/angular",
+    "skillId": "adev-writing-guide",
+    "name": "adev-writing-guide",
+    "installs": 907,
+    "owner": "angular",
+    "repo": "angular",
+    "githubUrl": "https://github.com/angular/angular",
+    "displayName": "Adev Writing Guide"
+  }
+}

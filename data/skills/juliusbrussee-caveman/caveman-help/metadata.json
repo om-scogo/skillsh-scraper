@@ -1,0 +1,17 @@
+{
+  "skillId": "caveman-help",
+  "source": "juliusbrussee/caveman",
+  "owner": "juliusbrussee",
+  "repo": "caveman",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juliusbrussee/caveman",
+    "skillId": "caveman-help",
+    "name": "caveman-help",
+    "installs": 235547,
+    "owner": "juliusbrussee",
+    "repo": "caveman",
+    "githubUrl": "https://github.com/juliusbrussee/caveman",
+    "displayName": "Caveman Help"
+  }
+}

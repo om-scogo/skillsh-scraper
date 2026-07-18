@@ -1,0 +1,17 @@
+{
+  "skillId": "recon-for-sec",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "recon-for-sec",
+    "name": "recon-for-sec",
+    "installs": 1993,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Recon For Sec"
+  }
+}

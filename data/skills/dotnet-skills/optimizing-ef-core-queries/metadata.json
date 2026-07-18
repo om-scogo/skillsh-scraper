@@ -1,0 +1,17 @@
+{
+  "skillId": "optimizing-ef-core-queries",
+  "source": "dotnet/skills",
+  "owner": "dotnet",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dotnet/skills",
+    "skillId": "optimizing-ef-core-queries",
+    "name": "optimizing-ef-core-queries",
+    "installs": 1058,
+    "owner": "dotnet",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dotnet/skills",
+    "displayName": "Optimizing Ef Core Queries"
+  }
+}

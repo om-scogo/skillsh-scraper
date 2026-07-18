@@ -1,0 +1,17 @@
+{
+  "skillId": "prometheus-cardinality-troubleshooter",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "prometheus-cardinality-troubleshooter",
+    "name": "prometheus-cardinality-troubleshooter",
+    "installs": 1074,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Prometheus Cardinality Troubleshooter"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "mongodb-natural-language-querying",
+  "source": "mongodb/agent-skills",
+  "owner": "mongodb",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mongodb/agent-skills",
+    "skillId": "mongodb-natural-language-querying",
+    "name": "mongodb-natural-language-querying",
+    "installs": 2540,
+    "owner": "mongodb",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/mongodb/agent-skills",
+    "displayName": "Mongodb Natural Language Querying"
+  }
+}

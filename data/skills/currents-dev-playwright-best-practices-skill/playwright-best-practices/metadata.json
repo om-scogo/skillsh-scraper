@@ -1,0 +1,17 @@
+{
+  "skillId": "playwright-best-practices",
+  "source": "currents-dev/playwright-best-practices-skill",
+  "owner": "currents-dev",
+  "repo": "playwright-best-practices-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "currents-dev/playwright-best-practices-skill",
+    "skillId": "playwright-best-practices",
+    "name": "playwright-best-practices",
+    "installs": 61470,
+    "owner": "currents-dev",
+    "repo": "playwright-best-practices-skill",
+    "githubUrl": "https://github.com/currents-dev/playwright-best-practices-skill",
+    "displayName": "Playwright Best Practices"
+  }
+}

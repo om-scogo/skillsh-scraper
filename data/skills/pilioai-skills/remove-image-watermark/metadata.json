@@ -1,0 +1,17 @@
+{
+  "skillId": "remove-image-watermark",
+  "source": "pilioai/skills",
+  "owner": "pilioai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pilioai/skills",
+    "skillId": "remove-image-watermark",
+    "name": "remove-image-watermark",
+    "installs": 7452,
+    "owner": "pilioai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/pilioai/skills",
+    "displayName": "Remove Image Watermark"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "shopify-pos-ui",
+  "source": "shopify/shopify-ai-toolkit",
+  "owner": "shopify",
+  "repo": "shopify-ai-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shopify/shopify-ai-toolkit",
+    "skillId": "shopify-pos-ui",
+    "name": "shopify-pos-ui",
+    "installs": 5970,
+    "owner": "shopify",
+    "repo": "shopify-ai-toolkit",
+    "githubUrl": "https://github.com/shopify/shopify-ai-toolkit",
+    "displayName": "Shopify Pos Ui"
+  }
+}

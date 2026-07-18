@@ -1,0 +1,17 @@
+{
+  "skillId": "animate",
+  "source": "delphi-ai/animate-skill",
+  "owner": "delphi-ai",
+  "repo": "animate-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "delphi-ai/animate-skill",
+    "skillId": "animate",
+    "name": "animate",
+    "installs": 1739,
+    "owner": "delphi-ai",
+    "repo": "animate-skill",
+    "githubUrl": "https://github.com/delphi-ai/animate-skill",
+    "displayName": "Animate"
+  }
+}

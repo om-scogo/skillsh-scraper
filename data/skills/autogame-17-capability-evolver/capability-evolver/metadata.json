@@ -1,0 +1,17 @@
+{
+  "skillId": "capability-evolver",
+  "source": "autogame-17/capability-evolver",
+  "owner": "autogame-17",
+  "repo": "capability-evolver",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "autogame-17/capability-evolver",
+    "skillId": "capability-evolver",
+    "name": "capability-evolver",
+    "installs": 4144,
+    "owner": "autogame-17",
+    "repo": "capability-evolver",
+    "githubUrl": "https://github.com/autogame-17/capability-evolver",
+    "displayName": "Capability Evolver"
+  }
+}

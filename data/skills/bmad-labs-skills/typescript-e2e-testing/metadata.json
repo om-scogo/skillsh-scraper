@@ -1,0 +1,17 @@
+{
+  "skillId": "typescript-e2e-testing",
+  "source": "bmad-labs/skills",
+  "owner": "bmad-labs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bmad-labs/skills",
+    "skillId": "typescript-e2e-testing",
+    "name": "typescript-e2e-testing",
+    "installs": 2116,
+    "owner": "bmad-labs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/bmad-labs/skills",
+    "displayName": "Typescript E2e Testing"
+  }
+}

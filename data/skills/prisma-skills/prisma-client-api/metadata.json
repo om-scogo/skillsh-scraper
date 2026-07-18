@@ -1,0 +1,17 @@
+{
+  "skillId": "prisma-client-api",
+  "source": "prisma/skills",
+  "owner": "prisma",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "prisma/skills",
+    "skillId": "prisma-client-api",
+    "name": "prisma-client-api",
+    "installs": 15856,
+    "owner": "prisma",
+    "repo": "skills",
+    "githubUrl": "https://github.com/prisma/skills",
+    "displayName": "Prisma Client Api"
+  }
+}

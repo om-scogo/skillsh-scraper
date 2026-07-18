@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-design-system",
+  "source": "samhvw8/dot-claude",
+  "owner": "samhvw8",
+  "repo": "dot-claude",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samhvw8/dot-claude",
+    "skillId": "ui-design-system",
+    "name": "ui-design-system",
+    "installs": 3137,
+    "owner": "samhvw8",
+    "repo": "dot-claude",
+    "githubUrl": "https://github.com/samhvw8/dot-claude",
+    "displayName": "Ui Design System"
+  }
+}

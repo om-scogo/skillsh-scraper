@@ -1,0 +1,17 @@
+{
+  "skillId": "fastapi",
+  "source": "fastapi/fastapi",
+  "owner": "fastapi",
+  "repo": "fastapi",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "fastapi/fastapi",
+    "skillId": "fastapi",
+    "name": "fastapi",
+    "installs": 5710,
+    "owner": "fastapi",
+    "repo": "fastapi",
+    "githubUrl": "https://github.com/fastapi/fastapi",
+    "displayName": "Fastapi"
+  }
+}

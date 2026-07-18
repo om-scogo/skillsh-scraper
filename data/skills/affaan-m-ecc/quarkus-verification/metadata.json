@@ -1,0 +1,17 @@
+{
+  "skillId": "quarkus-verification",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "quarkus-verification",
+    "name": "quarkus-verification",
+    "installs": 1086,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Quarkus Verification"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "opencli",
+  "source": "joeseesun/opencli-skill",
+  "owner": "joeseesun",
+  "repo": "opencli-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "joeseesun/opencli-skill",
+    "skillId": "opencli",
+    "name": "opencli",
+    "installs": 3301,
+    "owner": "joeseesun",
+    "repo": "opencli-skill",
+    "githubUrl": "https://github.com/joeseesun/opencli-skill",
+    "displayName": "Opencli"
+  }
+}

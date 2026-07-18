@@ -1,0 +1,17 @@
+{
+  "skillId": "sub-account",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "sub-account",
+    "name": "sub-account",
+    "installs": 1119,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Sub Account"
+  }
+}

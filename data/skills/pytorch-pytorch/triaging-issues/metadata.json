@@ -1,0 +1,17 @@
+{
+  "skillId": "triaging-issues",
+  "source": "pytorch/pytorch",
+  "owner": "pytorch",
+  "repo": "pytorch",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pytorch/pytorch",
+    "skillId": "triaging-issues",
+    "name": "triaging-issues",
+    "installs": 1913,
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "githubUrl": "https://github.com/pytorch/pytorch",
+    "displayName": "Triaging Issues"
+  }
+}

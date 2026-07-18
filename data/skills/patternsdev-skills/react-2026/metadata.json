@@ -1,0 +1,17 @@
+{
+  "skillId": "react-2026",
+  "source": "patternsdev/skills",
+  "owner": "patternsdev",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "patternsdev/skills",
+    "skillId": "react-2026",
+    "name": "react-2026",
+    "installs": 829,
+    "owner": "patternsdev",
+    "repo": "skills",
+    "githubUrl": "https://github.com/patternsdev/skills",
+    "displayName": "React 2026"
+  }
+}

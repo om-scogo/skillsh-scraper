@@ -1,0 +1,17 @@
+{
+  "skillId": "md-to-feishu",
+  "source": "zc277584121/marketing-skills",
+  "owner": "zc277584121",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zc277584121/marketing-skills",
+    "skillId": "md-to-feishu",
+    "name": "md-to-feishu",
+    "installs": 2232,
+    "owner": "zc277584121",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/zc277584121/marketing-skills",
+    "displayName": "Md To Feishu"
+  }
+}

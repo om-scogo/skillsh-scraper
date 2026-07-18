@@ -1,0 +1,17 @@
+{
+  "skillId": "word-document-processor",
+  "source": "qodex-ai/ai-agent-skills",
+  "owner": "qodex-ai",
+  "repo": "ai-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qodex-ai/ai-agent-skills",
+    "skillId": "word-document-processor",
+    "name": "word-document-processor",
+    "installs": 3324,
+    "owner": "qodex-ai",
+    "repo": "ai-agent-skills",
+    "githubUrl": "https://github.com/qodex-ai/ai-agent-skills",
+    "displayName": "Word Document Processor"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "zhangxuefeng-perspective",
+  "source": "alchaincyf/zhangxuefeng-skill",
+  "owner": "alchaincyf",
+  "repo": "zhangxuefeng-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/zhangxuefeng-skill",
+    "skillId": "zhangxuefeng-perspective",
+    "name": "zhangxuefeng-perspective",
+    "installs": 10840,
+    "owner": "alchaincyf",
+    "repo": "zhangxuefeng-skill",
+    "githubUrl": "https://github.com/alchaincyf/zhangxuefeng-skill",
+    "displayName": "Zhangxuefeng Perspective"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "typescript",
+  "source": "pproenca/dot-skills",
+  "owner": "pproenca",
+  "repo": "dot-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pproenca/dot-skills",
+    "skillId": "typescript",
+    "name": "typescript",
+    "installs": 1100,
+    "owner": "pproenca",
+    "repo": "dot-skills",
+    "githubUrl": "https://github.com/pproenca/dot-skills",
+    "displayName": "Typescript"
+  }
+}

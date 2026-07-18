@@ -1,0 +1,17 @@
+{
+  "skillId": "momentic-mobile-test",
+  "source": "momentic-ai/skills",
+  "owner": "momentic-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "momentic-ai/skills",
+    "skillId": "momentic-mobile-test",
+    "name": "momentic-mobile-test",
+    "installs": 18452,
+    "owner": "momentic-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/momentic-ai/skills",
+    "displayName": "Momentic Mobile Test"
+  }
+}

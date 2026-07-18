@@ -1,0 +1,17 @@
+{
+  "skillId": "spacing-system",
+  "source": "owl-listener/designer-skills",
+  "owner": "owl-listener",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "owl-listener/designer-skills",
+    "skillId": "spacing-system",
+    "name": "spacing-system",
+    "installs": 924,
+    "owner": "owl-listener",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/owl-listener/designer-skills",
+    "displayName": "Spacing System"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-feature-setup",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-feature-setup",
+    "name": "sentry-feature-setup",
+    "installs": 2650,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry Feature Setup"
+  }
+}

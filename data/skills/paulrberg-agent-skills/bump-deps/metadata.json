@@ -1,0 +1,17 @@
+{
+  "skillId": "bump-deps",
+  "source": "paulrberg/agent-skills",
+  "owner": "paulrberg",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paulrberg/agent-skills",
+    "skillId": "bump-deps",
+    "name": "bump-deps",
+    "installs": 1975,
+    "owner": "paulrberg",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/paulrberg/agent-skills",
+    "displayName": "Bump Deps"
+  }
+}

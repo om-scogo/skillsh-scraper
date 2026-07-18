@@ -1,0 +1,17 @@
+{
+  "skillId": "blender",
+  "source": "sfkislev/flue",
+  "owner": "sfkislev",
+  "repo": "flue",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sfkislev/flue",
+    "skillId": "blender",
+    "name": "blender",
+    "installs": 2149,
+    "owner": "sfkislev",
+    "repo": "flue",
+    "githubUrl": "https://github.com/sfkislev/flue",
+    "displayName": "Blender"
+  }
+}

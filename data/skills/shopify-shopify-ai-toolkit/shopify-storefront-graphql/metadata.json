@@ -1,0 +1,17 @@
+{
+  "skillId": "shopify-storefront-graphql",
+  "source": "shopify/shopify-ai-toolkit",
+  "owner": "shopify",
+  "repo": "shopify-ai-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shopify/shopify-ai-toolkit",
+    "skillId": "shopify-storefront-graphql",
+    "name": "shopify-storefront-graphql",
+    "installs": 7151,
+    "owner": "shopify",
+    "repo": "shopify-ai-toolkit",
+    "githubUrl": "https://github.com/shopify/shopify-ai-toolkit",
+    "displayName": "Shopify Storefront Graphql"
+  }
+}

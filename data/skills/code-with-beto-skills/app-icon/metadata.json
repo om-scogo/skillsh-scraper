@@ -1,0 +1,17 @@
+{
+  "skillId": "app-icon",
+  "source": "code-with-beto/skills",
+  "owner": "code-with-beto",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "code-with-beto/skills",
+    "skillId": "app-icon",
+    "name": "app-icon",
+    "installs": 1212,
+    "owner": "code-with-beto",
+    "repo": "skills",
+    "githubUrl": "https://github.com/code-with-beto/skills",
+    "displayName": "App Icon"
+  }
+}

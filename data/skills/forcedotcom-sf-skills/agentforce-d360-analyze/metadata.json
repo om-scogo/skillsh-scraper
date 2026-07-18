@@ -1,0 +1,17 @@
+{
+  "skillId": "agentforce-d360-analyze",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "agentforce-d360-analyze",
+    "name": "agentforce-d360-analyze",
+    "installs": 1343,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Agentforce D360 Analyze"
+  }
+}

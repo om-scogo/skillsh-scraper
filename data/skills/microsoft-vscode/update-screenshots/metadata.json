@@ -1,0 +1,17 @@
+{
+  "skillId": "update-screenshots",
+  "source": "microsoft/vscode",
+  "owner": "microsoft",
+  "repo": "vscode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/vscode",
+    "skillId": "update-screenshots",
+    "name": "update-screenshots",
+    "installs": 1855,
+    "owner": "microsoft",
+    "repo": "vscode",
+    "githubUrl": "https://github.com/microsoft/vscode",
+    "displayName": "Update Screenshots"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gemini-image",
+  "source": "johnlindquist/claude",
+  "owner": "johnlindquist",
+  "repo": "claude",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "johnlindquist/claude",
+    "skillId": "gemini-image",
+    "name": "gemini-image",
+    "installs": 1207,
+    "owner": "johnlindquist",
+    "repo": "claude",
+    "githubUrl": "https://github.com/johnlindquist/claude",
+    "displayName": "Gemini Image"
+  }
+}

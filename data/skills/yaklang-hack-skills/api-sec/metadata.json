@@ -1,0 +1,17 @@
+{
+  "skillId": "api-sec",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "api-sec",
+    "name": "api-sec",
+    "installs": 2083,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Api Sec"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-run-on-local-docker",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-run-on-local-docker",
+    "name": "tao-run-on-local-docker",
+    "installs": 1299,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Run On Local Docker"
+  }
+}

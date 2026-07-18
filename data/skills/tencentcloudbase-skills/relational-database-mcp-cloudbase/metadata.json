@@ -1,0 +1,17 @@
+{
+  "skillId": "relational-database-mcp-cloudbase",
+  "source": "tencentcloudbase/skills",
+  "owner": "tencentcloudbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tencentcloudbase/skills",
+    "skillId": "relational-database-mcp-cloudbase",
+    "name": "relational-database-mcp-cloudbase",
+    "installs": 854,
+    "owner": "tencentcloudbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/tencentcloudbase/skills",
+    "displayName": "Relational Database Mcp Cloudbase"
+  }
+}

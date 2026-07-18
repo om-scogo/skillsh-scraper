@@ -1,0 +1,17 @@
+{
+  "skillId": "upgrading-react-native",
+  "source": "callstackincubator/agent-skills",
+  "owner": "callstackincubator",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "callstackincubator/agent-skills",
+    "skillId": "upgrading-react-native",
+    "name": "upgrading-react-native",
+    "installs": 6855,
+    "owner": "callstackincubator",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/callstackincubator/agent-skills",
+    "displayName": "Upgrading React Native"
+  }
+}

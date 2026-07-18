@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-creator",
+  "source": "composiohq/skills",
+  "owner": "composiohq",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "composiohq/skills",
+    "skillId": "skill-creator",
+    "name": "skill-creator",
+    "installs": 2351,
+    "owner": "composiohq",
+    "repo": "skills",
+    "githubUrl": "https://github.com/composiohq/skills",
+    "displayName": "Skill Creator"
+  }
+}

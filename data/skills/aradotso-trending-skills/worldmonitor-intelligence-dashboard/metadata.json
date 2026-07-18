@@ -1,0 +1,17 @@
+{
+  "skillId": "worldmonitor-intelligence-dashboard",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "worldmonitor-intelligence-dashboard",
+    "name": "worldmonitor-intelligence-dashboard",
+    "installs": 1365,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Worldmonitor Intelligence Dashboard"
+  }
+}

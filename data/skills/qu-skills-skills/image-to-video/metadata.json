@@ -1,0 +1,17 @@
+{
+  "skillId": "image-to-video",
+  "source": "qu-skills/skills",
+  "owner": "qu-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "qu-skills/skills",
+    "skillId": "image-to-video",
+    "name": "image-to-video",
+    "installs": 9,
+    "owner": "qu-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/qu-skills/skills",
+    "displayName": "Image To Video"
+  }
+}

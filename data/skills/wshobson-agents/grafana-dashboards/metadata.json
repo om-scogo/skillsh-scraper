@@ -1,0 +1,17 @@
+{
+  "skillId": "grafana-dashboards",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "grafana-dashboards",
+    "name": "grafana-dashboards",
+    "installs": 9915,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Grafana Dashboards"
+  }
+}

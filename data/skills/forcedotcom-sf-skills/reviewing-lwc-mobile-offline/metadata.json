@@ -1,0 +1,17 @@
+{
+  "skillId": "reviewing-lwc-mobile-offline",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "reviewing-lwc-mobile-offline",
+    "name": "reviewing-lwc-mobile-offline",
+    "installs": 1320,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Reviewing Lwc Mobile Offline"
+  }
+}

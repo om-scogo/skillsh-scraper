@@ -1,0 +1,17 @@
+{
+  "skillId": "meticulous-iterative-dev",
+  "source": "alwaysmeticulous/skills",
+  "owner": "alwaysmeticulous",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alwaysmeticulous/skills",
+    "skillId": "meticulous-iterative-dev",
+    "name": "meticulous-iterative-dev",
+    "installs": 2586,
+    "owner": "alwaysmeticulous",
+    "repo": "skills",
+    "githubUrl": "https://github.com/alwaysmeticulous/skills",
+    "displayName": "Meticulous Iterative Dev"
+  }
+}

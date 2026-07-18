@@ -1,0 +1,17 @@
+{
+  "skillId": "game-engine",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "game-engine",
+    "name": "game-engine",
+    "installs": 11479,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Game Engine"
+  }
+}

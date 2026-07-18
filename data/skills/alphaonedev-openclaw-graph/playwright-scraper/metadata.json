@@ -1,0 +1,17 @@
+{
+  "skillId": "playwright-scraper",
+  "source": "alphaonedev/openclaw-graph",
+  "owner": "alphaonedev",
+  "repo": "openclaw-graph",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alphaonedev/openclaw-graph",
+    "skillId": "playwright-scraper",
+    "name": "playwright-scraper",
+    "installs": 1607,
+    "owner": "alphaonedev",
+    "repo": "openclaw-graph",
+    "githubUrl": "https://github.com/alphaonedev/openclaw-graph",
+    "displayName": "Playwright Scraper"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "setup-matt-pocock-skills",
+  "source": "vinvcn/mattpocock-skills-zh-cn",
+  "owner": "vinvcn",
+  "repo": "mattpocock-skills-zh-cn",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vinvcn/mattpocock-skills-zh-cn",
+    "skillId": "setup-matt-pocock-skills",
+    "name": "setup-matt-pocock-skills",
+    "installs": 2566,
+    "owner": "vinvcn",
+    "repo": "mattpocock-skills-zh-cn",
+    "githubUrl": "https://github.com/vinvcn/mattpocock-skills-zh-cn",
+    "displayName": "Setup Matt Pocock Skills"
+  }
+}

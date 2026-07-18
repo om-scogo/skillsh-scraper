@@ -1,0 +1,17 @@
+{
+  "skillId": "margin-trading",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "margin-trading",
+    "name": "margin-trading",
+    "installs": 1930,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Margin Trading"
+  }
+}

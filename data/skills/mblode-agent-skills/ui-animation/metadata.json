@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-animation",
+  "source": "mblode/agent-skills",
+  "owner": "mblode",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mblode/agent-skills",
+    "skillId": "ui-animation",
+    "name": "ui-animation",
+    "installs": 7231,
+    "owner": "mblode",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/mblode/agent-skills",
+    "displayName": "Ui Animation"
+  }
+}

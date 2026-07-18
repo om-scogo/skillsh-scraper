@@ -1,0 +1,17 @@
+{
+  "skillId": "apache-airflow-orchestration",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "apache-airflow-orchestration",
+    "name": "apache-airflow-orchestration",
+    "installs": 1986,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Apache Airflow Orchestration"
+  }
+}

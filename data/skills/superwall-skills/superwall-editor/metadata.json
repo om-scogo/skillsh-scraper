@@ -1,0 +1,17 @@
+{
+  "skillId": "superwall-editor",
+  "source": "superwall/skills",
+  "owner": "superwall",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "superwall/skills",
+    "skillId": "superwall-editor",
+    "name": "superwall-editor",
+    "installs": 1303,
+    "owner": "superwall",
+    "repo": "skills",
+    "githubUrl": "https://github.com/superwall/skills",
+    "displayName": "Superwall Editor"
+  }
+}

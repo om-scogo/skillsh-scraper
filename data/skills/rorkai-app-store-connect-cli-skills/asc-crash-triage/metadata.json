@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-crash-triage",
+  "source": "rorkai/app-store-connect-cli-skills",
+  "owner": "rorkai",
+  "repo": "app-store-connect-cli-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rorkai/app-store-connect-cli-skills",
+    "skillId": "asc-crash-triage",
+    "name": "asc-crash-triage",
+    "installs": 1694,
+    "owner": "rorkai",
+    "repo": "app-store-connect-cli-skills",
+    "githubUrl": "https://github.com/rorkai/app-store-connect-cli-skills",
+    "displayName": "Asc Crash Triage"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "founder-marketing-skills",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "founder-marketing-skills",
+    "name": "founder-marketing-skills",
+    "installs": 885,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Founder Marketing Skills"
+  }
+}

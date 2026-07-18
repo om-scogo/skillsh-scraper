@@ -1,0 +1,17 @@
+{
+  "skillId": "backtesting-frameworks",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "backtesting-frameworks",
+    "name": "backtesting-frameworks",
+    "installs": 12891,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Backtesting Frameworks"
+  }
+}

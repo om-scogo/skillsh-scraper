@@ -1,0 +1,17 @@
+{
+  "skillId": "google-cloud-waf-performance-optimization",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "google-cloud-waf-performance-optimization",
+    "name": "google-cloud-waf-performance-optimization",
+    "installs": 3344,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Google Cloud Waf Performance Optimization"
+  }
+}

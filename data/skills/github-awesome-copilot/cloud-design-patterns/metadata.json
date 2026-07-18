@@ -1,0 +1,17 @@
+{
+  "skillId": "cloud-design-patterns",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "cloud-design-patterns",
+    "name": "cloud-design-patterns",
+    "installs": 2002,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Cloud Design Patterns"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "workflow-automation",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "workflow-automation",
+    "name": "workflow-automation",
+    "installs": 1197,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Workflow Automation"
+  }
+}

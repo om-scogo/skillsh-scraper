@@ -1,0 +1,17 @@
+{
+  "skillId": "dart-setup-ffi-assets",
+  "source": "dart-lang/skills",
+  "owner": "dart-lang",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dart-lang/skills",
+    "skillId": "dart-setup-ffi-assets",
+    "name": "dart-setup-ffi-assets",
+    "installs": 3601,
+    "owner": "dart-lang",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dart-lang/skills",
+    "displayName": "Dart Setup Ffi Assets"
+  }
+}

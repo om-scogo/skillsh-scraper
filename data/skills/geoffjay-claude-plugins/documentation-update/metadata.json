@@ -1,0 +1,17 @@
+{
+  "skillId": "documentation-update",
+  "source": "geoffjay/claude-plugins",
+  "owner": "geoffjay",
+  "repo": "claude-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "geoffjay/claude-plugins",
+    "skillId": "documentation-update",
+    "name": "documentation-update",
+    "installs": 1509,
+    "owner": "geoffjay",
+    "repo": "claude-plugins",
+    "githubUrl": "https://github.com/geoffjay/claude-plugins",
+    "displayName": "Documentation Update"
+  }
+}

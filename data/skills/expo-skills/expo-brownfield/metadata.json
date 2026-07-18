@@ -1,0 +1,17 @@
+{
+  "skillId": "expo-brownfield",
+  "source": "expo/skills",
+  "owner": "expo",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "expo/skills",
+    "skillId": "expo-brownfield",
+    "name": "expo-brownfield",
+    "installs": 9430,
+    "owner": "expo",
+    "repo": "skills",
+    "githubUrl": "https://github.com/expo/skills",
+    "displayName": "Expo Brownfield"
+  }
+}

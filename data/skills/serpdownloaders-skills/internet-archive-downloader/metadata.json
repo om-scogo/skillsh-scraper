@@ -1,0 +1,17 @@
+{
+  "skillId": "internet-archive-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "internet-archive-downloader",
+    "name": "internet-archive-downloader",
+    "installs": 984,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Internet Archive Downloader"
+  }
+}

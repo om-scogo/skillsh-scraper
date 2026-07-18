@@ -1,0 +1,17 @@
+{
+  "skillId": "compare-models",
+  "source": "replicate/skills",
+  "owner": "replicate",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "replicate/skills",
+    "skillId": "compare-models",
+    "name": "compare-models",
+    "installs": 1055,
+    "owner": "replicate",
+    "repo": "skills",
+    "githubUrl": "https://github.com/replicate/skills",
+    "displayName": "Compare Models"
+  }
+}

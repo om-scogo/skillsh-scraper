@@ -1,0 +1,17 @@
+{
+  "skillId": "stripe-directory",
+  "source": "stripe/ai",
+  "owner": "stripe",
+  "repo": "ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "stripe/ai",
+    "skillId": "stripe-directory",
+    "name": "stripe-directory",
+    "installs": 1621,
+    "owner": "stripe",
+    "repo": "ai",
+    "githubUrl": "https://github.com/stripe/ai",
+    "displayName": "Stripe Directory"
+  }
+}

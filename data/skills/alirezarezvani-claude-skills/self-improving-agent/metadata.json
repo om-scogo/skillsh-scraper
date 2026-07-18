@@ -1,0 +1,17 @@
+{
+  "skillId": "self-improving-agent",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "self-improving-agent",
+    "name": "self-improving-agent",
+    "installs": 940,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Self Improving Agent"
+  }
+}

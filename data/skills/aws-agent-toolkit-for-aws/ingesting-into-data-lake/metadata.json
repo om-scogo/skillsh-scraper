@@ -1,0 +1,17 @@
+{
+  "skillId": "ingesting-into-data-lake",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "ingesting-into-data-lake",
+    "name": "ingesting-into-data-lake",
+    "installs": 1994,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Ingesting Into Data Lake"
+  }
+}

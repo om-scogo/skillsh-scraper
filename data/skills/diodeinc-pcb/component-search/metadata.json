@@ -1,0 +1,17 @@
+{
+  "skillId": "component-search",
+  "source": "diodeinc/pcb",
+  "owner": "diodeinc",
+  "repo": "pcb",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "diodeinc/pcb",
+    "skillId": "component-search",
+    "name": "component-search",
+    "installs": 788,
+    "owner": "diodeinc",
+    "repo": "pcb",
+    "githubUrl": "https://github.com/diodeinc/pcb",
+    "displayName": "Component Search"
+  }
+}

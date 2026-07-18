@@ -1,0 +1,17 @@
+{
+  "skillId": "stitch::upload-to-stitch",
+  "source": "google-labs-code/stitch-skills",
+  "owner": "google-labs-code",
+  "repo": "stitch-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-labs-code/stitch-skills",
+    "skillId": "stitch::upload-to-stitch",
+    "name": "stitch::upload-to-stitch",
+    "installs": 4432,
+    "owner": "google-labs-code",
+    "repo": "stitch-skills",
+    "githubUrl": "https://github.com/google-labs-code/stitch-skills",
+    "displayName": "Stitch::upload To Stitch"
+  }
+}

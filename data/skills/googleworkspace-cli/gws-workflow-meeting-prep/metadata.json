@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-workflow-meeting-prep",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "gws-workflow-meeting-prep",
+    "name": "gws-workflow-meeting-prep",
+    "installs": 23614,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Gws Workflow Meeting Prep"
+  }
+}

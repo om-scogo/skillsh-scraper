@@ -1,0 +1,17 @@
+{
+  "skillId": "everything-claude-code",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "everything-claude-code",
+    "name": "everything-claude-code",
+    "installs": 2748,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Everything Claude Code"
+  }
+}

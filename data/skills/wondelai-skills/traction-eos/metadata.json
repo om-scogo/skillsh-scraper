@@ -1,0 +1,17 @@
+{
+  "skillId": "traction-eos",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "traction-eos",
+    "name": "traction-eos",
+    "installs": 2870,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Traction Eos"
+  }
+}

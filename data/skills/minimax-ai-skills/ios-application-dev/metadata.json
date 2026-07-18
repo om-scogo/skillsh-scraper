@@ -1,0 +1,17 @@
+{
+  "skillId": "ios-application-dev",
+  "source": "minimax-ai/skills",
+  "owner": "minimax-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "minimax-ai/skills",
+    "skillId": "ios-application-dev",
+    "name": "ios-application-dev",
+    "installs": 1803,
+    "owner": "minimax-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/minimax-ai/skills",
+    "displayName": "Ios Application Dev"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-docs",
+  "source": "remotion-dev/remotion",
+  "owner": "remotion-dev",
+  "repo": "remotion",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "remotion-dev/remotion",
+    "skillId": "writing-docs",
+    "name": "writing-docs",
+    "installs": 1770,
+    "owner": "remotion-dev",
+    "repo": "remotion",
+    "githubUrl": "https://github.com/remotion-dev/remotion",
+    "displayName": "Writing Docs"
+  }
+}

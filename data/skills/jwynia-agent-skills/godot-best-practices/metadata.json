@@ -1,0 +1,17 @@
+{
+  "skillId": "godot-best-practices",
+  "source": "jwynia/agent-skills",
+  "owner": "jwynia",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jwynia/agent-skills",
+    "skillId": "godot-best-practices",
+    "name": "godot-best-practices",
+    "installs": 1900,
+    "owner": "jwynia",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/jwynia/agent-skills",
+    "displayName": "Godot Best Practices"
+  }
+}

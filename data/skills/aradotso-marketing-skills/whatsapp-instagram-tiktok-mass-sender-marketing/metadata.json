@@ -1,0 +1,17 @@
+{
+  "skillId": "whatsapp-instagram-tiktok-mass-sender-marketing",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "whatsapp-instagram-tiktok-mass-sender-marketing",
+    "name": "whatsapp-instagram-tiktok-mass-sender-marketing",
+    "installs": 747,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Whatsapp Instagram Tiktok Mass Sender Marketing"
+  }
+}

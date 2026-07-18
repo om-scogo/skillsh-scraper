@@ -1,0 +1,17 @@
+{
+  "skillId": "react-modernization",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "react-modernization",
+    "name": "react-modernization",
+    "installs": 9738,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "React Modernization"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "codebase-cleanup-refactor-clean",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "codebase-cleanup-refactor-clean",
+    "name": "codebase-cleanup-refactor-clean",
+    "installs": 817,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Codebase Cleanup Refactor Clean"
+  }
+}

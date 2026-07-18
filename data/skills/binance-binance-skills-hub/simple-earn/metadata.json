@@ -1,0 +1,17 @@
+{
+  "skillId": "simple-earn",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "simple-earn",
+    "name": "simple-earn",
+    "installs": 1081,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Simple Earn"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ios-simulator-skill",
+  "source": "conorluddy/ios-simulator-skill",
+  "owner": "conorluddy",
+  "repo": "ios-simulator-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "conorluddy/ios-simulator-skill",
+    "skillId": "ios-simulator-skill",
+    "name": "ios-simulator-skill",
+    "installs": 1890,
+    "owner": "conorluddy",
+    "repo": "ios-simulator-skill",
+    "githubUrl": "https://github.com/conorluddy/ios-simulator-skill",
+    "displayName": "Ios Simulator Skill"
+  }
+}

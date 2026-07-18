@@ -1,0 +1,17 @@
+{
+  "skillId": "generating-ui-bundle-site",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "generating-ui-bundle-site",
+    "name": "generating-ui-bundle-site",
+    "installs": 1483,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Generating Ui Bundle Site"
+  }
+}

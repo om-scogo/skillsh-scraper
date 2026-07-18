@@ -1,0 +1,17 @@
+{
+  "skillId": "obsidian-cli",
+  "source": "kepano/obsidian-skills",
+  "owner": "kepano",
+  "repo": "obsidian-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kepano/obsidian-skills",
+    "skillId": "obsidian-cli",
+    "name": "obsidian-cli",
+    "installs": 50165,
+    "owner": "kepano",
+    "repo": "obsidian-skills",
+    "githubUrl": "https://github.com/kepano/obsidian-skills",
+    "displayName": "Obsidian Cli"
+  }
+}

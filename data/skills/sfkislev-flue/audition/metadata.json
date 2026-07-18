@@ -1,0 +1,17 @@
+{
+  "skillId": "audition",
+  "source": "sfkislev/flue",
+  "owner": "sfkislev",
+  "repo": "flue",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sfkislev/flue",
+    "skillId": "audition",
+    "name": "audition",
+    "installs": 1701,
+    "owner": "sfkislev",
+    "repo": "flue",
+    "githubUrl": "https://github.com/sfkislev/flue",
+    "displayName": "Audition"
+  }
+}

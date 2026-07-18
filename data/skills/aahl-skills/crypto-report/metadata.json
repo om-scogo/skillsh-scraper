@@ -1,0 +1,17 @@
+{
+  "skillId": "crypto-report",
+  "source": "aahl/skills",
+  "owner": "aahl",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aahl/skills",
+    "skillId": "crypto-report",
+    "name": "crypto-report",
+    "installs": 2433,
+    "owner": "aahl",
+    "repo": "skills",
+    "githubUrl": "https://github.com/aahl/skills",
+    "displayName": "Crypto Report"
+  }
+}

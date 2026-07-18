@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwind-theme-builder",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "tailwind-theme-builder",
+    "name": "tailwind-theme-builder",
+    "installs": 2783,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Tailwind Theme Builder"
+  }
+}

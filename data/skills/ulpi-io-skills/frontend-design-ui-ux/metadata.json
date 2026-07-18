@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-design-ui-ux",
+  "source": "ulpi-io/skills",
+  "owner": "ulpi-io",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ulpi-io/skills",
+    "skillId": "frontend-design-ui-ux",
+    "name": "frontend-design-ui-ux",
+    "installs": 1734,
+    "owner": "ulpi-io",
+    "repo": "skills",
+    "githubUrl": "https://github.com/ulpi-io/skills",
+    "displayName": "Frontend Design Ui Ux"
+  }
+}

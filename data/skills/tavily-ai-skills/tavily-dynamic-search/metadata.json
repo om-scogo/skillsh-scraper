@@ -1,0 +1,17 @@
+{
+  "skillId": "tavily-dynamic-search",
+  "source": "tavily-ai/skills",
+  "owner": "tavily-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tavily-ai/skills",
+    "skillId": "tavily-dynamic-search",
+    "name": "tavily-dynamic-search",
+    "installs": 5923,
+    "owner": "tavily-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/tavily-ai/skills",
+    "displayName": "Tavily Dynamic Search"
+  }
+}

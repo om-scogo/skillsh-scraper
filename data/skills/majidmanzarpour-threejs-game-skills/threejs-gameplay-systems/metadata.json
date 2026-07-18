@@ -1,0 +1,17 @@
+{
+  "skillId": "threejs-gameplay-systems",
+  "source": "majidmanzarpour/threejs-game-skills",
+  "owner": "majidmanzarpour",
+  "repo": "threejs-game-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "majidmanzarpour/threejs-game-skills",
+    "skillId": "threejs-gameplay-systems",
+    "name": "threejs-gameplay-systems",
+    "installs": 778,
+    "owner": "majidmanzarpour",
+    "repo": "threejs-game-skills",
+    "githubUrl": "https://github.com/majidmanzarpour/threejs-game-skills",
+    "displayName": "Threejs Gameplay Systems"
+  }
+}

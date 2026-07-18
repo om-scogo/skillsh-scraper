@@ -1,0 +1,17 @@
+{
+  "skillId": "security-generate-security-sample-data",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "security-generate-security-sample-data",
+    "name": "security-generate-security-sample-data",
+    "installs": 1729,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Security Generate Security Sample Data"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "physical-ai-infrastructure-setup-and-resilient-scaling",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "physical-ai-infrastructure-setup-and-resilient-scaling",
+    "name": "physical-ai-infrastructure-setup-and-resilient-scaling",
+    "installs": 1597,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Physical Ai Infrastructure Setup And Resilient Scaling"
+  }
+}

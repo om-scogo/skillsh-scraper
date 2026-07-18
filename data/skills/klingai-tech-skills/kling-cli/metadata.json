@@ -1,0 +1,17 @@
+{
+  "skillId": "kling-cli",
+  "source": "klingai-tech/skills",
+  "owner": "klingai-tech",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "klingai-tech/skills",
+    "skillId": "kling-cli",
+    "name": "kling-cli",
+    "installs": 3425,
+    "owner": "klingai-tech",
+    "repo": "skills",
+    "githubUrl": "https://github.com/klingai-tech/skills",
+    "displayName": "Kling Cli"
+  }
+}

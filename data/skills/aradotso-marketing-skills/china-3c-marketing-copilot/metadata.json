@@ -1,0 +1,17 @@
+{
+  "skillId": "china-3c-marketing-copilot",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "china-3c-marketing-copilot",
+    "name": "china-3c-marketing-copilot",
+    "installs": 963,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "China 3c Marketing Copilot"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "creating-ec2-image-builder-pipeline",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "creating-ec2-image-builder-pipeline",
+    "name": "creating-ec2-image-builder-pipeline",
+    "installs": 1635,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Creating Ec2 Image Builder Pipeline"
+  }
+}

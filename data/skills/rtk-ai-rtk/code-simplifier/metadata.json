@@ -1,0 +1,17 @@
+{
+  "skillId": "code-simplifier",
+  "source": "rtk-ai/rtk",
+  "owner": "rtk-ai",
+  "repo": "rtk",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rtk-ai/rtk",
+    "skillId": "code-simplifier",
+    "name": "code-simplifier",
+    "installs": 1025,
+    "owner": "rtk-ai",
+    "repo": "rtk",
+    "githubUrl": "https://github.com/rtk-ai/rtk",
+    "displayName": "Code Simplifier"
+  }
+}

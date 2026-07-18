@@ -1,0 +1,17 @@
+{
+  "skillId": "marketing-strategy-pmm",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "marketing-strategy-pmm",
+    "name": "marketing-strategy-pmm",
+    "installs": 803,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Marketing Strategy Pmm"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ddia-systems",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "ddia-systems",
+    "name": "ddia-systems",
+    "installs": 2967,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Ddia Systems"
+  }
+}

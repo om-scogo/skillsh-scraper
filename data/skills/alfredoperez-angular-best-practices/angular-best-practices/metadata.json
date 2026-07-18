@@ -1,0 +1,17 @@
+{
+  "skillId": "angular-best-practices",
+  "source": "alfredoperez/angular-best-practices",
+  "owner": "alfredoperez",
+  "repo": "angular-best-practices",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alfredoperez/angular-best-practices",
+    "skillId": "angular-best-practices",
+    "name": "angular-best-practices",
+    "installs": 941,
+    "owner": "alfredoperez",
+    "repo": "angular-best-practices",
+    "githubUrl": "https://github.com/alfredoperez/angular-best-practices",
+    "displayName": "Angular Best Practices"
+  }
+}

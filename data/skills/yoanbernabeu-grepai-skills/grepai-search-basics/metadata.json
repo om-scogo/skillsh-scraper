@@ -1,0 +1,17 @@
+{
+  "skillId": "grepai-search-basics",
+  "source": "yoanbernabeu/grepai-skills",
+  "owner": "yoanbernabeu",
+  "repo": "grepai-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yoanbernabeu/grepai-skills",
+    "skillId": "grepai-search-basics",
+    "name": "grepai-search-basics",
+    "installs": 776,
+    "owner": "yoanbernabeu",
+    "repo": "grepai-skills",
+    "githubUrl": "https://github.com/yoanbernabeu/grepai-skills",
+    "displayName": "Grepai Search Basics"
+  }
+}

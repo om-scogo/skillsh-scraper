@@ -1,0 +1,17 @@
+{
+  "skillId": "paperclip-create-plugin",
+  "source": "paperclipai/paperclip",
+  "owner": "paperclipai",
+  "repo": "paperclip",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paperclipai/paperclip",
+    "skillId": "paperclip-create-plugin",
+    "name": "paperclip-create-plugin",
+    "installs": 2037,
+    "owner": "paperclipai",
+    "repo": "paperclip",
+    "githubUrl": "https://github.com/paperclipai/paperclip",
+    "displayName": "Paperclip Create Plugin"
+  }
+}

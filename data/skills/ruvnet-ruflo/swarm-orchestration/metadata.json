@@ -1,0 +1,17 @@
+{
+  "skillId": "swarm-orchestration",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "swarm-orchestration",
+    "name": "swarm orchestration",
+    "installs": 781,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Swarm Orchestration"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "csharp-tunit",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "csharp-tunit",
+    "name": "csharp-tunit",
+    "installs": 8669,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Csharp Tunit"
+  }
+}

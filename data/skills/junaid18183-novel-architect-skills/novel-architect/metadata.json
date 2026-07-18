@@ -1,0 +1,17 @@
+{
+  "skillId": "novel-architect",
+  "source": "junaid18183/novel-architect-skills",
+  "owner": "junaid18183",
+  "repo": "novel-architect-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "junaid18183/novel-architect-skills",
+    "skillId": "novel-architect",
+    "name": "novel-architect",
+    "installs": 2038,
+    "owner": "junaid18183",
+    "repo": "novel-architect-skills",
+    "githubUrl": "https://github.com/junaid18183/novel-architect-skills",
+    "displayName": "Novel Architect"
+  }
+}

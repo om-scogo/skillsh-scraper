@@ -1,0 +1,17 @@
+{
+  "skillId": "experience-lwc-generate",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "experience-lwc-generate",
+    "name": "experience-lwc-generate",
+    "installs": 1490,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Experience Lwc Generate"
+  }
+}

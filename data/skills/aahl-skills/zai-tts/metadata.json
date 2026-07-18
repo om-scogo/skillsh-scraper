@@ -1,0 +1,17 @@
+{
+  "skillId": "zai-tts",
+  "source": "aahl/skills",
+  "owner": "aahl",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aahl/skills",
+    "skillId": "zai-tts",
+    "name": "zai-tts",
+    "installs": 1855,
+    "owner": "aahl",
+    "repo": "skills",
+    "githubUrl": "https://github.com/aahl/skills",
+    "displayName": "Zai Tts"
+  }
+}

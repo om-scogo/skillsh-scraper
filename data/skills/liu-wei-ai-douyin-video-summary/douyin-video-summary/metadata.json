@@ -1,0 +1,17 @@
+{
+  "skillId": "douyin-video-summary",
+  "source": "liu-wei-ai/douyin-video-summary",
+  "owner": "liu-wei-ai",
+  "repo": "douyin-video-summary",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "liu-wei-ai/douyin-video-summary",
+    "skillId": "douyin-video-summary",
+    "name": "douyin-video-summary",
+    "installs": 1654,
+    "owner": "liu-wei-ai",
+    "repo": "douyin-video-summary",
+    "githubUrl": "https://github.com/liu-wei-ai/douyin-video-summary",
+    "displayName": "Douyin Video Summary"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-trading-predictor",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-trading-predictor",
+    "name": "agent-trading-predictor",
+    "installs": 1047,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Trading Predictor"
+  }
+}

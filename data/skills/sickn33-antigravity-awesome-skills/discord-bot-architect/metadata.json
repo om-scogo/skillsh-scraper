@@ -1,0 +1,17 @@
+{
+  "skillId": "discord-bot-architect",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "discord-bot-architect",
+    "name": "discord-bot-architect",
+    "installs": 1307,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Discord Bot Architect"
+  }
+}

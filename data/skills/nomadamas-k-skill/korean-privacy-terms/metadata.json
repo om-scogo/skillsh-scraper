@@ -1,0 +1,17 @@
+{
+  "skillId": "korean-privacy-terms",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "korean-privacy-terms",
+    "name": "korean-privacy-terms",
+    "installs": 2188,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Korean Privacy Terms"
+  }
+}

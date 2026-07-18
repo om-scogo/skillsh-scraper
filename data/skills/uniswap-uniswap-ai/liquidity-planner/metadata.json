@@ -1,0 +1,17 @@
+{
+  "skillId": "liquidity-planner",
+  "source": "uniswap/uniswap-ai",
+  "owner": "uniswap",
+  "repo": "uniswap-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "uniswap/uniswap-ai",
+    "skillId": "liquidity-planner",
+    "name": "liquidity-planner",
+    "installs": 816,
+    "owner": "uniswap",
+    "repo": "uniswap-ai",
+    "githubUrl": "https://github.com/uniswap/uniswap-ai",
+    "displayName": "Liquidity Planner"
+  }
+}

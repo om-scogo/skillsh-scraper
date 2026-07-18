@@ -1,0 +1,17 @@
+{
+  "skillId": "123rf-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "123rf-downloader",
+    "name": "123rf-downloader",
+    "installs": 955,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "123rf Downloader"
+  }
+}

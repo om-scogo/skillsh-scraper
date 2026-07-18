@@ -1,0 +1,17 @@
+{
+  "skillId": "plankton-code-quality",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "plankton-code-quality",
+    "name": "plankton-code-quality",
+    "installs": 1092,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Plankton Code Quality"
+  }
+}

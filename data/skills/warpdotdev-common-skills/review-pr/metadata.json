@@ -1,0 +1,17 @@
+{
+  "skillId": "review-pr",
+  "source": "warpdotdev/common-skills",
+  "owner": "warpdotdev",
+  "repo": "common-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "warpdotdev/common-skills",
+    "skillId": "review-pr",
+    "name": "review-pr",
+    "installs": 13515,
+    "owner": "warpdotdev",
+    "repo": "common-skills",
+    "githubUrl": "https://github.com/warpdotdev/common-skills",
+    "displayName": "Review Pr"
+  }
+}

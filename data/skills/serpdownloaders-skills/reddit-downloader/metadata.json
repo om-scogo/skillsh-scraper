@@ -1,0 +1,17 @@
+{
+  "skillId": "reddit-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "reddit-downloader",
+    "name": "reddit-downloader",
+    "installs": 973,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Reddit Downloader"
+  }
+}

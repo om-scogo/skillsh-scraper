@@ -1,0 +1,17 @@
+{
+  "skillId": "playwright-explore-website",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "playwright-explore-website",
+    "name": "playwright-explore-website",
+    "installs": 13083,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Playwright Explore Website"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "neon-postgres-branches",
+  "source": "neondatabase/agent-skills",
+  "owner": "neondatabase",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "neondatabase/agent-skills",
+    "skillId": "neon-postgres-branches",
+    "name": "neon-postgres-branches",
+    "installs": 1340,
+    "owner": "neondatabase",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/neondatabase/agent-skills",
+    "displayName": "Neon Postgres Branches"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "stock-watcher",
+  "source": "agentbay-ai/agentbay-skills",
+  "owner": "agentbay-ai",
+  "repo": "agentbay-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agentbay-ai/agentbay-skills",
+    "skillId": "stock-watcher",
+    "name": "stock-watcher",
+    "installs": 997,
+    "owner": "agentbay-ai",
+    "repo": "agentbay-skills",
+    "githubUrl": "https://github.com/agentbay-ai/agentbay-skills",
+    "displayName": "Stock Watcher"
+  }
+}

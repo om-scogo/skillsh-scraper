@@ -1,0 +1,17 @@
+{
+  "skillId": "prd-generator",
+  "source": "jamesrochabrun/skills",
+  "owner": "jamesrochabrun",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jamesrochabrun/skills",
+    "skillId": "prd-generator",
+    "name": "prd-generator",
+    "installs": 1035,
+    "owner": "jamesrochabrun",
+    "repo": "skills",
+    "githubUrl": "https://github.com/jamesrochabrun/skills",
+    "displayName": "Prd Generator"
+  }
+}

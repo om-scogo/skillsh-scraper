@@ -1,0 +1,17 @@
+{
+  "skillId": "visual-design-foundations",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "visual-design-foundations",
+    "name": "visual-design-foundations",
+    "installs": 9961,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Visual Design Foundations"
+  }
+}

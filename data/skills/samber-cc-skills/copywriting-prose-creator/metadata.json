@@ -1,0 +1,17 @@
+{
+  "skillId": "copywriting-prose-creator",
+  "source": "samber/cc-skills",
+  "owner": "samber",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills",
+    "skillId": "copywriting-prose-creator",
+    "name": "copywriting-prose-creator",
+    "installs": 1922,
+    "owner": "samber",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/samber/cc-skills",
+    "displayName": "Copywriting Prose Creator"
+  }
+}

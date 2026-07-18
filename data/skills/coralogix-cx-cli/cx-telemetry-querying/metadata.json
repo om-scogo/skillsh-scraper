@@ -1,0 +1,17 @@
+{
+  "skillId": "cx-telemetry-querying",
+  "source": "coralogix/cx-cli",
+  "owner": "coralogix",
+  "repo": "cx-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "coralogix/cx-cli",
+    "skillId": "cx-telemetry-querying",
+    "name": "cx-telemetry-querying",
+    "installs": 1422,
+    "owner": "coralogix",
+    "repo": "cx-cli",
+    "githubUrl": "https://github.com/coralogix/cx-cli",
+    "displayName": "Cx Telemetry Querying"
+  }
+}

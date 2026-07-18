@@ -1,0 +1,17 @@
+{
+  "skillId": "problem-framing-canvas",
+  "source": "deanpeters/product-manager-skills",
+  "owner": "deanpeters",
+  "repo": "product-manager-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "deanpeters/product-manager-skills",
+    "skillId": "problem-framing-canvas",
+    "name": "problem-framing-canvas",
+    "installs": 1609,
+    "owner": "deanpeters",
+    "repo": "product-manager-skills",
+    "githubUrl": "https://github.com/deanpeters/product-manager-skills",
+    "displayName": "Problem Framing Canvas"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "git-sync-main",
+  "source": "zc277584121/mygitplugin",
+  "owner": "zc277584121",
+  "repo": "mygitplugin",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zc277584121/mygitplugin",
+    "skillId": "git-sync-main",
+    "name": "git-sync-main",
+    "installs": 1770,
+    "owner": "zc277584121",
+    "repo": "mygitplugin",
+    "githubUrl": "https://github.com/zc277584121/mygitplugin",
+    "displayName": "Git Sync Main"
+  }
+}

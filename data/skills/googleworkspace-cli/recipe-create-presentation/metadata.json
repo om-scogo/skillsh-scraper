@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-create-presentation",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-create-presentation",
+    "name": "recipe-create-presentation",
+    "installs": 24102,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Create Presentation"
+  }
+}

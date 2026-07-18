@@ -1,0 +1,17 @@
+{
+  "skillId": "m11-ecosystem",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "m11-ecosystem",
+    "name": "m11-ecosystem",
+    "installs": 1325,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "M11 Ecosystem"
+  }
+}

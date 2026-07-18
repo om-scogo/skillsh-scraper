@@ -1,0 +1,17 @@
+{
+  "skillId": "contacts-framework",
+  "source": "dpearson2699/swift-ios-skills",
+  "owner": "dpearson2699",
+  "repo": "swift-ios-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dpearson2699/swift-ios-skills",
+    "skillId": "contacts-framework",
+    "name": "contacts-framework",
+    "installs": 2386,
+    "owner": "dpearson2699",
+    "repo": "swift-ios-skills",
+    "githubUrl": "https://github.com/dpearson2699/swift-ios-skills",
+    "displayName": "Contacts Framework"
+  }
+}

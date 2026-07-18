@@ -1,0 +1,17 @@
+{
+  "skillId": "wechat-article-writer",
+  "source": "iamzhihuix/happy-claude-skills",
+  "owner": "iamzhihuix",
+  "repo": "happy-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "iamzhihuix/happy-claude-skills",
+    "skillId": "wechat-article-writer",
+    "name": "wechat-article-writer",
+    "installs": 3172,
+    "owner": "iamzhihuix",
+    "repo": "happy-claude-skills",
+    "githubUrl": "https://github.com/iamzhihuix/happy-claude-skills",
+    "displayName": "Wechat Article Writer"
+  }
+}

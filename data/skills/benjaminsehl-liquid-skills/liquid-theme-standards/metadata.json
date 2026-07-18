@@ -1,0 +1,17 @@
+{
+  "skillId": "liquid-theme-standards",
+  "source": "benjaminsehl/liquid-skills",
+  "owner": "benjaminsehl",
+  "repo": "liquid-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "benjaminsehl/liquid-skills",
+    "skillId": "liquid-theme-standards",
+    "name": "liquid-theme-standards",
+    "installs": 2106,
+    "owner": "benjaminsehl",
+    "repo": "liquid-skills",
+    "githubUrl": "https://github.com/benjaminsehl/liquid-skills",
+    "displayName": "Liquid Theme Standards"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "frame-data-chart-nyt",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "frame-data-chart-nyt",
+    "name": "frame-data-chart-nyt",
+    "installs": 1464,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Frame Data Chart Nyt"
+  }
+}

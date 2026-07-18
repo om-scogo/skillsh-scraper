@@ -1,0 +1,17 @@
+{
+  "skillId": "caido-mode",
+  "source": "caido/skills",
+  "owner": "caido",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "caido/skills",
+    "skillId": "caido-mode",
+    "name": "caido-mode",
+    "installs": 1896,
+    "owner": "caido",
+    "repo": "skills",
+    "githubUrl": "https://github.com/caido/skills",
+    "displayName": "Caido Mode"
+  }
+}

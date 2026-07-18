@@ -1,0 +1,17 @@
+{
+  "skillId": "buddy-sings",
+  "source": "minimax-ai/skills",
+  "owner": "minimax-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "minimax-ai/skills",
+    "skillId": "buddy-sings",
+    "name": "buddy-sings",
+    "installs": 1075,
+    "owner": "minimax-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/minimax-ai/skills",
+    "displayName": "Buddy Sings"
+  }
+}

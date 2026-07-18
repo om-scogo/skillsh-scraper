@@ -1,0 +1,17 @@
+{
+  "skillId": "ce-dhh-rails-style",
+  "source": "everyinc/compound-engineering-plugin",
+  "owner": "everyinc",
+  "repo": "compound-engineering-plugin",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "everyinc/compound-engineering-plugin",
+    "skillId": "ce-dhh-rails-style",
+    "name": "ce-dhh-rails-style",
+    "installs": 1782,
+    "owner": "everyinc",
+    "repo": "compound-engineering-plugin",
+    "githubUrl": "https://github.com/everyinc/compound-engineering-plugin",
+    "displayName": "Ce Dhh Rails Style"
+  }
+}

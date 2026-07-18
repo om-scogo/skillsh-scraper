@@ -1,0 +1,17 @@
+{
+  "skillId": "oncall-irm",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "oncall-irm",
+    "name": "oncall-irm",
+    "installs": 1504,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Oncall Irm"
+  }
+}

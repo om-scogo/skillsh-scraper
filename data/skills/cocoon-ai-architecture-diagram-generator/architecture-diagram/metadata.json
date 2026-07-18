@@ -1,0 +1,17 @@
+{
+  "skillId": "architecture-diagram",
+  "source": "cocoon-ai/architecture-diagram-generator",
+  "owner": "cocoon-ai",
+  "repo": "architecture-diagram-generator",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cocoon-ai/architecture-diagram-generator",
+    "skillId": "architecture-diagram",
+    "name": "architecture-diagram",
+    "installs": 1276,
+    "owner": "cocoon-ai",
+    "repo": "architecture-diagram-generator",
+    "githubUrl": "https://github.com/cocoon-ai/architecture-diagram-generator",
+    "displayName": "Architecture Diagram"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "react-email",
+  "source": "resend/resend-skills",
+  "owner": "resend",
+  "repo": "resend-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "resend/resend-skills",
+    "skillId": "react-email",
+    "name": "react-email",
+    "installs": 4235,
+    "owner": "resend",
+    "repo": "resend-skills",
+    "githubUrl": "https://github.com/resend/resend-skills",
+    "displayName": "React Email"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "distill",
+  "source": "pbakaus/impeccable",
+  "owner": "pbakaus",
+  "repo": "impeccable",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pbakaus/impeccable",
+    "skillId": "distill",
+    "name": "distill",
+    "installs": 80737,
+    "owner": "pbakaus",
+    "repo": "impeccable",
+    "githubUrl": "https://github.com/pbakaus/impeccable",
+    "displayName": "Distill"
+  }
+}

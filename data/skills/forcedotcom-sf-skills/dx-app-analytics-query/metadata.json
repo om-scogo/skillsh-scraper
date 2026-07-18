@@ -1,0 +1,17 @@
+{
+  "skillId": "dx-app-analytics-query",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "dx-app-analytics-query",
+    "name": "dx-app-analytics-query",
+    "installs": 1332,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Dx App Analytics Query"
+  }
+}

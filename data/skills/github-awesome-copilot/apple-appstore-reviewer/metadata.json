@@ -1,0 +1,17 @@
+{
+  "skillId": "apple-appstore-reviewer",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "apple-appstore-reviewer",
+    "name": "apple-appstore-reviewer",
+    "installs": 10067,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Apple Appstore Reviewer"
+  }
+}

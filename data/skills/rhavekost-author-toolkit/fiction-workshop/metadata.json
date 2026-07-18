@@ -1,0 +1,17 @@
+{
+  "skillId": "fiction-workshop",
+  "source": "rhavekost/author-toolkit",
+  "owner": "rhavekost",
+  "repo": "author-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rhavekost/author-toolkit",
+    "skillId": "fiction-workshop",
+    "name": "fiction-workshop",
+    "installs": 1489,
+    "owner": "rhavekost",
+    "repo": "author-toolkit",
+    "githubUrl": "https://github.com/rhavekost/author-toolkit",
+    "displayName": "Fiction Workshop"
+  }
+}

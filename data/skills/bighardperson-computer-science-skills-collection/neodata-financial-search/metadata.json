@@ -1,0 +1,17 @@
+{
+  "skillId": "neodata-financial-search",
+  "source": "bighardperson/computer-science-skills-collection",
+  "owner": "bighardperson",
+  "repo": "computer-science-skills-collection",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bighardperson/computer-science-skills-collection",
+    "skillId": "neodata-financial-search",
+    "name": "neodata-financial-search",
+    "installs": 1288,
+    "owner": "bighardperson",
+    "repo": "computer-science-skills-collection",
+    "githubUrl": "https://github.com/bighardperson/computer-science-skills-collection",
+    "displayName": "Neodata Financial Search"
+  }
+}

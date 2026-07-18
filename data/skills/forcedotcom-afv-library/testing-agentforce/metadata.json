@@ -1,0 +1,17 @@
+{
+  "skillId": "testing-agentforce",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "testing-agentforce",
+    "name": "testing-agentforce",
+    "installs": 1496,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Testing Agentforce"
+  }
+}

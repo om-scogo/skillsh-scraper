@@ -1,0 +1,17 @@
+{
+  "skillId": "error-handling-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "error-handling-patterns",
+    "name": "error-handling-patterns",
+    "installs": 17905,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Error Handling Patterns"
+  }
+}

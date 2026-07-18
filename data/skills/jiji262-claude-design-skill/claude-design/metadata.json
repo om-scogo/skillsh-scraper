@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-design",
+  "source": "jiji262/claude-design-skill",
+  "owner": "jiji262",
+  "repo": "claude-design-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jiji262/claude-design-skill",
+    "skillId": "claude-design",
+    "name": "claude-design",
+    "installs": 1170,
+    "owner": "jiji262",
+    "repo": "claude-design-skill",
+    "githubUrl": "https://github.com/jiji262/claude-design-skill",
+    "displayName": "Claude Design"
+  }
+}

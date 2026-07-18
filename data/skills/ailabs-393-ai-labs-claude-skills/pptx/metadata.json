@@ -1,0 +1,17 @@
+{
+  "skillId": "pptx",
+  "source": "ailabs-393/ai-labs-claude-skills",
+  "owner": "ailabs-393",
+  "repo": "ai-labs-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ailabs-393/ai-labs-claude-skills",
+    "skillId": "pptx",
+    "name": "pptx",
+    "installs": 844,
+    "owner": "ailabs-393",
+    "repo": "ai-labs-claude-skills",
+    "githubUrl": "https://github.com/ailabs-393/ai-labs-claude-skills",
+    "displayName": "Pptx"
+  }
+}

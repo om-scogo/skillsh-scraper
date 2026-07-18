@@ -1,0 +1,17 @@
+{
+  "skillId": "plannotator-visual-explainer",
+  "source": "backnotprop/plannotator",
+  "owner": "backnotprop",
+  "repo": "plannotator",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "backnotprop/plannotator",
+    "skillId": "plannotator-visual-explainer",
+    "name": "plannotator-visual-explainer",
+    "installs": 3885,
+    "owner": "backnotprop",
+    "repo": "plannotator",
+    "githubUrl": "https://github.com/backnotprop/plannotator",
+    "displayName": "Plannotator Visual Explainer"
+  }
+}

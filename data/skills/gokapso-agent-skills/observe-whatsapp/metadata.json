@@ -1,0 +1,17 @@
+{
+  "skillId": "observe-whatsapp",
+  "source": "gokapso/agent-skills",
+  "owner": "gokapso",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gokapso/agent-skills",
+    "skillId": "observe-whatsapp",
+    "name": "observe-whatsapp",
+    "installs": 2007,
+    "owner": "gokapso",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/gokapso/agent-skills",
+    "displayName": "Observe Whatsapp"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "elevenlabs",
+  "source": "digitalsamba/claude-code-video-toolkit",
+  "owner": "digitalsamba",
+  "repo": "claude-code-video-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "digitalsamba/claude-code-video-toolkit",
+    "skillId": "elevenlabs",
+    "name": "elevenlabs",
+    "installs": 789,
+    "owner": "digitalsamba",
+    "repo": "claude-code-video-toolkit",
+    "githubUrl": "https://github.com/digitalsamba/claude-code-video-toolkit",
+    "displayName": "Elevenlabs"
+  }
+}

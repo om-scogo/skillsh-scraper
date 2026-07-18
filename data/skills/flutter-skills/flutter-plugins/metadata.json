@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-plugins",
+  "source": "flutter/skills",
+  "owner": "flutter",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "flutter/skills",
+    "skillId": "flutter-plugins",
+    "name": "flutter-plugins",
+    "installs": 982,
+    "owner": "flutter",
+    "repo": "skills",
+    "githubUrl": "https://github.com/flutter/skills",
+    "displayName": "Flutter Plugins"
+  }
+}

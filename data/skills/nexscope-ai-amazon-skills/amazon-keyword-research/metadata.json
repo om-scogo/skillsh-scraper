@@ -1,0 +1,17 @@
+{
+  "skillId": "amazon-keyword-research",
+  "source": "nexscope-ai/amazon-skills",
+  "owner": "nexscope-ai",
+  "repo": "amazon-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexscope-ai/amazon-skills",
+    "skillId": "amazon-keyword-research",
+    "name": "amazon-keyword-research",
+    "installs": 781,
+    "owner": "nexscope-ai",
+    "repo": "amazon-skills",
+    "githubUrl": "https://github.com/nexscope-ai/amazon-skills",
+    "displayName": "Amazon Keyword Research"
+  }
+}

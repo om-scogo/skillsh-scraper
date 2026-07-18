@@ -1,0 +1,17 @@
+{
+  "skillId": "ruby-mcp-server-generator",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "ruby-mcp-server-generator",
+    "name": "ruby-mcp-server-generator",
+    "installs": 8507,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Ruby Mcp Server Generator"
+  }
+}

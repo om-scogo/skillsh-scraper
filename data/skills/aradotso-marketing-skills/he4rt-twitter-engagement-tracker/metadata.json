@@ -1,0 +1,17 @@
+{
+  "skillId": "he4rt-twitter-engagement-tracker",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "he4rt-twitter-engagement-tracker",
+    "name": "he4rt-twitter-engagement-tracker",
+    "installs": 810,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "He4rt Twitter Engagement Tracker"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "blave-quant",
+  "source": "blave-tw/blave-quant-skill",
+  "owner": "blave-tw",
+  "repo": "blave-quant-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "blave-tw/blave-quant-skill",
+    "skillId": "blave-quant",
+    "name": "blave-quant",
+    "installs": 3080,
+    "owner": "blave-tw",
+    "repo": "blave-quant-skill",
+    "githubUrl": "https://github.com/blave-tw/blave-quant-skill",
+    "displayName": "Blave Quant"
+  }
+}

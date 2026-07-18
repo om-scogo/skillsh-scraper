@@ -1,0 +1,17 @@
+{
+  "skillId": "tsdown",
+  "source": "rolldown/tsdown",
+  "owner": "rolldown",
+  "repo": "tsdown",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rolldown/tsdown",
+    "skillId": "tsdown",
+    "name": "tsdown",
+    "installs": 1106,
+    "owner": "rolldown",
+    "repo": "tsdown",
+    "githubUrl": "https://github.com/rolldown/tsdown",
+    "displayName": "Tsdown"
+  }
+}

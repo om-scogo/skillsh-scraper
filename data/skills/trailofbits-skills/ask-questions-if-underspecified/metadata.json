@@ -1,0 +1,17 @@
+{
+  "skillId": "ask-questions-if-underspecified",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "ask-questions-if-underspecified",
+    "name": "ask-questions-if-underspecified",
+    "installs": 6341,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Ask Questions If Underspecified"
+  }
+}

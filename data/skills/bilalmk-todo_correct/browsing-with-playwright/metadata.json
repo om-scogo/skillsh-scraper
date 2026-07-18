@@ -1,0 +1,17 @@
+{
+  "skillId": "browsing-with-playwright",
+  "source": "bilalmk/todo_correct",
+  "owner": "bilalmk",
+  "repo": "todo_correct",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bilalmk/todo_correct",
+    "skillId": "browsing-with-playwright",
+    "name": "browsing-with-playwright",
+    "installs": 1684,
+    "owner": "bilalmk",
+    "repo": "todo_correct",
+    "githubUrl": "https://github.com/bilalmk/todo_correct",
+    "displayName": "Browsing With Playwright"
+  }
+}

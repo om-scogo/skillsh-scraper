@@ -1,0 +1,17 @@
+{
+  "skillId": "secure-code-guardian",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "secure-code-guardian",
+    "name": "secure-code-guardian",
+    "installs": 3521,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Secure Code Guardian"
+  }
+}

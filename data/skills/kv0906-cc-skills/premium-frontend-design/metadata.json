@@ -1,0 +1,17 @@
+{
+  "skillId": "premium-frontend-design",
+  "source": "kv0906/cc-skills",
+  "owner": "kv0906",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kv0906/cc-skills",
+    "skillId": "premium-frontend-design",
+    "name": "premium-frontend-design",
+    "installs": 1178,
+    "owner": "kv0906",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/kv0906/cc-skills",
+    "displayName": "Premium Frontend Design"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "rank-local",
+  "source": "calm-north/seojuice-skills",
+  "owner": "calm-north",
+  "repo": "seojuice-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "calm-north/seojuice-skills",
+    "skillId": "rank-local",
+    "name": "rank-local",
+    "installs": 2409,
+    "owner": "calm-north",
+    "repo": "seojuice-skills",
+    "githubUrl": "https://github.com/calm-north/seojuice-skills",
+    "displayName": "Rank Local"
+  }
+}

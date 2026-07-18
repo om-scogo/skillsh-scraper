@@ -1,0 +1,17 @@
+{
+  "skillId": "from-the-other-side-vega",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "from-the-other-side-vega",
+    "name": "from-the-other-side-vega",
+    "installs": 760,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "From The Other Side Vega"
+  }
+}

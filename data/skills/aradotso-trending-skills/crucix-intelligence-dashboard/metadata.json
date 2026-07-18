@@ -1,0 +1,17 @@
+{
+  "skillId": "crucix-intelligence-dashboard",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "crucix-intelligence-dashboard",
+    "name": "crucix-intelligence-dashboard",
+    "installs": 1340,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Crucix Intelligence Dashboard"
+  }
+}

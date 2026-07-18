@@ -1,0 +1,17 @@
+{
+  "skillId": "author-contributions",
+  "source": "microsoft/vscode",
+  "owner": "microsoft",
+  "repo": "vscode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/vscode",
+    "skillId": "author-contributions",
+    "name": "author-contributions",
+    "installs": 1881,
+    "owner": "microsoft",
+    "repo": "vscode",
+    "githubUrl": "https://github.com/microsoft/vscode",
+    "displayName": "Author Contributions"
+  }
+}

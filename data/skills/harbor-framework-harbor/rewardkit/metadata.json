@@ -1,0 +1,17 @@
+{
+  "skillId": "rewardkit",
+  "source": "harbor-framework/harbor",
+  "owner": "harbor-framework",
+  "repo": "harbor",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "harbor-framework/harbor",
+    "skillId": "rewardkit",
+    "name": "rewardkit",
+    "installs": 923,
+    "owner": "harbor-framework",
+    "repo": "harbor",
+    "githubUrl": "https://github.com/harbor-framework/harbor",
+    "displayName": "Rewardkit"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "crawl4ai",
+  "source": "brettdavies/crawl4ai-skill",
+  "owner": "brettdavies",
+  "repo": "crawl4ai-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "brettdavies/crawl4ai-skill",
+    "skillId": "crawl4ai",
+    "name": "crawl4ai",
+    "installs": 775,
+    "owner": "brettdavies",
+    "repo": "crawl4ai-skill",
+    "githubUrl": "https://github.com/brettdavies/crawl4ai-skill",
+    "displayName": "Crawl4ai"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "hola-poke-yeoksam",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "hola-poke-yeoksam",
+    "name": "hola-poke-yeoksam",
+    "installs": 2269,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Hola Poke Yeoksam"
+  }
+}

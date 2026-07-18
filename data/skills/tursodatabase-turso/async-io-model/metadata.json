@@ -1,0 +1,17 @@
+{
+  "skillId": "async-io-model",
+  "source": "tursodatabase/turso",
+  "owner": "tursodatabase",
+  "repo": "turso",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tursodatabase/turso",
+    "skillId": "async-io-model",
+    "name": "async-io-model",
+    "installs": 886,
+    "owner": "tursodatabase",
+    "repo": "turso",
+    "githubUrl": "https://github.com/tursodatabase/turso",
+    "displayName": "Async Io Model"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "nodejs-core",
+  "source": "mcollina/skills",
+  "owner": "mcollina",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mcollina/skills",
+    "skillId": "nodejs-core",
+    "name": "nodejs-core",
+    "installs": 1263,
+    "owner": "mcollina",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mcollina/skills",
+    "displayName": "Nodejs Core"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "information-security-manager-iso27001",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "information-security-manager-iso27001",
+    "name": "information-security-manager-iso27001",
+    "installs": 808,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Information Security Manager Iso27001"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "openosint-ai-osint-framework",
+  "source": "aradotso/security-skills",
+  "owner": "aradotso",
+  "repo": "security-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/security-skills",
+    "skillId": "openosint-ai-osint-framework",
+    "name": "openosint-ai-osint-framework",
+    "installs": 1007,
+    "owner": "aradotso",
+    "repo": "security-skills",
+    "githubUrl": "https://github.com/aradotso/security-skills",
+    "displayName": "Openosint Ai Osint Framework"
+  }
+}

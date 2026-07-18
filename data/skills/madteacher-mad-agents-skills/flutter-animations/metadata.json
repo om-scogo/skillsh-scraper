@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-animations",
+  "source": "madteacher/mad-agents-skills",
+  "owner": "madteacher",
+  "repo": "mad-agents-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "madteacher/mad-agents-skills",
+    "skillId": "flutter-animations",
+    "name": "flutter-animations",
+    "installs": 14582,
+    "owner": "madteacher",
+    "repo": "mad-agents-skills",
+    "githubUrl": "https://github.com/madteacher/mad-agents-skills",
+    "displayName": "Flutter Animations"
+  }
+}

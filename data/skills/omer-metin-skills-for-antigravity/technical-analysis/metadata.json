@@ -1,0 +1,17 @@
+{
+  "skillId": "technical-analysis",
+  "source": "omer-metin/skills-for-antigravity",
+  "owner": "omer-metin",
+  "repo": "skills-for-antigravity",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "omer-metin/skills-for-antigravity",
+    "skillId": "technical-analysis",
+    "name": "technical-analysis",
+    "installs": 1772,
+    "owner": "omer-metin",
+    "repo": "skills-for-antigravity",
+    "githubUrl": "https://github.com/omer-metin/skills-for-antigravity",
+    "displayName": "Technical Analysis"
+  }
+}

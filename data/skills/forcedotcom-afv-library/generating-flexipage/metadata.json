@@ -1,0 +1,17 @@
+{
+  "skillId": "generating-flexipage",
+  "source": "forcedotcom/afv-library",
+  "owner": "forcedotcom",
+  "repo": "afv-library",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/afv-library",
+    "skillId": "generating-flexipage",
+    "name": "generating-flexipage",
+    "installs": 1549,
+    "owner": "forcedotcom",
+    "repo": "afv-library",
+    "githubUrl": "https://github.com/forcedotcom/afv-library",
+    "displayName": "Generating Flexipage"
+  }
+}

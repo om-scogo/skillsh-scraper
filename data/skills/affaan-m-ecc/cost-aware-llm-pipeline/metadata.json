@@ -1,0 +1,17 @@
+{
+  "skillId": "cost-aware-llm-pipeline",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "cost-aware-llm-pipeline",
+    "name": "cost-aware-llm-pipeline",
+    "installs": 1115,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Cost Aware Llm Pipeline"
+  }
+}

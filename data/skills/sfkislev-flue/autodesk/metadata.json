@@ -1,0 +1,17 @@
+{
+  "skillId": "autodesk",
+  "source": "sfkislev/flue",
+  "owner": "sfkislev",
+  "repo": "flue",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sfkislev/flue",
+    "skillId": "autodesk",
+    "name": "autodesk",
+    "installs": 1797,
+    "owner": "sfkislev",
+    "repo": "flue",
+    "githubUrl": "https://github.com/sfkislev/flue",
+    "displayName": "Autodesk"
+  }
+}

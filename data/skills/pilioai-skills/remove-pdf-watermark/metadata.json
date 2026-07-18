@@ -1,0 +1,17 @@
+{
+  "skillId": "remove-pdf-watermark",
+  "source": "pilioai/skills",
+  "owner": "pilioai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pilioai/skills",
+    "skillId": "remove-pdf-watermark",
+    "name": "remove-pdf-watermark",
+    "installs": 7339,
+    "owner": "pilioai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/pilioai/skills",
+    "displayName": "Remove Pdf Watermark"
+  }
+}

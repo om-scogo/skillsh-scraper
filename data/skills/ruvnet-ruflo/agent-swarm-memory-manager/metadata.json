@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-swarm-memory-manager",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-swarm-memory-manager",
+    "name": "agent-swarm-memory-manager",
+    "installs": 1003,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Swarm Memory Manager"
+  }
+}

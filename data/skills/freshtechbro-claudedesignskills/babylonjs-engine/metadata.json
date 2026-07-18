@@ -1,0 +1,17 @@
+{
+  "skillId": "babylonjs-engine",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "babylonjs-engine",
+    "name": "babylonjs-engine",
+    "installs": 1303,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Babylonjs Engine"
+  }
+}

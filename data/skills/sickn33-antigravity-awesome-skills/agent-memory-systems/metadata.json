@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-memory-systems",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "agent-memory-systems",
+    "name": "agent-memory-systems",
+    "installs": 1694,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Agent Memory Systems"
+  }
+}

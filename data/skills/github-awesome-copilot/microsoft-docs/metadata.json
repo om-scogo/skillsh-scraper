@@ -1,0 +1,17 @@
+{
+  "skillId": "microsoft-docs",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "microsoft-docs",
+    "name": "microsoft-docs",
+    "installs": 13117,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Microsoft Docs"
+  }
+}

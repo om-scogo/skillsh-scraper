@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-revenuecat-catalog-sync",
+  "source": "rudrankriyam/app-store-connect-cli-skills",
+  "owner": "rudrankriyam",
+  "repo": "app-store-connect-cli-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rudrankriyam/app-store-connect-cli-skills",
+    "skillId": "asc-revenuecat-catalog-sync",
+    "name": "asc-revenuecat-catalog-sync",
+    "installs": 1472,
+    "owner": "rudrankriyam",
+    "repo": "app-store-connect-cli-skills",
+    "githubUrl": "https://github.com/rudrankriyam/app-store-connect-cli-skills",
+    "displayName": "Asc Revenuecat Catalog Sync"
+  }
+}

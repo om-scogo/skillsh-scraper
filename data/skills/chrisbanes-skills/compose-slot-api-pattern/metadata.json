@@ -1,0 +1,17 @@
+{
+  "skillId": "compose-slot-api-pattern",
+  "source": "chrisbanes/skills",
+  "owner": "chrisbanes",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chrisbanes/skills",
+    "skillId": "compose-slot-api-pattern",
+    "name": "compose-slot-api-pattern",
+    "installs": 793,
+    "owner": "chrisbanes",
+    "repo": "skills",
+    "githubUrl": "https://github.com/chrisbanes/skills",
+    "displayName": "Compose Slot Api Pattern"
+  }
+}

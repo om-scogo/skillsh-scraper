@@ -1,0 +1,17 @@
+{
+  "skillId": "plan-do-check-act",
+  "source": "neolabhq/context-engineering-kit",
+  "owner": "neolabhq",
+  "repo": "context-engineering-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "neolabhq/context-engineering-kit",
+    "skillId": "plan-do-check-act",
+    "name": "plan-do-check-act",
+    "installs": 797,
+    "owner": "neolabhq",
+    "repo": "context-engineering-kit",
+    "githubUrl": "https://github.com/neolabhq/context-engineering-kit",
+    "displayName": "Plan Do Check Act"
+  }
+}

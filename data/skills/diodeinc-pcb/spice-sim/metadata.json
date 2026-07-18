@@ -1,0 +1,17 @@
+{
+  "skillId": "spice-sim",
+  "source": "diodeinc/pcb",
+  "owner": "diodeinc",
+  "repo": "pcb",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "diodeinc/pcb",
+    "skillId": "spice-sim",
+    "name": "spice-sim",
+    "installs": 906,
+    "owner": "diodeinc",
+    "repo": "pcb",
+    "githubUrl": "https://github.com/diodeinc/pcb",
+    "displayName": "Spice Sim"
+  }
+}

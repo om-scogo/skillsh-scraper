@@ -1,0 +1,17 @@
+{
+  "skillId": "zhang-yiming-perspective",
+  "source": "alchaincyf/zhang-yiming-skill",
+  "owner": "alchaincyf",
+  "repo": "zhang-yiming-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/zhang-yiming-skill",
+    "skillId": "zhang-yiming-perspective",
+    "name": "zhang-yiming-perspective",
+    "installs": 1994,
+    "owner": "alchaincyf",
+    "repo": "zhang-yiming-skill",
+    "githubUrl": "https://github.com/alchaincyf/zhang-yiming-skill",
+    "displayName": "Zhang Yiming Perspective"
+  }
+}

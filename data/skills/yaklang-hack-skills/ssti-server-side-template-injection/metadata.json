@@ -1,0 +1,17 @@
+{
+  "skillId": "ssti-server-side-template-injection",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "ssti-server-side-template-injection",
+    "name": "ssti-server-side-template-injection",
+    "installs": 1956,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Ssti Server Side Template Injection"
+  }
+}

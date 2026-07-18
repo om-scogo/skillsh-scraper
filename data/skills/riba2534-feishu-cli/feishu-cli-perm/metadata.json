@@ -1,0 +1,17 @@
+{
+  "skillId": "feishu-cli-perm",
+  "source": "riba2534/feishu-cli",
+  "owner": "riba2534",
+  "repo": "feishu-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "riba2534/feishu-cli",
+    "skillId": "feishu-cli-perm",
+    "name": "feishu-cli-perm",
+    "installs": 802,
+    "owner": "riba2534",
+    "repo": "feishu-cli",
+    "githubUrl": "https://github.com/riba2534/feishu-cli",
+    "displayName": "Feishu Cli Perm"
+  }
+}

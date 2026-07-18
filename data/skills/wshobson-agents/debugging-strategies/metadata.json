@@ -1,0 +1,17 @@
+{
+  "skillId": "debugging-strategies",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "debugging-strategies",
+    "name": "debugging-strategies",
+    "installs": 10331,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Debugging Strategies"
+  }
+}

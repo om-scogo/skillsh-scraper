@@ -1,0 +1,17 @@
+{
+  "skillId": "react-devtools",
+  "source": "callstackincubator/agent-react-devtools",
+  "owner": "callstackincubator",
+  "repo": "agent-react-devtools",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "callstackincubator/agent-react-devtools",
+    "skillId": "react-devtools",
+    "name": "react-devtools",
+    "installs": 2098,
+    "owner": "callstackincubator",
+    "repo": "agent-react-devtools",
+    "githubUrl": "https://github.com/callstackincubator/agent-react-devtools",
+    "displayName": "React Devtools"
+  }
+}

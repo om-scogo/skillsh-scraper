@@ -1,0 +1,17 @@
+{
+  "skillId": "higgsfield-websites",
+  "source": "higgsfield-ai/skills",
+  "owner": "higgsfield-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "higgsfield-ai/skills",
+    "skillId": "higgsfield-websites",
+    "name": "higgsfield-websites",
+    "installs": 11185,
+    "owner": "higgsfield-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/higgsfield-ai/skills",
+    "displayName": "Higgsfield Websites"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "seasonal-aso",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "seasonal-aso",
+    "name": "seasonal-aso",
+    "installs": 1411,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "Seasonal Aso"
+  }
+}

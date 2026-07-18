@@ -1,0 +1,17 @@
+{
+  "skillId": "shadcn",
+  "source": "shadcn-ui/ui",
+  "owner": "shadcn-ui",
+  "repo": "ui",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shadcn-ui/ui",
+    "skillId": "shadcn",
+    "name": "shadcn",
+    "installs": 5122,
+    "owner": "shadcn-ui",
+    "repo": "ui",
+    "githubUrl": "https://github.com/shadcn-ui/ui",
+    "displayName": "Shadcn"
+  }
+}

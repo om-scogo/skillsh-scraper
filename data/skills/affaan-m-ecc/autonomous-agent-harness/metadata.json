@@ -1,0 +1,17 @@
+{
+  "skillId": "autonomous-agent-harness",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "autonomous-agent-harness",
+    "name": "autonomous-agent-harness",
+    "installs": 1128,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Autonomous Agent Harness"
+  }
+}

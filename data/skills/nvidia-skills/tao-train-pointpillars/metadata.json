@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-train-pointpillars",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-train-pointpillars",
+    "name": "tao-train-pointpillars",
+    "installs": 1278,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Train Pointpillars"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "nia",
+  "source": "nozomio-labs/nia-skill",
+  "owner": "nozomio-labs",
+  "repo": "nia-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nozomio-labs/nia-skill",
+    "skillId": "nia",
+    "name": "nia",
+    "installs": 50529,
+    "owner": "nozomio-labs",
+    "repo": "nia-skill",
+    "githubUrl": "https://github.com/nozomio-labs/nia-skill",
+    "displayName": "Nia"
+  }
+}

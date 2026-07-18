@@ -1,0 +1,17 @@
+{
+  "skillId": "launchdarkly-metric-choose",
+  "source": "launchdarkly/agent-skills",
+  "owner": "launchdarkly",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "launchdarkly/agent-skills",
+    "skillId": "launchdarkly-metric-choose",
+    "name": "launchdarkly-metric-choose",
+    "installs": 2411,
+    "owner": "launchdarkly",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/launchdarkly/agent-skills",
+    "displayName": "Launchdarkly Metric Choose"
+  }
+}

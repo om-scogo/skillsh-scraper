@@ -1,0 +1,17 @@
+{
+  "skillId": "google-calendar",
+  "source": "odyssey4me/agent-skills",
+  "owner": "odyssey4me",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "odyssey4me/agent-skills",
+    "skillId": "google-calendar",
+    "name": "google-calendar",
+    "installs": 1223,
+    "owner": "odyssey4me",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/odyssey4me/agent-skills",
+    "displayName": "Google Calendar"
+  }
+}

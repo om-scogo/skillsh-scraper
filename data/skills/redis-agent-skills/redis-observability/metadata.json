@@ -1,0 +1,17 @@
+{
+  "skillId": "redis-observability",
+  "source": "redis/agent-skills",
+  "owner": "redis",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "redis/agent-skills",
+    "skillId": "redis-observability",
+    "name": "redis-observability",
+    "installs": 743,
+    "owner": "redis",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/redis/agent-skills",
+    "displayName": "Redis Observability"
+  }
+}

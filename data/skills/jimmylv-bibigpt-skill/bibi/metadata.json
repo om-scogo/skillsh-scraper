@@ -1,0 +1,17 @@
+{
+  "skillId": "bibi",
+  "source": "jimmylv/bibigpt-skill",
+  "owner": "jimmylv",
+  "repo": "bibigpt-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jimmylv/bibigpt-skill",
+    "skillId": "bibi",
+    "name": "bibi",
+    "installs": 1710,
+    "owner": "jimmylv",
+    "repo": "bibigpt-skill",
+    "githubUrl": "https://github.com/jimmylv/bibigpt-skill",
+    "displayName": "Bibi"
+  }
+}

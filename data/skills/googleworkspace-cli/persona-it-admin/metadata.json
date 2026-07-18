@@ -1,0 +1,17 @@
+{
+  "skillId": "persona-it-admin",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "persona-it-admin",
+    "name": "persona-it-admin",
+    "installs": 22120,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Persona It Admin"
+  }
+}

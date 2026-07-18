@@ -1,0 +1,17 @@
+{
+  "skillId": "hindsight-docs",
+  "source": "vectorize-io/hindsight",
+  "owner": "vectorize-io",
+  "repo": "hindsight",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vectorize-io/hindsight",
+    "skillId": "hindsight-docs",
+    "name": "hindsight-docs",
+    "installs": 4640,
+    "owner": "vectorize-io",
+    "repo": "hindsight",
+    "githubUrl": "https://github.com/vectorize-io/hindsight",
+    "displayName": "Hindsight Docs"
+  }
+}

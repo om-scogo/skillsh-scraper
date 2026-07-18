@@ -1,0 +1,17 @@
+{
+  "skillId": "mao-zedong-perspective",
+  "source": "leezythu/maoxuan-skill",
+  "owner": "leezythu",
+  "repo": "maoxuan-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "leezythu/maoxuan-skill",
+    "skillId": "mao-zedong-perspective",
+    "name": "mao-zedong-perspective",
+    "installs": 1128,
+    "owner": "leezythu",
+    "repo": "maoxuan-skill",
+    "githubUrl": "https://github.com/leezythu/maoxuan-skill",
+    "displayName": "Mao Zedong Perspective"
+  }
+}

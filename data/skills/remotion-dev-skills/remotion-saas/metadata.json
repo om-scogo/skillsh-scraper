@@ -1,0 +1,17 @@
+{
+  "skillId": "remotion-saas",
+  "source": "remotion-dev/skills",
+  "owner": "remotion-dev",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "remotion-dev/skills",
+    "skillId": "remotion-saas",
+    "name": "remotion-saas",
+    "installs": 6256,
+    "owner": "remotion-dev",
+    "repo": "skills",
+    "githubUrl": "https://github.com/remotion-dev/skills",
+    "displayName": "Remotion Saas"
+  }
+}

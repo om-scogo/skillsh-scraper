@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-nestjs-sdk",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-nestjs-sdk",
+    "name": "sentry-nestjs-sdk",
+    "installs": 1933,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry Nestjs Sdk"
+  }
+}

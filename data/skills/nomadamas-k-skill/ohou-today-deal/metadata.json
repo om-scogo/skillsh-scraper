@@ -1,0 +1,17 @@
+{
+  "skillId": "ohou-today-deal",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "ohou-today-deal",
+    "name": "ohou-today-deal",
+    "installs": 1265,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Ohou Today Deal"
+  }
+}

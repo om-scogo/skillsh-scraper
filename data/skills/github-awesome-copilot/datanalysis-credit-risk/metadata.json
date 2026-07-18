@@ -1,0 +1,17 @@
+{
+  "skillId": "datanalysis-credit-risk",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "datanalysis-credit-risk",
+    "name": "datanalysis-credit-risk",
+    "installs": 7141,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Datanalysis Credit Risk"
+  }
+}

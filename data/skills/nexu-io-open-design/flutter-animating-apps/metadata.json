@@ -1,0 +1,17 @@
+{
+  "skillId": "flutter-animating-apps",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "flutter-animating-apps",
+    "name": "flutter-animating-apps",
+    "installs": 1673,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Flutter Animating Apps"
+  }
+}

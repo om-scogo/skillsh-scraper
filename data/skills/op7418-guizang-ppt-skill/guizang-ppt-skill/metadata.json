@@ -1,0 +1,17 @@
+{
+  "skillId": "guizang-ppt-skill",
+  "source": "op7418/guizang-ppt-skill",
+  "owner": "op7418",
+  "repo": "guizang-ppt-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "op7418/guizang-ppt-skill",
+    "skillId": "guizang-ppt-skill",
+    "name": "guizang-ppt-skill",
+    "installs": 19945,
+    "owner": "op7418",
+    "repo": "guizang-ppt-skill",
+    "githubUrl": "https://github.com/op7418/guizang-ppt-skill",
+    "displayName": "Guizang Ppt Skill"
+  }
+}

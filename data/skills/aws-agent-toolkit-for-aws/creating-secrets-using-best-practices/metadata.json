@@ -1,0 +1,17 @@
+{
+  "skillId": "creating-secrets-using-best-practices",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "creating-secrets-using-best-practices",
+    "name": "creating-secrets-using-best-practices",
+    "installs": 1936,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Creating Secrets Using Best Practices"
+  }
+}

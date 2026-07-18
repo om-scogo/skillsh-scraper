@@ -1,0 +1,17 @@
+{
+  "skillId": "react-nextjs-development",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "react-nextjs-development",
+    "name": "react-nextjs-development",
+    "installs": 1351,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "React Nextjs Development"
+  }
+}

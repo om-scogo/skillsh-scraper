@@ -1,0 +1,17 @@
+{
+  "skillId": "spm-build-analysis",
+  "source": "avdlee/xcode-build-optimization-agent-skill",
+  "owner": "avdlee",
+  "repo": "xcode-build-optimization-agent-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "avdlee/xcode-build-optimization-agent-skill",
+    "skillId": "spm-build-analysis",
+    "name": "spm-build-analysis",
+    "installs": 2726,
+    "owner": "avdlee",
+    "repo": "xcode-build-optimization-agent-skill",
+    "githubUrl": "https://github.com/avdlee/xcode-build-optimization-agent-skill",
+    "displayName": "Spm Build Analysis"
+  }
+}

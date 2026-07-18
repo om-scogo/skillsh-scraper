@@ -1,0 +1,17 @@
+{
+  "skillId": "fx-carry-trade",
+  "source": "anthropics/financial-services-plugins",
+  "owner": "anthropics",
+  "repo": "financial-services-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/financial-services-plugins",
+    "skillId": "fx-carry-trade",
+    "name": "fx-carry-trade",
+    "installs": 857,
+    "owner": "anthropics",
+    "repo": "financial-services-plugins",
+    "githubUrl": "https://github.com/anthropics/financial-services-plugins",
+    "displayName": "Fx Carry Trade"
+  }
+}

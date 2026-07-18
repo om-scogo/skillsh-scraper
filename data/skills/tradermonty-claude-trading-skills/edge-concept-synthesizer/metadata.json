@@ -1,0 +1,17 @@
+{
+  "skillId": "edge-concept-synthesizer",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "edge-concept-synthesizer",
+    "name": "edge-concept-synthesizer",
+    "installs": 740,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Edge Concept Synthesizer"
+  }
+}

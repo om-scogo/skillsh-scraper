@@ -1,0 +1,17 @@
+{
+  "skillId": "figma-generate-library",
+  "source": "figma/mcp-server-guide",
+  "owner": "figma",
+  "repo": "mcp-server-guide",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "figma/mcp-server-guide",
+    "skillId": "figma-generate-library",
+    "name": "figma-generate-library",
+    "installs": 2570,
+    "owner": "figma",
+    "repo": "mcp-server-guide",
+    "githubUrl": "https://github.com/figma/mcp-server-guide",
+    "displayName": "Figma Generate Library"
+  }
+}

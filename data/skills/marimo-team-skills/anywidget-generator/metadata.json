@@ -1,0 +1,17 @@
+{
+  "skillId": "anywidget-generator",
+  "source": "marimo-team/skills",
+  "owner": "marimo-team",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "marimo-team/skills",
+    "skillId": "anywidget-generator",
+    "name": "anywidget-generator",
+    "installs": 2354,
+    "owner": "marimo-team",
+    "repo": "skills",
+    "githubUrl": "https://github.com/marimo-team/skills",
+    "displayName": "Anywidget Generator"
+  }
+}

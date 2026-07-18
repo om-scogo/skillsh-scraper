@@ -1,0 +1,17 @@
+{
+  "skillId": "windows-privilege-escalation",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "windows-privilege-escalation",
+    "name": "windows-privilege-escalation",
+    "installs": 1903,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Windows Privilege Escalation"
+  }
+}

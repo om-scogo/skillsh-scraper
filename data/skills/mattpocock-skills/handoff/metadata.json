@@ -1,0 +1,17 @@
+{
+  "skillId": "handoff",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "handoff",
+    "name": "handoff",
+    "installs": 372774,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Handoff"
+  }
+}

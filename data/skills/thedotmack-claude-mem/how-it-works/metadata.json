@@ -1,0 +1,17 @@
+{
+  "skillId": "how-it-works",
+  "source": "thedotmack/claude-mem",
+  "owner": "thedotmack",
+  "repo": "claude-mem",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thedotmack/claude-mem",
+    "skillId": "how-it-works",
+    "name": "how-it-works",
+    "installs": 2995,
+    "owner": "thedotmack",
+    "repo": "claude-mem",
+    "githubUrl": "https://github.com/thedotmack/claude-mem",
+    "displayName": "How It Works"
+  }
+}

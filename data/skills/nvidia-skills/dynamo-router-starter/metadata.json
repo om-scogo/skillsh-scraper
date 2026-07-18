@@ -1,0 +1,17 @@
+{
+  "skillId": "dynamo-router-starter",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "dynamo-router-starter",
+    "name": "dynamo-router-starter",
+    "installs": 1554,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Dynamo Router Starter"
+  }
+}

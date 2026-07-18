@@ -1,0 +1,17 @@
+{
+  "skillId": "day2-create-context-sync-skill",
+  "source": "ai-native-camp/camp-1",
+  "owner": "ai-native-camp",
+  "repo": "camp-1",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ai-native-camp/camp-1",
+    "skillId": "day2-create-context-sync-skill",
+    "name": "day2-create-context-sync-skill",
+    "installs": 1604,
+    "owner": "ai-native-camp",
+    "repo": "camp-1",
+    "githubUrl": "https://github.com/ai-native-camp/camp-1",
+    "displayName": "Day2 Create Context Sync Skill"
+  }
+}

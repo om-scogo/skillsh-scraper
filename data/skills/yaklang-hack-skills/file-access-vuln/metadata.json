@@ -1,0 +1,17 @@
+{
+  "skillId": "file-access-vuln",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "file-access-vuln",
+    "name": "file-access-vuln",
+    "installs": 1961,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "File Access Vuln"
+  }
+}

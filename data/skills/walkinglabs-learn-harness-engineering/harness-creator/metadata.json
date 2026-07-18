@@ -1,0 +1,17 @@
+{
+  "skillId": "harness-creator",
+  "source": "walkinglabs/learn-harness-engineering",
+  "owner": "walkinglabs",
+  "repo": "learn-harness-engineering",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "walkinglabs/learn-harness-engineering",
+    "skillId": "harness-creator",
+    "name": "harness-creator",
+    "installs": 1422,
+    "owner": "walkinglabs",
+    "repo": "learn-harness-engineering",
+    "githubUrl": "https://github.com/walkinglabs/learn-harness-engineering",
+    "displayName": "Harness Creator"
+  }
+}

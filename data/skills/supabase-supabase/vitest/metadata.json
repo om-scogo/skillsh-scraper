@@ -1,0 +1,17 @@
+{
+  "skillId": "vitest",
+  "source": "supabase/supabase",
+  "owner": "supabase",
+  "repo": "supabase",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "supabase/supabase",
+    "skillId": "vitest",
+    "name": "vitest",
+    "installs": 1851,
+    "owner": "supabase",
+    "repo": "supabase",
+    "githubUrl": "https://github.com/supabase/supabase",
+    "displayName": "Vitest"
+  }
+}

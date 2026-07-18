@@ -1,0 +1,17 @@
+{
+  "skillId": "dotnet-10-csharp-14",
+  "source": "mhagrelius/dotfiles",
+  "owner": "mhagrelius",
+  "repo": "dotfiles",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mhagrelius/dotfiles",
+    "skillId": "dotnet-10-csharp-14",
+    "name": "dotnet-10-csharp-14",
+    "installs": 1746,
+    "owner": "mhagrelius",
+    "repo": "dotfiles",
+    "githubUrl": "https://github.com/mhagrelius/dotfiles",
+    "displayName": "Dotnet 10 Csharp 14"
+  }
+}

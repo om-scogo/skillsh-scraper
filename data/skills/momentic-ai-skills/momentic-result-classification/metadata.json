@@ -1,0 +1,17 @@
+{
+  "skillId": "momentic-result-classification",
+  "source": "momentic-ai/skills",
+  "owner": "momentic-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "momentic-ai/skills",
+    "skillId": "momentic-result-classification",
+    "name": "momentic-result-classification",
+    "installs": 32726,
+    "owner": "momentic-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/momentic-ai/skills",
+    "displayName": "Momentic Result Classification"
+  }
+}

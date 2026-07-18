@@ -1,0 +1,17 @@
+{
+  "skillId": "gtm-developer-ecosystem",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "gtm-developer-ecosystem",
+    "name": "gtm-developer-ecosystem",
+    "installs": 1446,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Gtm Developer Ecosystem"
+  }
+}

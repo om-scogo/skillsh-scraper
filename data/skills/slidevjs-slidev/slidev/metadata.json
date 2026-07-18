@@ -1,0 +1,17 @@
+{
+  "skillId": "slidev",
+  "source": "slidevjs/slidev",
+  "owner": "slidevjs",
+  "repo": "slidev",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "slidevjs/slidev",
+    "skillId": "slidev",
+    "name": "slidev",
+    "installs": 8994,
+    "owner": "slidevjs",
+    "repo": "slidev",
+    "githubUrl": "https://github.com/slidevjs/slidev",
+    "displayName": "Slidev"
+  }
+}

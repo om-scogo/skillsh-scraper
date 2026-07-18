@@ -1,0 +1,17 @@
+{
+  "skillId": "mcp2cli",
+  "source": "knowsuchagency/mcp2cli",
+  "owner": "knowsuchagency",
+  "repo": "mcp2cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "knowsuchagency/mcp2cli",
+    "skillId": "mcp2cli",
+    "name": "mcp2cli",
+    "installs": 1170,
+    "owner": "knowsuchagency",
+    "repo": "mcp2cli",
+    "githubUrl": "https://github.com/knowsuchagency/mcp2cli",
+    "displayName": "Mcp2cli"
+  }
+}

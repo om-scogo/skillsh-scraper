@@ -1,0 +1,17 @@
+{
+  "skillId": "build-clusters",
+  "source": "calm-north/seojuice-skills",
+  "owner": "calm-north",
+  "repo": "seojuice-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "calm-north/seojuice-skills",
+    "skillId": "build-clusters",
+    "name": "build-clusters",
+    "installs": 2023,
+    "owner": "calm-north",
+    "repo": "seojuice-skills",
+    "githubUrl": "https://github.com/calm-north/seojuice-skills",
+    "displayName": "Build Clusters"
+  }
+}

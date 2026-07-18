@@ -1,0 +1,17 @@
+{
+  "skillId": "add-uint-support",
+  "source": "pytorch/pytorch",
+  "owner": "pytorch",
+  "repo": "pytorch",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pytorch/pytorch",
+    "skillId": "add-uint-support",
+    "name": "add-uint-support",
+    "installs": 1953,
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "githubUrl": "https://github.com/pytorch/pytorch",
+    "displayName": "Add Uint Support"
+  }
+}

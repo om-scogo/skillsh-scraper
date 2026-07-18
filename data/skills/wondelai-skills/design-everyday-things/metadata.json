@@ -1,0 +1,17 @@
+{
+  "skillId": "design-everyday-things",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "design-everyday-things",
+    "name": "design-everyday-things",
+    "installs": 3057,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Design Everyday Things"
+  }
+}

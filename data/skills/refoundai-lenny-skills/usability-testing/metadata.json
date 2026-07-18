@@ -1,0 +1,17 @@
+{
+  "skillId": "usability-testing",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "usability-testing",
+    "name": "usability-testing",
+    "installs": 1791,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Usability Testing"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "grimoire-aave",
+  "source": "franalgaba/grimoire",
+  "owner": "franalgaba",
+  "repo": "grimoire",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "franalgaba/grimoire",
+    "skillId": "grimoire-aave",
+    "name": "grimoire-aave",
+    "installs": 1057,
+    "owner": "franalgaba",
+    "repo": "grimoire",
+    "githubUrl": "https://github.com/franalgaba/grimoire",
+    "displayName": "Grimoire Aave"
+  }
+}

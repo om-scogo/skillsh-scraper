@@ -1,0 +1,17 @@
+{
+  "skillId": "content-creator",
+  "source": "shubhamsaboo/awesome-llm-apps",
+  "owner": "shubhamsaboo",
+  "repo": "awesome-llm-apps",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "shubhamsaboo/awesome-llm-apps",
+    "skillId": "content-creator",
+    "name": "content-creator",
+    "installs": 4682,
+    "owner": "shubhamsaboo",
+    "repo": "awesome-llm-apps",
+    "githubUrl": "https://github.com/shubhamsaboo/awesome-llm-apps",
+    "displayName": "Content Creator"
+  }
+}

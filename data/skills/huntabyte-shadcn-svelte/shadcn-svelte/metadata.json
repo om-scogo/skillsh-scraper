@@ -1,0 +1,17 @@
+{
+  "skillId": "shadcn-svelte",
+  "source": "huntabyte/shadcn-svelte",
+  "owner": "huntabyte",
+  "repo": "shadcn-svelte",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "huntabyte/shadcn-svelte",
+    "skillId": "shadcn-svelte",
+    "name": "shadcn-svelte",
+    "installs": 1964,
+    "owner": "huntabyte",
+    "repo": "shadcn-svelte",
+    "githubUrl": "https://github.com/huntabyte/shadcn-svelte",
+    "displayName": "Shadcn Svelte"
+  }
+}

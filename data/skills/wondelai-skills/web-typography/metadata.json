@@ -1,0 +1,17 @@
+{
+  "skillId": "web-typography",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "web-typography",
+    "name": "web-typography",
+    "installs": 5178,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Web Typography"
+  }
+}

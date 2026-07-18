@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-custom-ui",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-custom-ui",
+    "name": "clerk-custom-ui",
+    "installs": 23609,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk Custom Ui"
+  }
+}

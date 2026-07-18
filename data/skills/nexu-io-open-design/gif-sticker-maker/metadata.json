@@ -1,0 +1,17 @@
+{
+  "skillId": "gif-sticker-maker",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "gif-sticker-maker",
+    "name": "gif-sticker-maker",
+    "installs": 1579,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Gif Sticker Maker"
+  }
+}

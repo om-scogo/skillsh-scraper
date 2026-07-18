@@ -1,0 +1,17 @@
+{
+  "skillId": "pirate-skill",
+  "source": "google-gemini/gemini-cli",
+  "owner": "google-gemini",
+  "repo": "gemini-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-gemini/gemini-cli",
+    "skillId": "pirate-skill",
+    "name": "pirate-skill",
+    "installs": 799,
+    "owner": "google-gemini",
+    "repo": "gemini-cli",
+    "githubUrl": "https://github.com/google-gemini/gemini-cli",
+    "displayName": "Pirate Skill"
+  }
+}

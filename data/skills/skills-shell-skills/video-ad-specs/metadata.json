@@ -1,0 +1,17 @@
+{
+  "skillId": "video-ad-specs",
+  "source": "skills-shell/skills",
+  "owner": "skills-shell",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "skills-shell/skills",
+    "skillId": "video-ad-specs",
+    "name": "video-ad-specs",
+    "installs": 9,
+    "owner": "skills-shell",
+    "repo": "skills",
+    "githubUrl": "https://github.com/skills-shell/skills",
+    "displayName": "Video Ad Specs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "firebase-basics",
+  "source": "firebase/skills",
+  "owner": "firebase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firebase/skills",
+    "skillId": "firebase-basics",
+    "name": "firebase-basics",
+    "installs": 1282,
+    "owner": "firebase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/firebase/skills",
+    "displayName": "Firebase Basics"
+  }
+}

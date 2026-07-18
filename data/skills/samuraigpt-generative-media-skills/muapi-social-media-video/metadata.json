@@ -1,0 +1,17 @@
+{
+  "skillId": "muapi-social-media-video",
+  "source": "samuraigpt/generative-media-skills",
+  "owner": "samuraigpt",
+  "repo": "generative-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samuraigpt/generative-media-skills",
+    "skillId": "muapi-social-media-video",
+    "name": "muapi-social-media-video",
+    "installs": 1389,
+    "owner": "samuraigpt",
+    "repo": "generative-media-skills",
+    "githubUrl": "https://github.com/samuraigpt/generative-media-skills",
+    "displayName": "Muapi Social Media Video"
+  }
+}

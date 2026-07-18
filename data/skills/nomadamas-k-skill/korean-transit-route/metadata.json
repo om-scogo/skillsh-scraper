@@ -1,0 +1,17 @@
+{
+  "skillId": "korean-transit-route",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "korean-transit-route",
+    "name": "korean-transit-route",
+    "installs": 1435,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Korean Transit Route"
+  }
+}

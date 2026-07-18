@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-performance-optimizer",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-performance-optimizer",
+    "name": "agent-performance-optimizer",
+    "installs": 1040,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Performance Optimizer"
+  }
+}

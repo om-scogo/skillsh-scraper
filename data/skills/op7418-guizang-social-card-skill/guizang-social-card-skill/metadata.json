@@ -1,0 +1,17 @@
+{
+  "skillId": "guizang-social-card-skill",
+  "source": "op7418/guizang-social-card-skill",
+  "owner": "op7418",
+  "repo": "guizang-social-card-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "op7418/guizang-social-card-skill",
+    "skillId": "guizang-social-card-skill",
+    "name": "guizang-social-card-skill",
+    "installs": 3292,
+    "owner": "op7418",
+    "repo": "guizang-social-card-skill",
+    "githubUrl": "https://github.com/op7418/guizang-social-card-skill",
+    "displayName": "Guizang Social Card Skill"
+  }
+}

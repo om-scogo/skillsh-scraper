@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-consensus-coordinator",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-consensus-coordinator",
+    "name": "agent-consensus-coordinator",
+    "installs": 997,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Consensus Coordinator"
+  }
+}

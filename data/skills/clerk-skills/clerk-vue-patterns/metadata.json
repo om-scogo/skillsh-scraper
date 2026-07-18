@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-vue-patterns",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-vue-patterns",
+    "name": "clerk-vue-patterns",
+    "installs": 6780,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk Vue Patterns"
+  }
+}

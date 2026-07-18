@@ -1,0 +1,17 @@
+{
+  "skillId": "literature-search-biorxiv",
+  "source": "google-deepmind/science-skills",
+  "owner": "google-deepmind",
+  "repo": "science-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-deepmind/science-skills",
+    "skillId": "literature-search-biorxiv",
+    "name": "literature-search-biorxiv",
+    "installs": 1160,
+    "owner": "google-deepmind",
+    "repo": "science-skills",
+    "githubUrl": "https://github.com/google-deepmind/science-skills",
+    "displayName": "Literature Search Biorxiv"
+  }
+}

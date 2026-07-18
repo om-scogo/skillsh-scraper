@@ -1,0 +1,17 @@
+{
+  "skillId": "dropshipping-product-research",
+  "source": "nexscope-ai/ecommerce-skills",
+  "owner": "nexscope-ai",
+  "repo": "ecommerce-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexscope-ai/ecommerce-skills",
+    "skillId": "dropshipping-product-research",
+    "name": "dropshipping-product-research",
+    "installs": 743,
+    "owner": "nexscope-ai",
+    "repo": "ecommerce-skills",
+    "githubUrl": "https://github.com/nexscope-ai/ecommerce-skills",
+    "displayName": "Dropshipping Product Research"
+  }
+}

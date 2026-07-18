@@ -1,0 +1,17 @@
+{
+  "skillId": "okx-dex-strategy",
+  "source": "okx/onchainos-skills",
+  "owner": "okx",
+  "repo": "onchainos-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "okx/onchainos-skills",
+    "skillId": "okx-dex-strategy",
+    "name": "okx-dex-strategy",
+    "installs": 2986,
+    "owner": "okx",
+    "repo": "onchainos-skills",
+    "githubUrl": "https://github.com/okx/onchainos-skills",
+    "displayName": "Okx Dex Strategy"
+  }
+}

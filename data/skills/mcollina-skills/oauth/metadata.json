@@ -1,0 +1,17 @@
+{
+  "skillId": "oauth",
+  "source": "mcollina/skills",
+  "owner": "mcollina",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mcollina/skills",
+    "skillId": "oauth",
+    "name": "oauth",
+    "installs": 926,
+    "owner": "mcollina",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mcollina/skills",
+    "displayName": "Oauth"
+  }
+}

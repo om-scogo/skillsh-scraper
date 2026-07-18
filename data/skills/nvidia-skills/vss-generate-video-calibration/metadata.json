@@ -1,0 +1,17 @@
+{
+  "skillId": "vss-generate-video-calibration",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "vss-generate-video-calibration",
+    "name": "vss-generate-video-calibration",
+    "installs": 1498,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Vss Generate Video Calibration"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "comfyui-prompt-engineer",
+  "source": "mckruz/comfyui-expert",
+  "owner": "mckruz",
+  "repo": "comfyui-expert",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mckruz/comfyui-expert",
+    "skillId": "comfyui-prompt-engineer",
+    "name": "comfyui-prompt-engineer",
+    "installs": 774,
+    "owner": "mckruz",
+    "repo": "comfyui-expert",
+    "githubUrl": "https://github.com/mckruz/comfyui-expert",
+    "displayName": "Comfyui Prompt Engineer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "academic-writing",
+  "source": "jamditis/claude-skills-journalism",
+  "owner": "jamditis",
+  "repo": "claude-skills-journalism",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jamditis/claude-skills-journalism",
+    "skillId": "academic-writing",
+    "name": "academic-writing",
+    "installs": 2473,
+    "owner": "jamditis",
+    "repo": "claude-skills-journalism",
+    "githubUrl": "https://github.com/jamditis/claude-skills-journalism",
+    "displayName": "Academic Writing"
+  }
+}

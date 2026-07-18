@@ -1,0 +1,17 @@
+{
+  "skillId": "baoyu-wechat-summary",
+  "source": "jimliu/baoyu-skills",
+  "owner": "jimliu",
+  "repo": "baoyu-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jimliu/baoyu-skills",
+    "skillId": "baoyu-wechat-summary",
+    "name": "baoyu-wechat-summary",
+    "installs": 7038,
+    "owner": "jimliu",
+    "repo": "baoyu-skills",
+    "githubUrl": "https://github.com/jimliu/baoyu-skills",
+    "displayName": "Baoyu Wechat Summary"
+  }
+}

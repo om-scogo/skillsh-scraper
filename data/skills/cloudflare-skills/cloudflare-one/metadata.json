@@ -1,0 +1,17 @@
+{
+  "skillId": "cloudflare-one",
+  "source": "cloudflare/skills",
+  "owner": "cloudflare",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cloudflare/skills",
+    "skillId": "cloudflare-one",
+    "name": "cloudflare-one",
+    "installs": 7682,
+    "owner": "cloudflare",
+    "repo": "skills",
+    "githubUrl": "https://github.com/cloudflare/skills",
+    "displayName": "Cloudflare One"
+  }
+}

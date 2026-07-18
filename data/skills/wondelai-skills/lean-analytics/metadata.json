@@ -1,0 +1,17 @@
+{
+  "skillId": "lean-analytics",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "lean-analytics",
+    "name": "lean-analytics",
+    "installs": 798,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Lean Analytics"
+  }
+}

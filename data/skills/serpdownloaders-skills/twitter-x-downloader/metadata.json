@@ -1,0 +1,17 @@
+{
+  "skillId": "twitter-x-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "twitter-x-downloader",
+    "name": "twitter-x-downloader",
+    "installs": 982,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Twitter X Downloader"
+  }
+}

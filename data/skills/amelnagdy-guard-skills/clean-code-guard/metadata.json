@@ -1,0 +1,17 @@
+{
+  "skillId": "clean-code-guard",
+  "source": "amelnagdy/guard-skills",
+  "owner": "amelnagdy",
+  "repo": "guard-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "amelnagdy/guard-skills",
+    "skillId": "clean-code-guard",
+    "name": "clean-code-guard",
+    "installs": 2103,
+    "owner": "amelnagdy",
+    "repo": "guard-skills",
+    "githubUrl": "https://github.com/amelnagdy/guard-skills",
+    "displayName": "Clean Code Guard"
+  }
+}

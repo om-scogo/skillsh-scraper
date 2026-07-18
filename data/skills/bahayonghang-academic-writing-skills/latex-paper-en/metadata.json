@@ -1,0 +1,17 @@
+{
+  "skillId": "latex-paper-en",
+  "source": "bahayonghang/academic-writing-skills",
+  "owner": "bahayonghang",
+  "repo": "academic-writing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bahayonghang/academic-writing-skills",
+    "skillId": "latex-paper-en",
+    "name": "latex-paper-en",
+    "installs": 4114,
+    "owner": "bahayonghang",
+    "repo": "academic-writing-skills",
+    "githubUrl": "https://github.com/bahayonghang/academic-writing-skills",
+    "displayName": "Latex Paper En"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "review-delta",
+  "source": "tirth8205/code-review-graph",
+  "owner": "tirth8205",
+  "repo": "code-review-graph",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tirth8205/code-review-graph",
+    "skillId": "review-delta",
+    "name": "review-delta",
+    "installs": 869,
+    "owner": "tirth8205",
+    "repo": "code-review-graph",
+    "githubUrl": "https://github.com/tirth8205/code-review-graph",
+    "displayName": "Review Delta"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "poster-design-generation",
+  "source": "eachlabs/skills",
+  "owner": "eachlabs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eachlabs/skills",
+    "skillId": "poster-design-generation",
+    "name": "poster-design-generation",
+    "installs": 1633,
+    "owner": "eachlabs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/eachlabs/skills",
+    "displayName": "Poster Design Generation"
+  }
+}

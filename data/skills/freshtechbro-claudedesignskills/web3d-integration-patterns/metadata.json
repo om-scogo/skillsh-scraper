@@ -1,0 +1,17 @@
+{
+  "skillId": "web3d-integration-patterns",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "web3d-integration-patterns",
+    "name": "web3d-integration-patterns",
+    "installs": 1502,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Web3d Integration Patterns"
+  }
+}

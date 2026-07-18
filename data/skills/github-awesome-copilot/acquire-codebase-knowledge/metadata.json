@@ -1,0 +1,17 @@
+{
+  "skillId": "acquire-codebase-knowledge",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "acquire-codebase-knowledge",
+    "name": "acquire-codebase-knowledge",
+    "installs": 1260,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Acquire Codebase Knowledge"
+  }
+}

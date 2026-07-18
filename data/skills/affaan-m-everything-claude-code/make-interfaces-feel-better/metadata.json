@@ -1,0 +1,17 @@
+{
+  "skillId": "make-interfaces-feel-better",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "make-interfaces-feel-better",
+    "name": "make-interfaces-feel-better",
+    "installs": 1752,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Make Interfaces Feel Better"
+  }
+}

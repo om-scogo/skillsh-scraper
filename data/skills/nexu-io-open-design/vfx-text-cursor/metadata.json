@@ -1,0 +1,17 @@
+{
+  "skillId": "vfx-text-cursor",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "vfx-text-cursor",
+    "name": "vfx-text-cursor",
+    "installs": 1447,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Vfx Text Cursor"
+  }
+}

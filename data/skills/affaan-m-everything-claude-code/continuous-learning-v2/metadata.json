@@ -1,0 +1,17 @@
+{
+  "skillId": "continuous-learning-v2",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "continuous-learning-v2",
+    "name": "continuous-learning-v2",
+    "installs": 7511,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Continuous Learning V2"
+  }
+}

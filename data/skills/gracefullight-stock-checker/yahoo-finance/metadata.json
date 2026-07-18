@@ -1,0 +1,17 @@
+{
+  "skillId": "yahoo-finance",
+  "source": "gracefullight/stock-checker",
+  "owner": "gracefullight",
+  "repo": "stock-checker",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gracefullight/stock-checker",
+    "skillId": "yahoo-finance",
+    "name": "yahoo-finance",
+    "installs": 4311,
+    "owner": "gracefullight",
+    "repo": "stock-checker",
+    "githubUrl": "https://github.com/gracefullight/stock-checker",
+    "displayName": "Yahoo Finance"
+  }
+}

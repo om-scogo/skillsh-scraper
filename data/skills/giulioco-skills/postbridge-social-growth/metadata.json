@@ -1,0 +1,17 @@
+{
+  "skillId": "postbridge-social-growth",
+  "source": "giulioco/skills",
+  "owner": "giulioco",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giulioco/skills",
+    "skillId": "postbridge-social-growth",
+    "name": "postbridge-social-growth",
+    "installs": 1457,
+    "owner": "giulioco",
+    "repo": "skills",
+    "githubUrl": "https://github.com/giulioco/skills",
+    "displayName": "Postbridge Social Growth"
+  }
+}

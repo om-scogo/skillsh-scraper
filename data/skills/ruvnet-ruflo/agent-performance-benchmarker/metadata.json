@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-performance-benchmarker",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-performance-benchmarker",
+    "name": "agent-performance-benchmarker",
+    "installs": 986,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Performance Benchmarker"
+  }
+}

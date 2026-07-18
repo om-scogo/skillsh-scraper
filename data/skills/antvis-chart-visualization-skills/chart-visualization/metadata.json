@@ -1,0 +1,17 @@
+{
+  "skillId": "chart-visualization",
+  "source": "antvis/chart-visualization-skills",
+  "owner": "antvis",
+  "repo": "chart-visualization-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antvis/chart-visualization-skills",
+    "skillId": "chart-visualization",
+    "name": "chart-visualization",
+    "installs": 5036,
+    "owner": "antvis",
+    "repo": "chart-visualization-skills",
+    "githubUrl": "https://github.com/antvis/chart-visualization-skills",
+    "displayName": "Chart Visualization"
+  }
+}

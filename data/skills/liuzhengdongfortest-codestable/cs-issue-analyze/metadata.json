@@ -1,0 +1,17 @@
+{
+  "skillId": "cs-issue-analyze",
+  "source": "liuzhengdongfortest/codestable",
+  "owner": "liuzhengdongfortest",
+  "repo": "codestable",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "liuzhengdongfortest/codestable",
+    "skillId": "cs-issue-analyze",
+    "name": "cs-issue-analyze",
+    "installs": 1231,
+    "owner": "liuzhengdongfortest",
+    "repo": "codestable",
+    "githubUrl": "https://github.com/liuzhengdongfortest/codestable",
+    "displayName": "Cs Issue Analyze"
+  }
+}

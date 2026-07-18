@@ -1,0 +1,17 @@
+{
+  "skillId": "engineering-advanced-skills",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "engineering-advanced-skills",
+    "name": "engineering-advanced-skills",
+    "installs": 1936,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Engineering Advanced Skills"
+  }
+}

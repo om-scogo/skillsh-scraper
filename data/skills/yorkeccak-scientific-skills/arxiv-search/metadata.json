@@ -1,0 +1,17 @@
+{
+  "skillId": "arxiv-search",
+  "source": "yorkeccak/scientific-skills",
+  "owner": "yorkeccak",
+  "repo": "scientific-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yorkeccak/scientific-skills",
+    "skillId": "arxiv-search",
+    "name": "arxiv-search",
+    "installs": 1105,
+    "owner": "yorkeccak",
+    "repo": "scientific-skills",
+    "githubUrl": "https://github.com/yorkeccak/scientific-skills",
+    "displayName": "Arxiv Search"
+  }
+}

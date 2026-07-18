@@ -1,0 +1,17 @@
+{
+  "skillId": "beat-competitors",
+  "source": "calm-north/seojuice-skills",
+  "owner": "calm-north",
+  "repo": "seojuice-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "calm-north/seojuice-skills",
+    "skillId": "beat-competitors",
+    "name": "beat-competitors",
+    "installs": 2067,
+    "owner": "calm-north",
+    "repo": "seojuice-skills",
+    "githubUrl": "https://github.com/calm-north/seojuice-skills",
+    "displayName": "Beat Competitors"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "browser-automation",
+  "source": "sophieguanongit/openclaw-browser-automation",
+  "owner": "sophieguanongit",
+  "repo": "openclaw-browser-automation",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sophieguanongit/openclaw-browser-automation",
+    "skillId": "browser-automation",
+    "name": "browser-automation",
+    "installs": 2886,
+    "owner": "sophieguanongit",
+    "repo": "openclaw-browser-automation",
+    "githubUrl": "https://github.com/sophieguanongit/openclaw-browser-automation",
+    "displayName": "Browser Automation"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "open-prose",
+  "source": "openprose/prose",
+  "owner": "openprose",
+  "repo": "prose",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openprose/prose",
+    "skillId": "open-prose",
+    "name": "open-prose",
+    "installs": 1675,
+    "owner": "openprose",
+    "repo": "prose",
+    "githubUrl": "https://github.com/openprose/prose",
+    "displayName": "Open Prose"
+  }
+}

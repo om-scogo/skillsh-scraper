@@ -1,0 +1,17 @@
+{
+  "skillId": "elasticsearch-onboarding",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "elasticsearch-onboarding",
+    "name": "elasticsearch-onboarding",
+    "installs": 1973,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Elasticsearch Onboarding"
+  }
+}

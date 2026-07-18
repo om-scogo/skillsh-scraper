@@ -1,0 +1,17 @@
+{
+  "skillId": "wireframe-prototyping",
+  "source": "aj-geddes/useful-ai-prompts",
+  "owner": "aj-geddes",
+  "repo": "useful-ai-prompts",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aj-geddes/useful-ai-prompts",
+    "skillId": "wireframe-prototyping",
+    "name": "wireframe-prototyping",
+    "installs": 1221,
+    "owner": "aj-geddes",
+    "repo": "useful-ai-prompts",
+    "githubUrl": "https://github.com/aj-geddes/useful-ai-prompts",
+    "displayName": "Wireframe Prototyping"
+  }
+}

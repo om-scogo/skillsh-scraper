@@ -1,0 +1,17 @@
+{
+  "skillId": "gcp-cloud-run",
+  "source": "sickn33/antigravity-awesome-skills",
+  "owner": "sickn33",
+  "repo": "antigravity-awesome-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sickn33/antigravity-awesome-skills",
+    "skillId": "gcp-cloud-run",
+    "name": "gcp-cloud-run",
+    "installs": 1309,
+    "owner": "sickn33",
+    "repo": "antigravity-awesome-skills",
+    "githubUrl": "https://github.com/sickn33/antigravity-awesome-skills",
+    "displayName": "Gcp Cloud Run"
+  }
+}

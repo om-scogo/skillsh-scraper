@@ -1,0 +1,17 @@
+{
+  "skillId": "viral-youtube-shorts",
+  "source": "vyralcontent/content-skills",
+  "owner": "vyralcontent",
+  "repo": "content-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vyralcontent/content-skills",
+    "skillId": "viral-youtube-shorts",
+    "name": "viral-youtube-shorts",
+    "installs": 11,
+    "owner": "vyralcontent",
+    "repo": "content-skills",
+    "githubUrl": "https://github.com/vyralcontent/content-skills",
+    "displayName": "Viral Youtube Shorts"
+  }
+}

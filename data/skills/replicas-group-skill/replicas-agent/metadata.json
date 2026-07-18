@@ -1,0 +1,17 @@
+{
+  "skillId": "replicas-agent",
+  "source": "replicas-group/skill",
+  "owner": "replicas-group",
+  "repo": "skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "replicas-group/skill",
+    "skillId": "replicas-agent",
+    "name": "replicas-agent",
+    "installs": 33757,
+    "owner": "replicas-group",
+    "repo": "skill",
+    "githubUrl": "https://github.com/replicas-group/skill",
+    "displayName": "Replicas Agent"
+  }
+}

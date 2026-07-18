@@ -1,0 +1,17 @@
+{
+  "skillId": "design-task",
+  "source": "crewaiinc/skills",
+  "owner": "crewaiinc",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "crewaiinc/skills",
+    "skillId": "design-task",
+    "name": "design-task",
+    "installs": 3892,
+    "owner": "crewaiinc",
+    "repo": "skills",
+    "githubUrl": "https://github.com/crewaiinc/skills",
+    "displayName": "Design Task"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "protocol-reverse-engineering",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "protocol-reverse-engineering",
+    "name": "protocol-reverse-engineering",
+    "installs": 8990,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Protocol Reverse Engineering"
+  }
+}

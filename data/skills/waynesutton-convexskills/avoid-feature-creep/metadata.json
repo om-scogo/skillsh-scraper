@@ -1,0 +1,17 @@
+{
+  "skillId": "avoid-feature-creep",
+  "source": "waynesutton/convexskills",
+  "owner": "waynesutton",
+  "repo": "convexskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "waynesutton/convexskills",
+    "skillId": "avoid-feature-creep",
+    "name": "avoid-feature-creep",
+    "installs": 1199,
+    "owner": "waynesutton",
+    "repo": "convexskills",
+    "githubUrl": "https://github.com/waynesutton/convexskills",
+    "displayName": "Avoid Feature Creep"
+  }
+}

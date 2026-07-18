@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-load-balancer",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-load-balancer",
+    "name": "agent-load-balancer",
+    "installs": 991,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Load Balancer"
+  }
+}

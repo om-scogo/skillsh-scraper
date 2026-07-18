@@ -1,0 +1,17 @@
+{
+  "skillId": "airflow-hitl",
+  "source": "astronomer/agents",
+  "owner": "astronomer",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astronomer/agents",
+    "skillId": "airflow-hitl",
+    "name": "airflow-hitl",
+    "installs": 779,
+    "owner": "astronomer",
+    "repo": "agents",
+    "githubUrl": "https://github.com/astronomer/agents",
+    "displayName": "Airflow Hitl"
+  }
+}

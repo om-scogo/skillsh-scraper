@@ -1,0 +1,17 @@
+{
+  "skillId": "prisma-compute",
+  "source": "prisma/skills",
+  "owner": "prisma",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "prisma/skills",
+    "skillId": "prisma-compute",
+    "name": "prisma-compute",
+    "installs": 3169,
+    "owner": "prisma",
+    "repo": "skills",
+    "githubUrl": "https://github.com/prisma/skills",
+    "displayName": "Prisma Compute"
+  }
+}

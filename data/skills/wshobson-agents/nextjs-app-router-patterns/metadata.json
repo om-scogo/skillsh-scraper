@@ -1,0 +1,17 @@
+{
+  "skillId": "nextjs-app-router-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "nextjs-app-router-patterns",
+    "name": "nextjs-app-router-patterns",
+    "installs": 24548,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Nextjs App Router Patterns"
+  }
+}

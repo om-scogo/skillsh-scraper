@@ -1,0 +1,17 @@
+{
+  "skillId": "dart-build-cli-app",
+  "source": "dart-lang/skills",
+  "owner": "dart-lang",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dart-lang/skills",
+    "skillId": "dart-build-cli-app",
+    "name": "dart-build-cli-app",
+    "installs": 9165,
+    "owner": "dart-lang",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dart-lang/skills",
+    "displayName": "Dart Build Cli App"
+  }
+}

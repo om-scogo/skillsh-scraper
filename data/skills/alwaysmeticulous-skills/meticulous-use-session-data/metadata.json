@@ -1,0 +1,17 @@
+{
+  "skillId": "meticulous-use-session-data",
+  "source": "alwaysmeticulous/skills",
+  "owner": "alwaysmeticulous",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alwaysmeticulous/skills",
+    "skillId": "meticulous-use-session-data",
+    "name": "meticulous-use-session-data",
+    "installs": 2579,
+    "owner": "alwaysmeticulous",
+    "repo": "skills",
+    "githubUrl": "https://github.com/alwaysmeticulous/skills",
+    "displayName": "Meticulous Use Session Data"
+  }
+}

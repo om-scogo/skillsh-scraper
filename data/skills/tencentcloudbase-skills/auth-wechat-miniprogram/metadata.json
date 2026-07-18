@@ -1,0 +1,17 @@
+{
+  "skillId": "auth-wechat-miniprogram",
+  "source": "tencentcloudbase/skills",
+  "owner": "tencentcloudbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tencentcloudbase/skills",
+    "skillId": "auth-wechat-miniprogram",
+    "name": "auth-wechat-miniprogram",
+    "installs": 2022,
+    "owner": "tencentcloudbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/tencentcloudbase/skills",
+    "displayName": "Auth Wechat Miniprogram"
+  }
+}

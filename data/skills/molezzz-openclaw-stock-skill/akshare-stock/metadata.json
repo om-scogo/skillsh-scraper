@@ -1,0 +1,17 @@
+{
+  "skillId": "akshare-stock",
+  "source": "molezzz/openclaw-stock-skill",
+  "owner": "molezzz",
+  "repo": "openclaw-stock-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "molezzz/openclaw-stock-skill",
+    "skillId": "akshare-stock",
+    "name": "akshare-stock",
+    "installs": 10580,
+    "owner": "molezzz",
+    "repo": "openclaw-stock-skill",
+    "githubUrl": "https://github.com/molezzz/openclaw-stock-skill",
+    "displayName": "Akshare Stock"
+  }
+}

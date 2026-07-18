@@ -1,0 +1,17 @@
+{
+  "skillId": "sf-flex-estimator",
+  "source": "jaganpro/sf-skills",
+  "owner": "jaganpro",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jaganpro/sf-skills",
+    "skillId": "sf-flex-estimator",
+    "name": "sf-flex-estimator",
+    "installs": 764,
+    "owner": "jaganpro",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/jaganpro/sf-skills",
+    "displayName": "Sf Flex Estimator"
+  }
+}

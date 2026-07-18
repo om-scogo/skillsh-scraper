@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-neural-network",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-neural-network",
+    "name": "agent-neural-network",
+    "installs": 1005,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Neural Network"
+  }
+}

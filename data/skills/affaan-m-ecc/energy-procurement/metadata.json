@@ -1,0 +1,17 @@
+{
+  "skillId": "energy-procurement",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "energy-procurement",
+    "name": "energy-procurement",
+    "installs": 1090,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Energy Procurement"
+  }
+}

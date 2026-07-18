@@ -1,0 +1,17 @@
+{
+  "skillId": "stitch::react-components",
+  "source": "google-labs-code/stitch-skills",
+  "owner": "google-labs-code",
+  "repo": "stitch-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-labs-code/stitch-skills",
+    "skillId": "stitch::react-components",
+    "name": "stitch::react-components",
+    "installs": 1565,
+    "owner": "google-labs-code",
+    "repo": "stitch-skills",
+    "githubUrl": "https://github.com/google-labs-code/stitch-skills",
+    "displayName": "Stitch::react Components"
+  }
+}

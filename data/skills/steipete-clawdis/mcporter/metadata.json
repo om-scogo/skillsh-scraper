@@ -1,0 +1,17 @@
+{
+  "skillId": "mcporter",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "mcporter",
+    "name": "mcporter",
+    "installs": 3528,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Mcporter"
+  }
+}

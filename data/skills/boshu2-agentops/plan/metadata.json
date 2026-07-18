@@ -1,0 +1,17 @@
+{
+  "skillId": "plan",
+  "source": "boshu2/agentops",
+  "owner": "boshu2",
+  "repo": "agentops",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "boshu2/agentops",
+    "skillId": "plan",
+    "name": "plan",
+    "installs": 1235,
+    "owner": "boshu2",
+    "repo": "agentops",
+    "githubUrl": "https://github.com/boshu2/agentops",
+    "displayName": "Plan"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-v3-memory-specialist",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-v3-memory-specialist",
+    "name": "agent-v3-memory-specialist",
+    "installs": 987,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent V3 Memory Specialist"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "r20-glebis-seo-content-marketing-skills",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "r20-glebis-seo-content-marketing-skills",
+    "name": "r20-glebis-seo-content-marketing-skills",
+    "installs": 894,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "R20 Glebis Seo Content Marketing Skills"
+  }
+}

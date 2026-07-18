@@ -1,0 +1,17 @@
+{
+  "skillId": "cc-use",
+  "source": "zc277584121/cc-use",
+  "owner": "zc277584121",
+  "repo": "cc-use",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zc277584121/cc-use",
+    "skillId": "cc-use",
+    "name": "cc-use",
+    "installs": 1723,
+    "owner": "zc277584121",
+    "repo": "cc-use",
+    "githubUrl": "https://github.com/zc277584121/cc-use",
+    "displayName": "Cc Use"
+  }
+}

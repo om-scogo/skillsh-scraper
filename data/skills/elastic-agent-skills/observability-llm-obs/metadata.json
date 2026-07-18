@@ -1,0 +1,17 @@
+{
+  "skillId": "observability-llm-obs",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "observability-llm-obs",
+    "name": "observability-llm-obs",
+    "installs": 1811,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Observability Llm Obs"
+  }
+}

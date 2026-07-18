@@ -1,0 +1,17 @@
+{
+  "skillId": "cloudflare-worker-builder",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "cloudflare-worker-builder",
+    "name": "cloudflare-worker-builder",
+    "installs": 1210,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Cloudflare Worker Builder"
+  }
+}

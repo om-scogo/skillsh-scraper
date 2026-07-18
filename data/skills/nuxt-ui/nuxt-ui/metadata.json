@@ -1,0 +1,17 @@
+{
+  "skillId": "nuxt-ui",
+  "source": "nuxt/ui",
+  "owner": "nuxt",
+  "repo": "ui",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nuxt/ui",
+    "skillId": "nuxt-ui",
+    "name": "nuxt-ui",
+    "installs": 15022,
+    "owner": "nuxt",
+    "repo": "ui",
+    "githubUrl": "https://github.com/nuxt/ui",
+    "displayName": "Nuxt Ui"
+  }
+}

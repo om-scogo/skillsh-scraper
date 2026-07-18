@@ -1,0 +1,17 @@
+{
+  "skillId": "premium-frontend-ui",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "premium-frontend-ui",
+    "name": "premium-frontend-ui",
+    "installs": 3415,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Premium Frontend Ui"
+  }
+}

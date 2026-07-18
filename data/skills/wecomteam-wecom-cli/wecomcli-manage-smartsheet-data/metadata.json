@@ -1,0 +1,17 @@
+{
+  "skillId": "wecomcli-manage-smartsheet-data",
+  "source": "wecomteam/wecom-cli",
+  "owner": "wecomteam",
+  "repo": "wecom-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wecomteam/wecom-cli",
+    "skillId": "wecomcli-manage-smartsheet-data",
+    "name": "wecomcli-manage-smartsheet-data",
+    "installs": 2456,
+    "owner": "wecomteam",
+    "repo": "wecom-cli",
+    "githubUrl": "https://github.com/wecomteam/wecom-cli",
+    "displayName": "Wecomcli Manage Smartsheet Data"
+  }
+}

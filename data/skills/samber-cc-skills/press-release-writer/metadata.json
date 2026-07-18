@@ -1,0 +1,17 @@
+{
+  "skillId": "press-release-writer",
+  "source": "samber/cc-skills",
+  "owner": "samber",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills",
+    "skillId": "press-release-writer",
+    "name": "press-release-writer",
+    "installs": 1920,
+    "owner": "samber",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/samber/cc-skills",
+    "displayName": "Press Release Writer"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "click-test-plan",
+  "source": "owl-listener/designer-skills",
+  "owner": "owl-listener",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "owl-listener/designer-skills",
+    "skillId": "click-test-plan",
+    "name": "click-test-plan",
+    "installs": 852,
+    "owner": "owl-listener",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/owl-listener/designer-skills",
+    "displayName": "Click Test Plan"
+  }
+}

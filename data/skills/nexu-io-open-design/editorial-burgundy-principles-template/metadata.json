@@ -1,0 +1,17 @@
+{
+  "skillId": "editorial-burgundy-principles-template",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "editorial-burgundy-principles-template",
+    "name": "editorial-burgundy-principles-template",
+    "installs": 1609,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Editorial Burgundy Principles Template"
+  }
+}

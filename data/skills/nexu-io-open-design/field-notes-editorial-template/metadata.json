@@ -1,0 +1,17 @@
+{
+  "skillId": "field-notes-editorial-template",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "field-notes-editorial-template",
+    "name": "field-notes-editorial-template",
+    "installs": 1621,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Field Notes Editorial Template"
+  }
+}

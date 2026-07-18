@@ -1,0 +1,17 @@
+{
+  "skillId": "reddit-marketing-agent",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "reddit-marketing-agent",
+    "name": "reddit-marketing-agent",
+    "installs": 822,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "Reddit Marketing Agent"
+  }
+}

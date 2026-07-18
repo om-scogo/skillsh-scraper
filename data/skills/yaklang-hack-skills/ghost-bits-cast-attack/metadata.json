@@ -1,0 +1,17 @@
+{
+  "skillId": "ghost-bits-cast-attack",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "ghost-bits-cast-attack",
+    "name": "ghost-bits-cast-attack",
+    "installs": 1649,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Ghost Bits Cast Attack"
+  }
+}

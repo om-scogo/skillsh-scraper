@@ -1,0 +1,17 @@
+{
+  "skillId": "day4-wrap-and-analyze",
+  "source": "ai-native-camp/camp-1",
+  "owner": "ai-native-camp",
+  "repo": "camp-1",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ai-native-camp/camp-1",
+    "skillId": "day4-wrap-and-analyze",
+    "name": "day4-wrap-and-analyze",
+    "installs": 1434,
+    "owner": "ai-native-camp",
+    "repo": "camp-1",
+    "githubUrl": "https://github.com/ai-native-camp/camp-1",
+    "displayName": "Day4 Wrap And Analyze"
+  }
+}

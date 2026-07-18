@@ -1,0 +1,17 @@
+{
+  "skillId": "context-mode",
+  "source": "mksglu/context-mode",
+  "owner": "mksglu",
+  "repo": "context-mode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mksglu/context-mode",
+    "skillId": "context-mode",
+    "name": "context-mode",
+    "installs": 1223,
+    "owner": "mksglu",
+    "repo": "context-mode",
+    "githubUrl": "https://github.com/mksglu/context-mode",
+    "displayName": "Context Mode"
+  }
+}

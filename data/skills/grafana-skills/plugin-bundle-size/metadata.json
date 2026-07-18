@@ -1,0 +1,17 @@
+{
+  "skillId": "plugin-bundle-size",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "plugin-bundle-size",
+    "name": "plugin-bundle-size",
+    "installs": 1508,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Plugin Bundle Size"
+  }
+}

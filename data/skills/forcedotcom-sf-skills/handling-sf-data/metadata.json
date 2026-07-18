@@ -1,0 +1,17 @@
+{
+  "skillId": "handling-sf-data",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "handling-sf-data",
+    "name": "handling-sf-data",
+    "installs": 2390,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Handling Sf Data"
+  }
+}

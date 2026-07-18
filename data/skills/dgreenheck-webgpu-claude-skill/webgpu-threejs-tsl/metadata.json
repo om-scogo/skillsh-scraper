@@ -1,0 +1,17 @@
+{
+  "skillId": "webgpu-threejs-tsl",
+  "source": "dgreenheck/webgpu-claude-skill",
+  "owner": "dgreenheck",
+  "repo": "webgpu-claude-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dgreenheck/webgpu-claude-skill",
+    "skillId": "webgpu-threejs-tsl",
+    "name": "webgpu-threejs-tsl",
+    "installs": 836,
+    "owner": "dgreenheck",
+    "repo": "webgpu-claude-skill",
+    "githubUrl": "https://github.com/dgreenheck/webgpu-claude-skill",
+    "displayName": "Webgpu Threejs Tsl"
+  }
+}

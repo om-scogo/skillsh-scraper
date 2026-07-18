@@ -1,0 +1,17 @@
+{
+  "skillId": "content-repurposer-sms",
+  "source": "blacktwist/social-media-skills",
+  "owner": "blacktwist",
+  "repo": "social-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "blacktwist/social-media-skills",
+    "skillId": "content-repurposer-sms",
+    "name": "content-repurposer-sms",
+    "installs": 1057,
+    "owner": "blacktwist",
+    "repo": "social-media-skills",
+    "githubUrl": "https://github.com/blacktwist/social-media-skills",
+    "displayName": "Content Repurposer Sms"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "dogfood",
+  "source": "nousresearch/hermes-agent",
+  "owner": "nousresearch",
+  "repo": "hermes-agent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nousresearch/hermes-agent",
+    "skillId": "dogfood",
+    "name": "dogfood",
+    "installs": 4568,
+    "owner": "nousresearch",
+    "repo": "hermes-agent",
+    "githubUrl": "https://github.com/nousresearch/hermes-agent",
+    "displayName": "Dogfood"
+  }
+}

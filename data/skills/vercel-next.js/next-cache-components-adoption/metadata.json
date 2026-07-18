@@ -1,0 +1,17 @@
+{
+  "skillId": "next-cache-components-adoption",
+  "source": "vercel/next.js",
+  "owner": "vercel",
+  "repo": "next.js",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/next.js",
+    "skillId": "next-cache-components-adoption",
+    "name": "next-cache-components-adoption",
+    "installs": 2535,
+    "owner": "vercel",
+    "repo": "next.js",
+    "githubUrl": "https://github.com/vercel/next.js",
+    "displayName": "Next Cache Components Adoption"
+  }
+}

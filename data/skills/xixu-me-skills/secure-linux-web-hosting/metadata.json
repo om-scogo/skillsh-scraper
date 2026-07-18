@@ -1,0 +1,17 @@
+{
+  "skillId": "secure-linux-web-hosting",
+  "source": "xixu-me/skills",
+  "owner": "xixu-me",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "xixu-me/skills",
+    "skillId": "secure-linux-web-hosting",
+    "name": "secure-linux-web-hosting",
+    "installs": 12,
+    "owner": "xixu-me",
+    "repo": "skills",
+    "githubUrl": "https://github.com/xixu-me/skills",
+    "displayName": "Secure Linux Web Hosting"
+  }
+}

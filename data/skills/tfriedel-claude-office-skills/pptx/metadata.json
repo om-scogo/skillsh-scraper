@@ -1,0 +1,17 @@
+{
+  "skillId": "pptx",
+  "source": "tfriedel/claude-office-skills",
+  "owner": "tfriedel",
+  "repo": "claude-office-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tfriedel/claude-office-skills",
+    "skillId": "pptx",
+    "name": "pptx",
+    "installs": 1620,
+    "owner": "tfriedel",
+    "repo": "claude-office-skills",
+    "githubUrl": "https://github.com/tfriedel/claude-office-skills",
+    "displayName": "Pptx"
+  }
+}

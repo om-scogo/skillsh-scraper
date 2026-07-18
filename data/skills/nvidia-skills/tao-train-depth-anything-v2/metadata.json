@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-train-depth-anything-v2",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-train-depth-anything-v2",
+    "name": "tao-train-depth-anything-v2",
+    "installs": 1277,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Train Depth Anything V2"
+  }
+}

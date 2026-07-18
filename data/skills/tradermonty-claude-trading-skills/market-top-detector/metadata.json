@@ -1,0 +1,17 @@
+{
+  "skillId": "market-top-detector",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "market-top-detector",
+    "name": "market-top-detector",
+    "installs": 803,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Market Top Detector"
+  }
+}

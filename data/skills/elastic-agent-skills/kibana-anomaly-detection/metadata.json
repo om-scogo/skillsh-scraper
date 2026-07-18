@@ -1,0 +1,17 @@
+{
+  "skillId": "kibana-anomaly-detection",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "kibana-anomaly-detection",
+    "name": "kibana-anomaly-detection",
+    "installs": 974,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Kibana Anomaly Detection"
+  }
+}

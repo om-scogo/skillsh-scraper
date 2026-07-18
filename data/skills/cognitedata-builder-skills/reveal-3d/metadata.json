@@ -1,0 +1,17 @@
+{
+  "skillId": "reveal-3d",
+  "source": "cognitedata/builder-skills",
+  "owner": "cognitedata",
+  "repo": "builder-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cognitedata/builder-skills",
+    "skillId": "reveal-3d",
+    "name": "reveal-3d",
+    "installs": 1880,
+    "owner": "cognitedata",
+    "repo": "builder-skills",
+    "githubUrl": "https://github.com/cognitedata/builder-skills",
+    "displayName": "Reveal 3d"
+  }
+}

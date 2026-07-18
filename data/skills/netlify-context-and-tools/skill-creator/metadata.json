@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-creator",
+  "source": "netlify/context-and-tools",
+  "owner": "netlify",
+  "repo": "context-and-tools",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "netlify/context-and-tools",
+    "skillId": "skill-creator",
+    "name": "skill-creator",
+    "installs": 872,
+    "owner": "netlify",
+    "repo": "context-and-tools",
+    "githubUrl": "https://github.com/netlify/context-and-tools",
+    "displayName": "Skill Creator"
+  }
+}

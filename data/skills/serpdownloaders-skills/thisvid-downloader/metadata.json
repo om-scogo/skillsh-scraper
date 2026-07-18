@@ -1,0 +1,17 @@
+{
+  "skillId": "thisvid-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "thisvid-downloader",
+    "name": "thisvid-downloader",
+    "installs": 955,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Thisvid Downloader"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "academic-paper-review",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "academic-paper-review",
+    "name": "academic-paper-review",
+    "installs": 1642,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Academic Paper Review"
+  }
+}

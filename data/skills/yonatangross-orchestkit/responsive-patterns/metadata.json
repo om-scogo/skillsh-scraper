@@ -1,0 +1,17 @@
+{
+  "skillId": "responsive-patterns",
+  "source": "yonatangross/orchestkit",
+  "owner": "yonatangross",
+  "repo": "orchestkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yonatangross/orchestkit",
+    "skillId": "responsive-patterns",
+    "name": "responsive-patterns",
+    "installs": 917,
+    "owner": "yonatangross",
+    "repo": "orchestkit",
+    "githubUrl": "https://github.com/yonatangross/orchestkit",
+    "displayName": "Responsive Patterns"
+  }
+}

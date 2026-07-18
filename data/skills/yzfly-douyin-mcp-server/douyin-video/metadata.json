@@ -1,0 +1,17 @@
+{
+  "skillId": "douyin-video",
+  "source": "yzfly/douyin-mcp-server",
+  "owner": "yzfly",
+  "repo": "douyin-mcp-server",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yzfly/douyin-mcp-server",
+    "skillId": "douyin-video",
+    "name": "douyin-video",
+    "installs": 1710,
+    "owner": "yzfly",
+    "repo": "douyin-mcp-server",
+    "githubUrl": "https://github.com/yzfly/douyin-mcp-server",
+    "displayName": "Douyin Video"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "murder-mystery-2-analytics-toolkit",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "murder-mystery-2-analytics-toolkit",
+    "name": "murder-mystery-2-analytics-toolkit",
+    "installs": 1936,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Murder Mystery 2 Analytics Toolkit"
+  }
+}

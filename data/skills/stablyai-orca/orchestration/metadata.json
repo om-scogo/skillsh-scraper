@@ -1,0 +1,17 @@
+{
+  "skillId": "orchestration",
+  "source": "stablyai/orca",
+  "owner": "stablyai",
+  "repo": "orca",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "stablyai/orca",
+    "skillId": "orchestration",
+    "name": "orchestration",
+    "installs": 28692,
+    "owner": "stablyai",
+    "repo": "orca",
+    "githubUrl": "https://github.com/stablyai/orca",
+    "displayName": "Orchestration"
+  }
+}

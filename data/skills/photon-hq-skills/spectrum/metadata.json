@@ -1,0 +1,17 @@
+{
+  "skillId": "spectrum",
+  "source": "photon-hq/skills",
+  "owner": "photon-hq",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "photon-hq/skills",
+    "skillId": "spectrum",
+    "name": "spectrum",
+    "installs": 1016,
+    "owner": "photon-hq",
+    "repo": "skills",
+    "githubUrl": "https://github.com/photon-hq/skills",
+    "displayName": "Spectrum"
+  }
+}

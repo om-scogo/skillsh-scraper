@@ -1,0 +1,17 @@
+{
+  "skillId": "compose-state-holder-ui-split",
+  "source": "chrisbanes/skills",
+  "owner": "chrisbanes",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chrisbanes/skills",
+    "skillId": "compose-state-holder-ui-split",
+    "name": "compose-state-holder-ui-split",
+    "installs": 805,
+    "owner": "chrisbanes",
+    "repo": "skills",
+    "githubUrl": "https://github.com/chrisbanes/skills",
+    "displayName": "Compose State Holder Ui Split"
+  }
+}

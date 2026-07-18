@@ -1,0 +1,17 @@
+{
+  "skillId": "stitch::generate-design",
+  "source": "google-labs-code/stitch-skills",
+  "owner": "google-labs-code",
+  "repo": "stitch-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google-labs-code/stitch-skills",
+    "skillId": "stitch::generate-design",
+    "name": "stitch::generate-design",
+    "installs": 4869,
+    "owner": "google-labs-code",
+    "repo": "stitch-skills",
+    "githubUrl": "https://github.com/google-labs-code/stitch-skills",
+    "displayName": "Stitch::generate Design"
+  }
+}

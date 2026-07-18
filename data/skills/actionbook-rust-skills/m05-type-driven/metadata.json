@@ -1,0 +1,17 @@
+{
+  "skillId": "m05-type-driven",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "m05-type-driven",
+    "name": "m05-type-driven",
+    "installs": 1376,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "M05 Type Driven"
+  }
+}

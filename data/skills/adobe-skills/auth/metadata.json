@@ -1,0 +1,17 @@
+{
+  "skillId": "auth",
+  "source": "adobe/skills",
+  "owner": "adobe",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adobe/skills",
+    "skillId": "auth",
+    "name": "auth",
+    "installs": 842,
+    "owner": "adobe",
+    "repo": "skills",
+    "githubUrl": "https://github.com/adobe/skills",
+    "displayName": "Auth"
+  }
+}

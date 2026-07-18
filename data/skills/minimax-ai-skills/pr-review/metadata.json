@@ -1,0 +1,17 @@
+{
+  "skillId": "pr-review",
+  "source": "minimax-ai/skills",
+  "owner": "minimax-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "minimax-ai/skills",
+    "skillId": "pr-review",
+    "name": "pr-review",
+    "installs": 1489,
+    "owner": "minimax-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/minimax-ai/skills",
+    "displayName": "Pr Review"
+  }
+}

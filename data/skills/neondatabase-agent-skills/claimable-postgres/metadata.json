@@ -1,0 +1,17 @@
+{
+  "skillId": "claimable-postgres",
+  "source": "neondatabase/agent-skills",
+  "owner": "neondatabase",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "neondatabase/agent-skills",
+    "skillId": "claimable-postgres",
+    "name": "claimable-postgres",
+    "installs": 1582,
+    "owner": "neondatabase",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/neondatabase/agent-skills",
+    "displayName": "Claimable Postgres"
+  }
+}

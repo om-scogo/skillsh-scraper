@@ -1,0 +1,17 @@
+{
+  "skillId": "workflow-orchestration-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "workflow-orchestration-patterns",
+    "name": "workflow-orchestration-patterns",
+    "installs": 9223,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Workflow Orchestration Patterns"
+  }
+}

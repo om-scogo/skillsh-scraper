@@ -1,0 +1,17 @@
+{
+  "skillId": "daangn-realty-search",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "daangn-realty-search",
+    "name": "daangn-realty-search",
+    "installs": 1421,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Daangn Realty Search"
+  }
+}

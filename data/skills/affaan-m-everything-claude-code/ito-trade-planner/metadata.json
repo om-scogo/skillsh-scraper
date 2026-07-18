@@ -1,0 +1,17 @@
+{
+  "skillId": "ito-trade-planner",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "ito-trade-planner",
+    "name": "ito-trade-planner",
+    "installs": 815,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Ito Trade Planner"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "mcp-lark",
+  "source": "aahl/skills",
+  "owner": "aahl",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aahl/skills",
+    "skillId": "mcp-lark",
+    "name": "mcp-lark",
+    "installs": 1731,
+    "owner": "aahl",
+    "repo": "skills",
+    "githubUrl": "https://github.com/aahl/skills",
+    "displayName": "Mcp Lark"
+  }
+}

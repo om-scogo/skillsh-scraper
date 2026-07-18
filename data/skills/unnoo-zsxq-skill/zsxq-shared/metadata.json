@@ -1,0 +1,17 @@
+{
+  "skillId": "zsxq-shared",
+  "source": "unnoo/zsxq-skill",
+  "owner": "unnoo",
+  "repo": "zsxq-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "unnoo/zsxq-skill",
+    "skillId": "zsxq-shared",
+    "name": "zsxq-shared",
+    "installs": 4095,
+    "owner": "unnoo",
+    "repo": "zsxq-skill",
+    "githubUrl": "https://github.com/unnoo/zsxq-skill",
+    "displayName": "Zsxq Shared"
+  }
+}

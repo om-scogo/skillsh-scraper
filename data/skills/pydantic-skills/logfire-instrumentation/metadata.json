@@ -1,0 +1,17 @@
+{
+  "skillId": "logfire-instrumentation",
+  "source": "pydantic/skills",
+  "owner": "pydantic",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pydantic/skills",
+    "skillId": "logfire-instrumentation",
+    "name": "logfire-instrumentation",
+    "installs": 920,
+    "owner": "pydantic",
+    "repo": "skills",
+    "githubUrl": "https://github.com/pydantic/skills",
+    "displayName": "Logfire Instrumentation"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "card-xiaohongshu",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "card-xiaohongshu",
+    "name": "card-xiaohongshu",
+    "installs": 1532,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Card Xiaohongshu"
+  }
+}

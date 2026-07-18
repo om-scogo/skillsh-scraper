@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-log-deal-update",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-log-deal-update",
+    "name": "recipe-log-deal-update",
+    "installs": 21667,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Log Deal Update"
+  }
+}

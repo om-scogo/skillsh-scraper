@@ -1,0 +1,17 @@
+{
+  "skillId": "user-flow-diagram",
+  "source": "owl-listener/designer-skills",
+  "owner": "owl-listener",
+  "repo": "designer-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "owl-listener/designer-skills",
+    "skillId": "user-flow-diagram",
+    "name": "user-flow-diagram",
+    "installs": 980,
+    "owner": "owl-listener",
+    "repo": "designer-skills",
+    "githubUrl": "https://github.com/owl-listener/designer-skills",
+    "displayName": "User Flow Diagram"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "docstring",
+  "source": "pytorch/pytorch",
+  "owner": "pytorch",
+  "repo": "pytorch",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pytorch/pytorch",
+    "skillId": "docstring",
+    "name": "docstring",
+    "installs": 2015,
+    "owner": "pytorch",
+    "repo": "pytorch",
+    "githubUrl": "https://github.com/pytorch/pytorch",
+    "displayName": "Docstring"
+  }
+}

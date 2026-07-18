@@ -1,0 +1,17 @@
+{
+  "skillId": "core-web-vitals",
+  "source": "addyosmani/web-quality-skills",
+  "owner": "addyosmani",
+  "repo": "web-quality-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/web-quality-skills",
+    "skillId": "core-web-vitals",
+    "name": "core-web-vitals",
+    "installs": 15828,
+    "owner": "addyosmani",
+    "repo": "web-quality-skills",
+    "githubUrl": "https://github.com/addyosmani/web-quality-skills",
+    "displayName": "Core Web Vitals"
+  }
+}

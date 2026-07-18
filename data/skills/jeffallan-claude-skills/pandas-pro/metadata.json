@@ -1,0 +1,17 @@
+{
+  "skillId": "pandas-pro",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "pandas-pro",
+    "name": "pandas-pro",
+    "installs": 4111,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Pandas Pro"
+  }
+}

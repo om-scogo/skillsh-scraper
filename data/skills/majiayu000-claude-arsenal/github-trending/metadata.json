@@ -1,0 +1,17 @@
+{
+  "skillId": "github-trending",
+  "source": "majiayu000/claude-arsenal",
+  "owner": "majiayu000",
+  "repo": "claude-arsenal",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "majiayu000/claude-arsenal",
+    "skillId": "github-trending",
+    "name": "github-trending",
+    "installs": 794,
+    "owner": "majiayu000",
+    "repo": "claude-arsenal",
+    "githubUrl": "https://github.com/majiayu000/claude-arsenal",
+    "displayName": "Github Trending"
+  }
+}

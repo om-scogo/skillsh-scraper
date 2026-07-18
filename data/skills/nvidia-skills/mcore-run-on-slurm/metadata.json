@@ -1,0 +1,17 @@
+{
+  "skillId": "mcore-run-on-slurm",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "mcore-run-on-slurm",
+    "name": "mcore-run-on-slurm",
+    "installs": 1493,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Mcore Run On Slurm"
+  }
+}

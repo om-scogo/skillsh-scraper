@@ -1,0 +1,17 @@
+{
+  "skillId": "blog-rewrite",
+  "source": "agricidaniel/claude-blog",
+  "owner": "agricidaniel",
+  "repo": "claude-blog",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agricidaniel/claude-blog",
+    "skillId": "blog-rewrite",
+    "name": "blog-rewrite",
+    "installs": 1059,
+    "owner": "agricidaniel",
+    "repo": "claude-blog",
+    "githubUrl": "https://github.com/agricidaniel/claude-blog",
+    "displayName": "Blog Rewrite"
+  }
+}

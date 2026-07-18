@@ -1,0 +1,17 @@
+{
+  "skillId": "capacitor-best-practices",
+  "source": "cap-go/capacitor-skills",
+  "owner": "cap-go",
+  "repo": "capacitor-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cap-go/capacitor-skills",
+    "skillId": "capacitor-best-practices",
+    "name": "capacitor-best-practices",
+    "installs": 1152,
+    "owner": "cap-go",
+    "repo": "capacitor-skills",
+    "githubUrl": "https://github.com/cap-go/capacitor-skills",
+    "displayName": "Capacitor Best Practices"
+  }
+}

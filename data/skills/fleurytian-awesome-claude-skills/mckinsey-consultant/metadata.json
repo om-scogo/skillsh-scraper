@@ -1,0 +1,17 @@
+{
+  "skillId": "mckinsey-consultant",
+  "source": "fleurytian/awesome-claude-skills",
+  "owner": "fleurytian",
+  "repo": "awesome-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "fleurytian/awesome-claude-skills",
+    "skillId": "mckinsey-consultant",
+    "name": "mckinsey-consultant",
+    "installs": 1211,
+    "owner": "fleurytian",
+    "repo": "awesome-claude-skills",
+    "githubUrl": "https://github.com/fleurytian/awesome-claude-skills",
+    "displayName": "Mckinsey Consultant"
+  }
+}

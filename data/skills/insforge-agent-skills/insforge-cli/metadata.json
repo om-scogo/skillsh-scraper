@@ -1,0 +1,17 @@
+{
+  "skillId": "insforge-cli",
+  "source": "insforge/agent-skills",
+  "owner": "insforge",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "insforge/agent-skills",
+    "skillId": "insforge-cli",
+    "name": "insforge-cli",
+    "installs": 19894,
+    "owner": "insforge",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/insforge/agent-skills",
+    "displayName": "Insforge Cli"
+  }
+}

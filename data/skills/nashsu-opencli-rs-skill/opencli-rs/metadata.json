@@ -1,0 +1,17 @@
+{
+  "skillId": "opencli-rs",
+  "source": "nashsu/opencli-rs-skill",
+  "owner": "nashsu",
+  "repo": "opencli-rs-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nashsu/opencli-rs-skill",
+    "skillId": "opencli-rs",
+    "name": "opencli-rs",
+    "installs": 1001,
+    "owner": "nashsu",
+    "repo": "opencli-rs-skill",
+    "githubUrl": "https://github.com/nashsu/opencli-rs-skill",
+    "displayName": "Opencli Rs"
+  }
+}

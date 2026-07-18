@@ -1,0 +1,17 @@
+{
+  "skillId": "web-design-engineer",
+  "source": "conardli/garden-skills",
+  "owner": "conardli",
+  "repo": "garden-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "conardli/garden-skills",
+    "skillId": "web-design-engineer",
+    "name": "web-design-engineer",
+    "installs": 3574,
+    "owner": "conardli",
+    "repo": "garden-skills",
+    "githubUrl": "https://github.com/conardli/garden-skills",
+    "displayName": "Web Design Engineer"
+  }
+}

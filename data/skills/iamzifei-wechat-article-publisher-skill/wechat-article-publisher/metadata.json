@@ -1,0 +1,17 @@
+{
+  "skillId": "wechat-article-publisher",
+  "source": "iamzifei/wechat-article-publisher-skill",
+  "owner": "iamzifei",
+  "repo": "wechat-article-publisher-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "iamzifei/wechat-article-publisher-skill",
+    "skillId": "wechat-article-publisher",
+    "name": "wechat-article-publisher",
+    "installs": 2440,
+    "owner": "iamzifei",
+    "repo": "wechat-article-publisher-skill",
+    "githubUrl": "https://github.com/iamzifei/wechat-article-publisher-skill",
+    "displayName": "Wechat Article Publisher"
+  }
+}

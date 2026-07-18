@@ -1,0 +1,17 @@
+{
+  "skillId": "dx-org-manage",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "dx-org-manage",
+    "name": "dx-org-manage",
+    "installs": 1443,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Dx Org Manage"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "playwright-testing",
+  "source": "alinaqi/claude-bootstrap",
+  "owner": "alinaqi",
+  "repo": "claude-bootstrap",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alinaqi/claude-bootstrap",
+    "skillId": "playwright-testing",
+    "name": "playwright-testing",
+    "installs": 2481,
+    "owner": "alinaqi",
+    "repo": "claude-bootstrap",
+    "githubUrl": "https://github.com/alinaqi/claude-bootstrap",
+    "displayName": "Playwright Testing"
+  }
+}

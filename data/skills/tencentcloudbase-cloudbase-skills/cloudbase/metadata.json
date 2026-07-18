@@ -1,0 +1,17 @@
+{
+  "skillId": "cloudbase",
+  "source": "tencentcloudbase/cloudbase-skills",
+  "owner": "tencentcloudbase",
+  "repo": "cloudbase-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tencentcloudbase/cloudbase-skills",
+    "skillId": "cloudbase",
+    "name": "cloudbase",
+    "installs": 8348,
+    "owner": "tencentcloudbase",
+    "repo": "cloudbase-skills",
+    "githubUrl": "https://github.com/tencentcloudbase/cloudbase-skills",
+    "displayName": "Cloudbase"
+  }
+}

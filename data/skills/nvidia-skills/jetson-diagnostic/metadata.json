@@ -1,0 +1,17 @@
+{
+  "skillId": "jetson-diagnostic",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "jetson-diagnostic",
+    "name": "jetson-diagnostic",
+    "installs": 851,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Jetson Diagnostic"
+  }
+}

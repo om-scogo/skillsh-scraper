@@ -1,0 +1,17 @@
+{
+  "skillId": "retail-etl-medallion-pipeline",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "retail-etl-medallion-pipeline",
+    "name": "retail-etl-medallion-pipeline",
+    "installs": 1389,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Retail Etl Medallion Pipeline"
+  }
+}

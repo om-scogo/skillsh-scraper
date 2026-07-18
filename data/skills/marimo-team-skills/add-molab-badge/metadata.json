@@ -1,0 +1,17 @@
+{
+  "skillId": "add-molab-badge",
+  "source": "marimo-team/skills",
+  "owner": "marimo-team",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "marimo-team/skills",
+    "skillId": "add-molab-badge",
+    "name": "add-molab-badge",
+    "installs": 1323,
+    "owner": "marimo-team",
+    "repo": "skills",
+    "githubUrl": "https://github.com/marimo-team/skills",
+    "displayName": "Add Molab Badge"
+  }
+}

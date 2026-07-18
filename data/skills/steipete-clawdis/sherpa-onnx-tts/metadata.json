@@ -1,0 +1,17 @@
+{
+  "skillId": "sherpa-onnx-tts",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "sherpa-onnx-tts",
+    "name": "sherpa-onnx-tts",
+    "installs": 2730,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Sherpa Onnx Tts"
+  }
+}

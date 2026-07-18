@@ -1,0 +1,17 @@
+{
+  "skillId": "security-threat-model",
+  "source": "openai/skills",
+  "owner": "openai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openai/skills",
+    "skillId": "security-threat-model",
+    "name": "security-threat-model",
+    "installs": 3281,
+    "owner": "openai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/openai/skills",
+    "displayName": "Security Threat Model"
+  }
+}

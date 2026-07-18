@@ -1,0 +1,17 @@
+{
+  "skillId": "ultracite",
+  "source": "haydenbleasel/ultracite",
+  "owner": "haydenbleasel",
+  "repo": "ultracite",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "haydenbleasel/ultracite",
+    "skillId": "ultracite",
+    "name": "ultracite",
+    "installs": 5581,
+    "owner": "haydenbleasel",
+    "repo": "ultracite",
+    "githubUrl": "https://github.com/haydenbleasel/ultracite",
+    "displayName": "Ultracite"
+  }
+}

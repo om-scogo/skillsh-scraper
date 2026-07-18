@@ -1,0 +1,17 @@
+{
+  "skillId": "capture-api-response-test-fixture",
+  "source": "vercel/ai",
+  "owner": "vercel",
+  "repo": "ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/ai",
+    "skillId": "capture-api-response-test-fixture",
+    "name": "capture-api-response-test-fixture",
+    "installs": 1191,
+    "owner": "vercel",
+    "repo": "ai",
+    "githubUrl": "https://github.com/vercel/ai",
+    "displayName": "Capture Api Response Test Fixture"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "career-ops-job-search",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "career-ops-job-search",
+    "name": "career-ops-job-search",
+    "installs": 835,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Career Ops Job Search"
+  }
+}

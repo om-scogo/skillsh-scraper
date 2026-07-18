@@ -1,0 +1,17 @@
+{
+  "skillId": "matplotlib-best-practices",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "matplotlib-best-practices",
+    "name": "matplotlib-best-practices",
+    "installs": 777,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Matplotlib Best Practices"
+  }
+}

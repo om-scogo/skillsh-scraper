@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-create-gmail-filter",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-create-gmail-filter",
+    "name": "recipe-create-gmail-filter",
+    "installs": 23269,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Create Gmail Filter"
+  }
+}

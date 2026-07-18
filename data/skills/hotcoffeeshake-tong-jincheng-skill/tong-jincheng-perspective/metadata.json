@@ -1,0 +1,17 @@
+{
+  "skillId": "tong-jincheng-perspective",
+  "source": "hotcoffeeshake/tong-jincheng-skill",
+  "owner": "hotcoffeeshake",
+  "repo": "tong-jincheng-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hotcoffeeshake/tong-jincheng-skill",
+    "skillId": "tong-jincheng-perspective",
+    "name": "tong-jincheng-perspective",
+    "installs": 3647,
+    "owner": "hotcoffeeshake",
+    "repo": "tong-jincheng-skill",
+    "githubUrl": "https://github.com/hotcoffeeshake/tong-jincheng-skill",
+    "displayName": "Tong Jincheng Perspective"
+  }
+}

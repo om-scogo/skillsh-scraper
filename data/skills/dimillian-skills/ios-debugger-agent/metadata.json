@@ -1,0 +1,17 @@
+{
+  "skillId": "ios-debugger-agent",
+  "source": "dimillian/skills",
+  "owner": "dimillian",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dimillian/skills",
+    "skillId": "ios-debugger-agent",
+    "name": "ios-debugger-agent",
+    "installs": 1671,
+    "owner": "dimillian",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dimillian/skills",
+    "displayName": "Ios Debugger Agent"
+  }
+}

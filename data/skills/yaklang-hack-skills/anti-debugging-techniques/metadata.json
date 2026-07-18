@@ -1,0 +1,17 @@
+{
+  "skillId": "anti-debugging-techniques",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "anti-debugging-techniques",
+    "name": "anti-debugging-techniques",
+    "installs": 1936,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Anti Debugging Techniques"
+  }
+}

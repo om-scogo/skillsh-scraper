@@ -1,0 +1,17 @@
+{
+  "skillId": "p9",
+  "source": "tanweai/pua",
+  "owner": "tanweai",
+  "repo": "pua",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tanweai/pua",
+    "skillId": "p9",
+    "name": "p9",
+    "installs": 1596,
+    "owner": "tanweai",
+    "repo": "pua",
+    "githubUrl": "https://github.com/tanweai/pua",
+    "displayName": "P9"
+  }
+}

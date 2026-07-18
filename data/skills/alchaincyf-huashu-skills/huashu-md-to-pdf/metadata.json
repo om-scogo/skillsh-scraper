@@ -1,0 +1,17 @@
+{
+  "skillId": "huashu-md-to-pdf",
+  "source": "alchaincyf/huashu-skills",
+  "owner": "alchaincyf",
+  "repo": "huashu-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/huashu-skills",
+    "skillId": "huashu-md-to-pdf",
+    "name": "huashu-md-to-pdf",
+    "installs": 914,
+    "owner": "alchaincyf",
+    "repo": "huashu-skills",
+    "githubUrl": "https://github.com/alchaincyf/huashu-skills",
+    "displayName": "Huashu Md To Pdf"
+  }
+}

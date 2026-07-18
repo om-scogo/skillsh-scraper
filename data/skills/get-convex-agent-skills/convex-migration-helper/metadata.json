@@ -1,0 +1,17 @@
+{
+  "skillId": "convex-migration-helper",
+  "source": "get-convex/agent-skills",
+  "owner": "get-convex",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "get-convex/agent-skills",
+    "skillId": "convex-migration-helper",
+    "name": "convex-migration-helper",
+    "installs": 85131,
+    "owner": "get-convex",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/get-convex/agent-skills",
+    "displayName": "Convex Migration Helper"
+  }
+}

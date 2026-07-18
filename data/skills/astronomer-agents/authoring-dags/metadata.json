@@ -1,0 +1,17 @@
+{
+  "skillId": "authoring-dags",
+  "source": "astronomer/agents",
+  "owner": "astronomer",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "astronomer/agents",
+    "skillId": "authoring-dags",
+    "name": "authoring-dags",
+    "installs": 963,
+    "owner": "astronomer",
+    "repo": "agents",
+    "githubUrl": "https://github.com/astronomer/agents",
+    "displayName": "Authoring Dags"
+  }
+}

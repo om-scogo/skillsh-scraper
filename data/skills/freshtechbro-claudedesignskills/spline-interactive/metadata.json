@@ -1,0 +1,17 @@
+{
+  "skillId": "spline-interactive",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "spline-interactive",
+    "name": "spline-interactive",
+    "installs": 1495,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Spline Interactive"
+  }
+}

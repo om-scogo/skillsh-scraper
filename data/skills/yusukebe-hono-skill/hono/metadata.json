@@ -1,0 +1,17 @@
+{
+  "skillId": "hono",
+  "source": "yusukebe/hono-skill",
+  "owner": "yusukebe",
+  "repo": "hono-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yusukebe/hono-skill",
+    "skillId": "hono",
+    "name": "hono",
+    "installs": 9893,
+    "owner": "yusukebe",
+    "repo": "hono-skill",
+    "githubUrl": "https://github.com/yusukebe/hono-skill",
+    "displayName": "Hono"
+  }
+}

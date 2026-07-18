@@ -1,0 +1,17 @@
+{
+  "skillId": "aws-sdk-python-usage",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "aws-sdk-python-usage",
+    "name": "aws-sdk-python-usage",
+    "installs": 2543,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Aws Sdk Python Usage"
+  }
+}

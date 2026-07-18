@@ -1,0 +1,17 @@
+{
+  "skillId": "stable-diffusion-image-generation",
+  "source": "davila7/claude-code-templates",
+  "owner": "davila7",
+  "repo": "claude-code-templates",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "davila7/claude-code-templates",
+    "skillId": "stable-diffusion-image-generation",
+    "name": "stable-diffusion-image-generation",
+    "installs": 1454,
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "githubUrl": "https://github.com/davila7/claude-code-templates",
+    "displayName": "Stable Diffusion Image Generation"
+  }
+}

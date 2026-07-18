@@ -1,0 +1,17 @@
+{
+  "skillId": "setting-up-cloudwatch-alarm-notifications",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "setting-up-cloudwatch-alarm-notifications",
+    "name": "setting-up-cloudwatch-alarm-notifications",
+    "installs": 1786,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Setting Up Cloudwatch Alarm Notifications"
+  }
+}

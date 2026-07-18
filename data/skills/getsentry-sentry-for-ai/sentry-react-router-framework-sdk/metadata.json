@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-react-router-framework-sdk",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-react-router-framework-sdk",
+    "name": "sentry-react-router-framework-sdk",
+    "installs": 1346,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry React Router Framework Sdk"
+  }
+}

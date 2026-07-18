@@ -1,0 +1,17 @@
+{
+  "skillId": "browser-testing-with-devtools",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "browser-testing-with-devtools",
+    "name": "browser-testing-with-devtools",
+    "installs": 11430,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Browser Testing With Devtools"
+  }
+}

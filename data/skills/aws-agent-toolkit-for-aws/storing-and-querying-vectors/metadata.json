@@ -1,0 +1,17 @@
+{
+  "skillId": "storing-and-querying-vectors",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "storing-and-querying-vectors",
+    "name": "storing-and-querying-vectors",
+    "installs": 2054,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Storing And Querying Vectors"
+  }
+}

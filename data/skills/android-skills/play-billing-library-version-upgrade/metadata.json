@@ -1,0 +1,17 @@
+{
+  "skillId": "play-billing-library-version-upgrade",
+  "source": "android/skills",
+  "owner": "android",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "android/skills",
+    "skillId": "play-billing-library-version-upgrade",
+    "name": "play-billing-library-version-upgrade",
+    "installs": 762,
+    "owner": "android",
+    "repo": "skills",
+    "githubUrl": "https://github.com/android/skills",
+    "displayName": "Play Billing Library Version Upgrade"
+  }
+}

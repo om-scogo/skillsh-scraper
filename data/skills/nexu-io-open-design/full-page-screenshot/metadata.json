@@ -1,0 +1,17 @@
+{
+  "skillId": "full-page-screenshot",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "full-page-screenshot",
+    "name": "full-page-screenshot",
+    "installs": 1606,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Full Page Screenshot"
+  }
+}

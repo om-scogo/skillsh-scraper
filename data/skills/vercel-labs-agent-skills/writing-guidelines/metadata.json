@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-guidelines",
+  "source": "vercel-labs/agent-skills",
+  "owner": "vercel-labs",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel-labs/agent-skills",
+    "skillId": "writing-guidelines",
+    "name": "writing-guidelines",
+    "installs": 29261,
+    "owner": "vercel-labs",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/vercel-labs/agent-skills",
+    "displayName": "Writing Guidelines"
+  }
+}

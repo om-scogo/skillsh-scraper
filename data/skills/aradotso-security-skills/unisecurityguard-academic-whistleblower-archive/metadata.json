@@ -1,0 +1,17 @@
+{
+  "skillId": "unisecurityguard-academic-whistleblower-archive",
+  "source": "aradotso/security-skills",
+  "owner": "aradotso",
+  "repo": "security-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/security-skills",
+    "skillId": "unisecurityguard-academic-whistleblower-archive",
+    "name": "unisecurityguard-academic-whistleblower-archive",
+    "installs": 933,
+    "owner": "aradotso",
+    "repo": "security-skills",
+    "githubUrl": "https://github.com/aradotso/security-skills",
+    "displayName": "Unisecurityguard Academic Whistleblower Archive"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "nemo-mbridge-perf-moe-long-context",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "nemo-mbridge-perf-moe-long-context",
+    "name": "nemo-mbridge-perf-moe-long-context",
+    "installs": 1514,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Nemo Mbridge Perf Moe Long Context"
+  }
+}

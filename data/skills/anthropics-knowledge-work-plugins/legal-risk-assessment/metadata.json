@@ -1,0 +1,17 @@
+{
+  "skillId": "legal-risk-assessment",
+  "source": "anthropics/knowledge-work-plugins",
+  "owner": "anthropics",
+  "repo": "knowledge-work-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/knowledge-work-plugins",
+    "skillId": "legal-risk-assessment",
+    "name": "legal-risk-assessment",
+    "installs": 3555,
+    "owner": "anthropics",
+    "repo": "knowledge-work-plugins",
+    "githubUrl": "https://github.com/anthropics/knowledge-work-plugins",
+    "displayName": "Legal Risk Assessment"
+  }
+}

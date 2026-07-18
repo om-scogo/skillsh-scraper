@@ -1,0 +1,17 @@
+{
+  "skillId": "launchdarkly-flag-create",
+  "source": "launchdarkly/agent-skills",
+  "owner": "launchdarkly",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "launchdarkly/agent-skills",
+    "skillId": "launchdarkly-flag-create",
+    "name": "launchdarkly-flag-create",
+    "installs": 2662,
+    "owner": "launchdarkly",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/launchdarkly/agent-skills",
+    "displayName": "Launchdarkly Flag Create"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "cs-feat-ff",
+  "source": "liuzhengdongfortest/codestable",
+  "owner": "liuzhengdongfortest",
+  "repo": "codestable",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "liuzhengdongfortest/codestable",
+    "skillId": "cs-feat-ff",
+    "name": "cs-feat-ff",
+    "installs": 1229,
+    "owner": "liuzhengdongfortest",
+    "repo": "codestable",
+    "githubUrl": "https://github.com/liuzhengdongfortest/codestable",
+    "displayName": "Cs Feat Ff"
+  }
+}

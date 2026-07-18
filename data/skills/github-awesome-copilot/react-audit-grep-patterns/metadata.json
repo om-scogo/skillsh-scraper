@@ -1,0 +1,17 @@
+{
+  "skillId": "react-audit-grep-patterns",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "react-audit-grep-patterns",
+    "name": "react-audit-grep-patterns",
+    "installs": 792,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "React Audit Grep Patterns"
+  }
+}

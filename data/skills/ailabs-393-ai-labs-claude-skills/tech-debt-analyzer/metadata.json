@@ -1,0 +1,17 @@
+{
+  "skillId": "tech-debt-analyzer",
+  "source": "ailabs-393/ai-labs-claude-skills",
+  "owner": "ailabs-393",
+  "repo": "ai-labs-claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ailabs-393/ai-labs-claude-skills",
+    "skillId": "tech-debt-analyzer",
+    "name": "tech-debt-analyzer",
+    "installs": 900,
+    "owner": "ailabs-393",
+    "repo": "ai-labs-claude-skills",
+    "githubUrl": "https://github.com/ailabs-393/ai-labs-claude-skills",
+    "displayName": "Tech Debt Analyzer"
+  }
+}

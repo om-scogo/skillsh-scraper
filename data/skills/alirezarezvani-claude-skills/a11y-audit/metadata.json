@@ -1,0 +1,17 @@
+{
+  "skillId": "a11y-audit",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "a11y-audit",
+    "name": "a11y-audit",
+    "installs": 756,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "A11y Audit"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "searxng-search",
+  "source": "ypares/agent-skills",
+  "owner": "ypares",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ypares/agent-skills",
+    "skillId": "searxng-search",
+    "name": "searxng-search",
+    "installs": 749,
+    "owner": "ypares",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/ypares/agent-skills",
+    "displayName": "Searxng Search"
+  }
+}

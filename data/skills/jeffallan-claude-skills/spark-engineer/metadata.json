@@ -1,0 +1,17 @@
+{
+  "skillId": "spark-engineer",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "spark-engineer",
+    "name": "spark-engineer",
+    "installs": 2657,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Spark Engineer"
+  }
+}

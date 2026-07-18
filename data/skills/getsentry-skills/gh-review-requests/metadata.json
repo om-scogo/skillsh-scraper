@@ -1,0 +1,17 @@
+{
+  "skillId": "gh-review-requests",
+  "source": "getsentry/skills",
+  "owner": "getsentry",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/skills",
+    "skillId": "gh-review-requests",
+    "name": "gh-review-requests",
+    "installs": 2924,
+    "owner": "getsentry",
+    "repo": "skills",
+    "githubUrl": "https://github.com/getsentry/skills",
+    "displayName": "Gh Review Requests"
+  }
+}

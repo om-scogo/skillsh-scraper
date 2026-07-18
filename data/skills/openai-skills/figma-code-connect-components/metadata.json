@@ -1,0 +1,17 @@
+{
+  "skillId": "figma-code-connect-components",
+  "source": "openai/skills",
+  "owner": "openai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openai/skills",
+    "skillId": "figma-code-connect-components",
+    "name": "figma-code-connect-components",
+    "installs": 1421,
+    "owner": "openai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/openai/skills",
+    "displayName": "Figma Code Connect Components"
+  }
+}

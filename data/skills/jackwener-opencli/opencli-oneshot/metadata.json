@@ -1,0 +1,17 @@
+{
+  "skillId": "opencli-oneshot",
+  "source": "jackwener/opencli",
+  "owner": "jackwener",
+  "repo": "opencli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jackwener/opencli",
+    "skillId": "opencli-oneshot",
+    "name": "opencli-oneshot",
+    "installs": 3968,
+    "owner": "jackwener",
+    "repo": "opencli",
+    "githubUrl": "https://github.com/jackwener/opencli",
+    "displayName": "Opencli Oneshot"
+  }
+}

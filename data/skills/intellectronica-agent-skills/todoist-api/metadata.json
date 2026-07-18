@@ -1,0 +1,17 @@
+{
+  "skillId": "todoist-api",
+  "source": "intellectronica/agent-skills",
+  "owner": "intellectronica",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "intellectronica/agent-skills",
+    "skillId": "todoist-api",
+    "name": "todoist-api",
+    "installs": 1556,
+    "owner": "intellectronica",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/intellectronica/agent-skills",
+    "displayName": "Todoist Api"
+  }
+}

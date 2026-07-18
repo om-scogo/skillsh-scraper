@@ -1,0 +1,17 @@
+{
+  "skillId": "crafting-effective-readmes",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "crafting-effective-readmes",
+    "name": "crafting-effective-readmes",
+    "installs": 3895,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Crafting Effective Readmes"
+  }
+}

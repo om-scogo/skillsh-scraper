@@ -1,0 +1,17 @@
+{
+  "skillId": "research-decision-room",
+  "source": "nexu-io/open-design",
+  "owner": "nexu-io",
+  "repo": "open-design",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexu-io/open-design",
+    "skillId": "research-decision-room",
+    "name": "research-decision-room",
+    "installs": 970,
+    "owner": "nexu-io",
+    "repo": "open-design",
+    "githubUrl": "https://github.com/nexu-io/open-design",
+    "displayName": "Research Decision Room"
+  }
+}

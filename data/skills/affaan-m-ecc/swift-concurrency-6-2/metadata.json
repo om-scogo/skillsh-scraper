@@ -1,0 +1,17 @@
+{
+  "skillId": "swift-concurrency-6-2",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "swift-concurrency-6-2",
+    "name": "swift-concurrency-6-2",
+    "installs": 1093,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Swift Concurrency 6 2"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "huggingface-paper-publisher",
+  "source": "huggingface/skills",
+  "owner": "huggingface",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "huggingface/skills",
+    "skillId": "huggingface-paper-publisher",
+    "name": "huggingface-paper-publisher",
+    "installs": 1109,
+    "owner": "huggingface",
+    "repo": "skills",
+    "githubUrl": "https://github.com/huggingface/skills",
+    "displayName": "Huggingface Paper Publisher"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "tao-train-pose-classification",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "tao-train-pose-classification",
+    "name": "tao-train-pose-classification",
+    "installs": 1281,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Tao Train Pose Classification"
+  }
+}

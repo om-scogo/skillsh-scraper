@@ -1,0 +1,17 @@
+{
+  "skillId": "cmux-ghostty",
+  "source": "manaflow-ai/cmux",
+  "owner": "manaflow-ai",
+  "repo": "cmux",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "manaflow-ai/cmux",
+    "skillId": "cmux-ghostty",
+    "name": "cmux-ghostty",
+    "installs": 1616,
+    "owner": "manaflow-ai",
+    "repo": "cmux",
+    "githubUrl": "https://github.com/manaflow-ai/cmux",
+    "displayName": "Cmux Ghostty"
+  }
+}

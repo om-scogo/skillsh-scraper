@@ -1,0 +1,17 @@
+{
+  "skillId": "antfu",
+  "source": "antfu/skills",
+  "owner": "antfu",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antfu/skills",
+    "skillId": "antfu",
+    "name": "antfu",
+    "installs": 13923,
+    "owner": "antfu",
+    "repo": "skills",
+    "githubUrl": "https://github.com/antfu/skills",
+    "displayName": "Antfu"
+  }
+}

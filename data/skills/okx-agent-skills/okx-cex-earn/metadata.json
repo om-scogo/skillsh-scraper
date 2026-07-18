@@ -1,0 +1,17 @@
+{
+  "skillId": "okx-cex-earn",
+  "source": "okx/agent-skills",
+  "owner": "okx",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "okx/agent-skills",
+    "skillId": "okx-cex-earn",
+    "name": "okx-cex-earn",
+    "installs": 7313,
+    "owner": "okx",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/okx/agent-skills",
+    "displayName": "Okx Cex Earn"
+  }
+}

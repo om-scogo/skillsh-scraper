@@ -1,0 +1,17 @@
+{
+  "skillId": "cloud-functions",
+  "source": "tencentcloudbase/skills",
+  "owner": "tencentcloudbase",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tencentcloudbase/skills",
+    "skillId": "cloud-functions",
+    "name": "cloud-functions",
+    "installs": 1032,
+    "owner": "tencentcloudbase",
+    "repo": "skills",
+    "githubUrl": "https://github.com/tencentcloudbase/skills",
+    "displayName": "Cloud Functions"
+  }
+}

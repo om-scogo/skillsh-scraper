@@ -1,0 +1,17 @@
+{
+  "skillId": "huggingface-local-models",
+  "source": "huggingface/skills",
+  "owner": "huggingface",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "huggingface/skills",
+    "skillId": "huggingface-local-models",
+    "name": "huggingface-local-models",
+    "installs": 994,
+    "owner": "huggingface",
+    "repo": "skills",
+    "githubUrl": "https://github.com/huggingface/skills",
+    "displayName": "Huggingface Local Models"
+  }
+}

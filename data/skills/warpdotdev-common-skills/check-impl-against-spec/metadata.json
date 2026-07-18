@@ -1,0 +1,17 @@
+{
+  "skillId": "check-impl-against-spec",
+  "source": "warpdotdev/common-skills",
+  "owner": "warpdotdev",
+  "repo": "common-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "warpdotdev/common-skills",
+    "skillId": "check-impl-against-spec",
+    "name": "check-impl-against-spec",
+    "installs": 11887,
+    "owner": "warpdotdev",
+    "repo": "common-skills",
+    "githubUrl": "https://github.com/warpdotdev/common-skills",
+    "displayName": "Check Impl Against Spec"
+  }
+}

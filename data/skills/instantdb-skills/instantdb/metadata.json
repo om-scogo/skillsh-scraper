@@ -1,0 +1,17 @@
+{
+  "skillId": "instantdb",
+  "source": "instantdb/skills",
+  "owner": "instantdb",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "instantdb/skills",
+    "skillId": "instantdb",
+    "name": "instantdb",
+    "installs": 1193,
+    "owner": "instantdb",
+    "repo": "skills",
+    "githubUrl": "https://github.com/instantdb/skills",
+    "displayName": "Instantdb"
+  }
+}

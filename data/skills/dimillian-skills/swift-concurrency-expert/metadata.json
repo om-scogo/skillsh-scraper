@@ -1,0 +1,17 @@
+{
+  "skillId": "swift-concurrency-expert",
+  "source": "dimillian/skills",
+  "owner": "dimillian",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dimillian/skills",
+    "skillId": "swift-concurrency-expert",
+    "name": "swift-concurrency-expert",
+    "installs": 1517,
+    "owner": "dimillian",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dimillian/skills",
+    "displayName": "Swift Concurrency Expert"
+  }
+}

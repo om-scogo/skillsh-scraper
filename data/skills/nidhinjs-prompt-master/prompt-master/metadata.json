@@ -1,0 +1,17 @@
+{
+  "skillId": "prompt-master",
+  "source": "nidhinjs/prompt-master",
+  "owner": "nidhinjs",
+  "repo": "prompt-master",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nidhinjs/prompt-master",
+    "skillId": "prompt-master",
+    "name": "prompt-master",
+    "installs": 1644,
+    "owner": "nidhinjs",
+    "repo": "prompt-master",
+    "githubUrl": "https://github.com/nidhinjs/prompt-master",
+    "displayName": "Prompt Master"
+  }
+}

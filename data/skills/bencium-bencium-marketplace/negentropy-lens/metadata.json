@@ -1,0 +1,17 @@
+{
+  "skillId": "negentropy-lens",
+  "source": "bencium/bencium-marketplace",
+  "owner": "bencium",
+  "repo": "bencium-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bencium/bencium-marketplace",
+    "skillId": "negentropy-lens",
+    "name": "negentropy-lens",
+    "installs": 1571,
+    "owner": "bencium",
+    "repo": "bencium-marketplace",
+    "githubUrl": "https://github.com/bencium/bencium-marketplace",
+    "displayName": "Negentropy Lens"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "api-recon-and-docs",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "api-recon-and-docs",
+    "name": "api-recon-and-docs",
+    "installs": 2036,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Api Recon And Docs"
+  }
+}

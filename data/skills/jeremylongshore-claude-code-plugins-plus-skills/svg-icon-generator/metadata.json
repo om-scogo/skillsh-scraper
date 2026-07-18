@@ -1,0 +1,17 @@
+{
+  "skillId": "svg-icon-generator",
+  "source": "jeremylongshore/claude-code-plugins-plus-skills",
+  "owner": "jeremylongshore",
+  "repo": "claude-code-plugins-plus-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeremylongshore/claude-code-plugins-plus-skills",
+    "skillId": "svg-icon-generator",
+    "name": "svg-icon-generator",
+    "installs": 799,
+    "owner": "jeremylongshore",
+    "repo": "claude-code-plugins-plus-skills",
+    "githubUrl": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "displayName": "Svg Icon Generator"
+  }
+}

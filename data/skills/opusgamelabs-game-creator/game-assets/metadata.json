@@ -1,0 +1,17 @@
+{
+  "skillId": "game-assets",
+  "source": "opusgamelabs/game-creator",
+  "owner": "opusgamelabs",
+  "repo": "game-creator",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "opusgamelabs/game-creator",
+    "skillId": "game-assets",
+    "name": "game-assets",
+    "installs": 849,
+    "owner": "opusgamelabs",
+    "repo": "game-creator",
+    "githubUrl": "https://github.com/opusgamelabs/game-creator",
+    "displayName": "Game Assets"
+  }
+}

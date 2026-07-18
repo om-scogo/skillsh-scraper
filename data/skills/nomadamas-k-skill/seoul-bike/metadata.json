@@ -1,0 +1,17 @@
+{
+  "skillId": "seoul-bike",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "seoul-bike",
+    "name": "seoul-bike",
+    "installs": 1080,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Seoul Bike"
+  }
+}

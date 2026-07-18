@@ -1,0 +1,17 @@
+{
+  "skillId": "adhd",
+  "source": "uditakhourii/adhd",
+  "owner": "uditakhourii",
+  "repo": "adhd",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "uditakhourii/adhd",
+    "skillId": "adhd",
+    "name": "adhd",
+    "installs": 863,
+    "owner": "uditakhourii",
+    "repo": "adhd",
+    "githubUrl": "https://github.com/uditakhourii/adhd",
+    "displayName": "Adhd"
+  }
+}

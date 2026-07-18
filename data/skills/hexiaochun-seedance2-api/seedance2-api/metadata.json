@@ -1,0 +1,17 @@
+{
+  "skillId": "seedance2-api",
+  "source": "hexiaochun/seedance2-api",
+  "owner": "hexiaochun",
+  "repo": "seedance2-api",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hexiaochun/seedance2-api",
+    "skillId": "seedance2-api",
+    "name": "seedance2-api",
+    "installs": 11746,
+    "owner": "hexiaochun",
+    "repo": "seedance2-api",
+    "githubUrl": "https://github.com/hexiaochun/seedance2-api",
+    "displayName": "Seedance2 Api"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "bazel-build-optimization",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "bazel-build-optimization",
+    "name": "bazel-build-optimization",
+    "installs": 7764,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Bazel Build Optimization"
+  }
+}

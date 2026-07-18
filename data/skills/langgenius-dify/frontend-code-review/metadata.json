@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-code-review",
+  "source": "langgenius/dify",
+  "owner": "langgenius",
+  "repo": "dify",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "langgenius/dify",
+    "skillId": "frontend-code-review",
+    "name": "frontend-code-review",
+    "installs": 8818,
+    "owner": "langgenius",
+    "repo": "dify",
+    "githubUrl": "https://github.com/langgenius/dify",
+    "displayName": "Frontend Code Review"
+  }
+}

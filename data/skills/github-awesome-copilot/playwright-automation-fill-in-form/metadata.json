@@ -1,0 +1,17 @@
+{
+  "skillId": "playwright-automation-fill-in-form",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "playwright-automation-fill-in-form",
+    "name": "playwright-automation-fill-in-form",
+    "installs": 12188,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Playwright Automation Fill In Form"
+  }
+}

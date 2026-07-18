@@ -1,0 +1,17 @@
+{
+  "skillId": "orca-linear",
+  "source": "stablyai/orca",
+  "owner": "stablyai",
+  "repo": "orca",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "stablyai/orca",
+    "skillId": "orca-linear",
+    "name": "orca-linear",
+    "installs": 813,
+    "owner": "stablyai",
+    "repo": "orca",
+    "githubUrl": "https://github.com/stablyai/orca",
+    "displayName": "Orca Linear"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gmgn-market",
+  "source": "gmgnai/gmgn-skills",
+  "owner": "gmgnai",
+  "repo": "gmgn-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "gmgnai/gmgn-skills",
+    "skillId": "gmgn-market",
+    "name": "gmgn-market",
+    "installs": 7466,
+    "owner": "gmgnai",
+    "repo": "gmgn-skills",
+    "githubUrl": "https://github.com/gmgnai/gmgn-skills",
+    "displayName": "Gmgn Market"
+  }
+}

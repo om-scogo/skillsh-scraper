@@ -1,0 +1,17 @@
+{
+  "skillId": "openapi-to-typescript",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "openapi-to-typescript",
+    "name": "openapi-to-typescript",
+    "installs": 3778,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Openapi To Typescript"
+  }
+}

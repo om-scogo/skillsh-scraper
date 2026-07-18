@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-create-vacation-responder",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-create-vacation-responder",
+    "name": "recipe-create-vacation-responder",
+    "installs": 21982,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Create Vacation Responder"
+  }
+}

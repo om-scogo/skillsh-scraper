@@ -1,0 +1,17 @@
+{
+  "skillId": "huashu-md-html",
+  "source": "alchaincyf/huashu-md-html",
+  "owner": "alchaincyf",
+  "repo": "huashu-md-html",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/huashu-md-html",
+    "skillId": "huashu-md-html",
+    "name": "huashu-md-html",
+    "installs": 833,
+    "owner": "alchaincyf",
+    "repo": "huashu-md-html",
+    "githubUrl": "https://github.com/alchaincyf/huashu-md-html",
+    "displayName": "Huashu Md Html"
+  }
+}

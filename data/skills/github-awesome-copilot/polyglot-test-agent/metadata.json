@@ -1,0 +1,17 @@
+{
+  "skillId": "polyglot-test-agent",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "polyglot-test-agent",
+    "name": "polyglot-test-agent",
+    "installs": 8498,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Polyglot Test Agent"
+  }
+}

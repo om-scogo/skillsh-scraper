@@ -1,0 +1,17 @@
+{
+  "skillId": "security-case-management",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "security-case-management",
+    "name": "security-case-management",
+    "installs": 2046,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Security Case Management"
+  }
+}

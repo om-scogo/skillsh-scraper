@@ -1,0 +1,17 @@
+{
+  "skillId": "tutor",
+  "source": "roundtable02/tutor-skills",
+  "owner": "roundtable02",
+  "repo": "tutor-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "roundtable02/tutor-skills",
+    "skillId": "tutor",
+    "name": "tutor",
+    "installs": 1769,
+    "owner": "roundtable02",
+    "repo": "tutor-skills",
+    "githubUrl": "https://github.com/roundtable02/tutor-skills",
+    "displayName": "Tutor"
+  }
+}

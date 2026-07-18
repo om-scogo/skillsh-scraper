@@ -1,0 +1,17 @@
+{
+  "skillId": "computer-use",
+  "source": "stablyai/orca",
+  "owner": "stablyai",
+  "repo": "orca",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "stablyai/orca",
+    "skillId": "computer-use",
+    "name": "computer-use",
+    "installs": 21465,
+    "owner": "stablyai",
+    "repo": "orca",
+    "githubUrl": "https://github.com/stablyai/orca",
+    "displayName": "Computer Use"
+  }
+}

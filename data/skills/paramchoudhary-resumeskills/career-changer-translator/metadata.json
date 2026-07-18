@@ -1,0 +1,17 @@
+{
+  "skillId": "career-changer-translator",
+  "source": "paramchoudhary/resumeskills",
+  "owner": "paramchoudhary",
+  "repo": "resumeskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "paramchoudhary/resumeskills",
+    "skillId": "career-changer-translator",
+    "name": "career changer translator",
+    "installs": 1619,
+    "owner": "paramchoudhary",
+    "repo": "resumeskills",
+    "githubUrl": "https://github.com/paramchoudhary/resumeskills",
+    "displayName": "Career Changer Translator"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "marketing-demand-acquisition",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "marketing-demand-acquisition",
+    "name": "marketing-demand-acquisition",
+    "installs": 802,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Marketing Demand Acquisition"
+  }
+}

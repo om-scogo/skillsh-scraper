@@ -1,0 +1,17 @@
+{
+  "skillId": "zustand-patterns",
+  "source": "yonatangross/orchestkit",
+  "owner": "yonatangross",
+  "repo": "orchestkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yonatangross/orchestkit",
+    "skillId": "zustand-patterns",
+    "name": "zustand-patterns",
+    "installs": 758,
+    "owner": "yonatangross",
+    "repo": "orchestkit",
+    "githubUrl": "https://github.com/yonatangross/orchestkit",
+    "displayName": "Zustand Patterns"
+  }
+}

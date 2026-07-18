@@ -1,0 +1,17 @@
+{
+  "skillId": "no-mistakes",
+  "source": "kunchenguid/axi",
+  "owner": "kunchenguid",
+  "repo": "axi",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kunchenguid/axi",
+    "skillId": "no-mistakes",
+    "name": "no-mistakes",
+    "installs": 754,
+    "owner": "kunchenguid",
+    "repo": "axi",
+    "githubUrl": "https://github.com/kunchenguid/axi",
+    "displayName": "No Mistakes"
+  }
+}

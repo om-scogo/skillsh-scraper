@@ -1,0 +1,17 @@
+{
+  "skillId": "okx-sentiment-tracker",
+  "source": "okx/agent-skills",
+  "owner": "okx",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "okx/agent-skills",
+    "skillId": "okx-sentiment-tracker",
+    "name": "okx-sentiment-tracker",
+    "installs": 5566,
+    "owner": "okx",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/okx/agent-skills",
+    "displayName": "Okx Sentiment Tracker"
+  }
+}

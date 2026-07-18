@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-post-mortem-setup",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-post-mortem-setup",
+    "name": "recipe-post-mortem-setup",
+    "installs": 21962,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Post Mortem Setup"
+  }
+}

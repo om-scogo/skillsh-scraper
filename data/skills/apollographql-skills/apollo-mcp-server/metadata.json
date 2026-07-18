@@ -1,0 +1,17 @@
+{
+  "skillId": "apollo-mcp-server",
+  "source": "apollographql/skills",
+  "owner": "apollographql",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apollographql/skills",
+    "skillId": "apollo-mcp-server",
+    "name": "apollo-mcp-server",
+    "installs": 2164,
+    "owner": "apollographql",
+    "repo": "skills",
+    "githubUrl": "https://github.com/apollographql/skills",
+    "displayName": "Apollo Mcp Server"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "donation-place-search",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "donation-place-search",
+    "name": "donation-place-search",
+    "installs": 1428,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Donation Place Search"
+  }
+}

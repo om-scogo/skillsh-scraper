@@ -1,0 +1,17 @@
+{
+  "skillId": "setting-up-ec2-instance-profiles",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "setting-up-ec2-instance-profiles",
+    "name": "setting-up-ec2-instance-profiles",
+    "installs": 1729,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Setting Up Ec2 Instance Profiles"
+  }
+}

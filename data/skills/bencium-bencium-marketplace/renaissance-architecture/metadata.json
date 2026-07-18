@@ -1,0 +1,17 @@
+{
+  "skillId": "renaissance-architecture",
+  "source": "bencium/bencium-marketplace",
+  "owner": "bencium",
+  "repo": "bencium-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bencium/bencium-marketplace",
+    "skillId": "renaissance-architecture",
+    "name": "renaissance-architecture",
+    "installs": 1585,
+    "owner": "bencium",
+    "repo": "bencium-marketplace",
+    "githubUrl": "https://github.com/bencium/bencium-marketplace",
+    "displayName": "Renaissance Architecture"
+  }
+}

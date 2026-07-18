@@ -1,0 +1,17 @@
+{
+  "skillId": "thermo-nuclear-code-quality-review",
+  "source": "cursor/plugins",
+  "owner": "cursor",
+  "repo": "plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cursor/plugins",
+    "skillId": "thermo-nuclear-code-quality-review",
+    "name": "thermo-nuclear-code-quality-review",
+    "installs": 6486,
+    "owner": "cursor",
+    "repo": "plugins",
+    "githubUrl": "https://github.com/cursor/plugins",
+    "displayName": "Thermo Nuclear Code Quality Review"
+  }
+}

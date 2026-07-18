@@ -1,0 +1,17 @@
+{
+  "skillId": "ssh",
+  "source": "openhands/skills",
+  "owner": "openhands",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openhands/skills",
+    "skillId": "ssh",
+    "name": "ssh",
+    "installs": 839,
+    "owner": "openhands",
+    "repo": "skills",
+    "githubUrl": "https://github.com/openhands/skills",
+    "displayName": "Ssh"
+  }
+}

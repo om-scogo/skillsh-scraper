@@ -1,0 +1,17 @@
+{
+  "skillId": "transaction-correctness",
+  "source": "tursodatabase/turso",
+  "owner": "tursodatabase",
+  "repo": "turso",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tursodatabase/turso",
+    "skillId": "transaction-correctness",
+    "name": "transaction-correctness",
+    "installs": 865,
+    "owner": "tursodatabase",
+    "repo": "turso",
+    "githubUrl": "https://github.com/tursodatabase/turso",
+    "displayName": "Transaction Correctness"
+  }
+}

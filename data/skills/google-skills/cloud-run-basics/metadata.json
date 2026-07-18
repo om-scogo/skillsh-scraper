@@ -1,0 +1,17 @@
+{
+  "skillId": "cloud-run-basics",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "cloud-run-basics",
+    "name": "cloud-run-basics",
+    "installs": 9019,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Cloud Run Basics"
+  }
+}

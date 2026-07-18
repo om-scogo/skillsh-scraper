@@ -1,0 +1,17 @@
+{
+  "skillId": "start-issue",
+  "source": "vkehfdl1/marshroom",
+  "owner": "vkehfdl1",
+  "repo": "marshroom",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vkehfdl1/marshroom",
+    "skillId": "start-issue",
+    "name": "start-issue",
+    "installs": 1198,
+    "owner": "vkehfdl1",
+    "repo": "marshroom",
+    "githubUrl": "https://github.com/vkehfdl1/marshroom",
+    "displayName": "Start Issue"
+  }
+}

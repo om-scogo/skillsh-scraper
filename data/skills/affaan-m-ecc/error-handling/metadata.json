@@ -1,0 +1,17 @@
+{
+  "skillId": "error-handling",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "error-handling",
+    "name": "error-handling",
+    "installs": 1153,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Error Handling"
+  }
+}

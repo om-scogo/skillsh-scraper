@@ -1,0 +1,17 @@
+{
+  "skillId": "debug-issue",
+  "source": "tirth8205/code-review-graph",
+  "owner": "tirth8205",
+  "repo": "code-review-graph",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tirth8205/code-review-graph",
+    "skillId": "debug-issue",
+    "name": "debug issue",
+    "installs": 769,
+    "owner": "tirth8205",
+    "repo": "code-review-graph",
+    "githubUrl": "https://github.com/tirth8205/code-review-graph",
+    "displayName": "Debug Issue"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-setup",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-setup",
+    "name": "clerk-setup",
+    "installs": 24075,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk Setup"
+  }
+}

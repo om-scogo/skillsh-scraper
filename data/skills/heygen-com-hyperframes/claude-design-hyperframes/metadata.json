@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-design-hyperframes",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "claude-design-hyperframes",
+    "name": "claude-design-hyperframes",
+    "installs": 2038,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Claude Design Hyperframes"
+  }
+}

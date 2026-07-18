@@ -1,0 +1,17 @@
+{
+  "skillId": "temporal-developer",
+  "source": "temporalio/skill-temporal-developer",
+  "owner": "temporalio",
+  "repo": "skill-temporal-developer",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "temporalio/skill-temporal-developer",
+    "skillId": "temporal-developer",
+    "name": "temporal-developer",
+    "installs": 2446,
+    "owner": "temporalio",
+    "repo": "skill-temporal-developer",
+    "githubUrl": "https://github.com/temporalio/skill-temporal-developer",
+    "displayName": "Temporal Developer"
+  }
+}

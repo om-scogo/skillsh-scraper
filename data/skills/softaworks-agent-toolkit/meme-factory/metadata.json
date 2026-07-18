@@ -1,0 +1,17 @@
+{
+  "skillId": "meme-factory",
+  "source": "softaworks/agent-toolkit",
+  "owner": "softaworks",
+  "repo": "agent-toolkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "softaworks/agent-toolkit",
+    "skillId": "meme-factory",
+    "name": "meme-factory",
+    "installs": 3776,
+    "owner": "softaworks",
+    "repo": "agent-toolkit",
+    "githubUrl": "https://github.com/softaworks/agent-toolkit",
+    "displayName": "Meme Factory"
+  }
+}

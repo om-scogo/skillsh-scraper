@@ -1,0 +1,17 @@
+{
+  "skillId": "gitlab-cli-skills",
+  "source": "vince-winkintel/gitlab-cli-skills",
+  "owner": "vince-winkintel",
+  "repo": "gitlab-cli-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vince-winkintel/gitlab-cli-skills",
+    "skillId": "gitlab-cli-skills",
+    "name": "gitlab-cli-skills",
+    "installs": 1346,
+    "owner": "vince-winkintel",
+    "repo": "gitlab-cli-skills",
+    "githubUrl": "https://github.com/vince-winkintel/gitlab-cli-skills",
+    "displayName": "Gitlab Cli Skills"
+  }
+}

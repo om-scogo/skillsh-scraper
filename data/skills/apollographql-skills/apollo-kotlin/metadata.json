@@ -1,0 +1,17 @@
+{
+  "skillId": "apollo-kotlin",
+  "source": "apollographql/skills",
+  "owner": "apollographql",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apollographql/skills",
+    "skillId": "apollo-kotlin",
+    "name": "apollo-kotlin",
+    "installs": 1095,
+    "owner": "apollographql",
+    "repo": "skills",
+    "githubUrl": "https://github.com/apollographql/skills",
+    "displayName": "Apollo Kotlin"
+  }
+}

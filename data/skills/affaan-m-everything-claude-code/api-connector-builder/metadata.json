@@ -1,0 +1,17 @@
+{
+  "skillId": "api-connector-builder",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "api-connector-builder",
+    "name": "api-connector-builder",
+    "installs": 3671,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Api Connector Builder"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "huggingface-vision-trainer",
+  "source": "huggingface/skills",
+  "owner": "huggingface",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "huggingface/skills",
+    "skillId": "huggingface-vision-trainer",
+    "name": "huggingface-vision-trainer",
+    "installs": 1197,
+    "owner": "huggingface",
+    "repo": "skills",
+    "githubUrl": "https://github.com/huggingface/skills",
+    "displayName": "Huggingface Vision Trainer"
+  }
+}

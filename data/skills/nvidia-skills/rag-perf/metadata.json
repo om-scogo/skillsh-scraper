@@ -1,0 +1,17 @@
+{
+  "skillId": "rag-perf",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "rag-perf",
+    "name": "rag-perf",
+    "installs": 1639,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Rag Perf"
+  }
+}

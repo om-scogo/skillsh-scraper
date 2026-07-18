@@ -1,0 +1,17 @@
+{
+  "skillId": "claude-automation-recommender",
+  "source": "anthropics/claude-plugins-official",
+  "owner": "anthropics",
+  "repo": "claude-plugins-official",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/claude-plugins-official",
+    "skillId": "claude-automation-recommender",
+    "name": "claude-automation-recommender",
+    "installs": 5285,
+    "owner": "anthropics",
+    "repo": "claude-plugins-official",
+    "githubUrl": "https://github.com/anthropics/claude-plugins-official",
+    "displayName": "Claude Automation Recommender"
+  }
+}

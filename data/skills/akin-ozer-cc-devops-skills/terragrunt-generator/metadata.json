@@ -1,0 +1,17 @@
+{
+  "skillId": "terragrunt-generator",
+  "source": "akin-ozer/cc-devops-skills",
+  "owner": "akin-ozer",
+  "repo": "cc-devops-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "akin-ozer/cc-devops-skills",
+    "skillId": "terragrunt-generator",
+    "name": "terragrunt-generator",
+    "installs": 914,
+    "owner": "akin-ozer",
+    "repo": "cc-devops-skills",
+    "githubUrl": "https://github.com/akin-ozer/cc-devops-skills",
+    "displayName": "Terragrunt Generator"
+  }
+}

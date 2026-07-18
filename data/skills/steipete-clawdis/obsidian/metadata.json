@@ -1,0 +1,17 @@
+{
+  "skillId": "obsidian",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "obsidian",
+    "name": "obsidian",
+    "installs": 3298,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Obsidian"
+  }
+}

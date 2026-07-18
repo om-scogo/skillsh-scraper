@@ -1,0 +1,17 @@
+{
+  "skillId": "email-and-password-best-practices",
+  "source": "better-auth/skills",
+  "owner": "better-auth",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "better-auth/skills",
+    "skillId": "email-and-password-best-practices",
+    "name": "email-and-password-best-practices",
+    "installs": 25207,
+    "owner": "better-auth",
+    "repo": "skills",
+    "githubUrl": "https://github.com/better-auth/skills",
+    "displayName": "Email And Password Best Practices"
+  }
+}

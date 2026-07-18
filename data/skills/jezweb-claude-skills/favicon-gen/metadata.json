@@ -1,0 +1,17 @@
+{
+  "skillId": "favicon-gen",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "favicon-gen",
+    "name": "favicon-gen",
+    "installs": 1864,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Favicon Gen"
+  }
+}

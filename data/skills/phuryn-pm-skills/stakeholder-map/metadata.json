@@ -1,0 +1,17 @@
+{
+  "skillId": "stakeholder-map",
+  "source": "phuryn/pm-skills",
+  "owner": "phuryn",
+  "repo": "pm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "phuryn/pm-skills",
+    "skillId": "stakeholder-map",
+    "name": "stakeholder-map",
+    "installs": 1711,
+    "owner": "phuryn",
+    "repo": "pm-skills",
+    "githubUrl": "https://github.com/phuryn/pm-skills",
+    "displayName": "Stakeholder Map"
+  }
+}

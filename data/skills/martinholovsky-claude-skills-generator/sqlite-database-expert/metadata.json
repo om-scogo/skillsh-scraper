@@ -1,0 +1,17 @@
+{
+  "skillId": "sqlite-database-expert",
+  "source": "martinholovsky/claude-skills-generator",
+  "owner": "martinholovsky",
+  "repo": "claude-skills-generator",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "martinholovsky/claude-skills-generator",
+    "skillId": "sqlite-database-expert",
+    "name": "sqlite database expert",
+    "installs": 2369,
+    "owner": "martinholovsky",
+    "repo": "claude-skills-generator",
+    "githubUrl": "https://github.com/martinholovsky/claude-skills-generator",
+    "displayName": "Sqlite Database Expert"
+  }
+}

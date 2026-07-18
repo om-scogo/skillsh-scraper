@@ -1,0 +1,17 @@
+{
+  "skillId": "printing-press-publish",
+  "source": "mvanhorn/cli-printing-press",
+  "owner": "mvanhorn",
+  "repo": "cli-printing-press",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mvanhorn/cli-printing-press",
+    "skillId": "printing-press-publish",
+    "name": "printing-press-publish",
+    "installs": 4546,
+    "owner": "mvanhorn",
+    "repo": "cli-printing-press",
+    "githubUrl": "https://github.com/mvanhorn/cli-printing-press",
+    "displayName": "Printing Press Publish"
+  }
+}

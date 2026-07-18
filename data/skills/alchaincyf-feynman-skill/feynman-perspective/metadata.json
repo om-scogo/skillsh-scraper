@@ -1,0 +1,17 @@
+{
+  "skillId": "feynman-perspective",
+  "source": "alchaincyf/feynman-skill",
+  "owner": "alchaincyf",
+  "repo": "feynman-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alchaincyf/feynman-skill",
+    "skillId": "feynman-perspective",
+    "name": "feynman-perspective",
+    "installs": 2630,
+    "owner": "alchaincyf",
+    "repo": "feynman-skill",
+    "githubUrl": "https://github.com/alchaincyf/feynman-skill",
+    "displayName": "Feynman Perspective"
+  }
+}

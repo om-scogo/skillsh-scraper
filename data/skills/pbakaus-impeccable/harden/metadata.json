@@ -1,0 +1,17 @@
+{
+  "skillId": "harden",
+  "source": "pbakaus/impeccable",
+  "owner": "pbakaus",
+  "repo": "impeccable",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pbakaus/impeccable",
+    "skillId": "harden",
+    "name": "harden",
+    "installs": 53989,
+    "owner": "pbakaus",
+    "repo": "impeccable",
+    "githubUrl": "https://github.com/pbakaus/impeccable",
+    "displayName": "Harden"
+  }
+}

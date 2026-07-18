@@ -1,0 +1,17 @@
+{
+  "skillId": "swap-integration",
+  "source": "uniswap/uniswap-ai",
+  "owner": "uniswap",
+  "repo": "uniswap-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "uniswap/uniswap-ai",
+    "skillId": "swap-integration",
+    "name": "swap-integration",
+    "installs": 1347,
+    "owner": "uniswap",
+    "repo": "uniswap-ai",
+    "githubUrl": "https://github.com/uniswap/uniswap-ai",
+    "displayName": "Swap Integration"
+  }
+}

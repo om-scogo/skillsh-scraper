@@ -1,0 +1,17 @@
+{
+  "skillId": "building-pydantic-ai-agents",
+  "source": "pydantic/skills",
+  "owner": "pydantic",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pydantic/skills",
+    "skillId": "building-pydantic-ai-agents",
+    "name": "building-pydantic-ai-agents",
+    "installs": 2596,
+    "owner": "pydantic",
+    "repo": "skills",
+    "githubUrl": "https://github.com/pydantic/skills",
+    "displayName": "Building Pydantic Ai Agents"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-kanban",
+  "source": "saltbo/agent-kanban",
+  "owner": "saltbo",
+  "repo": "agent-kanban",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "saltbo/agent-kanban",
+    "skillId": "agent-kanban",
+    "name": "agent-kanban",
+    "installs": 993,
+    "owner": "saltbo",
+    "repo": "agent-kanban",
+    "githubUrl": "https://github.com/saltbo/agent-kanban",
+    "displayName": "Agent Kanban"
+  }
+}

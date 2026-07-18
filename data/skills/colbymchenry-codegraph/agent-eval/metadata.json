@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-eval",
+  "source": "colbymchenry/codegraph",
+  "owner": "colbymchenry",
+  "repo": "codegraph",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "colbymchenry/codegraph",
+    "skillId": "agent-eval",
+    "name": "agent-eval",
+    "installs": 1205,
+    "owner": "colbymchenry",
+    "repo": "codegraph",
+    "githubUrl": "https://github.com/colbymchenry/codegraph",
+    "displayName": "Agent Eval"
+  }
+}

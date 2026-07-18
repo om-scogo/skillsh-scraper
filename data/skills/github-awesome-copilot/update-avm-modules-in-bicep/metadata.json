@@ -1,0 +1,17 @@
+{
+  "skillId": "update-avm-modules-in-bicep",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "update-avm-modules-in-bicep",
+    "name": "update-avm-modules-in-bicep",
+    "installs": 8516,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Update Avm Modules In Bicep"
+  }
+}

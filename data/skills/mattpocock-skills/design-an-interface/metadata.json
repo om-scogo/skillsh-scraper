@@ -1,0 +1,17 @@
+{
+  "skillId": "design-an-interface",
+  "source": "mattpocock/skills",
+  "owner": "mattpocock",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mattpocock/skills",
+    "skillId": "design-an-interface",
+    "name": "design-an-interface",
+    "installs": 148737,
+    "owner": "mattpocock",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mattpocock/skills",
+    "displayName": "Design An Interface"
+  }
+}

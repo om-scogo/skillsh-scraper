@@ -1,0 +1,17 @@
+{
+  "skillId": "test-anti-patterns",
+  "source": "dotnet/skills",
+  "owner": "dotnet",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dotnet/skills",
+    "skillId": "test-anti-patterns",
+    "name": "test-anti-patterns",
+    "installs": 832,
+    "owner": "dotnet",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dotnet/skills",
+    "displayName": "Test Anti Patterns"
+  }
+}

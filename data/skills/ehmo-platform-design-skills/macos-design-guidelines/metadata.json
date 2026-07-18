@@ -1,0 +1,17 @@
+{
+  "skillId": "macos-design-guidelines",
+  "source": "ehmo/platform-design-skills",
+  "owner": "ehmo",
+  "repo": "platform-design-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ehmo/platform-design-skills",
+    "skillId": "macos-design-guidelines",
+    "name": "macos-design-guidelines",
+    "installs": 3232,
+    "owner": "ehmo",
+    "repo": "platform-design-skills",
+    "githubUrl": "https://github.com/ehmo/platform-design-skills",
+    "displayName": "Macos Design Guidelines"
+  }
+}

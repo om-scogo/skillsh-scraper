@@ -1,0 +1,17 @@
+{
+  "skillId": "instagram-content-generation",
+  "source": "eachlabs/skills",
+  "owner": "eachlabs",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eachlabs/skills",
+    "skillId": "instagram-content-generation",
+    "name": "instagram-content-generation",
+    "installs": 884,
+    "owner": "eachlabs",
+    "repo": "skills",
+    "githubUrl": "https://github.com/eachlabs/skills",
+    "displayName": "Instagram Content Generation"
+  }
+}

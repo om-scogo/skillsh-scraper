@@ -1,0 +1,17 @@
+{
+  "skillId": "kubernetes-specialist",
+  "source": "jeffallan/claude-skills",
+  "owner": "jeffallan",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jeffallan/claude-skills",
+    "skillId": "kubernetes-specialist",
+    "name": "kubernetes-specialist",
+    "installs": 11423,
+    "owner": "jeffallan",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jeffallan/claude-skills",
+    "displayName": "Kubernetes Specialist"
+  }
+}

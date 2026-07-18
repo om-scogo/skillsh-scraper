@@ -1,0 +1,17 @@
+{
+  "skillId": "v3-cli-modernization",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "v3-cli-modernization",
+    "name": "v3 cli modernization",
+    "installs": 973,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "V3 Cli Modernization"
+  }
+}

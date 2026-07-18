@@ -1,0 +1,17 @@
+{
+  "skillId": "physical-ai-neural-reconstruction",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "physical-ai-neural-reconstruction",
+    "name": "physical-ai-neural-reconstruction",
+    "installs": 1615,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Physical Ai Neural Reconstruction"
+  }
+}

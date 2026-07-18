@@ -1,0 +1,17 @@
+{
+  "skillId": "flags-sdk",
+  "source": "vercel/flags",
+  "owner": "vercel",
+  "repo": "flags",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vercel/flags",
+    "skillId": "flags-sdk",
+    "name": "flags-sdk",
+    "installs": 1753,
+    "owner": "vercel",
+    "repo": "flags",
+    "githubUrl": "https://github.com/vercel/flags",
+    "displayName": "Flags Sdk"
+  }
+}

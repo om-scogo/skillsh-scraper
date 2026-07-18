@@ -1,0 +1,17 @@
+{
+  "skillId": "skill-authoring",
+  "source": "microsoft/azure-skills",
+  "owner": "microsoft",
+  "repo": "azure-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/azure-skills",
+    "skillId": "skill-authoring",
+    "name": "skill-authoring",
+    "installs": 966,
+    "owner": "microsoft",
+    "repo": "azure-skills",
+    "githubUrl": "https://github.com/microsoft/azure-skills",
+    "displayName": "Skill Authoring"
+  }
+}

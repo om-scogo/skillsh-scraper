@@ -1,0 +1,17 @@
+{
+  "skillId": "python-background-jobs",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "python-background-jobs",
+    "name": "python-background-jobs",
+    "installs": 8185,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Python Background Jobs"
+  }
+}

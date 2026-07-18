@@ -1,0 +1,17 @@
+{
+  "skillId": "axiom-apple-docs",
+  "source": "charleswiltgen/axiom",
+  "owner": "charleswiltgen",
+  "repo": "axiom",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "charleswiltgen/axiom",
+    "skillId": "axiom-apple-docs",
+    "name": "axiom-apple-docs",
+    "installs": 851,
+    "owner": "charleswiltgen",
+    "repo": "axiom",
+    "githubUrl": "https://github.com/charleswiltgen/axiom",
+    "displayName": "Axiom Apple Docs"
+  }
+}

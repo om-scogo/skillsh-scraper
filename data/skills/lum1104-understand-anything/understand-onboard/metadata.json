@@ -1,0 +1,17 @@
+{
+  "skillId": "understand-onboard",
+  "source": "lum1104/understand-anything",
+  "owner": "lum1104",
+  "repo": "understand-anything",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lum1104/understand-anything",
+    "skillId": "understand-onboard",
+    "name": "understand-onboard",
+    "installs": 1175,
+    "owner": "lum1104",
+    "repo": "understand-anything",
+    "githubUrl": "https://github.com/lum1104/understand-anything",
+    "displayName": "Understand Onboard"
+  }
+}

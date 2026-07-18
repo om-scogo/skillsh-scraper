@@ -1,0 +1,17 @@
+{
+  "skillId": "substance-3d-texturing",
+  "source": "freshtechbro/claudedesignskills",
+  "owner": "freshtechbro",
+  "repo": "claudedesignskills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "freshtechbro/claudedesignskills",
+    "skillId": "substance-3d-texturing",
+    "name": "substance-3d-texturing",
+    "installs": 1221,
+    "owner": "freshtechbro",
+    "repo": "claudedesignskills",
+    "githubUrl": "https://github.com/freshtechbro/claudedesignskills",
+    "displayName": "Substance 3d Texturing"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "ui-ux-expert",
+  "source": "martinholovsky/claude-skills-generator",
+  "owner": "martinholovsky",
+  "repo": "claude-skills-generator",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "martinholovsky/claude-skills-generator",
+    "skillId": "ui-ux-expert",
+    "name": "ui-ux-expert",
+    "installs": 772,
+    "owner": "martinholovsky",
+    "repo": "claude-skills-generator",
+    "githubUrl": "https://github.com/martinholovsky/claude-skills-generator",
+    "displayName": "Ui Ux Expert"
+  }
+}

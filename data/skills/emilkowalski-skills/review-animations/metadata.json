@@ -1,0 +1,17 @@
+{
+  "skillId": "review-animations",
+  "source": "emilkowalski/skills",
+  "owner": "emilkowalski",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "emilkowalski/skills",
+    "skillId": "review-animations",
+    "name": "review-animations",
+    "installs": 40185,
+    "owner": "emilkowalski",
+    "repo": "skills",
+    "githubUrl": "https://github.com/emilkowalski/skills",
+    "displayName": "Review Animations"
+  }
+}

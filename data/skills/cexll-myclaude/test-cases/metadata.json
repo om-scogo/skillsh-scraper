@@ -1,0 +1,17 @@
+{
+  "skillId": "test-cases",
+  "source": "cexll/myclaude",
+  "owner": "cexll",
+  "repo": "myclaude",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cexll/myclaude",
+    "skillId": "test-cases",
+    "name": "test-cases",
+    "installs": 1026,
+    "owner": "cexll",
+    "repo": "myclaude",
+    "githubUrl": "https://github.com/cexll/myclaude",
+    "displayName": "Test Cases"
+  }
+}

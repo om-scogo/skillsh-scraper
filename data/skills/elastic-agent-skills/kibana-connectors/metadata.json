@@ -1,0 +1,17 @@
+{
+  "skillId": "kibana-connectors",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "kibana-connectors",
+    "name": "kibana-connectors",
+    "installs": 1855,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Kibana Connectors"
+  }
+}

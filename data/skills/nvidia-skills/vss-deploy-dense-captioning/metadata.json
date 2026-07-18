@@ -1,0 +1,17 @@
+{
+  "skillId": "vss-deploy-dense-captioning",
+  "source": "nvidia/skills",
+  "owner": "nvidia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nvidia/skills",
+    "skillId": "vss-deploy-dense-captioning",
+    "name": "vss-deploy-dense-captioning",
+    "installs": 1499,
+    "owner": "nvidia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/nvidia/skills",
+    "displayName": "Vss Deploy Dense Captioning"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-share-event-materials",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-share-event-materials",
+    "name": "recipe-share-event-materials",
+    "installs": 21809,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Share Event Materials"
+  }
+}

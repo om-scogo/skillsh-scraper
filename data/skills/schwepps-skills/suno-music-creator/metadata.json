@@ -1,0 +1,17 @@
+{
+  "skillId": "suno-music-creator",
+  "source": "schwepps/skills",
+  "owner": "schwepps",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "schwepps/skills",
+    "skillId": "suno-music-creator",
+    "name": "suno-music-creator",
+    "installs": 1056,
+    "owner": "schwepps",
+    "repo": "skills",
+    "githubUrl": "https://github.com/schwepps/skills",
+    "displayName": "Suno Music Creator"
+  }
+}

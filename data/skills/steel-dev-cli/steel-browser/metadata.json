@@ -1,0 +1,17 @@
+{
+  "skillId": "steel-browser",
+  "source": "steel-dev/cli",
+  "owner": "steel-dev",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steel-dev/cli",
+    "skillId": "steel-browser",
+    "name": "steel-browser",
+    "installs": 1778,
+    "owner": "steel-dev",
+    "repo": "cli",
+    "githubUrl": "https://github.com/steel-dev/cli",
+    "displayName": "Steel Browser"
+  }
+}

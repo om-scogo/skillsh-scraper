@@ -1,0 +1,17 @@
+{
+  "skillId": "argent-test-ui-flow",
+  "source": "software-mansion/argent",
+  "owner": "software-mansion",
+  "repo": "argent",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "software-mansion/argent",
+    "skillId": "argent-test-ui-flow",
+    "name": "argent-test-ui-flow",
+    "installs": 6813,
+    "owner": "software-mansion",
+    "repo": "argent",
+    "githubUrl": "https://github.com/software-mansion/argent",
+    "displayName": "Argent Test Ui Flow"
+  }
+}

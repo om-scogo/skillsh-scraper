@@ -1,0 +1,17 @@
+{
+  "skillId": "shopify-setup",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "shopify-setup",
+    "name": "shopify-setup",
+    "installs": 1026,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Shopify Setup"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "documentation-lookup",
+  "source": "upstash/context7",
+  "owner": "upstash",
+  "repo": "context7",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "upstash/context7",
+    "skillId": "documentation-lookup",
+    "name": "documentation-lookup",
+    "installs": 1402,
+    "owner": "upstash",
+    "repo": "context7",
+    "githubUrl": "https://github.com/upstash/context7",
+    "displayName": "Documentation Lookup"
+  }
+}

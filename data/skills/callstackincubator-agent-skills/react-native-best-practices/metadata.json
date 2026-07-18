@@ -1,0 +1,17 @@
+{
+  "skillId": "react-native-best-practices",
+  "source": "callstackincubator/agent-skills",
+  "owner": "callstackincubator",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "callstackincubator/agent-skills",
+    "skillId": "react-native-best-practices",
+    "name": "react-native-best-practices",
+    "installs": 20055,
+    "owner": "callstackincubator",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/callstackincubator/agent-skills",
+    "displayName": "React Native Best Practices"
+  }
+}

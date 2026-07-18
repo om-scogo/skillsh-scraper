@@ -1,0 +1,17 @@
+{
+  "skillId": "hatch-pet",
+  "source": "openai/skills",
+  "owner": "openai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "openai/skills",
+    "skillId": "hatch-pet",
+    "name": "hatch-pet",
+    "installs": 1560,
+    "owner": "openai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/openai/skills",
+    "displayName": "Hatch Pet"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "user-onboarding",
+  "source": "starchild-ai-agent/official-skills",
+  "owner": "starchild-ai-agent",
+  "repo": "official-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "starchild-ai-agent/official-skills",
+    "skillId": "user-onboarding",
+    "name": "user-onboarding",
+    "installs": 2754,
+    "owner": "starchild-ai-agent",
+    "repo": "official-skills",
+    "githubUrl": "https://github.com/starchild-ai-agent/official-skills",
+    "displayName": "User Onboarding"
+  }
+}

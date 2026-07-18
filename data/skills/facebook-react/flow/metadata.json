@@ -1,0 +1,17 @@
+{
+  "skillId": "flow",
+  "source": "facebook/react",
+  "owner": "facebook",
+  "repo": "react",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "facebook/react",
+    "skillId": "flow",
+    "name": "flow",
+    "installs": 991,
+    "owner": "facebook",
+    "repo": "react",
+    "githubUrl": "https://github.com/facebook/react",
+    "displayName": "Flow"
+  }
+}

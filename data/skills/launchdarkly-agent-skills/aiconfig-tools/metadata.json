@@ -1,0 +1,17 @@
+{
+  "skillId": "aiconfig-tools",
+  "source": "launchdarkly/agent-skills",
+  "owner": "launchdarkly",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "launchdarkly/agent-skills",
+    "skillId": "aiconfig-tools",
+    "name": "aiconfig-tools",
+    "installs": 2413,
+    "owner": "launchdarkly",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/launchdarkly/agent-skills",
+    "displayName": "Aiconfig Tools"
+  }
+}

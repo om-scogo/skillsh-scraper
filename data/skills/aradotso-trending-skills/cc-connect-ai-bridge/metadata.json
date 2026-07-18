@@ -1,0 +1,17 @@
+{
+  "skillId": "cc-connect-ai-bridge",
+  "source": "aradotso/trending-skills",
+  "owner": "aradotso",
+  "repo": "trending-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/trending-skills",
+    "skillId": "cc-connect-ai-bridge",
+    "name": "cc-connect-ai-bridge",
+    "installs": 889,
+    "owner": "aradotso",
+    "repo": "trending-skills",
+    "githubUrl": "https://github.com/aradotso/trending-skills",
+    "displayName": "Cc Connect Ai Bridge"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "kb-retriever",
+  "source": "conardli/garden-skills",
+  "owner": "conardli",
+  "repo": "garden-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "conardli/garden-skills",
+    "skillId": "kb-retriever",
+    "name": "kb-retriever",
+    "installs": 2414,
+    "owner": "conardli",
+    "repo": "garden-skills",
+    "githubUrl": "https://github.com/conardli/garden-skills",
+    "displayName": "Kb Retriever"
+  }
+}

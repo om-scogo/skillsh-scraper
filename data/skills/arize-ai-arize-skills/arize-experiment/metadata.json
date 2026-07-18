@@ -1,0 +1,17 @@
+{
+  "skillId": "arize-experiment",
+  "source": "arize-ai/arize-skills",
+  "owner": "arize-ai",
+  "repo": "arize-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "arize-ai/arize-skills",
+    "skillId": "arize-experiment",
+    "name": "arize-experiment",
+    "installs": 1771,
+    "owner": "arize-ai",
+    "repo": "arize-skills",
+    "githubUrl": "https://github.com/arize-ai/arize-skills",
+    "displayName": "Arize Experiment"
+  }
+}

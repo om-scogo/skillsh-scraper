@@ -1,0 +1,17 @@
+{
+  "skillId": "spec-driven-development",
+  "source": "addyosmani/agent-skills",
+  "owner": "addyosmani",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "addyosmani/agent-skills",
+    "skillId": "spec-driven-development",
+    "name": "spec-driven-development",
+    "installs": 13622,
+    "owner": "addyosmani",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/addyosmani/agent-skills",
+    "displayName": "Spec Driven Development"
+  }
+}

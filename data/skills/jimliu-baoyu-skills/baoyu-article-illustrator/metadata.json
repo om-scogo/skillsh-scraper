@@ -1,0 +1,17 @@
+{
+  "skillId": "baoyu-article-illustrator",
+  "source": "jimliu/baoyu-skills",
+  "owner": "jimliu",
+  "repo": "baoyu-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jimliu/baoyu-skills",
+    "skillId": "baoyu-article-illustrator",
+    "name": "baoyu-article-illustrator",
+    "installs": 28506,
+    "owner": "jimliu",
+    "repo": "baoyu-skills",
+    "githubUrl": "https://github.com/jimliu/baoyu-skills",
+    "displayName": "Baoyu Article Illustrator"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "conducting-interviews",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "conducting-interviews",
+    "name": "conducting-interviews",
+    "installs": 1646,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Conducting Interviews"
+  }
+}

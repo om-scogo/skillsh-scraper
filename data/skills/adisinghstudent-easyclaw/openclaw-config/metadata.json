@@ -1,0 +1,17 @@
+{
+  "skillId": "openclaw-config",
+  "source": "adisinghstudent/easyclaw",
+  "owner": "adisinghstudent",
+  "repo": "easyclaw",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adisinghstudent/easyclaw",
+    "skillId": "openclaw-config",
+    "name": "openclaw-config",
+    "installs": 2753,
+    "owner": "adisinghstudent",
+    "repo": "easyclaw",
+    "githubUrl": "https://github.com/adisinghstudent/easyclaw",
+    "displayName": "Openclaw Config"
+  }
+}

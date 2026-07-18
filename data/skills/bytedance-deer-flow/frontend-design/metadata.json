@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-design",
+  "source": "bytedance/deer-flow",
+  "owner": "bytedance",
+  "repo": "deer-flow",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bytedance/deer-flow",
+    "skillId": "frontend-design",
+    "name": "frontend-design",
+    "installs": 2845,
+    "owner": "bytedance",
+    "repo": "deer-flow",
+    "githubUrl": "https://github.com/bytedance/deer-flow",
+    "displayName": "Frontend Design"
+  }
+}

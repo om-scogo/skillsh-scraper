@@ -1,0 +1,17 @@
+{
+  "skillId": "creator-ugc-marketing",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "creator-ugc-marketing",
+    "name": "creator-ugc-marketing",
+    "installs": 812,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "Creator Ugc Marketing"
+  }
+}

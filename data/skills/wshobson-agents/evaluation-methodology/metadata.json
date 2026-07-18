@@ -1,0 +1,17 @@
+{
+  "skillId": "evaluation-methodology",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "evaluation-methodology",
+    "name": "evaluation-methodology",
+    "installs": 4555,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Evaluation Methodology"
+  }
+}

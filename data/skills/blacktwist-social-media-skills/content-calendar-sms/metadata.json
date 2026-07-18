@@ -1,0 +1,17 @@
+{
+  "skillId": "content-calendar-sms",
+  "source": "blacktwist/social-media-skills",
+  "owner": "blacktwist",
+  "repo": "social-media-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "blacktwist/social-media-skills",
+    "skillId": "content-calendar-sms",
+    "name": "content-calendar-sms",
+    "installs": 1125,
+    "owner": "blacktwist",
+    "repo": "social-media-skills",
+    "githubUrl": "https://github.com/blacktwist/social-media-skills",
+    "displayName": "Content Calendar Sms"
+  }
+}

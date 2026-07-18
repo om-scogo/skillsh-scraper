@@ -1,0 +1,17 @@
+{
+  "skillId": "docker-compose-orchestration",
+  "source": "manutej/luxor-claude-marketplace",
+  "owner": "manutej",
+  "repo": "luxor-claude-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "manutej/luxor-claude-marketplace",
+    "skillId": "docker-compose-orchestration",
+    "name": "docker-compose-orchestration",
+    "installs": 2117,
+    "owner": "manutej",
+    "repo": "luxor-claude-marketplace",
+    "githubUrl": "https://github.com/manutej/luxor-claude-marketplace",
+    "displayName": "Docker Compose Orchestration"
+  }
+}

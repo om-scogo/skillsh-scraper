@@ -1,0 +1,17 @@
+{
+  "skillId": "trading-signal",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "trading-signal",
+    "name": "trading-signal",
+    "installs": 7597,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Trading Signal"
+  }
+}

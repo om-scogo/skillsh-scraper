@@ -1,0 +1,17 @@
+{
+  "skillId": "release-management",
+  "source": "recoupable/release-management",
+  "owner": "recoupable",
+  "repo": "release-management",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "recoupable/release-management",
+    "skillId": "release-management",
+    "name": "release-management",
+    "installs": 1568,
+    "owner": "recoupable",
+    "repo": "release-management",
+    "githubUrl": "https://github.com/recoupable/release-management",
+    "displayName": "Release Management"
+  }
+}

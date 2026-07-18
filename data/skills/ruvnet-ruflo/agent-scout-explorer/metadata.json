@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-scout-explorer",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-scout-explorer",
+    "name": "agent-scout-explorer",
+    "installs": 984,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Scout Explorer"
+  }
+}

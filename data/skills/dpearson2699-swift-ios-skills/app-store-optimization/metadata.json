@@ -1,0 +1,17 @@
+{
+  "skillId": "app-store-optimization",
+  "source": "dpearson2699/swift-ios-skills",
+  "owner": "dpearson2699",
+  "repo": "swift-ios-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dpearson2699/swift-ios-skills",
+    "skillId": "app-store-optimization",
+    "name": "app-store-optimization",
+    "installs": 1445,
+    "owner": "dpearson2699",
+    "repo": "swift-ios-skills",
+    "githubUrl": "https://github.com/dpearson2699/swift-ios-skills",
+    "displayName": "App Store Optimization"
+  }
+}

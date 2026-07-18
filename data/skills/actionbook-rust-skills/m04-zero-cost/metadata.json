@@ -1,0 +1,17 @@
+{
+  "skillId": "m04-zero-cost",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "m04-zero-cost",
+    "name": "m04-zero-cost",
+    "installs": 1378,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "M04 Zero Cost"
+  }
+}

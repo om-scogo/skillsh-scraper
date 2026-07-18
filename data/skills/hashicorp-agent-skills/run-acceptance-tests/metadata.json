@@ -1,0 +1,17 @@
+{
+  "skillId": "run-acceptance-tests",
+  "source": "hashicorp/agent-skills",
+  "owner": "hashicorp",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hashicorp/agent-skills",
+    "skillId": "run-acceptance-tests",
+    "name": "run-acceptance-tests",
+    "installs": 2337,
+    "owner": "hashicorp",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/hashicorp/agent-skills",
+    "displayName": "Run Acceptance Tests"
+  }
+}

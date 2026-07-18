@@ -1,0 +1,17 @@
+{
+  "skillId": "gke-multitenancy",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "gke-multitenancy",
+    "name": "gke-multitenancy",
+    "installs": 928,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Gke Multitenancy"
+  }
+}

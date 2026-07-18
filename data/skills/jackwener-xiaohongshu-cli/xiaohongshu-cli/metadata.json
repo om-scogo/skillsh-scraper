@@ -1,0 +1,17 @@
+{
+  "skillId": "xiaohongshu-cli",
+  "source": "jackwener/xiaohongshu-cli",
+  "owner": "jackwener",
+  "repo": "xiaohongshu-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jackwener/xiaohongshu-cli",
+    "skillId": "xiaohongshu-cli",
+    "name": "xiaohongshu-cli",
+    "installs": 1107,
+    "owner": "jackwener",
+    "repo": "xiaohongshu-cli",
+    "githubUrl": "https://github.com/jackwener/xiaohongshu-cli",
+    "displayName": "Xiaohongshu Cli"
+  }
+}

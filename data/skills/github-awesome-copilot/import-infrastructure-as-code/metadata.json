@@ -1,0 +1,17 @@
+{
+  "skillId": "import-infrastructure-as-code",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "import-infrastructure-as-code",
+    "name": "import-infrastructure-as-code",
+    "installs": 6764,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Import Infrastructure As Code"
+  }
+}

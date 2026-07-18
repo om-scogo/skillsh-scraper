@@ -1,0 +1,17 @@
+{
+  "skillId": "alibabacloud-find-skills",
+  "source": "aliyun/alibabacloud-aiops-skills",
+  "owner": "aliyun",
+  "repo": "alibabacloud-aiops-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aliyun/alibabacloud-aiops-skills",
+    "skillId": "alibabacloud-find-skills",
+    "name": "alibabacloud-find-skills",
+    "installs": 1655,
+    "owner": "aliyun",
+    "repo": "alibabacloud-aiops-skills",
+    "githubUrl": "https://github.com/aliyun/alibabacloud-aiops-skills",
+    "displayName": "Alibabacloud Find Skills"
+  }
+}

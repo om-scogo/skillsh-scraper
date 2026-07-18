@@ -1,0 +1,17 @@
+{
+  "skillId": "30x-growth-marketing-panel",
+  "source": "aradotso/marketing-skills",
+  "owner": "aradotso",
+  "repo": "marketing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/marketing-skills",
+    "skillId": "30x-growth-marketing-panel",
+    "name": "30x-growth-marketing-panel",
+    "installs": 807,
+    "owner": "aradotso",
+    "repo": "marketing-skills",
+    "githubUrl": "https://github.com/aradotso/marketing-skills",
+    "displayName": "30x Growth Marketing Panel"
+  }
+}

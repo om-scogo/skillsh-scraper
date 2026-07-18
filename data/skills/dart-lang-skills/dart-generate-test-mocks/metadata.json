@@ -1,0 +1,17 @@
+{
+  "skillId": "dart-generate-test-mocks",
+  "source": "dart-lang/skills",
+  "owner": "dart-lang",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dart-lang/skills",
+    "skillId": "dart-generate-test-mocks",
+    "name": "dart-generate-test-mocks",
+    "installs": 9396,
+    "owner": "dart-lang",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dart-lang/skills",
+    "displayName": "Dart Generate Test Mocks"
+  }
+}

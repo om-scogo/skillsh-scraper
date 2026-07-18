@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-platform-tuning-management",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "agent-platform-tuning-management",
+    "name": "agent-platform-tuning-management",
+    "installs": 2680,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Agent Platform Tuning Management"
+  }
+}

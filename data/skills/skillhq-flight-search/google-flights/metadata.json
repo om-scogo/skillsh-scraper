@@ -1,0 +1,17 @@
+{
+  "skillId": "google-flights",
+  "source": "skillhq/flight-search",
+  "owner": "skillhq",
+  "repo": "flight-search",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "skillhq/flight-search",
+    "skillId": "google-flights",
+    "name": "google-flights",
+    "installs": 2052,
+    "owner": "skillhq",
+    "repo": "flight-search",
+    "githubUrl": "https://github.com/skillhq/flight-search",
+    "displayName": "Google Flights"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "amazon-product-research",
+  "source": "nexscope-ai/amazon-skills",
+  "owner": "nexscope-ai",
+  "repo": "amazon-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nexscope-ai/amazon-skills",
+    "skillId": "amazon-product-research",
+    "name": "amazon-product-research",
+    "installs": 66751,
+    "owner": "nexscope-ai",
+    "repo": "amazon-skills",
+    "githubUrl": "https://github.com/nexscope-ai/amazon-skills",
+    "displayName": "Amazon Product Research"
+  }
+}

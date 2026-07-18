@@ -1,0 +1,17 @@
+{
+  "skillId": "open-code-review",
+  "source": "alibaba/open-code-review",
+  "owner": "alibaba",
+  "repo": "open-code-review",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alibaba/open-code-review",
+    "skillId": "open-code-review",
+    "name": "open-code-review",
+    "installs": 2175,
+    "owner": "alibaba",
+    "repo": "open-code-review",
+    "githubUrl": "https://github.com/alibaba/open-code-review",
+    "displayName": "Open Code Review"
+  }
+}

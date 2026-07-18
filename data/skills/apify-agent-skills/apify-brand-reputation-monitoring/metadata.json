@@ -1,0 +1,17 @@
+{
+  "skillId": "apify-brand-reputation-monitoring",
+  "source": "apify/agent-skills",
+  "owner": "apify",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "apify/agent-skills",
+    "skillId": "apify-brand-reputation-monitoring",
+    "name": "apify-brand-reputation-monitoring",
+    "installs": 2527,
+    "owner": "apify",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/apify/agent-skills",
+    "displayName": "Apify Brand Reputation Monitoring"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "asc-aso-audit",
+  "source": "rudrankriyam/asc-skills",
+  "owner": "rudrankriyam",
+  "repo": "asc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "rudrankriyam/asc-skills",
+    "skillId": "asc-aso-audit",
+    "name": "asc-aso-audit",
+    "installs": 1066,
+    "owner": "rudrankriyam",
+    "repo": "asc-skills",
+    "githubUrl": "https://github.com/rudrankriyam/asc-skills",
+    "displayName": "Asc Aso Audit"
+  }
+}

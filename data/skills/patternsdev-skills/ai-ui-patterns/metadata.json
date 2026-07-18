@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-ui-patterns",
+  "source": "patternsdev/skills",
+  "owner": "patternsdev",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "patternsdev/skills",
+    "skillId": "ai-ui-patterns",
+    "name": "ai-ui-patterns",
+    "installs": 813,
+    "owner": "patternsdev",
+    "repo": "skills",
+    "githubUrl": "https://github.com/patternsdev/skills",
+    "displayName": "Ai Ui Patterns"
+  }
+}

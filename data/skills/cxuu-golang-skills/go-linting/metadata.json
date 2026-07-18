@@ -1,0 +1,17 @@
+{
+  "skillId": "go-linting",
+  "source": "cxuu/golang-skills",
+  "owner": "cxuu",
+  "repo": "golang-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "cxuu/golang-skills",
+    "skillId": "go-linting",
+    "name": "go-linting",
+    "installs": 880,
+    "owner": "cxuu",
+    "repo": "golang-skills",
+    "githubUrl": "https://github.com/cxuu/golang-skills",
+    "displayName": "Go Linting"
+  }
+}

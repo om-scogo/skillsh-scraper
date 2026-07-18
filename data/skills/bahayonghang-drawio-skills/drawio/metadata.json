@@ -1,0 +1,17 @@
+{
+  "skillId": "drawio",
+  "source": "bahayonghang/drawio-skills",
+  "owner": "bahayonghang",
+  "repo": "drawio-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bahayonghang/drawio-skills",
+    "skillId": "drawio",
+    "name": "drawio",
+    "installs": 6325,
+    "owner": "bahayonghang",
+    "repo": "drawio-skills",
+    "githubUrl": "https://github.com/bahayonghang/drawio-skills",
+    "displayName": "Drawio"
+  }
+}

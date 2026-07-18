@@ -1,0 +1,17 @@
+{
+  "skillId": "nano-banana-pro-prompts-recommend-skill",
+  "source": "youmind-openlab/nano-banana-pro-prompts-recommend-skill",
+  "owner": "youmind-openlab",
+  "repo": "nano-banana-pro-prompts-recommend-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "youmind-openlab/nano-banana-pro-prompts-recommend-skill",
+    "skillId": "nano-banana-pro-prompts-recommend-skill",
+    "name": "nano-banana-pro-prompts-recommend-skill",
+    "installs": 3916,
+    "owner": "youmind-openlab",
+    "repo": "nano-banana-pro-prompts-recommend-skill",
+    "githubUrl": "https://github.com/youmind-openlab/nano-banana-pro-prompts-recommend-skill",
+    "displayName": "Nano Banana Pro Prompts Recommend Skill"
+  }
+}

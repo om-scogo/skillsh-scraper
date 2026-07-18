@@ -1,0 +1,17 @@
+{
+  "skillId": "review-pr",
+  "source": "tirth8205/code-review-graph",
+  "owner": "tirth8205",
+  "repo": "code-review-graph",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tirth8205/code-review-graph",
+    "skillId": "review-pr",
+    "name": "review-pr",
+    "installs": 862,
+    "owner": "tirth8205",
+    "repo": "code-review-graph",
+    "githubUrl": "https://github.com/tirth8205/code-review-graph",
+    "displayName": "Review Pr"
+  }
+}

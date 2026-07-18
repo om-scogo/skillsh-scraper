@@ -1,0 +1,17 @@
+{
+  "skillId": "guidelines-advisor",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "guidelines-advisor",
+    "name": "guidelines-advisor",
+    "installs": 3781,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Guidelines Advisor"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "pci-compliance",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "pci-compliance",
+    "name": "pci-compliance",
+    "installs": 7932,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Pci Compliance"
+  }
+}

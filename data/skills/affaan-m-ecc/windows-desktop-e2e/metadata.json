@@ -1,0 +1,17 @@
+{
+  "skillId": "windows-desktop-e2e",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "windows-desktop-e2e",
+    "name": "windows-desktop-e2e",
+    "installs": 1101,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Windows Desktop E2e"
+  }
+}

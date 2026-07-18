@@ -1,0 +1,17 @@
+{
+  "skillId": "weekly-digests",
+  "source": "thedotmack/claude-mem",
+  "owner": "thedotmack",
+  "repo": "claude-mem",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thedotmack/claude-mem",
+    "skillId": "weekly-digests",
+    "name": "weekly-digests",
+    "installs": 2060,
+    "owner": "thedotmack",
+    "repo": "claude-mem",
+    "githubUrl": "https://github.com/thedotmack/claude-mem",
+    "displayName": "Weekly Digests"
+  }
+}

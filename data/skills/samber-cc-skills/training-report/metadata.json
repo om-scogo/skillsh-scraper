@@ -1,0 +1,17 @@
+{
+  "skillId": "training-report",
+  "source": "samber/cc-skills",
+  "owner": "samber",
+  "repo": "cc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "samber/cc-skills",
+    "skillId": "training-report",
+    "name": "training-report",
+    "installs": 1859,
+    "owner": "samber",
+    "repo": "cc-skills",
+    "githubUrl": "https://github.com/samber/cc-skills",
+    "displayName": "Training Report"
+  }
+}

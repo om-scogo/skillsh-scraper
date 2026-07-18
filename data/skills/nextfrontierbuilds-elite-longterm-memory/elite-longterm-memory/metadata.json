@@ -1,0 +1,17 @@
+{
+  "skillId": "elite-longterm-memory",
+  "source": "nextfrontierbuilds/elite-longterm-memory",
+  "owner": "nextfrontierbuilds",
+  "repo": "elite-longterm-memory",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nextfrontierbuilds/elite-longterm-memory",
+    "skillId": "elite-longterm-memory",
+    "name": "elite-longterm-memory",
+    "installs": 2318,
+    "owner": "nextfrontierbuilds",
+    "repo": "elite-longterm-memory",
+    "githubUrl": "https://github.com/nextfrontierbuilds/elite-longterm-memory",
+    "displayName": "Elite Longterm Memory"
+  }
+}

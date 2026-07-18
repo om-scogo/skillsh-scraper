@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-job-descriptions",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "writing-job-descriptions",
+    "name": "writing-job-descriptions",
+    "installs": 1585,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Writing Job Descriptions"
+  }
+}

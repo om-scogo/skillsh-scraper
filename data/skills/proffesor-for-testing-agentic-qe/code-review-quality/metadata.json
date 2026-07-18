@@ -1,0 +1,17 @@
+{
+  "skillId": "code-review-quality",
+  "source": "proffesor-for-testing/agentic-qe",
+  "owner": "proffesor-for-testing",
+  "repo": "agentic-qe",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "proffesor-for-testing/agentic-qe",
+    "skillId": "code-review-quality",
+    "name": "code-review-quality",
+    "installs": 1402,
+    "owner": "proffesor-for-testing",
+    "repo": "agentic-qe",
+    "githubUrl": "https://github.com/proffesor-for-testing/agentic-qe",
+    "displayName": "Code Review Quality"
+  }
+}

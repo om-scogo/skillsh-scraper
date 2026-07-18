@@ -1,0 +1,17 @@
+{
+  "skillId": "upornia-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "upornia-downloader",
+    "name": "upornia-downloader",
+    "installs": 955,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Upornia Downloader"
+  }
+}

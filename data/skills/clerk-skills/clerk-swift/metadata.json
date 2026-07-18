@@ -1,0 +1,17 @@
+{
+  "skillId": "clerk-swift",
+  "source": "clerk/skills",
+  "owner": "clerk",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "clerk/skills",
+    "skillId": "clerk-swift",
+    "name": "clerk-swift",
+    "installs": 7448,
+    "owner": "clerk",
+    "repo": "skills",
+    "githubUrl": "https://github.com/clerk/skills",
+    "displayName": "Clerk Swift"
+  }
+}

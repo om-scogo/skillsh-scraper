@@ -1,0 +1,17 @@
+{
+  "skillId": "dx-devops-test-failures-analyze",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "dx-devops-test-failures-analyze",
+    "name": "dx-devops-test-failures-analyze",
+    "installs": 1320,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Dx Devops Test Failures Analyze"
+  }
+}

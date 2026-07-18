@@ -1,0 +1,17 @@
+{
+  "skillId": "code-exemplars-blueprint-generator",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "code-exemplars-blueprint-generator",
+    "name": "code-exemplars-blueprint-generator",
+    "installs": 8722,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Code Exemplars Blueprint Generator"
+  }
+}

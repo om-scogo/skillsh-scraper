@@ -1,0 +1,17 @@
+{
+  "skillId": "pathfinder",
+  "source": "thedotmack/claude-mem",
+  "owner": "thedotmack",
+  "repo": "claude-mem",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "thedotmack/claude-mem",
+    "skillId": "pathfinder",
+    "name": "pathfinder",
+    "installs": 3096,
+    "owner": "thedotmack",
+    "repo": "claude-mem",
+    "githubUrl": "https://github.com/thedotmack/claude-mem",
+    "displayName": "Pathfinder"
+  }
+}

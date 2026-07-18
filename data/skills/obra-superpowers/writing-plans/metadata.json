@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-plans",
+  "source": "obra/superpowers",
+  "owner": "obra",
+  "repo": "superpowers",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/superpowers",
+    "skillId": "writing-plans",
+    "name": "writing-plans",
+    "installs": 187067,
+    "owner": "obra",
+    "repo": "superpowers",
+    "githubUrl": "https://github.com/obra/superpowers",
+    "displayName": "Writing Plans"
+  }
+}

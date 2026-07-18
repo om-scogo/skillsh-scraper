@@ -1,0 +1,17 @@
+{
+  "skillId": "diffity-tree",
+  "source": "kamranahmedse/diffity",
+  "owner": "kamranahmedse",
+  "repo": "diffity",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "kamranahmedse/diffity",
+    "skillId": "diffity-tree",
+    "name": "diffity-tree",
+    "installs": 746,
+    "owner": "kamranahmedse",
+    "repo": "diffity",
+    "githubUrl": "https://github.com/kamranahmedse/diffity",
+    "displayName": "Diffity Tree"
+  }
+}

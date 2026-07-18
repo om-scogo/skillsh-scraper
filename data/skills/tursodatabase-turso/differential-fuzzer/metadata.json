@@ -1,0 +1,17 @@
+{
+  "skillId": "differential-fuzzer",
+  "source": "tursodatabase/turso",
+  "owner": "tursodatabase",
+  "repo": "turso",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tursodatabase/turso",
+    "skillId": "differential-fuzzer",
+    "name": "differential-fuzzer",
+    "installs": 856,
+    "owner": "tursodatabase",
+    "repo": "turso",
+    "githubUrl": "https://github.com/tursodatabase/turso",
+    "displayName": "Differential Fuzzer"
+  }
+}

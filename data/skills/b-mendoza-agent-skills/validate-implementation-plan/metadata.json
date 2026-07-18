@@ -1,0 +1,17 @@
+{
+  "skillId": "validate-implementation-plan",
+  "source": "b-mendoza/agent-skills",
+  "owner": "b-mendoza",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "b-mendoza/agent-skills",
+    "skillId": "validate-implementation-plan",
+    "name": "validate-implementation-plan",
+    "installs": 1587,
+    "owner": "b-mendoza",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/b-mendoza/agent-skills",
+    "displayName": "Validate Implementation Plan"
+  }
+}

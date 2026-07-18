@@ -1,0 +1,17 @@
+{
+  "skillId": "python-appservice-deploy",
+  "source": "microsoft/azure-skills",
+  "owner": "microsoft",
+  "repo": "azure-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/azure-skills",
+    "skillId": "python-appservice-deploy",
+    "name": "python-appservice-deploy",
+    "installs": 62622,
+    "owner": "microsoft",
+    "repo": "azure-skills",
+    "githubUrl": "https://github.com/microsoft/azure-skills",
+    "displayName": "Python Appservice Deploy"
+  }
+}

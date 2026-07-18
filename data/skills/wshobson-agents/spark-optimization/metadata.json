@@ -1,0 +1,17 @@
+{
+  "skillId": "spark-optimization",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "spark-optimization",
+    "name": "spark-optimization",
+    "installs": 8068,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Spark Optimization"
+  }
+}

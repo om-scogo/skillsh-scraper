@@ -1,0 +1,17 @@
+{
+  "skillId": "in-app-events",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "in-app-events",
+    "name": "in-app-events",
+    "installs": 1416,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "In App Events"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "gpt-researcher",
+  "source": "assafelovic/gpt-researcher",
+  "owner": "assafelovic",
+  "repo": "gpt-researcher",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "assafelovic/gpt-researcher",
+    "skillId": "gpt-researcher",
+    "name": "gpt-researcher",
+    "installs": 1467,
+    "owner": "assafelovic",
+    "repo": "gpt-researcher",
+    "githubUrl": "https://github.com/assafelovic/gpt-researcher",
+    "displayName": "Gpt Researcher"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-performance-monitor",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "agent-performance-monitor",
+    "name": "agent-performance-monitor",
+    "installs": 1002,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Agent Performance Monitor"
+  }
+}

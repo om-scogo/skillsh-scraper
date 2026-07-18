@@ -1,0 +1,17 @@
+{
+  "skillId": "phaser-gamedev",
+  "source": "chongdashu/phaserjs-tinyswords",
+  "owner": "chongdashu",
+  "repo": "phaserjs-tinyswords",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "chongdashu/phaserjs-tinyswords",
+    "skillId": "phaser-gamedev",
+    "name": "phaser-gamedev",
+    "installs": 1043,
+    "owner": "chongdashu",
+    "repo": "phaserjs-tinyswords",
+    "githubUrl": "https://github.com/chongdashu/phaserjs-tinyswords",
+    "displayName": "Phaser Gamedev"
+  }
+}

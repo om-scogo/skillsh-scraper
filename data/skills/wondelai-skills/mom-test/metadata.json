@@ -1,0 +1,17 @@
+{
+  "skillId": "mom-test",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "mom-test",
+    "name": "mom-test",
+    "installs": 2987,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "Mom Test"
+  }
+}

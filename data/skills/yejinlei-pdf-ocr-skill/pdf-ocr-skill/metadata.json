@@ -1,0 +1,17 @@
+{
+  "skillId": "pdf-ocr-skill",
+  "source": "yejinlei/pdf-ocr-skill",
+  "owner": "yejinlei",
+  "repo": "pdf-ocr-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yejinlei/pdf-ocr-skill",
+    "skillId": "pdf-ocr-skill",
+    "name": "pdf-ocr-skill",
+    "installs": 1587,
+    "owner": "yejinlei",
+    "repo": "pdf-ocr-skill",
+    "githubUrl": "https://github.com/yejinlei/pdf-ocr-skill",
+    "displayName": "Pdf Ocr Skill"
+  }
+}

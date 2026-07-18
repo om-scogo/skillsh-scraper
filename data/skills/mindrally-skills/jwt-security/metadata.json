@@ -1,0 +1,17 @@
+{
+  "skillId": "jwt-security",
+  "source": "mindrally/skills",
+  "owner": "mindrally",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "mindrally/skills",
+    "skillId": "jwt-security",
+    "name": "jwt-security",
+    "installs": 1186,
+    "owner": "mindrally",
+    "repo": "skills",
+    "githubUrl": "https://github.com/mindrally/skills",
+    "displayName": "Jwt Security"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "langchain4j-spring-boot-integration",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "langchain4j-spring-boot-integration",
+    "name": "langchain4j-spring-boot-integration",
+    "installs": 1552,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Langchain4j Spring Boot Integration"
+  }
+}

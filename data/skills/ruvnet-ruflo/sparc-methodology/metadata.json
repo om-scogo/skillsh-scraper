@@ -1,0 +1,17 @@
+{
+  "skillId": "sparc-methodology",
+  "source": "ruvnet/ruflo",
+  "owner": "ruvnet",
+  "repo": "ruflo",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ruvnet/ruflo",
+    "skillId": "sparc-methodology",
+    "name": "sparc-methodology",
+    "installs": 1001,
+    "owner": "ruvnet",
+    "repo": "ruflo",
+    "githubUrl": "https://github.com/ruvnet/ruflo",
+    "displayName": "Sparc Methodology"
+  }
+}

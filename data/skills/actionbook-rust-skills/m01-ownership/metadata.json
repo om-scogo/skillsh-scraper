@@ -1,0 +1,17 @@
+{
+  "skillId": "m01-ownership",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "m01-ownership",
+    "name": "m01-ownership",
+    "installs": 1371,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "M01 Ownership"
+  }
+}

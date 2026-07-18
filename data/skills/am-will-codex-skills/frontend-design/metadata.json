@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-design",
+  "source": "am-will/codex-skills",
+  "owner": "am-will",
+  "repo": "codex-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "am-will/codex-skills",
+    "skillId": "frontend-design",
+    "name": "frontend-design",
+    "installs": 1364,
+    "owner": "am-will",
+    "repo": "codex-skills",
+    "githubUrl": "https://github.com/am-will/codex-skills",
+    "displayName": "Frontend Design"
+  }
+}

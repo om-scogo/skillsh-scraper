@@ -1,0 +1,17 @@
+{
+  "skillId": "minimalist-review",
+  "source": "slavingia/skills",
+  "owner": "slavingia",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "slavingia/skills",
+    "skillId": "minimalist-review",
+    "name": "minimalist-review",
+    "installs": 1160,
+    "owner": "slavingia",
+    "repo": "skills",
+    "githubUrl": "https://github.com/slavingia/skills",
+    "displayName": "Minimalist Review"
+  }
+}

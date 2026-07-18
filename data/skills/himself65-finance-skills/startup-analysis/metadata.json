@@ -1,0 +1,17 @@
+{
+  "skillId": "startup-analysis",
+  "source": "himself65/finance-skills",
+  "owner": "himself65",
+  "repo": "finance-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "himself65/finance-skills",
+    "skillId": "startup-analysis",
+    "name": "startup-analysis",
+    "installs": 991,
+    "owner": "himself65",
+    "repo": "finance-skills",
+    "githubUrl": "https://github.com/himself65/finance-skills",
+    "displayName": "Startup Analysis"
+  }
+}

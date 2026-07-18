@@ -1,0 +1,17 @@
+{
+  "skillId": "session-logs",
+  "source": "steipete/clawdis",
+  "owner": "steipete",
+  "repo": "clawdis",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "steipete/clawdis",
+    "skillId": "session-logs",
+    "name": "session-logs",
+    "installs": 2983,
+    "owner": "steipete",
+    "repo": "clawdis",
+    "githubUrl": "https://github.com/steipete/clawdis",
+    "displayName": "Session Logs"
+  }
+}

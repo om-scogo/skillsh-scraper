@@ -1,0 +1,17 @@
+{
+  "skillId": "product-photography",
+  "source": "101-skills/skills",
+  "owner": "101-skills",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "101-skills/skills",
+    "skillId": "product-photography",
+    "name": "product-photography",
+    "installs": 11028,
+    "owner": "101-skills",
+    "repo": "skills",
+    "githubUrl": "https://github.com/101-skills/skills",
+    "displayName": "Product Photography"
+  }
+}

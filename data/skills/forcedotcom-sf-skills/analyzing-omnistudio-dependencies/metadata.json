@@ -1,0 +1,17 @@
+{
+  "skillId": "analyzing-omnistudio-dependencies",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "analyzing-omnistudio-dependencies",
+    "name": "analyzing-omnistudio-dependencies",
+    "installs": 1913,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Analyzing Omnistudio Dependencies"
+  }
+}

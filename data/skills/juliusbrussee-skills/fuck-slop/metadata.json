@@ -1,0 +1,17 @@
+{
+  "skillId": "fuck-slop",
+  "source": "juliusbrussee/skills",
+  "owner": "juliusbrussee",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "juliusbrussee/skills",
+    "skillId": "fuck-slop",
+    "name": "fuck-slop",
+    "installs": 1452,
+    "owner": "juliusbrussee",
+    "repo": "skills",
+    "githubUrl": "https://github.com/juliusbrussee/skills",
+    "displayName": "Fuck Slop"
+  }
+}

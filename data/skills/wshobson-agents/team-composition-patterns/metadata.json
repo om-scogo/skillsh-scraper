@@ -1,0 +1,17 @@
+{
+  "skillId": "team-composition-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "team-composition-patterns",
+    "name": "team-composition-patterns",
+    "installs": 7044,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Team Composition Patterns"
+  }
+}

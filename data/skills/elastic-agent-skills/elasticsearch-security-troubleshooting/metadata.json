@@ -1,0 +1,17 @@
+{
+  "skillId": "elasticsearch-security-troubleshooting",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "elasticsearch-security-troubleshooting",
+    "name": "elasticsearch-security-troubleshooting",
+    "installs": 1842,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Elasticsearch Security Troubleshooting"
+  }
+}

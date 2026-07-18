@@ -1,0 +1,17 @@
+{
+  "skillId": "laravel-patterns",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "laravel-patterns",
+    "name": "laravel-patterns",
+    "installs": 1125,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Laravel Patterns"
+  }
+}

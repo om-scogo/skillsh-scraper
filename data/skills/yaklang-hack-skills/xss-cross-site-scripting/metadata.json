@@ -1,0 +1,17 @@
+{
+  "skillId": "xss-cross-site-scripting",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "xss-cross-site-scripting",
+    "name": "xss-cross-site-scripting",
+    "installs": 2076,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Xss Cross Site Scripting"
+  }
+}

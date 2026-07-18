@@ -1,0 +1,17 @@
+{
+  "skillId": "tavily-map",
+  "source": "tavily-ai/skills",
+  "owner": "tavily-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tavily-ai/skills",
+    "skillId": "tavily-map",
+    "name": "tavily-map",
+    "installs": 9424,
+    "owner": "tavily-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/tavily-ai/skills",
+    "displayName": "Tavily Map"
+  }
+}

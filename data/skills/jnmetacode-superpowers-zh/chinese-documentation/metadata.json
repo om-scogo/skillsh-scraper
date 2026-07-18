@@ -1,0 +1,17 @@
+{
+  "skillId": "chinese-documentation",
+  "source": "jnmetacode/superpowers-zh",
+  "owner": "jnmetacode",
+  "repo": "superpowers-zh",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jnmetacode/superpowers-zh",
+    "skillId": "chinese-documentation",
+    "name": "chinese-documentation",
+    "installs": 940,
+    "owner": "jnmetacode",
+    "repo": "superpowers-zh",
+    "githubUrl": "https://github.com/jnmetacode/superpowers-zh",
+    "displayName": "Chinese Documentation"
+  }
+}

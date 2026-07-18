@@ -1,0 +1,17 @@
+{
+  "skillId": "cms-migration",
+  "source": "payloadcms/skills",
+  "owner": "payloadcms",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "payloadcms/skills",
+    "skillId": "cms-migration",
+    "name": "cms-migration",
+    "installs": 861,
+    "owner": "payloadcms",
+    "repo": "skills",
+    "githubUrl": "https://github.com/payloadcms/skills",
+    "displayName": "Cms Migration"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "high-output-management",
+  "source": "wondelai/skills",
+  "owner": "wondelai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wondelai/skills",
+    "skillId": "high-output-management",
+    "name": "high-output-management",
+    "installs": 762,
+    "owner": "wondelai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/wondelai/skills",
+    "displayName": "High Output Management"
+  }
+}

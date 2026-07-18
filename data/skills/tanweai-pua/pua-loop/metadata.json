@@ -1,0 +1,17 @@
+{
+  "skillId": "pua-loop",
+  "source": "tanweai/pua",
+  "owner": "tanweai",
+  "repo": "pua",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tanweai/pua",
+    "skillId": "pua-loop",
+    "name": "pua-loop",
+    "installs": 1577,
+    "owner": "tanweai",
+    "repo": "pua",
+    "githubUrl": "https://github.com/tanweai/pua",
+    "displayName": "Pua Loop"
+  }
+}

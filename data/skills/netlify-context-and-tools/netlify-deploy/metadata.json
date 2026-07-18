@@ -1,0 +1,17 @@
+{
+  "skillId": "netlify-deploy",
+  "source": "netlify/context-and-tools",
+  "owner": "netlify",
+  "repo": "context-and-tools",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "netlify/context-and-tools",
+    "skillId": "netlify-deploy",
+    "name": "netlify-deploy",
+    "installs": 1089,
+    "owner": "netlify",
+    "repo": "context-and-tools",
+    "githubUrl": "https://github.com/netlify/context-and-tools",
+    "displayName": "Netlify Deploy"
+  }
+}

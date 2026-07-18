@@ -1,0 +1,17 @@
+{
+  "skillId": "sentry-otel-exporter-setup",
+  "source": "getsentry/sentry-for-ai",
+  "owner": "getsentry",
+  "repo": "sentry-for-ai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getsentry/sentry-for-ai",
+    "skillId": "sentry-otel-exporter-setup",
+    "name": "sentry-otel-exporter-setup",
+    "installs": 1864,
+    "owner": "getsentry",
+    "repo": "sentry-for-ai",
+    "githubUrl": "https://github.com/getsentry/sentry-for-ai",
+    "displayName": "Sentry Otel Exporter Setup"
+  }
+}

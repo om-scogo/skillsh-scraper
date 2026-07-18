@@ -1,0 +1,17 @@
+{
+  "skillId": "ai-video-gen",
+  "source": "heygen-com/skills",
+  "owner": "heygen-com",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/skills",
+    "skillId": "ai-video-gen",
+    "name": "ai-video-gen",
+    "installs": 988,
+    "owner": "heygen-com",
+    "repo": "skills",
+    "githubUrl": "https://github.com/heygen-com/skills",
+    "displayName": "Ai Video Gen"
+  }
+}

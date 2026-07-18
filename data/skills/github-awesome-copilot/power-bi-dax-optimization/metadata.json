@@ -1,0 +1,17 @@
+{
+  "skillId": "power-bi-dax-optimization",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "power-bi-dax-optimization",
+    "name": "power-bi-dax-optimization",
+    "installs": 8821,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Power Bi Dax Optimization"
+  }
+}

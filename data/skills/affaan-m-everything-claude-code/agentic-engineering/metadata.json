@@ -1,0 +1,17 @@
+{
+  "skillId": "agentic-engineering",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "agentic-engineering",
+    "name": "agentic-engineering",
+    "installs": 5386,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Agentic Engineering"
+  }
+}

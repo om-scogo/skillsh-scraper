@@ -1,0 +1,17 @@
+{
+  "skillId": "exploring-data-catalog",
+  "source": "aws/agent-toolkit-for-aws",
+  "owner": "aws",
+  "repo": "agent-toolkit-for-aws",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aws/agent-toolkit-for-aws",
+    "skillId": "exploring-data-catalog",
+    "name": "exploring-data-catalog",
+    "installs": 2028,
+    "owner": "aws",
+    "repo": "agent-toolkit-for-aws",
+    "githubUrl": "https://github.com/aws/agent-toolkit-for-aws",
+    "displayName": "Exploring Data Catalog"
+  }
+}

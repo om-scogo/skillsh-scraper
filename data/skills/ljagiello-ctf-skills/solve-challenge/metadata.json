@@ -1,0 +1,17 @@
+{
+  "skillId": "solve-challenge",
+  "source": "ljagiello/ctf-skills",
+  "owner": "ljagiello",
+  "repo": "ctf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ljagiello/ctf-skills",
+    "skillId": "solve-challenge",
+    "name": "solve-challenge",
+    "installs": 5529,
+    "owner": "ljagiello",
+    "repo": "ctf-skills",
+    "githubUrl": "https://github.com/ljagiello/ctf-skills",
+    "displayName": "Solve Challenge"
+  }
+}

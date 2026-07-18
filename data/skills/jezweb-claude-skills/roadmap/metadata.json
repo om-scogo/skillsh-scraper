@@ -1,0 +1,17 @@
+{
+  "skillId": "roadmap",
+  "source": "jezweb/claude-skills",
+  "owner": "jezweb",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jezweb/claude-skills",
+    "skillId": "roadmap",
+    "name": "roadmap",
+    "installs": 874,
+    "owner": "jezweb",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/jezweb/claude-skills",
+    "displayName": "Roadmap"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "golang-testing",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "golang-testing",
+    "name": "golang-testing",
+    "installs": 1133,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Golang Testing"
+  }
+}

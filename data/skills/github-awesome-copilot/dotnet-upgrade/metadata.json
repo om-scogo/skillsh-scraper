@@ -1,0 +1,17 @@
+{
+  "skillId": "dotnet-upgrade",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "dotnet-upgrade",
+    "name": "dotnet-upgrade",
+    "installs": 9305,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Dotnet Upgrade"
+  }
+}

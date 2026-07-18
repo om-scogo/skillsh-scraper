@@ -1,0 +1,17 @@
+{
+  "skillId": "recoup-platform-build-os",
+  "source": "recoupable/skills",
+  "owner": "recoupable",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "recoupable/skills",
+    "skillId": "recoup-platform-build-os",
+    "name": "recoup-platform-build-os",
+    "installs": 810,
+    "owner": "recoupable",
+    "repo": "skills",
+    "githubUrl": "https://github.com/recoupable/skills",
+    "displayName": "Recoup Platform Build Os"
+  }
+}

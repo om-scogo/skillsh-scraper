@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-chat-send",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "gws-chat-send",
+    "name": "gws-chat-send",
+    "installs": 23406,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Gws Chat Send"
+  }
+}

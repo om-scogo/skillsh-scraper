@@ -1,0 +1,17 @@
+{
+  "skillId": "trigger-cost-savings",
+  "source": "triggerdotdev/skills",
+  "owner": "triggerdotdev",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "triggerdotdev/skills",
+    "skillId": "trigger-cost-savings",
+    "name": "trigger-cost-savings",
+    "installs": 1573,
+    "owner": "triggerdotdev",
+    "repo": "skills",
+    "githubUrl": "https://github.com/triggerdotdev/skills",
+    "displayName": "Trigger Cost Savings"
+  }
+}

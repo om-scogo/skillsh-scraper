@@ -1,0 +1,17 @@
+{
+  "skillId": "benchmark-optimization-loop",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "benchmark-optimization-loop",
+    "name": "benchmark-optimization-loop",
+    "installs": 1025,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Benchmark Optimization Loop"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "research-paper-writing",
+  "source": "master-cai/research-paper-writing-skills",
+  "owner": "master-cai",
+  "repo": "research-paper-writing-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "master-cai/research-paper-writing-skills",
+    "skillId": "research-paper-writing",
+    "name": "research-paper-writing",
+    "installs": 873,
+    "owner": "master-cai",
+    "repo": "research-paper-writing-skills",
+    "githubUrl": "https://github.com/master-cai/research-paper-writing-skills",
+    "displayName": "Research Paper Writing"
+  }
+}

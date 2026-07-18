@@ -1,0 +1,17 @@
+{
+  "skillId": "query-address-info",
+  "source": "binance/binance-skills-hub",
+  "owner": "binance",
+  "repo": "binance-skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "binance/binance-skills-hub",
+    "skillId": "query-address-info",
+    "name": "query-address-info",
+    "installs": 5468,
+    "owner": "binance",
+    "repo": "binance-skills-hub",
+    "githubUrl": "https://github.com/binance/binance-skills-hub",
+    "displayName": "Query Address Info"
+  }
+}

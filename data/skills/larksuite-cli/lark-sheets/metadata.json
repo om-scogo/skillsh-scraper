@@ -1,0 +1,17 @@
+{
+  "skillId": "lark-sheets",
+  "source": "larksuite/cli",
+  "owner": "larksuite",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "larksuite/cli",
+    "skillId": "lark-sheets",
+    "name": "lark-sheets",
+    "installs": 362685,
+    "owner": "larksuite",
+    "repo": "cli",
+    "githubUrl": "https://github.com/larksuite/cli",
+    "displayName": "Lark Sheets"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "postgresql-optimization",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "postgresql-optimization",
+    "name": "postgresql-optimization",
+    "installs": 13819,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Postgresql Optimization"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "tailwind-design-system",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "tailwind-design-system",
+    "name": "tailwind-design-system",
+    "installs": 54534,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Tailwind Design System"
+  }
+}

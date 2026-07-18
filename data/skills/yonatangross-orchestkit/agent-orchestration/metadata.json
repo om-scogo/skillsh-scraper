@@ -1,0 +1,17 @@
+{
+  "skillId": "agent-orchestration",
+  "source": "yonatangross/orchestkit",
+  "owner": "yonatangross",
+  "repo": "orchestkit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yonatangross/orchestkit",
+    "skillId": "agent-orchestration",
+    "name": "agent-orchestration",
+    "installs": 791,
+    "owner": "yonatangross",
+    "repo": "orchestkit",
+    "githubUrl": "https://github.com/yonatangross/orchestkit",
+    "displayName": "Agent Orchestration"
+  }
+}

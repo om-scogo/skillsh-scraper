@@ -1,0 +1,17 @@
+{
+  "skillId": "observability-edot-dotnet-migrate",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "observability-edot-dotnet-migrate",
+    "name": "observability-edot-dotnet-migrate",
+    "installs": 1666,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Observability Edot Dotnet Migrate"
+  }
+}

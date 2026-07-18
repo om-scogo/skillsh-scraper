@@ -1,0 +1,17 @@
+{
+  "skillId": "fusion-dependency-review",
+  "source": "equinor/fusion-skills",
+  "owner": "equinor",
+  "repo": "fusion-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "equinor/fusion-skills",
+    "skillId": "fusion-dependency-review",
+    "name": "fusion-dependency-review",
+    "installs": 1347,
+    "owner": "equinor",
+    "repo": "fusion-skills",
+    "githubUrl": "https://github.com/equinor/fusion-skills",
+    "displayName": "Fusion Dependency Review"
+  }
+}

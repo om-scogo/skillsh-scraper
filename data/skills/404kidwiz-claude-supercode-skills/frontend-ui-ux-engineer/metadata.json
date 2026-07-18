@@ -1,0 +1,17 @@
+{
+  "skillId": "frontend-ui-ux-engineer",
+  "source": "404kidwiz/claude-supercode-skills",
+  "owner": "404kidwiz",
+  "repo": "claude-supercode-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "404kidwiz/claude-supercode-skills",
+    "skillId": "frontend-ui-ux-engineer",
+    "name": "frontend-ui-ux-engineer",
+    "installs": 1986,
+    "owner": "404kidwiz",
+    "repo": "claude-supercode-skills",
+    "githubUrl": "https://github.com/404kidwiz/claude-supercode-skills",
+    "displayName": "Frontend Ui Ux Engineer"
+  }
+}

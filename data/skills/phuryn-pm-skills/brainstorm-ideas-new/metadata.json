@@ -1,0 +1,17 @@
+{
+  "skillId": "brainstorm-ideas-new",
+  "source": "phuryn/pm-skills",
+  "owner": "phuryn",
+  "repo": "pm-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "phuryn/pm-skills",
+    "skillId": "brainstorm-ideas-new",
+    "name": "brainstorm-ideas-new",
+    "installs": 2066,
+    "owner": "phuryn",
+    "repo": "pm-skills",
+    "githubUrl": "https://github.com/phuryn/pm-skills",
+    "displayName": "Brainstorm Ideas New"
+  }
+}

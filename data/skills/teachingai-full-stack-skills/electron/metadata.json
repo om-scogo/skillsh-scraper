@@ -1,0 +1,17 @@
+{
+  "skillId": "electron",
+  "source": "teachingai/full-stack-skills",
+  "owner": "teachingai",
+  "repo": "full-stack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "teachingai/full-stack-skills",
+    "skillId": "electron",
+    "name": "electron",
+    "installs": 2340,
+    "owner": "teachingai",
+    "repo": "full-stack-skills",
+    "githubUrl": "https://github.com/teachingai/full-stack-skills",
+    "displayName": "Electron"
+  }
+}

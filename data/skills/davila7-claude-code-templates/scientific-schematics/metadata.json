@@ -1,0 +1,17 @@
+{
+  "skillId": "scientific-schematics",
+  "source": "davila7/claude-code-templates",
+  "owner": "davila7",
+  "repo": "claude-code-templates",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "davila7/claude-code-templates",
+    "skillId": "scientific-schematics",
+    "name": "scientific-schematics",
+    "installs": 974,
+    "owner": "davila7",
+    "repo": "claude-code-templates",
+    "githubUrl": "https://github.com/davila7/claude-code-templates",
+    "displayName": "Scientific Schematics"
+  }
+}

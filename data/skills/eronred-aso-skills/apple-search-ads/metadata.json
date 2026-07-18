@@ -1,0 +1,17 @@
+{
+  "skillId": "apple-search-ads",
+  "source": "eronred/aso-skills",
+  "owner": "eronred",
+  "repo": "aso-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "eronred/aso-skills",
+    "skillId": "apple-search-ads",
+    "name": "apple-search-ads",
+    "installs": 1705,
+    "owner": "eronred",
+    "repo": "aso-skills",
+    "githubUrl": "https://github.com/eronred/aso-skills",
+    "displayName": "Apple Search Ads"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "senior-prompt-engineer",
+  "source": "alirezarezvani/claude-skills",
+  "owner": "alirezarezvani",
+  "repo": "claude-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "alirezarezvani/claude-skills",
+    "skillId": "senior-prompt-engineer",
+    "name": "senior-prompt-engineer",
+    "installs": 889,
+    "owner": "alirezarezvani",
+    "repo": "claude-skills",
+    "githubUrl": "https://github.com/alirezarezvani/claude-skills",
+    "displayName": "Senior Prompt Engineer"
+  }
+}

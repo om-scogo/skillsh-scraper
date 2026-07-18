@@ -1,0 +1,17 @@
+{
+  "skillId": "day1-onboarding",
+  "source": "ai-native-camp/camp-2",
+  "owner": "ai-native-camp",
+  "repo": "camp-2",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ai-native-camp/camp-2",
+    "skillId": "day1-onboarding",
+    "name": "day1-onboarding",
+    "installs": 1480,
+    "owner": "ai-native-camp",
+    "repo": "camp-2",
+    "githubUrl": "https://github.com/ai-native-camp/camp-2",
+    "displayName": "Day1 Onboarding"
+  }
+}

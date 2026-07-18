@@ -1,0 +1,17 @@
+{
+  "skillId": "app-store-review",
+  "source": "safaiyeh/app-store-review-skill",
+  "owner": "safaiyeh",
+  "repo": "app-store-review-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "safaiyeh/app-store-review-skill",
+    "skillId": "app-store-review",
+    "name": "app-store-review",
+    "installs": 896,
+    "owner": "safaiyeh",
+    "repo": "app-store-review-skill",
+    "githubUrl": "https://github.com/safaiyeh/app-store-review-skill",
+    "displayName": "App Store Review"
+  }
+}

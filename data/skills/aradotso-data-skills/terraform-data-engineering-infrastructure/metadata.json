@@ -1,0 +1,17 @@
+{
+  "skillId": "terraform-data-engineering-infrastructure",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "terraform-data-engineering-infrastructure",
+    "name": "terraform-data-engineering-infrastructure",
+    "installs": 1422,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Terraform Data Engineering Infrastructure"
+  }
+}

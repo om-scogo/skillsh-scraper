@@ -1,0 +1,17 @@
+{
+  "skillId": "sf-industry-commoncore-flexcard",
+  "source": "jaganpro/sf-skills",
+  "owner": "jaganpro",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "jaganpro/sf-skills",
+    "skillId": "sf-industry-commoncore-flexcard",
+    "name": "sf-industry-commoncore-flexcard",
+    "installs": 923,
+    "owner": "jaganpro",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/jaganpro/sf-skills",
+    "displayName": "Sf Industry Commoncore Flexcard"
+  }
+}

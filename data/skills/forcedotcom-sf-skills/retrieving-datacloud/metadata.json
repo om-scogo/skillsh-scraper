@@ -1,0 +1,17 @@
+{
+  "skillId": "retrieving-datacloud",
+  "source": "forcedotcom/sf-skills",
+  "owner": "forcedotcom",
+  "repo": "sf-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "forcedotcom/sf-skills",
+    "skillId": "retrieving-datacloud",
+    "name": "retrieving-datacloud",
+    "installs": 2012,
+    "owner": "forcedotcom",
+    "repo": "sf-skills",
+    "githubUrl": "https://github.com/forcedotcom/sf-skills",
+    "displayName": "Retrieving Datacloud"
+  }
+}

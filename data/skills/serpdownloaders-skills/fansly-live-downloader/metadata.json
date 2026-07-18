@@ -1,0 +1,17 @@
+{
+  "skillId": "fansly-live-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "fansly-live-downloader",
+    "name": "fansly-live-downloader",
+    "installs": 959,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Fansly Live Downloader"
+  }
+}

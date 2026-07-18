@@ -1,0 +1,17 @@
+{
+  "skillId": "motion-graphics",
+  "source": "heygen-com/hyperframes",
+  "owner": "heygen-com",
+  "repo": "hyperframes",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "heygen-com/hyperframes",
+    "skillId": "motion-graphics",
+    "name": "motion-graphics",
+    "installs": 103467,
+    "owner": "heygen-com",
+    "repo": "hyperframes",
+    "githubUrl": "https://github.com/heygen-com/hyperframes",
+    "displayName": "Motion Graphics"
+  }
+}

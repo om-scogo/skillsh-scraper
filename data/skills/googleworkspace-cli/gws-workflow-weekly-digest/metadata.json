@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-workflow-weekly-digest",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "gws-workflow-weekly-digest",
+    "name": "gws-workflow-weekly-digest",
+    "installs": 23385,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Gws Workflow Weekly Digest"
+  }
+}

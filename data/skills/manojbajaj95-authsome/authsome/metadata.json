@@ -1,0 +1,17 @@
+{
+  "skillId": "authsome",
+  "source": "manojbajaj95/authsome",
+  "owner": "manojbajaj95",
+  "repo": "authsome",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "manojbajaj95/authsome",
+    "skillId": "authsome",
+    "name": "authsome",
+    "installs": 2893,
+    "owner": "manojbajaj95",
+    "repo": "authsome",
+    "githubUrl": "https://github.com/manojbajaj95/authsome",
+    "displayName": "Authsome"
+  }
+}

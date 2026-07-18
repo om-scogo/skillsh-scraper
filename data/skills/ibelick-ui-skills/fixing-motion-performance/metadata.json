@@ -1,0 +1,17 @@
+{
+  "skillId": "fixing-motion-performance",
+  "source": "ibelick/ui-skills",
+  "owner": "ibelick",
+  "repo": "ui-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "ibelick/ui-skills",
+    "skillId": "fixing-motion-performance",
+    "name": "fixing-motion-performance",
+    "installs": 18712,
+    "owner": "ibelick",
+    "repo": "ui-skills",
+    "githubUrl": "https://github.com/ibelick/ui-skills",
+    "displayName": "Fixing Motion Performance"
+  }
+}

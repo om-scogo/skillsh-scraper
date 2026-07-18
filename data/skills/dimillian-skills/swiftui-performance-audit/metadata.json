@@ -1,0 +1,17 @@
+{
+  "skillId": "swiftui-performance-audit",
+  "source": "dimillian/skills",
+  "owner": "dimillian",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "dimillian/skills",
+    "skillId": "swiftui-performance-audit",
+    "name": "swiftui-performance-audit",
+    "installs": 7838,
+    "owner": "dimillian",
+    "repo": "skills",
+    "githubUrl": "https://github.com/dimillian/skills",
+    "displayName": "Swiftui Performance Audit"
+  }
+}

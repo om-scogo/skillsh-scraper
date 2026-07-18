@@ -1,0 +1,17 @@
+{
+  "skillId": "kanchi-dividend-us-tax-accounting",
+  "source": "tradermonty/claude-trading-skills",
+  "owner": "tradermonty",
+  "repo": "claude-trading-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tradermonty/claude-trading-skills",
+    "skillId": "kanchi-dividend-us-tax-accounting",
+    "name": "kanchi-dividend-us-tax-accounting",
+    "installs": 778,
+    "owner": "tradermonty",
+    "repo": "claude-trading-skills",
+    "githubUrl": "https://github.com/tradermonty/claude-trading-skills",
+    "displayName": "Kanchi Dividend Us Tax Accounting"
+  }
+}

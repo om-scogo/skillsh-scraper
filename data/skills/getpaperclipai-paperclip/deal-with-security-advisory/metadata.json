@@ -1,0 +1,17 @@
+{
+  "skillId": "deal-with-security-advisory",
+  "source": "getpaperclipai/paperclip",
+  "owner": "getpaperclipai",
+  "repo": "paperclip",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "getpaperclipai/paperclip",
+    "skillId": "deal-with-security-advisory",
+    "name": "deal-with-security-advisory",
+    "installs": 1427,
+    "owner": "getpaperclipai",
+    "repo": "paperclip",
+    "githubUrl": "https://github.com/getpaperclipai/paperclip",
+    "displayName": "Deal With Security Advisory"
+  }
+}

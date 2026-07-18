@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-workflow-file-announce",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "gws-workflow-file-announce",
+    "name": "gws-workflow-file-announce",
+    "installs": 22726,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Gws Workflow File Announce"
+  }
+}

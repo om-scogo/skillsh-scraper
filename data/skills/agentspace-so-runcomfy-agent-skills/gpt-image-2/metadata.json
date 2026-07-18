@@ -1,0 +1,17 @@
+{
+  "skillId": "gpt-image-2",
+  "source": "agentspace-so/runcomfy-agent-skills",
+  "owner": "agentspace-so",
+  "repo": "runcomfy-agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "agentspace-so/runcomfy-agent-skills",
+    "skillId": "gpt-image-2",
+    "name": "gpt-image-2",
+    "installs": 10,
+    "owner": "agentspace-so",
+    "repo": "runcomfy-agent-skills",
+    "githubUrl": "https://github.com/agentspace-so/runcomfy-agent-skills",
+    "displayName": "Gpt Image 2"
+  }
+}

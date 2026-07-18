@@ -1,0 +1,17 @@
+{
+  "skillId": "creative-market-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "creative-market-downloader",
+    "name": "creative-market-downloader",
+    "installs": 952,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Creative Market Downloader"
+  }
+}

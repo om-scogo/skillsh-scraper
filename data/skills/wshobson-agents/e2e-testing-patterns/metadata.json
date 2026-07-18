@@ -1,0 +1,17 @@
+{
+  "skillId": "e2e-testing-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "e2e-testing-patterns",
+    "name": "e2e-testing-patterns",
+    "installs": 19463,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "E2e Testing Patterns"
+  }
+}

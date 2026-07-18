@@ -1,0 +1,17 @@
+{
+  "skillId": "eval-audit",
+  "source": "hamelsmu/evals-skills",
+  "owner": "hamelsmu",
+  "repo": "evals-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hamelsmu/evals-skills",
+    "skillId": "eval-audit",
+    "name": "eval-audit",
+    "installs": 878,
+    "owner": "hamelsmu",
+    "repo": "evals-skills",
+    "githubUrl": "https://github.com/hamelsmu/evals-skills",
+    "displayName": "Eval Audit"
+  }
+}

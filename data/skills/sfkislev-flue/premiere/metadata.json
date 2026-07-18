@@ -1,0 +1,17 @@
+{
+  "skillId": "premiere",
+  "source": "sfkislev/flue",
+  "owner": "sfkislev",
+  "repo": "flue",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "sfkislev/flue",
+    "skillId": "premiere",
+    "name": "premiere",
+    "installs": 1740,
+    "owner": "sfkislev",
+    "repo": "flue",
+    "githubUrl": "https://github.com/sfkislev/flue",
+    "displayName": "Premiere"
+  }
+}

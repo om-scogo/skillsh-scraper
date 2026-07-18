@@ -1,0 +1,17 @@
+{
+  "skillId": "windows-av-evasion",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "windows-av-evasion",
+    "name": "windows-av-evasion",
+    "installs": 1913,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Windows Av Evasion"
+  }
+}

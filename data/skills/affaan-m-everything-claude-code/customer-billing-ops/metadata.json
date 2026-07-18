@@ -1,0 +1,17 @@
+{
+  "skillId": "customer-billing-ops",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "customer-billing-ops",
+    "name": "customer-billing-ops",
+    "installs": 3823,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Customer Billing Ops"
+  }
+}

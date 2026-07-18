@@ -1,0 +1,17 @@
+{
+  "skillId": "a-stock-daily-report",
+  "source": "zsxink/skills-hub",
+  "owner": "zsxink",
+  "repo": "skills-hub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zsxink/skills-hub",
+    "skillId": "a-stock-daily-report",
+    "name": "a-stock-daily-report",
+    "installs": 760,
+    "owner": "zsxink",
+    "repo": "skills-hub",
+    "githubUrl": "https://github.com/zsxink/skills-hub",
+    "displayName": "A Stock Daily Report"
+  }
+}

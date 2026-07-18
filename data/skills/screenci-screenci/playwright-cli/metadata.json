@@ -1,0 +1,17 @@
+{
+  "skillId": "playwright-cli",
+  "source": "screenci/screenci",
+  "owner": "screenci",
+  "repo": "screenci",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "screenci/screenci",
+    "skillId": "playwright-cli",
+    "name": "playwright-cli",
+    "installs": 1344,
+    "owner": "screenci",
+    "repo": "screenci",
+    "githubUrl": "https://github.com/screenci/screenci",
+    "displayName": "Playwright Cli"
+  }
+}

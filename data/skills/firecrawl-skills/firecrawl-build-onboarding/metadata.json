@@ -1,0 +1,17 @@
+{
+  "skillId": "firecrawl-build-onboarding",
+  "source": "firecrawl/skills",
+  "owner": "firecrawl",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "firecrawl/skills",
+    "skillId": "firecrawl-build-onboarding",
+    "name": "firecrawl-build-onboarding",
+    "installs": 55021,
+    "owner": "firecrawl",
+    "repo": "skills",
+    "githubUrl": "https://github.com/firecrawl/skills",
+    "displayName": "Firecrawl Build Onboarding"
+  }
+}

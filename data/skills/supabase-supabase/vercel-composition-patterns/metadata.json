@@ -1,0 +1,17 @@
+{
+  "skillId": "vercel-composition-patterns",
+  "source": "supabase/supabase",
+  "owner": "supabase",
+  "repo": "supabase",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "supabase/supabase",
+    "skillId": "vercel-composition-patterns",
+    "name": "vercel-composition-patterns",
+    "installs": 1213,
+    "owner": "supabase",
+    "repo": "supabase",
+    "githubUrl": "https://github.com/supabase/supabase",
+    "displayName": "Vercel Composition Patterns"
+  }
+}

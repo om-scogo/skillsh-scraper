@@ -1,0 +1,17 @@
+{
+  "skillId": "audit-website",
+  "source": "squirrelscan/skills",
+  "owner": "squirrelscan",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "squirrelscan/skills",
+    "skillId": "audit-website",
+    "name": "audit-website",
+    "installs": 62887,
+    "owner": "squirrelscan",
+    "repo": "skills",
+    "githubUrl": "https://github.com/squirrelscan/skills",
+    "displayName": "Audit Website"
+  }
+}

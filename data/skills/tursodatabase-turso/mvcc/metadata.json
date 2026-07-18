@@ -1,0 +1,17 @@
+{
+  "skillId": "mvcc",
+  "source": "tursodatabase/turso",
+  "owner": "tursodatabase",
+  "repo": "turso",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "tursodatabase/turso",
+    "skillId": "mvcc",
+    "name": "mvcc",
+    "installs": 857,
+    "owner": "tursodatabase",
+    "repo": "turso",
+    "githubUrl": "https://github.com/tursodatabase/turso",
+    "displayName": "Mvcc"
+  }
+}

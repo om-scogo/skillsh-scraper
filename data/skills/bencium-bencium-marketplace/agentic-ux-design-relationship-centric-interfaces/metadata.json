@@ -1,0 +1,17 @@
+{
+  "skillId": "agentic-ux-design---relationship-centric-interfaces",
+  "source": "bencium/bencium-marketplace",
+  "owner": "bencium",
+  "repo": "bencium-marketplace",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "bencium/bencium-marketplace",
+    "skillId": "agentic-ux-design---relationship-centric-interfaces",
+    "name": "agentic ux design - relationship-centric interfaces",
+    "installs": 1583,
+    "owner": "bencium",
+    "repo": "bencium-marketplace",
+    "githubUrl": "https://github.com/bencium/bencium-marketplace",
+    "displayName": "Agentic Ux Design Relationship Centric Interfaces"
+  }
+}

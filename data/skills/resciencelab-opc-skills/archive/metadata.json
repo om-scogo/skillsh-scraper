@@ -1,0 +1,17 @@
+{
+  "skillId": "archive",
+  "source": "resciencelab/opc-skills",
+  "owner": "resciencelab",
+  "repo": "opc-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "resciencelab/opc-skills",
+    "skillId": "archive",
+    "name": "archive",
+    "installs": 977,
+    "owner": "resciencelab",
+    "repo": "opc-skills",
+    "githubUrl": "https://github.com/resciencelab/opc-skills",
+    "displayName": "Archive"
+  }
+}

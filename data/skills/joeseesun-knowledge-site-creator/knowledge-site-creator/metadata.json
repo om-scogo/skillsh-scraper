@@ -1,0 +1,17 @@
+{
+  "skillId": "knowledge-site-creator",
+  "source": "joeseesun/knowledge-site-creator",
+  "owner": "joeseesun",
+  "repo": "knowledge-site-creator",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "joeseesun/knowledge-site-creator",
+    "skillId": "knowledge-site-creator",
+    "name": "knowledge-site-creator",
+    "installs": 852,
+    "owner": "joeseesun",
+    "repo": "knowledge-site-creator",
+    "githubUrl": "https://github.com/joeseesun/knowledge-site-creator",
+    "displayName": "Knowledge Site Creator"
+  }
+}

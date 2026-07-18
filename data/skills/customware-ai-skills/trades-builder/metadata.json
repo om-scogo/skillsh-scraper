@@ -1,0 +1,17 @@
+{
+  "skillId": "trades-builder",
+  "source": "customware-ai/skills",
+  "owner": "customware-ai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "customware-ai/skills",
+    "skillId": "trades-builder",
+    "name": "trades-builder",
+    "installs": 1112,
+    "owner": "customware-ai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/customware-ai/skills",
+    "displayName": "Trades Builder"
+  }
+}

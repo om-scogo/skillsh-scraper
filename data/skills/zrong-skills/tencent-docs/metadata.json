@@ -1,0 +1,17 @@
+{
+  "skillId": "tencent-docs",
+  "source": "zrong/skills",
+  "owner": "zrong",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zrong/skills",
+    "skillId": "tencent-docs",
+    "name": "tencent-docs",
+    "installs": 892,
+    "owner": "zrong",
+    "repo": "skills",
+    "githubUrl": "https://github.com/zrong/skills",
+    "displayName": "Tencent Docs"
+  }
+}

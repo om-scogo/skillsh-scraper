@@ -1,0 +1,17 @@
+{
+  "skillId": "firebase-apk-scanner",
+  "source": "trailofbits/skills",
+  "owner": "trailofbits",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "trailofbits/skills",
+    "skillId": "firebase-apk-scanner",
+    "name": "firebase-apk-scanner",
+    "installs": 3753,
+    "owner": "trailofbits",
+    "repo": "skills",
+    "githubUrl": "https://github.com/trailofbits/skills",
+    "displayName": "Firebase Apk Scanner"
+  }
+}

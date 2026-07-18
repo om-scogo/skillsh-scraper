@@ -1,0 +1,17 @@
+{
+  "skillId": "inventory-demand-planning",
+  "source": "affaan-m/ecc",
+  "owner": "affaan-m",
+  "repo": "ecc",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/ecc",
+    "skillId": "inventory-demand-planning",
+    "name": "inventory-demand-planning",
+    "installs": 1098,
+    "owner": "affaan-m",
+    "repo": "ecc",
+    "githubUrl": "https://github.com/affaan-m/ecc",
+    "displayName": "Inventory Demand Planning"
+  }
+}

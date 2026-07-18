@@ -1,0 +1,17 @@
+{
+  "skillId": "clickup",
+  "source": "civitai/civitai",
+  "owner": "civitai",
+  "repo": "civitai",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "civitai/civitai",
+    "skillId": "clickup",
+    "name": "clickup",
+    "installs": 940,
+    "owner": "civitai",
+    "repo": "civitai",
+    "githubUrl": "https://github.com/civitai/civitai",
+    "displayName": "Clickup"
+  }
+}

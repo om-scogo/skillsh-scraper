@@ -1,0 +1,17 @@
+{
+  "skillId": "project-guidelines-example",
+  "source": "affaan-m/everything-claude-code",
+  "owner": "affaan-m",
+  "repo": "everything-claude-code",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "affaan-m/everything-claude-code",
+    "skillId": "project-guidelines-example",
+    "name": "project-guidelines-example",
+    "installs": 1688,
+    "owner": "affaan-m",
+    "repo": "everything-claude-code",
+    "githubUrl": "https://github.com/affaan-m/everything-claude-code",
+    "displayName": "Project Guidelines Example"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "memory-leak-audit",
+  "source": "microsoft/vscode",
+  "owner": "microsoft",
+  "repo": "vscode",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "microsoft/vscode",
+    "skillId": "memory-leak-audit",
+    "name": "memory-leak-audit",
+    "installs": 2005,
+    "owner": "microsoft",
+    "repo": "vscode",
+    "githubUrl": "https://github.com/microsoft/vscode",
+    "displayName": "Memory Leak Audit"
+  }
+}

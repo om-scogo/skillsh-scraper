@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-review-overdue-tasks",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-review-overdue-tasks",
+    "name": "recipe-review-overdue-tasks",
+    "installs": 22198,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Review Overdue Tasks"
+  }
+}

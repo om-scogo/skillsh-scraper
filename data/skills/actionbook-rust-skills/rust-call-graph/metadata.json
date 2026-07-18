@@ -1,0 +1,17 @@
+{
+  "skillId": "rust-call-graph",
+  "source": "actionbook/rust-skills",
+  "owner": "actionbook",
+  "repo": "rust-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "actionbook/rust-skills",
+    "skillId": "rust-call-graph",
+    "name": "rust-call-graph",
+    "installs": 1287,
+    "owner": "actionbook",
+    "repo": "rust-skills",
+    "githubUrl": "https://github.com/actionbook/rust-skills",
+    "displayName": "Rust Call Graph"
+  }
+}

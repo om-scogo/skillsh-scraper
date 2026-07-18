@@ -1,0 +1,17 @@
+{
+  "skillId": "vitest",
+  "source": "antfu/skills",
+  "owner": "antfu",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "antfu/skills",
+    "skillId": "vitest",
+    "name": "vitest",
+    "installs": 27527,
+    "owner": "antfu",
+    "repo": "skills",
+    "githubUrl": "https://github.com/antfu/skills",
+    "displayName": "Vitest"
+  }
+}

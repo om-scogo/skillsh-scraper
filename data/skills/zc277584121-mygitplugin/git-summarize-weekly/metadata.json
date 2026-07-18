@@ -1,0 +1,17 @@
+{
+  "skillId": "git-summarize-weekly",
+  "source": "zc277584121/mygitplugin",
+  "owner": "zc277584121",
+  "repo": "mygitplugin",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "zc277584121/mygitplugin",
+    "skillId": "git-summarize-weekly",
+    "name": "git-summarize-weekly",
+    "installs": 1779,
+    "owner": "zc277584121",
+    "repo": "mygitplugin",
+    "githubUrl": "https://github.com/zc277584121/mygitplugin",
+    "displayName": "Git Summarize Weekly"
+  }
+}

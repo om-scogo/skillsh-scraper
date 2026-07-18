@@ -1,0 +1,17 @@
+{
+  "skillId": "gemini-agents-api",
+  "source": "google/skills",
+  "owner": "google",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/skills",
+    "skillId": "gemini-agents-api",
+    "name": "gemini-agents-api",
+    "installs": 2953,
+    "owner": "google",
+    "repo": "skills",
+    "githubUrl": "https://github.com/google/skills",
+    "displayName": "Gemini Agents Api"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "binary-protection-bypass",
+  "source": "yaklang/hack-skills",
+  "owner": "yaklang",
+  "repo": "hack-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yaklang/hack-skills",
+    "skillId": "binary-protection-bypass",
+    "name": "binary-protection-bypass",
+    "installs": 1946,
+    "owner": "yaklang",
+    "repo": "hack-skills",
+    "githubUrl": "https://github.com/yaklang/hack-skills",
+    "displayName": "Binary Protection Bypass"
+  }
+}

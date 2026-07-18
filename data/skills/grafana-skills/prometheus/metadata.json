@@ -1,0 +1,17 @@
+{
+  "skillId": "prometheus",
+  "source": "grafana/skills",
+  "owner": "grafana",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "grafana/skills",
+    "skillId": "prometheus",
+    "name": "prometheus",
+    "installs": 2126,
+    "owner": "grafana",
+    "repo": "skills",
+    "githubUrl": "https://github.com/grafana/skills",
+    "displayName": "Prometheus"
+  }
+}

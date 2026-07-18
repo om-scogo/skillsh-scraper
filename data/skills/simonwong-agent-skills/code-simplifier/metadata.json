@@ -1,0 +1,17 @@
+{
+  "skillId": "code-simplifier",
+  "source": "simonwong/agent-skills",
+  "owner": "simonwong",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "simonwong/agent-skills",
+    "skillId": "code-simplifier",
+    "name": "code-simplifier",
+    "installs": 1695,
+    "owner": "simonwong",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/simonwong/agent-skills",
+    "displayName": "Code Simplifier"
+  }
+}

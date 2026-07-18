@@ -1,0 +1,17 @@
+{
+  "skillId": "store-data-structures",
+  "source": "lobehub/lobehub",
+  "owner": "lobehub",
+  "repo": "lobehub",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "lobehub/lobehub",
+    "skillId": "store-data-structures",
+    "name": "store-data-structures",
+    "installs": 1442,
+    "owner": "lobehub",
+    "repo": "lobehub",
+    "githubUrl": "https://github.com/lobehub/lobehub",
+    "displayName": "Store Data Structures"
+  }
+}

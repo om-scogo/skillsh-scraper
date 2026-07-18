@@ -1,0 +1,17 @@
+{
+  "skillId": "snowflake-dbt-airbnb-analytics",
+  "source": "aradotso/data-skills",
+  "owner": "aradotso",
+  "repo": "data-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "aradotso/data-skills",
+    "skillId": "snowflake-dbt-airbnb-analytics",
+    "name": "snowflake-dbt-airbnb-analytics",
+    "installs": 1298,
+    "owner": "aradotso",
+    "repo": "data-skills",
+    "githubUrl": "https://github.com/aradotso/data-skills",
+    "displayName": "Snowflake Dbt Airbnb Analytics"
+  }
+}

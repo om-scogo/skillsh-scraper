@@ -1,0 +1,17 @@
+{
+  "skillId": "organization-best-practices",
+  "source": "better-auth/skills",
+  "owner": "better-auth",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "better-auth/skills",
+    "skillId": "organization-best-practices",
+    "name": "organization-best-practices",
+    "installs": 23910,
+    "owner": "better-auth",
+    "repo": "skills",
+    "githubUrl": "https://github.com/better-auth/skills",
+    "displayName": "Organization Best Practices"
+  }
+}

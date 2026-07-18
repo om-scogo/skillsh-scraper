@@ -1,0 +1,17 @@
+{
+  "skillId": "bilibili-subtitle",
+  "source": "hamsterider-m/bilibili-subtitle",
+  "owner": "hamsterider-m",
+  "repo": "bilibili-subtitle",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "hamsterider-m/bilibili-subtitle",
+    "skillId": "bilibili-subtitle",
+    "name": "bilibili-subtitle",
+    "installs": 1355,
+    "owner": "hamsterider-m",
+    "repo": "bilibili-subtitle",
+    "githubUrl": "https://github.com/hamsterider-m/bilibili-subtitle",
+    "displayName": "Bilibili Subtitle"
+  }
+}

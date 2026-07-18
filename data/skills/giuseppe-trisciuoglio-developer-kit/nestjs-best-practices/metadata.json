@@ -1,0 +1,17 @@
+{
+  "skillId": "nestjs-best-practices",
+  "source": "giuseppe-trisciuoglio/developer-kit",
+  "owner": "giuseppe-trisciuoglio",
+  "repo": "developer-kit",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "giuseppe-trisciuoglio/developer-kit",
+    "skillId": "nestjs-best-practices",
+    "name": "nestjs-best-practices",
+    "installs": 1450,
+    "owner": "giuseppe-trisciuoglio",
+    "repo": "developer-kit",
+    "githubUrl": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "displayName": "Nestjs Best Practices"
+  }
+}

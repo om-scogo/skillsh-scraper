@@ -1,0 +1,17 @@
+{
+  "skillId": "dispatching-parallel-agents",
+  "source": "obra/superpowers",
+  "owner": "obra",
+  "repo": "superpowers",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "obra/superpowers",
+    "skillId": "dispatching-parallel-agents",
+    "name": "dispatching-parallel-agents",
+    "installs": 137358,
+    "owner": "obra",
+    "repo": "superpowers",
+    "githubUrl": "https://github.com/obra/superpowers",
+    "displayName": "Dispatching Parallel Agents"
+  }
+}

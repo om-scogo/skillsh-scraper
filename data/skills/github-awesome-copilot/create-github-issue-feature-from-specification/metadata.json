@@ -1,0 +1,17 @@
+{
+  "skillId": "create-github-issue-feature-from-specification",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "create-github-issue-feature-from-specification",
+    "name": "create-github-issue-feature-from-specification",
+    "installs": 8772,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Create Github Issue Feature From Specification"
+  }
+}

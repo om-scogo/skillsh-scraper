@@ -1,0 +1,17 @@
+{
+  "skillId": "create-assistant",
+  "source": "vapiai/skills",
+  "owner": "vapiai",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "vapiai/skills",
+    "skillId": "create-assistant",
+    "name": "create-assistant",
+    "installs": 781,
+    "owner": "vapiai",
+    "repo": "skills",
+    "githubUrl": "https://github.com/vapiai/skills",
+    "displayName": "Create Assistant"
+  }
+}

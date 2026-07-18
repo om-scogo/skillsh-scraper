@@ -1,0 +1,17 @@
+{
+  "skillId": "gws-modelarmor-create-template",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "gws-modelarmor-create-template",
+    "name": "gws-modelarmor-create-template",
+    "installs": 21840,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Gws Modelarmor Create Template"
+  }
+}

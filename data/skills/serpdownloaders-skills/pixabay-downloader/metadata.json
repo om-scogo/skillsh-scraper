@@ -1,0 +1,17 @@
+{
+  "skillId": "pixabay-downloader",
+  "source": "serpdownloaders/skills",
+  "owner": "serpdownloaders",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "serpdownloaders/skills",
+    "skillId": "pixabay-downloader",
+    "name": "pixabay-downloader",
+    "installs": 995,
+    "owner": "serpdownloaders",
+    "repo": "skills",
+    "githubUrl": "https://github.com/serpdownloaders/skills",
+    "displayName": "Pixabay Downloader"
+  }
+}

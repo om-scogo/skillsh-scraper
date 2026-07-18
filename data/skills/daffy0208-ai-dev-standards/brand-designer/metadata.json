@@ -1,0 +1,17 @@
+{
+  "skillId": "brand-designer",
+  "source": "daffy0208/ai-dev-standards",
+  "owner": "daffy0208",
+  "repo": "ai-dev-standards",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "daffy0208/ai-dev-standards",
+    "skillId": "brand-designer",
+    "name": "brand-designer",
+    "installs": 1128,
+    "owner": "daffy0208",
+    "repo": "ai-dev-standards",
+    "githubUrl": "https://github.com/daffy0208/ai-dev-standards",
+    "displayName": "Brand Designer"
+  }
+}

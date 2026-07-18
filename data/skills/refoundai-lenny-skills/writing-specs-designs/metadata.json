@@ -1,0 +1,17 @@
+{
+  "skillId": "writing-specs-designs",
+  "source": "refoundai/lenny-skills",
+  "owner": "refoundai",
+  "repo": "lenny-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "refoundai/lenny-skills",
+    "skillId": "writing-specs-designs",
+    "name": "writing-specs-designs",
+    "installs": 1770,
+    "owner": "refoundai",
+    "repo": "lenny-skills",
+    "githubUrl": "https://github.com/refoundai/lenny-skills",
+    "displayName": "Writing Specs Designs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "feature-flags",
+  "source": "facebook/react",
+  "owner": "facebook",
+  "repo": "react",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "facebook/react",
+    "skillId": "feature-flags",
+    "name": "feature-flags",
+    "installs": 1034,
+    "owner": "facebook",
+    "repo": "react",
+    "githubUrl": "https://github.com/facebook/react",
+    "displayName": "Feature Flags"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "skillId": "memory-merger",
+  "source": "github/awesome-copilot",
+  "owner": "github",
+  "repo": "awesome-copilot",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "github/awesome-copilot",
+    "skillId": "memory-merger",
+    "name": "memory-merger",
+    "installs": 12635,
+    "owner": "github",
+    "repo": "awesome-copilot",
+    "githubUrl": "https://github.com/github/awesome-copilot",
+    "displayName": "Memory Merger"
+  }
+}

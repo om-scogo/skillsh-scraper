@@ -1,0 +1,17 @@
+{
+  "skillId": "agentation-self-driving",
+  "source": "benjitaylor/agentation",
+  "owner": "benjitaylor",
+  "repo": "agentation",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "benjitaylor/agentation",
+    "skillId": "agentation-self-driving",
+    "name": "agentation-self-driving",
+    "installs": 5429,
+    "owner": "benjitaylor",
+    "repo": "agentation",
+    "githubUrl": "https://github.com/benjitaylor/agentation",
+    "displayName": "Agentation Self Driving"
+  }
+}

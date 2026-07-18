@@ -1,0 +1,17 @@
+{
+  "skillId": "naver-shopping-search",
+  "source": "nomadamas/k-skill",
+  "owner": "nomadamas",
+  "repo": "k-skill",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "nomadamas/k-skill",
+    "skillId": "naver-shopping-search",
+    "name": "naver-shopping-search",
+    "installs": 2266,
+    "owner": "nomadamas",
+    "repo": "k-skill",
+    "githubUrl": "https://github.com/nomadamas/k-skill",
+    "displayName": "Naver Shopping Search"
+  }
+}

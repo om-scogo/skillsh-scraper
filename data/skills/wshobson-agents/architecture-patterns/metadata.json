@@ -1,0 +1,17 @@
+{
+  "skillId": "architecture-patterns",
+  "source": "wshobson/agents",
+  "owner": "wshobson",
+  "repo": "agents",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "wshobson/agents",
+    "skillId": "architecture-patterns",
+    "name": "architecture-patterns",
+    "installs": 19091,
+    "owner": "wshobson",
+    "repo": "agents",
+    "githubUrl": "https://github.com/wshobson/agents",
+    "displayName": "Architecture Patterns"
+  }
+}

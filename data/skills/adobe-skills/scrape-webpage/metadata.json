@@ -1,0 +1,17 @@
+{
+  "skillId": "scrape-webpage",
+  "source": "adobe/skills",
+  "owner": "adobe",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "adobe/skills",
+    "skillId": "scrape-webpage",
+    "name": "scrape-webpage",
+    "installs": 1065,
+    "owner": "adobe",
+    "repo": "skills",
+    "githubUrl": "https://github.com/adobe/skills",
+    "displayName": "Scrape Webpage"
+  }
+}

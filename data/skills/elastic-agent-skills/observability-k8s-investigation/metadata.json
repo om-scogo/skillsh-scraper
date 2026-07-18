@@ -1,0 +1,17 @@
+{
+  "skillId": "observability-k8s-investigation",
+  "source": "elastic/agent-skills",
+  "owner": "elastic",
+  "repo": "agent-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "elastic/agent-skills",
+    "skillId": "observability-k8s-investigation",
+    "name": "observability-k8s-investigation",
+    "installs": 955,
+    "owner": "elastic",
+    "repo": "agent-skills",
+    "githubUrl": "https://github.com/elastic/agent-skills",
+    "displayName": "Observability K8s Investigation"
+  }
+}

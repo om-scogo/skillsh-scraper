@@ -1,0 +1,17 @@
+{
+  "skillId": "recipe-batch-invite-to-event",
+  "source": "googleworkspace/cli",
+  "owner": "googleworkspace",
+  "repo": "cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "googleworkspace/cli",
+    "skillId": "recipe-batch-invite-to-event",
+    "name": "recipe-batch-invite-to-event",
+    "installs": 22184,
+    "owner": "googleworkspace",
+    "repo": "cli",
+    "githubUrl": "https://github.com/googleworkspace/cli",
+    "displayName": "Recipe Batch Invite To Event"
+  }
+}

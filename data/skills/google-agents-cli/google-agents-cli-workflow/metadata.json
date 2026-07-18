@@ -1,0 +1,17 @@
+{
+  "skillId": "google-agents-cli-workflow",
+  "source": "google/agents-cli",
+  "owner": "google",
+  "repo": "agents-cli",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "google/agents-cli",
+    "skillId": "google-agents-cli-workflow",
+    "name": "google-agents-cli-workflow",
+    "installs": 53685,
+    "owner": "google",
+    "repo": "agents-cli",
+    "githubUrl": "https://github.com/google/agents-cli",
+    "displayName": "Google Agents Cli Workflow"
+  }
+}

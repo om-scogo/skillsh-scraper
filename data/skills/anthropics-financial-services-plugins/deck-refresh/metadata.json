@@ -1,0 +1,17 @@
+{
+  "skillId": "deck-refresh",
+  "source": "anthropics/financial-services-plugins",
+  "owner": "anthropics",
+  "repo": "financial-services-plugins",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "anthropics/financial-services-plugins",
+    "skillId": "deck-refresh",
+    "name": "deck-refresh",
+    "installs": 781,
+    "owner": "anthropics",
+    "repo": "financial-services-plugins",
+    "githubUrl": "https://github.com/anthropics/financial-services-plugins",
+    "displayName": "Deck Refresh"
+  }
+}

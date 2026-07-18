@@ -1,0 +1,17 @@
+{
+  "skillId": "blueprinter",
+  "source": "yofine/skills",
+  "owner": "yofine",
+  "repo": "skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "yofine/skills",
+    "skillId": "blueprinter",
+    "name": "blueprinter",
+    "installs": 930,
+    "owner": "yofine",
+    "repo": "skills",
+    "githubUrl": "https://github.com/yofine/skills",
+    "displayName": "Blueprinter"
+  }
+}

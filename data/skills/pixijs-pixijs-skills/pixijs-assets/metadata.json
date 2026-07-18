@@ -1,0 +1,17 @@
+{
+  "skillId": "pixijs-assets",
+  "source": "pixijs/pixijs-skills",
+  "owner": "pixijs",
+  "repo": "pixijs-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "pixijs/pixijs-skills",
+    "skillId": "pixijs-assets",
+    "name": "pixijs-assets",
+    "installs": 2737,
+    "owner": "pixijs",
+    "repo": "pixijs-skills",
+    "githubUrl": "https://github.com/pixijs/pixijs-skills",
+    "displayName": "Pixijs Assets"
+  }
+}

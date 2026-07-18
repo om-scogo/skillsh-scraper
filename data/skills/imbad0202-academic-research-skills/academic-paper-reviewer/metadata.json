@@ -1,0 +1,17 @@
+{
+  "skillId": "academic-paper-reviewer",
+  "source": "imbad0202/academic-research-skills",
+  "owner": "imbad0202",
+  "repo": "academic-research-skills",
+  "resolved_from": "skills.json",
+  "origin": {
+    "source": "imbad0202/academic-research-skills",
+    "skillId": "academic-paper-reviewer",
+    "name": "academic-paper-reviewer",
+    "installs": 5945,
+    "owner": "imbad0202",
+    "repo": "academic-research-skills",
+    "githubUrl": "https://github.com/imbad0202/academic-research-skills",
+    "displayName": "Academic Paper Reviewer"
+  }
+}
